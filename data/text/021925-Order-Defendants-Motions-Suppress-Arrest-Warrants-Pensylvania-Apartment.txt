@@ -1,0 +1,349 @@
+NO,
+FEB192025FILED
+PMAM
+INTHEDISTRICT COURTOFTHEFOURTHJUDICIAL DISTRICFQRr TRIPPLE ClerkByANNAMEYER
+THESTATEOFIDAHO,INANDFORTHECOUNTYOFADADEPUTY
+AdaCountyCaseNo.CR01-24-31665
+ORDERONDEFENDANT'S MOTIONS
+TOSUPPRESS RE:ARREST
+WARRANTS, PENNSYLVANIA
+WARRANTS, APARTMENT WARRANT
+ANDIDAHOWARRANT TOSEARCH
+PERSONSTATEOFIDAHO,
+Plaintiff,
+BRYANC.KOHBERGER,
+Defendant.V
+I.INTRODUCTION
+Defendant ischargedwithonecountofBurglary andfourcountsofMurderintheFirst
+Degreeinconnection withthestabbing deathsoffourUniversity ofIdahostudents intheearly
+morning hoursofNovember 13,2022.OnDecember 30,2022,hewasarrested pursuant toa
+warrantathisparent'shomeinPennsylvania. Atthetimeashisarrest,Pennsylvania authorities
+executed searchwarrants forDefendant's person,hisvehicleandhisparents'home.Aroundthe
+sametime,afifthwarrantforasearchofDefendant's Pullman, Washington apartment was
+issuedbyaWashington magistrate. AfterDefendant wastransported backtoIdaho,law
+enforcement obtained asixthwarrantforasearchofDefendant's person.
+Through sixdifferent motions,' Defendant seekssuppression ofevidence gathered bylaw
+enforcement throughthesewarrants onseveralgrounds. Hisarguments foreachmotionhave
+largelybeendisposed ofthroughtheCourt'scontemporaneously-filed orders."Stillremaining,
+1
+MotiontoSuppress re:Pennsylvania SearchWarrantforI19Lamsden Dr.,Abrightsville, PAandStatements
+Made(Nov.14,2024);MotiontoSuppress re:ArrestWarrant(Nov.14,2024);MotiontoSuppress re:Pennsylvania
+SearchWarrantforWhiteHyundaiElantraBearingVIN:SNPDH4AE6FH579860 (Nov.14,2024);Motionto
+Suppress re:Pennsylvania SearchWarrantforMr.Kohberger's Person(Nov.14,2024);MotiontoSuppress re:
+SearchWarrantforMr.Kohberger's Person(Nov.14,2024),and;MotiontoSuppress re:SearchWarrantfor
+Defendant's Apartment (Nov.14,2024).
+2InsofarasDefendant arguesthesixwarrants atissueareinvalidunderFranksv.Delaware, 438U.S.154(1978)
+duetoclaimsofrecklessly orintentionally falseoromittedmaterial information and/orbecausetheywerebasedon
+lawenforcement's allegedly unconstitutional useofInvestigative GeneticGenealogy (IGG),thesearguments were
+addressed intheCourt'sOrderonDefendant's MotiontoSuppress re:GeneticInformation andOrderon
+Defendant's MotionforFranksHearing, enteredcontemporaneously herewith. Defendant alsoarguesthesix
+warrants mustbeexcisedofanyinformation obtained throughpriorillegalsearches, referencing hisother
+contemporaneously-filed suppression motiens. However, theCourtdidnotfindanypriorsearches tobeillegal.See,however, is:1)whethersuppression iswarranted duetolawenforcement's failuretoknock-and-
+announce inexecuting warrants attheKohberger residence, and;2)whetherDefendant's post-
+arreststatements aresuppressible asfruitofthepoisonous treeand/orduetoaMiranda'
+violation.
+Asuppression hearingontheportionofDefendant's motionsatissueinthisOrder*was
+heldonJanuary24,2025,duringwhichtheCourtreceivedtestimony fromDetective Corporal
+BrettPayneandDetective Lawrence Mowery, bothfromtheMoscowPoliceDepartment. The
+Courtfoundbothdetectives tobecredibleandreliable.Following argument, theCourttookthe
+matterunderadvisement. TheCourtfindssuppression isnotwarranted because: 1)exigent
+circumstances excusedtheabbreviated knock-and-announce, and;2)Defendant hasnot
+established aMirandaviolation.
+Il.STANDARD
+Thestandard ofreviewofamotiontosuppress isbifurcated. Thepowertoassessthe
+credibility ofwitnesses, resolvefactualconflicts, weighevidence, anddrawfactualinferences is
+vestedinthetrialcourt.Statev.Valdez-Molina, 127Idaho102,106,897P.2d993,997(1995).
+Atrialcourt'srulingonamotiontosuppress evidence combines theissueoflawandfact,and
+thetrialcourt'sfactualfindingswillnotbeoverturned unlesstheyareclearlyerroneous. Statev.
+Conant,143Idaho797,799,153P.3d477,479(2007).Whenadecisiononamotiontosuppress
+ischallenged, theapplication ofconstitutional principles tothefactsfoundwillbefreely
+reviewed. Statev.Veneroso, 138Idaho925,928,71P.3d1072,1075(2003).
+OrderonDefendant's MotionstoSuppress re:AT&T,Google,USB,AppleandAmazon. TheCourtincorporates
+hereinitsrulingsinthethreereferenced orders,whicheffectively disposes ofallofDefendant's suppression motions
+atissueexceptfortheaportionofthemotionregarding "Pennsylvania SearchWarrantfor119Lamsden Dr.,
+Abrightsville, PAandStatements Made."
+5
+Mirandav.Arizona,384U.S.436(1966).
+4Evidence andargument ontheFranksmotionandIGGmotionwereheardonJanuary23,2025.Thebalanceof
+motionstosuppress wastakenupthefollowing day.
+2FINDINGS OFFACT®
+OnNovember 13,2022,anofficerfromtheMoscowPoliceDepartment responded toa
+residence locatedat1122KingRoadinMoscow, Idahowherehediscovered thebodiesof
+Madison Mogen,KayleeGoncalves, EthanChapin,andXanaKernodle. Eachappeared tohave
+beenstabbedtodeath.Theinvestigation thatensuedwasamulti-agency affairinvolving
+members oftheMoscowPoliceDepartment, theIdahoStatePoliceandtheFBI,amongothers.
+Defendant, whowasaPh.D.studentatWashington StateUniversity inPullman, Washington,
+emerged asasuspectintheinvestigation.
+OnoraroundDecember 16,2022,Defendant lefthisPullmanapartment anddrovetohis
+parents'homelocatedat119Lamsden DriveinAlbrightsville, Pennsylvania, wherehe
+remained. OnoraboutDecember 28,2022,theFBIandMoscowPoliceDepartment requested
+assistance fromthePennsylvania StatePolice("PSP")intheirinvestigation; specifically, in
+obtaining andexecuting warrants.® Aspartofthisassistance, PSPreviewed reportsandaffidavits
+prepared bytheMoscowPoliceDepartment, including aprobable causestatement prepared by
+Detective BrettPayneoutlining thecircumstances ofthecrimeandtheinvestigation todate.
+OnDecember 29,2022,acriminalcomplaint andprobable causeorderwerefiledinthis
+actionandtheLatahCountymagistrate issuedawarrantforDefendant's arrest.See,Def'sExh.
+BtoLamsden Motion.Thesameday,PSPappliedforandobtained threesearchwarrants froma
+Pennsylvania magistrate: 1)for119Lamsden Drive;2)forDefendant's person,and;3)for
+Defendant's vehicle,whichwasbelievedtobeparkedinthegarageof119Lamsden Drive.
+Thesesearchwarrants weresupported bytheAffidavitofProbable CauseofTrooperJustinLeri,
+towhichwasattached Detective Payne'sprobable causestatement. See,Def'sExh.Ato
+Lamsden Motion.Laterthatday,PSPreceived thesignedarrestwarrantissuedbytheLatah
+Countymagistrate.
+LateintheeveningofDecember 29,2022,PSPanditsSpecialEmergency Response
+Team("SERT'")prepared fortheexecution ofthewarrants. Detective Paynewaspresentbriefly
+5TheCourt'sfindingsarebasedonsuppression hearingtestimony provided byDetectives PayneandMoweryas
+weilasthefollowing documentary evidence: Defendant's ExhibitsAandBinsupportofhisMotiontoSuppress re:
+Pennsylvania SearchWarrantfor119Lamsden Dr.,Abrightsville, PAandStatements Made(Nov.14,2024)
+("Lamsden Motion"); State'sExhibitsS-1throughS-6toObjection toMotiontoSuppress re:Pennsylvania Search
+Warrantfor119Lamsden Dr.,Abrightsville, PAandStatements Made(Dec.6,2024)("Lamsden Objection").
+6Priortothispoint,investigators hadbeensurveilling 119Lamsden andhadobserved Defendant walkingnearthe
+residence intheearlymorning hoursofDecember 27,2024.
+3toobservethefinalpreparations, butthendeparted toprepareforDefendant's arrivalatthePSP
+policestation.ItwasDetective Payne'sunderstanding thatPSPandSERTwerepreparing fora
+knock-and-announce entry.
+Duringtheirfinalpreparations, SERTsniperssetanumbrella aroundtheresidence to
+monitoranyactivitythereinwhileahelicopter monitored fromoverhead intheeventDefendant
+exitedtheresidence. See,State'sExh.S-5toLamsden Objection. At12:33a.m.,snipers
+observed akitchenlightturnonandsawataller,young,whitemalewearingablackhoodie
+standing neartheglassslidingdoorleadingouttothedeck.At12:40a.m.,thesamepersonwas
+seenagain.Thistime,officerswereabletopositively identifythepersonasDefendant. Jd;see
+also,State'sExh.S-4toLamsden Objection. At12:55a.m.,thelightturnedoninthegarage
+whereDefendant's vehiclewasbelievedtobeparked.At1:03a.m.,lightsflashedinthegarage
+asifthevehiclewasbeinglockedorunlocked byakeyfob.At1:09a.m.,Defendant wasseenin
+thekitchenofthehome,thistimewearingrubberglovesandhandling aplasticbaggie.Jd.
+Basedontheseobservations, lawenforcement believedDefendant waspotentially
+destroying evidence fromthevehiclethatwasrelatedtothehomicides.' Lawenforcement was
+alsoawarethatDefendant possessed aGlockhandgun, prompting aconcernoverofficersafety
+dueto"[Defendant's] heightened mentalstateofawareness orthreatlevelofpolicepossibly
+trackinghim."See,State'sExh.S-5toLamsden Objection. Thus,lawenforcement madethe
+decisiontoshortentheknockandannounce whenexecuting thewarrants.
+Atapproximately 1:14a.m.,SERTmadeannouncements fromabearcat® parkedinthe
+driveway oftheresidence. Immediately following announcements, SERTeffectuated aforced
+entryintotheresidence. Defendant wasarrested withoutincidentinabedroom. Hisvehiclewas
+locatedandsecuredinthegarage.
+Onceapprehended, Defendant washandcuffed andplacedinapolicevehicle.See,State's
+Exh.S-6toLamsden Objection. Hewasnotifiedthathewasinapolicevehicleandbeingaudio
+7AssetforthinDetective Payne'sprobable causestatement accompanying thesearchwarrantaffidavitforthethree
+Pennsylvania warrants, itwasbelieved Defendant drovehisvehicleto1112KingRoad,committed thehomicides
+andthenfledinhisvehicle.See,Def'sExh.AtoLamsden Motion.Thus,whenlawenforcement waspreparing to
+executethePennsylvania warrants, theywereawaretherewaspotentially evidence ofthecrimestillinsidethe
+vehicle.
+8Abearcatisanarmored vehicleusedinSWAToperations.
+4andvideorecorded, whichheacknowledged. Whileawaitingtransport, Defendant informed law
+enforcement thathehadanunloaded Glock22handgun intheresidence byhisbed.
+Duringtransport, Defendant engaged insmailtalkwiththeaccompanying officers.When
+Defendant expressed atonepointthathewantedtoknowwhatwasgoingonwithhisarrest,law
+enforcement toldhiminvestigators weregoingtospeaktohimatthestationaboutthesituation.
+Thedetailsoftheinvestigation werenotdiscussed withDefendant. Oncetheyarrivedatthe
+station,Defendant wasescorted intotheprocessing roomtoawaitinterview withDetective
+Payne,whichoccurred tenminuteslater.Defendant wastheninformed ofhisMirandarightsand
+aninterview subsequently began.
+IV.CONCLUSIONS OFLAW
+TherearetwoissuesbeforetheCourt:1)whetherlawenforcement failedtocomplywith
+theknock-and-announce ruleinexecuting thewarrants at119Lamsden, and;2)whether
+Defendant's post-arrest statements aresuppressible asfruitofthepoisonous treeand/orduetoa
+Mirandaviolation. TheStatecontends lawenforcement's abbreviated knock-and-announce was
+justifiedbyexigentcircumstances and,further,Defendant's statements arenotsuppressible since
+thereisnopoisonous treeandbecausehehasnotdemonstrated anyincriminating statements
+weremadewhileunderinterrogation. TheStateiscorrect.
+A.LawEnforcement DidNotViolateDefendant's RightsinExecuting the
+Pennsylvania Warrants.
+1. Applicable law
+Defendant contends thatlawenforcement's failuretofullycomplywiththeknock-and-
+announce ruleinexecuting thePennsylvania warrants violatedhisrightsunderthePennsylvania
+and/orIdahoConstitutions." Whilehecontends Idaholawshouldbeappliedtolaw
+enforcement's actionsunderaconflictsoflawanalysis, herecognizes atthesametimethat
+"thereisverylittledaylight" between IdahoandPennsylvania lawontheissue.Likewise, the
+Statenotestherearelittlesubstantive difference between thetwoonknock-and-announce and,
+therefore, doesnottakeapositiononwhatlawshouldapply.TheCourtfindsitunnecessary to
+choosewhatlawshouldapplygiventheirvirtualidenticality.
+°Defendant isnotasserting hisFourthAmendment rightswereviolated. Thoughnotcitedbyeitherparty,thisis
+likelybecausetheUnitedStatesSupreme Courthasheldthataviolation oftheFFourthAmendment's knock-and-
+announce requirement doesnotrequiresuppression ofevidence. Hudsonv.Michigan, 547U.S.586(2006).
+5Idaho'sknock-and-announce statutesrequirepolicetoannounce theirpresence, purpose
+andauthority beforeentering someone's house.I.C.§§19-4409!° and19-611.!! These
+requirements arealsoimposed byArticleI,§17oftheIdahoConstitution. Statev.Rauch,99
+Idaho586,593,586P.2d671,678(1978).InRauch,however, theIdahoSupreme Courtadopted
+anexception totheruleforexigentcircumstances. /d.at590,586P.2dat675.WhiletheCourt
+cautioned thatsuchexigencies aretobedetermined ona"casebycase"bases,itdidsetforth
+"general circumstances" underwhichexigentcircumstances maybefound,including: "(1)a
+reasonable beliefthatcompliance witha'knockandannounce' statutewouldresultinthe
+destruction ofevidence, or(2)areasonable beliefthatcompliance wouldplacetheofficerin
+peril."Jd.Inaddition, theCourtsetforthsixfactorstoconsider whendetermining whether
+exigentcircumstances exist:
+(1)thegravityorviolentnatureoftheoffensewithwhichthesuspectistobe
+charged; (2)whetherthesuspectisreasonably believedtobearmed;(3)aclear
+showingofprobable cause;(4)astrongreasontobelievethesuspectisinthe
+premises tobeentered; (5)thelikelihood thatthesuspectwillescapeifnotswiftly
+apprehended; (6)thepeaceful circumstances oftheentry.
+Id.at591,586P.2dat676(citingDormanv.UnitedStates,435F.2d385,392(D.C.Cir.1970).
+TheCourtfurtherexplained that"exigentcircumstances" couldinclude"thoseimmediate
+circumstances whereadefendant maybearmed,whereevidence maybeeasilyandimmediately
+destroyed, whereadefendant mayescapeorwhereadefendant hasengaged infurtiveconduct."
+Id.Onceitisdetermined adefendant's rightshavebeenviolatedbypoliceentryintoaresidence,
+suppression ofevidence resulting fromtheentryisrequired underIdaho'sexclusionary rule./d.
+at594,586P.2dat679.
+Pennsylvania's knock-and-announce ruleissetforthininitscriminalrules'?andis
+imposed underArticleI,§8ofPennsylvania's Constitution prohibiting unreasonable searches
+101.C.§19-4409: "Theofficermaybreakopenanyouterorinnerdoororwindowofahouse,oranypartofahouse,
+oranything therein,toexecutethewarrant, if,afternoticeofhisauthority andpurpose, heisrefusedadmittance."
+"T.C.§19-611:"Tomakeanarrest,iftheoffenseisafelony,aprivateperson,ifanypublicoffense,apeaceofficer,
+maybreakopenthedoororwindowofthehouseinwhichthepersontobearrested is,orinwhichthereis
+reasonable groundforbelieving himtobe,afterhavingdemanded admittance andexplained thepurposeforwhich
+admittance isdesired."
+Rule207,Pa.R.Crim.P.: "A)Alawenforcement officerexecuting asearchwarrantshall,beforeentry,give,or
+makereasonable efforttogive,noticeoftheofficer'sidentity,authority, andpurposetoanyoccupant ofthe
+premises specified inthewarrant, unlessexigentcircumstances requiretheofficer'simmediate forcibleentry.(B)
+6andseizures. Commonwealth. v.Carlton,701A.2d143,148(Pa.1997).Pennsylvania courts
+recognize fourexigentcircumstances justifying dispensing withtherule:"1.theoccupants
+remainsilentafterrepeated knocking andannouncing; 2.thepolicearevirtuallycertainthatthe
+occupants ofthepremises alreadyknowtheirpurpose; 3.thepolicehavereasontobelievethat
+anannouncement priortoentrywouldimperiltheirsafety;[or]4.thepolicehavereasonto
+believethatevidence isabouttobedestroyed." Commonwealth v.Frederick, 124A.3d748,755
+(Pa.Super.Ct.2015).Thesecircumstances areviewedunderanobjective standard, lookingonly
+tothefactsandcircumstances withwhichtheofficersarefacedatthetimetheyactontheir
+decisiontodispense withknockandannounce. Commonwealth v.Walker,874A.2d667,673
+(Pa.Super.Ct.2005).AsinIdaho,violation ofPennsylvania's knock-and-announce
+requirements resultsinsuppression. /d.
+Asappliedtothefactshere,therearenosubstantive differences between theknock-and-
+announce standards underIdaholawandPennsylvania law.Consequently, theCourtneednot
+determine whatchoiceoflawapplies.
+2.Exigencies excusedlawenforcement's fullcompliance withknockand
+announce.
+Itisundisputed thatlawenforcement executed anabbreviated knock-and-announce prior
+toentryinto119Lamdsen. According totheState,however, compliance wasexcusedbyexigent
+circumstances; namely,lawenforcement's beliefDefendant wasdestroying evidence ofthe
+crimeandthatcompliance withknockandannounce wouldhaveplacedtheofficers'safetyin
+jeopardy. Defendant arguesthesearenottrueexigencies. Henotesthathewassurveilled bylaw
+enforcement priortotheexecution ofthewaranandthereisnoevidence hewasseenwith
+weapons.
+Suchofficershallawaitaresponse forareasonable periodoftimeafterthisannouncement ofidentity,authority, and
+purpose, unlessexigentcircumstances requiretheofficer'simmediate forcibleentry.(C)Iftheofficerisnotadmitted
+aftersuchreasonable period,theofficermayforciblyenterthepremises andmayuseasmuchphysicalforceto
+effectentrythereinasisnecessary toexecutethesearch."
+13Defendant contends thatinthedayspriortotheexecution ofthewarrants, lawenforcement hadseenDefendant
+goforrunsaroundhisparents'neighborhood. Giventheseobservations, Defendant positsthattherewas"noreason"
+toarresthiminsidethehouse.Lamsden Motion,p.10.However, Defendant citedtonoevidence oflaw
+enforcement's observations inthisregard.Theonlyevidence thisCourtcouldlocateisfromthesearchwarrant
+application forthePennsylvania warrants, wherePSPTrooperLeristatesthat"Investigators beganphysical
+surveillance oftheproperty andareaof119Lamsden Drive,Chestnuthill Township, andintheearlymorning hours
+ofTuesday, December 27,2022,observed BryanKOHBERGER walkingnearhisresidence." Exh.A,p.9to
+Lamsden Motion.
+7Infurtherance ofhisargument, Defendant citestoStatev.Ramos,wheretheIdahoCourt
+ofAppealsheldthattheexecuting officers'beliefthatthehomecontained largeamounts of
+marijuana wasnotalonesufficient tojustifytheofficers'breaking downthedoorfiveseconds
+afterknocking andannouncing. 142Idaho628,632-33,130P.3d116,1170-71 (Ct.App.2005).
+Sucharule,theCourtobserved, wouldimpermissibly createablanketexception totheknock-
+and-announce rule,whichRauschsoughttoavoid.TheCourtfurtherfoundthattheofficers'
+exposure inapproaching thehomedidnotjustifytheviolation, observing thatnearlyall
+residential homeshaveexposed frontaspects.Id.
+Defendant alsoreliesonCommonwealth v.Kitchener, whereaPennsylvania courtfound
+exigentcircumstances whereofficerswereexecuting anarrestwarrantuponafugitivewitha
+historyforviolence, apropensity forfleeingfrompoliceandwhowasreputedto"likeguns,
+machine guns,inparticular." 506A.2d941,944(Pa.Super.Ct.1986).Theofficersknockedand
+announced, heardrunningfootsteps withintheresidence and,believing themanwastryingto
+escapeorarmhimself,forciblyenteredthehome./d.Thecourtfoundthat,giveneverything the
+officersknewpriortoexecuting thewarrant, theforcibleentrywasjustified. Jd.
+Defendant pointsoutthat,unlikeinKitchener, lawenforcement hadnoknowledge that
+Defendant hadapriorcriminalhistory,areputation forviolenceorwasagunaficionado. They
+didnotseehimwithaweaponand,therefore, therewasnoreasonable basistofearfortheir
+safety.Atmost,heargues,lawenforcement hadnon-descript fearssuchasthosepresented in
+Ramos.
+Therearetwoinfirmities inDefendant's argument, however. First,heentirelyignoresthe
+destruction ofevidence exigency, whichiswhatlawenforcement reliedupongreatlyin
+dispensing withtheknock-and-announce requirement here.Theevidence demonstrates that
+whilepreparing toexecutethewarrants, lawenforcement identified Defendant intheearly
+morning hoursasheturnedonalightinthekitchenandthenproceeded intothegaragewherehis
+vehiclewasbelieved tobeparked.Lawenforcement wasawarethatDefendant wassuspected of
+havingdriventhatvehicleduringthecommission ofthehomicides andknewitcouldcontain
+evidence. Lawenforcement thensawvehiclelightsflashinthegarage,asifavehiclewasbeing
+unlocked orlocked.Immediately afterwards, theysawDefendant againinthekitchenwearing
+rubberglovesandhandling aplasticbaggie.Further,itwas1:09a.m.inthemorning, atime
+whenmostpeoplewouldnotberemoving itemsfromtheircarwithrubbergloves.These
+8observations gaverisetothereasonable beliefthat,perhapsawareoflawenforcement's
+surveillance, Defendant wasdestroying orsecreting evidence ofthecrimes.
+Second,compounding theconcernofthepotential destruction ofevidence, therewasan
+equallycompelling concernthataknock-and-announce couldposeaseriousdangertolaw
+enforcement. Lawenforcement hadreviewed theinvestigation reportsandprobable cause
+statements provided byIdahodetectives. Theexecuting officersknewDefendant-based on
+compelling evidence wasbelievedtohaveorchestrated anunprovoked andexceptionally brutal
+quadruple homicide withaknife.Theyhadinformation hewasinpossession ofaGlock
+handgun. Theyknewhewasintheresidence, awake,potentially awareoflawenforcement's
+presence andpotentially destroying evidence orperhapsretrieving hisgunoraweaponfromthe
+vehicle.Hisvehiclewasinthegaragenearby,thusgivinghimameansofquickescape.While
+priortoallegedly killingfourpeople Defendant maynothavehadanextensive criminalhistory
+orgeneralreputation forviolenceasdidthedefendant inKitchener, itdoesnotmeanlaw
+enforcement's safetyconcerns wereunreasonable givenwhattheyknew.Whenthese
+circumstances arecollectively considered, theCourtfindslawenforcement waswell-justified in
+makinganabbreviated announcement andforcedentry.Thus,suppression isnotwarranted.
+B.Defendant HasNotEstablished HeWasInterrogated WhenHeMade
+Unidentified Statements.
+Defendant nextarguesanystatements hemadetolawenforcement priortobeing
+Mirandized mustbesuppressed, eitherasfruitsofthepoisonous treeorasaMirandaviolation.
+Havingdetermined theexecution ofthewarrants at119Lamsden wasvalid,thequestion is
+whethertherewasaMirandaviolation. TheCourtfindstherewasnot.
+Pursuant toMirandaanditsprogeny, toprotecttheFifthAmendment privilege against
+compulsory self-incrimination, "policemustinformindividuals oftheirrighttoremainsilentand
+theirrighttocounsel,eitherretained orappointed, beforeundertaking acustodial interrogation."
+Statev.Silver,155Idaho29,31,304P.3d304,306(Ct.App.2013)(citingMiranda, 384U.S.at
+444).Theterm"interrogation" includes"notonlyexpressquestioning butalsoits'functional
+equivalent.'" Statev.Salato,137Idaho260,267,47P.3d763,770(Ct.App.2001)(citing
+RhodeIslandv.Innis,446U.S.291,300-01(1980)."Thefunctional equivalent ofinterrogation
+includes'anywordsoractionsonthepartofthepolice(otherthanthosenormally attendant to
+arrestandcustody) thatthepoliceshouldknowarereasonably likelytoelicitanincriminating
+9response."" /d.(quoting/nnis,446U.S.at301).Custodyisdetermined by"whether thereisa
+formalarrestorrestraint onfreedom ofmovement ofthedegreeassociated withaformalarrest."
+Statev.Huffaker, 160Idaho400,374P.3d563,567-68(2016)(quotingCalifornia v.Beheler,
+463U.S.1121,1125(1983)).
+TheStatedoesnotdisputeDefendant wasincustodywhenfirstdetained. However, there
+isnoevidence beforetheCourtthatDefendant wasinterrogated atanypointfromhisarrestto
+thetimehewasformallyinterviewed byDetective Payne,atwhichpointhewasMirandized.
+Thesoleevidence isthatDefendant engaged insmalltalkwithofficers,withtheonlyexception
+beingwhenhebrieflyaskedabouthisarrestandwastoldthatinvestigators weregoingtospeak
+tohimatthestationaboutthesituation. Voluntary orspontaneous statements (orquestions)
+unprompted byinterrogation falloutsidethescopeofMiranda. Statev.Huffaker, 160Idaho400,
+407,374P.3d563,570(2016).Consequently, thereisnobasisforsuppression.
+V.CONCLUSION
+Basedontheforegoing. theCourtDENIESthefollowing:
+eDefendant's MotiontoSuppress re:Pennsylvania SearchWarrantfor119Lamsden Dr.,
+Abrightsville, PAandStatements Made(Nov.14,2024);
+eDefendant's MotiontoSuppress re:ArrestWarrant(Nov.14,2024);MotiontoSuppress
+re:Pennsylvania SearchWarrantforWhiteHyundaiElantraBearingVIN:
+SNPDH4AE6FH579860 (Nov.14,2024);
+eDefendant's MotiontoSuppress re:Pennsylvania SearchWarrantforMr.Kohberger's
+Person(Nov.14,2024);
+eDefendant's MotiontoSuppress re:SearchWarrantforMr.Kohberger's Person(Nov.
+14,2024),and;
+eDefendant's MotiontoSuppress re:SearchWarrantforDefendant's Apartment (Nov.14,
+2024).
+ITISSOORDERED.
+DATEDthis ofFebruary, 2025.
+enHipp
+DistrictJudge
+10CERTIFICATE OFMAILING
+HEREBYCERTIFYthatonthis dayofFebruary, 2025,|causeda
+trueandcorrectcopyoftheaboveandforegoing instrument tobemailed,postage
+prepaid, orhand-delivered, to:
+WilliamW.Thompson, Jr.
+AshleyJennings
+LATAHCOUNTY PROSECUTING ATTORNEY
+paservice@latahcountyid.qov
+JefferyNye
+DEPUTYATTORNEY GENERAL
+Jeff.nye@aq.idaho.qov
+AnneTaylor
+ATTORNEY FORDEFENDANT
+info@annetaylorlaw.com
+ElisaC.Massoth
+ATTORNEY FORDEFENDANT
+emassoth@kmrs.net
+'JayLogsdon
+KOOTENAI COUNTY PUBLICDEFENDER
+jay.foqgsdon@snd.idaho.qov
+TRENT
+Clerkofthé.District
+By:
+€DeputyGotrtClerk
++ >
+ORDER

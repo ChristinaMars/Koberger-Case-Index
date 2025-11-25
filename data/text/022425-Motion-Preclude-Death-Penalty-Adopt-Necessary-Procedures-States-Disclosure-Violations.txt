@@ -1,0 +1,684 @@
+DEFENDANT’S MOTION TO PRECLUDE THE DEATH PENALTY  
+AND ADOPT OTHER NECESSARY PROCEDURES DUE TO THE  
+STATE’S NUMEROUS DISCLOSURE VIOLATIONS      Page 1 Anne Taylor Law, PLLC 
+Anne C. Taylor, Attorney at Law 
+PO Box 2347 
+Coeur d’Alene, Idaho 83816 
+Phone: (208) 512-9611 
+iCourt Email: info@annetaylorlaw.com 
+  
+Elisa G. Massoth, PLLC 
+Attorney at Law  
+P.O. Box 1003 
+Payette, Idaho 83661 
+Phone: (208) 642-3797; Fax: (208)642-3799 
+  
+Bicka Barlow  
+Pro Hac Vice  
+2358 Market Street 
+San Francisco, CA 94114 
+Phone: (415) 553-4110 
+  
+Assigned Attorney:  
+Anne C. Taylor, Attorney at Law, Bar Number: 5836 
+Elisa G. Massoth, Attorney at Law, Bar Number: 5647 
+Bicka Barlow, Attorney at Law, CA Bar Number: 178723 
+Jay W. Logsdon, First District Public Defender, Bar Number: 8759 
+ 
+ 
+IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE  
+STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA  
+ 
+ 
+CASE NUMBER CR01 -24-31665 
+ 
+ 
+DEFENDANT’S MOTION TO 
+PRECLUDE THE DEATH PENALTY 
+AND ADOPT OTHER NECESSARY 
+PROCEDURES DUE TO THE STATE’S 
+NUMEROUS DISCLOSURE 
+VIOLATIONS  
+ 
+ 
+ 
+ 
+COMES NOW , Bryan C. Kohberger, by and through his attorneys of record, and 
+respectfully requests that this Court remedy the State’s failure to comply with its obligations under 
+the state and federal constitutions, state law, the rules of the Supreme Court of Idaho, and the STATE OF IDAHO,  
+ 
+                                   Plaintiff,  
+ 
+V. 
+ 
+BRYAN C. KOHBERGER,  
+ 
+                                   Defendant.  Electronically Filed
+2/24/2025 5:30 PM
+Fourth Judicial District, Ada County
+Trent Tripple, Clerk of the Court
+By: Jennifer Keyes, Deputy ClerkDEFENDANT’S MOTION TO PRECLUDE THE DEATH PENALTY  
+AND ADOPT OTHER NECESSARY PROCEDURES DUE TO THE  
+STATE’S NUMEROUS DISCLOSURE VIOLATIONS      Page 2  scheduling order of this Court. The State has failed to provide expert disclosures that are specific 
+enough to understand what testimony and discovery it intends to rely on, depriving Mr. Kohberger  
+of the ability to conduct independent review and investigation of the evidence it will rely on. 
+Additionally, as counsel has previously stated, the discovery in this case has been provided in a manner that is as though the State took tens of thousands of documents , photos, and video clips  
+and shook them up in a snow globe. While defense counsel has made herculean efforts to review 
+the discovery provided, there is no possible way that all of the discovery—which is equivalent  to 
+68,000 copies of the  Encyclopedia Brittanica
+1—can be reviewed prior to the trial date . Indeed, a 
+defense expert informed counsel  it would require 3 additional years to review  all of  the discovery 
+from the 67 electronic devices  and digital data  alone . By providing discovery in this manner, the 
+State is failing to comply with their obligations  under Brady v. Maryland, 373 U.S. 83 (1963), 
+Giglio v. United States , 405 U.S. 150 (1972), Kyles v. Whitley, 514 U.S. 419 (1995); State v. 
+Lankford, No. 35617, 2016 Ida. LEXIS 212 (July 25, 2016), and Grube v. State , 134 Idaho 24 
+(2000). These cases require the prosecution to provide exculpatory and impeaching information to the defense, including any information that would tend to mitigate the punishment, even if it is not constitutionally material, in a manner and timeframe that it could be reasonably relied upon in preparing for trial. As discussed in this Motion, in cases with enormous amounts of electronic data, the prosecution does not meet that  standard by providing discovery in a manner that effectively 
+buries exculpatory, impeachment, and mitigation information.  
+Timely and meaningful disclosure is indispensable to the effectuation of the right to a fair 
+trial, due process, effective assistance of counsel, and the right to be free from cruel and unusual 
+punishment, pursuant to the 6th, 8th, and 14th Amendments to the United States Const itution and 
+Sections 6 and 13 of Article I of the Constitution of the State of Idaho.  
+ 
+1 A single  Encyclopedia Brittanica contains more than 30 volumes.  DEFENDANT’S MOTION TO PRECLUDE THE DEATH PENALTY  
+AND ADOPT OTHER NECESSARY PROCEDURES DUE TO THE  
+STATE’S NUMEROUS DISCLOSURE VIOLATIONS      Page 3  Mr. Kohberger requests that the Court exclude evidence and testimony that the State has 
+not yet provided in adequate expert disclosures. An accompanying Motion in Limine has been 
+filed regarding the specifics of this evidence;  the details are not repeated herein but incorporated 
+by reference. Exclusion of that evidence, however, is insufficient to cure the whole of the prejudice 
+to Mr. Kohberger. Like other trial courts  around the country, t his Court must also (1) order the 
+prosecution to provide a detailed index of documents it intends to rely on as well as an index of 
+Brady information and (2) preclude the death penalty at the upcoming trial  in order to meet the 
+constitutional standards of due process and a fair trial .  Mr. Kohberger acknowledges this motion 
+requests preclusion of the death penalty as one of the remedies after this court’s ordered deadline.  
+However, good cause exists for this filing.  The State has produced an enormous amount of disorganized data, continues to provide discovery past their deadline, refuses to provide requested supplemental discovery
+2 and has failed to abide by expert disclosure rule and order.   
+ 
+TABLE OF CONTENTS  
+RELEVANT FACTUAL BACKGROUND ................................................................................ 4 
+ARGUMENT  ................................................................................................................................. 6 
+I. The Prosecution’s Discovery Obligations under the Federal and Idaho Constitutions 
+and Idaho Law. .............................................................................................................................. 6 
+A. The Prosecution Has a Constitutional Duty to Identify, Preserve, and Disclose 
+Exculpatory Information. ......................................................................................................... 7 
+B. The State Suppresses Exculpatory Evidence when It Does Not Timely Disclose this 
+Evidence.  ................................................................................................................................. 8 
+ 
+2 Mr. Kohberger has litigated the state’s identification of him through its IGG investigation.  
+Multiple discovery requests, motions to compel have been heard.  During his Motion to Suppress 
+Mr. Kohberger learned new information relating to procedures and protocol, laboratory 
+information about its work, and additional investigation that took place.  He promptly requested the same through discovery.  His request resulted in the State acknowledging it withheld 
+information sought, an d a refusal to provide it.  The state further promised some discovery which 
+has not yet arrived but overall said Mr. Kohberger was too late to get the information.  Mr. 
+Kohberger has filed a motion in limine  to exclude IGG.  Those arguments are incorporated but 
+not repeated herein.  DEFENDANT’S MOTION TO PRECLUDE THE DEATH PENALTY  
+AND ADOPT OTHER NECESSARY PROCEDURES DUE TO THE  
+STATE’S NUMEROUS DISCLOSURE VIOLATIONS      Page 4 C. Mitigating Evidence Is Material when It “May Well” Have Been Consequential to a 
+Jury’s Deliberations on Punishment. ....................................................................................... 9 
+D. The Obligation to Disclose Exculpatory Evidence Extends beyond what the Prosecutors 
+Are Personally Aware Of and Beyond Four Walls of a Prosecutor’s Office; It Applies to Federal Law Enforcement Officers, State Lab Technicians, and other State Actors.  ........... 10 
+E. Idaho Criminal Rule 16(a) Requires the Timely Disclosure of Exculpatory Evidence. 12 
+F. The Idaho Rules of Professional Conduct Require the Timely Disclosure of Exculpatory 
+Evidence.  ............................................................................................................................... 12 
+II. The Prosecution Has Turned Over Mountains of Unorganized Electronically Stored Data 
+That Defense Counsel Cannot Possibly Review Prior to Trial. .................................................... 13 
+III. Example: the State Has Not Timely Produced Indexed or Identifiable Portions of Contents 
+Relating to the 67 Electronic Devices other digital data  it Intends to Rely On. ............................ 15 
+IV. Reviewing the Discovery is Only the Beginning of Defense Counsel’s Obligations; the 
+Defense Must Have Time and Opportunity to Conduct Independent Investigation of the State’s 
+Evidence.  ....................................................................................................................................... 20 
+V. This Is a Capital Case and Heightened Due Process Applies.  ........................................... 22 
+VI. Mr. Kohberger Has Been Prejudiced by the State’s Failure to Fulfill Its Disclosure 
+Obligations and Judicial Remedy Is Required. ............................................................................. 23 
+1. Preclude Experts and Testimony Not Properly and Timely Disclosed by the State. ..... 24 2. Require the State to Provide a “Hot Documents” Index of Information it Intends to Rely on,  As Well As Brady/Giglio Evidence, in Accordance with The Minimum Standards for 
+Voluminous Electronic Discovery. ........................................................................................ 24 
+3. Preclude the Death Penalty as a Potential Sentencing Option.  ...................................... 25 
+ 
+ 
+RELEVANT FACTUAL BACKGROUND 
+Mr. Kohberger has consistently demanded that the prosecution comply with its obligations 
+under the state and federal constitutions to provide exculpatory and impeaching information to the 
+defense, as well as any information that would tend to mitigate the punishment. The defense has filed more than 20 supplemental requests for discovery, specifying evidence the State has failed to turn over.   
+The State has turned over more than 68 terabytes of data. That much data is the equivalent 
+of 68,000 copies of the Encyclopedia Britannica. See Elizabeth Stafford, Pretrial Discovery of DEFENDANT’S MOTION TO PRECLUDE THE DEATH PENALTY  
+AND ADOPT OTHER NECESSARY PROCEDURES DUE TO THE  
+STATE’S NUMEROUS DISCLOSURE VIOLATIONS      Page 5  Electronically Stored Information in Federal Criminal Cases , MICH. BAR J. 20, 22 (Mar. 2013) 
+(explaining that 1- 2 terabytes equal 1,000- 2,000 copies of Encyclopedia Britannica ); see also 
+United States v. Cotterman, 709 F.3d 952, 964 (9th Cir. 2013) (“The average 400–gigabyte laptop 
+hard drive can store over 200 million pages —the equivalent of five floors of a typical academic 
+library.”). Put another way, “ one gigabyte of text files will average over 677,000 text file pages 
+and over 100,000 pages of email files.”  United States v. Salyer , CR. S -10-0061 LKK (GGH), 5 n.3 
+(E.D. Cal. Aug. 2, 2010). One terabyte contains 1000 gigabytes. Thus, 68 terabytes of text files 
+will average more than  46,000,000,000 text pages or nearly 7 ,000,000,000 pages of email files.  
+The discovery that has been provided includes  more than 13,000 photographs, more than 
+15,000 video clips from businesses and more than 8,000 video clips from residences. It also includes more than 60+ digital devices  and digital data  and search warrant data, including cell 
+phones and laptops from Mr. Kohberger, the victims, alternate suspects, and various other individuals who knew the victims. While the State has had access to many dozens or even hundreds of detectives and investigators from multiple law enforcement agencies including the FBI, in addition to the use of expensive AI and technological programs, to facilitate production and review 
+of this massive amount of discovery, the defense team consists of three attorneys, a mitigation specialist , and thr ee investigator s. There is no way, even thr ough the greatest of due diligence, that 
+the defense can independently review all of this discovery.  
+In providing discovery, the State has not provided it in a searchable format, has not 
+provided detail ed logs and indexes that would facilitate the defense’s review of the evidence , and 
+has not provided an index of Brady evidence or evidence that may be relevant to the defense.  
+Additionally, t he Court set an expert disclosure deadline that passed more  than one month 
+ago. While the defense complied, the State provided vague disclosures that  failed to identify  
+opinions that experts would provide or detail the facts and  evidence they would rely on for those DEFENDANT’S MOTION TO PRECLUDE THE DEATH PENALTY  
+AND ADOPT OTHER NECESSARY PROCEDURES DUE TO THE  
+STATE’S NUMEROUS DISCLOSURE VIOLATIONS      Page 6 opinions. For example, the State’s expert disclosure listed three alleged experts who would testify 
+relating to the 67 electronic devices , digital data, and search warrant return  data as provided in 
+discovery; the scope of that evidence is so broad that a defense expert estimated it would take more 
+than 3 years to review. The State did not identify any actual opinions it intends to elicit about these 
+devices  and failed to identify any portions of the data that would be presented or relied upon. Well 
+after t he disclosure deadline, the State turned over a report stating that examinations of the devices 
+are ongoing, which only heightens the prejudice to Mr. Kohberger and further depletes his time to conduct any independent review or evaluation of the S tate’s evidence. This is only one of many 
+disclosures in which the State failed to identify what opinion the expert would testify to and failed 
+to point to specific evidence or discovery that would be relied upon. Moreover, even after this 
+Court told the State that its “job was not done” with its expert disclosures, the State produced a 
+circular argument blaming the defense in its rebuttal disclosures about the electronics, digital data  
+and third party warrants. No additional opinions, clarifications, or specifics were provided.  And finally, Mr. Kohberger requested additional discovery, related to IGG, after he learned of it’s 
+existence for the first time in his Motion to Suppress.  The State acknowledge it had undisclosed information but refused, in part, to provide it, and promised, in part, to provide some information.  No discovery has not been disclosed.  (See also, Mr. Kohberger’s Motion in Limine to Exclude IGG,)  As discussed below, the State has gained a tactical advantage that cannot be remedied now, 
+and therefore this Court must take affirmative steps to put Mr. Kohberger back on equal ground.    
+ 
+ARGUMENT  
+I. The Prosecution ’s Discovery Obligations under the Federal and Idaho Constitutions 
+and Idaho Law.  
+ 
+Both the Federal and Idaho Constitutions, as well as Idaho law, require that the prosecution 
+turn over any materials to the defense which may help the accused, either by negating the guilt, DEFENDANT’S MOTION TO PRECLUDE THE DEATH PENALTY  
+AND ADOPT OTHER NECESSARY PROCEDURES DUE TO THE  
+STATE’S NUMEROUS DISCLOSURE VIOLATIONS      Page 7 mitigating punishment, or impeaching the State’s witnesses. See Brady v. Maryland, 373 U.S. 83 
+(1963); Kyles v. Whitley , 514 U.S. 419 (1995); State v. Lankford, No. 35617, 2016 Ida. LEXIS 212 
+(July 25, 2016); Grube v. State , 134 Idaho 24 (2000); I.C.R. 16(a).  
+A. The Prosecution Has a Constitutional Duty to Identify, Preserve, and Disclose Exculpatory 
+Information.  
+ Under the Due Process Clause of the Fourteenth Amendment to the U.S. Constitution and 
+Article I, § 13 of the Idaho Constitution, criminal defendants are entitled to proceedings that “comport 
+with prevailing notions of fundamental fairness.” California v. Trombetta, 467 U.S. 479, 485 (1984). 
+These notions of fundamental fairness require that a defendant be provided with evidence favorable to the defense. See, e.g., Brady , 373 U.S. at  87. Accordingly, the State violates a defendant’s due 
+process rights whenever the State suppresses evidence that “is material either to guilt or to punishment, irrespective of the good faith or bad faith of the prosecution.” Grube , 134 Idaho at 27.  
+The prosecutor’s duty to produce this material is self-executing: she must turn over Brady 
+material regardless of whether the defense has made a specific request. United States v. Bagley , 
+473 U.S. 667, 682 (1985). The good faith or bad faith of the prosecutor is not relevant to the Brady  
+inquiry. See Giglio v. United States , 405 U.S. 150, 154 (1972) (“Whether the nondisclosure was a 
+result of negligence or design, it is the responsibility of the prosecutor. The prosecutor’s office is an entity and as such it is the spokesman for the Government”). The duty exists even if the defense conceivably might have access to the information independently. See,  e.g., United States v. Shaffer , 
+789 F.2d 682, 690 (9th Cir. 1986) (non- disclosure of government witness’ paid informant status 
+not absolved even if defendant might have uncovered it through independent sources; tapes disclosed to co- defendant not effectively disclosed to defendant beca use “trial strategies of co -
+defendants often conflict”).   DEFENDANT’S MOTION TO PRECLUDE THE DEATH PENALTY  
+AND ADOPT OTHER NECESSARY PROCEDURES DUE TO THE  
+STATE’S NUMEROUS DISCLOSURE VIOLATIONS      Page 8 B. The State Suppresses Exculpatory Evidence when It Does Not Timely Disclose this 
+Evidence.  
+To comply with their constitutional obligations, the State must disclose exculpatory 
+evidence in time for its effective use at trial. See, e.g., Bagley , 473 U.S. at  676 (assessing 
+materiality based on the impact of “effective” use of the exculpatory evidence); United States v. 
+Coppa, 267 F.3d 132, 135 (2d Cir. 2001) (“With respect to when  the prosecution must make a 
+disclosure required by Brady, the law also appears to be settled.  Brady  material must be disclosed 
+in time for its effective use at trial or at a plea proceeding.”) (emphasis in original) (internal citations omitted). When the State fails to produce exculpatory evidence in time for its use at trial, the St ate has suppressed the evidence in violation of a defendant’s due process rights. See, e.g. , 
+United States v. Beasley , 576 F.2d 626 (5th Cir. 1978) (finding that the government suppressed 
+exculpatory evidence by failing to timely produce statement of prosecution witness that differed from trial testimony).  
+Additionally, when exculpatory materials have been disclosed too late for their effective 
+use at trial, the untimely disclosure implicates a defendant’s constitutional right to the effective assistance of counsel under the Sixth Amendment to the U.S. Constitution and Article 1, § 13 of the Idaho Constitution. The right to the timely disclosure of favorable evidence “guarantees an accused sufficient time to investigate and evaluate the evidence in preparation for trial.” Moreno v. Commonwealth, 392 S.E.2d 836, 417 (Va. App. 1990). In addition to allowing for full 
+investigation which could lead to more favorable or exonerating evidence, the timely disclosure of Brady  material can alert defendants to viable pre- trial challenges, such as suppression of evidence. 
+United States v. Gamez -Orduno, 235 F.3d 453, 455 (9th Cir. 2000) (holding that Brady  was 
+violated in the pretrial context by suppression of a report that would have demonstrated Fourth Amendment standing to challenge a search).  DEFENDANT’S MOTION TO PRECLUDE THE DEATH PENALTY  
+AND ADOPT OTHER NECESSARY PROCEDURES DUE TO THE  
+STATE’S NUMEROUS DISCLOSURE VIOLATIONS      Page 9 Idaho Criminal Rule 16(a), the Idaho Rules of Professional Conduct, the ABA Rules of 
+Professional Conduct, and Brady  progeny all require timely  disclosure of discovery materials, 
+meaning prosecutors must turn over information at the earliest feasible opportunity. See I.C.R. 
+16(a) (“As soon as practicable following the filing of charges against the accused”); Idaho Rules 
+of Prof’l Conduct R. 3.8(d) (mandating “timely disclosure to the defense”); ABA Rules of Prof’l Conduct R. 3.8(d) (mandating “timely disclosure to the defense”).  
+C. Mitigating Evidence Is Material when It “May Well” Have Been Consequential to a Jury’s 
+Deliberations on Punishment.  
+In death penalty cases, Brady  includes information that may not exculpate but that nonetheless 
+mitigates punishment. See, e.g., Cone v. Bell , 556 U.S. 449, 475 (2009) (remanding for resentencing 
+so jury could consider suppressed evidence relating to defendant's drug addiction incurred as a result of honorable military service). As such, even when evidence is not probative at all regarding a defendant’s guilt or innocence —or even when the evidence is more likely to support a finding of guilt 
+during the first  phase of a capital trial —the evidence may still be Brady  material if it could lead to 
+lesser punishment. As the Supreme Court has emphasized, while “[e]vidence that is material to guilt will often be material for sentencing purposes as well, the converse is not always true.” Id.  at 474.  
+As such, when the State has elected to seek the death penalty, the Supreme Court has required 
+a lesser showing of materiality to establish a Brady  violation; a sentence will be reversed when the 
+cumulative impact of the evidence “may well” have been material to the jury’s sentencing decision. See id.  at 475 (vacating Cone’s sentence because the cumulative impact of the missing witness 
+statements, police teletypes and interview notes regarding Cone’s drug use “may well” have been material to the jury’s sente ncing deliberations, even though they were not material to the insanity 
+defense in the guilt -innocence phase).  DEFENDANT’S MOTION TO PRECLUDE THE DEATH PENALTY  
+AND ADOPT OTHER NECESSARY PROCEDURES DUE TO THE  
+STATE’S NUMEROUS DISCLOSURE VIOLATIONS      Page 10 D. The Obligation to Disclose Exculpatory Evidence Extends beyond what the Prosecutors 
+Are Personally Aware Of and Beyond Four Walls of a Prosecutor’s Office ; It Applies to 
+Federal Law Enforcement Officers, State Lab Technicians, and other State Actors.  
+ T he prosecution’s obligation to preserve and disclose exculpatory evidence does not turn 
+on whether the prosecutor knows of the evidence . See State v. Avelar , 132 Idaho 775, 781 (1999)  
+(“The duty of disclosure enunciated  in Brady  is an obligation of not just the individual prosecutor 
+assigned  to the case,  but of all the government agents  having a significant role in investigating  and 
+prosecuting the offense.”).  Thus, t he prosecutor is constitutionally obligated to actively investigate 
+and preserve potentially exculpatory evidence. S ee, e.g. , Commonwealth of North Mariana Islands 
+v. Bowie , 243 F.3d 1109, 1117 (9th Cir. 2001) (“[A] bad faith failure to collect potentially 
+exculpatory evidence would violate the due process clause…due process requires law 
+enforcement…to gather and to collect evidence in those cases in which the police themselves by their conduct indicate that the evidence could form a basis for exonerating the defendant.”). The 
+prosecution “may  not be excused  from  disclosing what  it does not know but could have 
+learned .” Carriger v. Stewart , 132 F.3d 463, 480 (9th Cir. 1997) ( en banc ) (interna l citation  
+omitted)  (emphasis  added). Additionally, the prosecution may not delegate  the job of determining  
+what  evidence must be turned over to the defense,  but instead  must affirmatively  seek out all 
+relevant  information from  everyone involved in an investigation. Kyles , 514 U.S. at 438 
+(explaining that it is the prosecutor’s duty to discharge the government’s Brady  responsibility  and 
+therefore a prosecutor will not be excused  for failing  to turn over information  that was known to 
+the police).   
+Given this obligation, it is obvious that Brady  extends well beyond the four walls  of a 
+prosecutor’s office.  Because  Brady  does not require  bad faith on the part of the prosecution, the 
+State’s  obligation is an affirmative  duty to learn  of, and then to disclose,  exculpatory evidence  in DEFENDANT’S MOTION TO PRECLUDE THE DEATH PENALTY  
+AND ADOPT OTHER NECESSARY PROCEDURES DUE TO THE  
+STATE’S NUMEROUS DISCLOSURE VIOLATIONS      Page 11 the custody of other members  of the prosecution team,  as well as any other state actors  involved 
+in the case.   
+Therefore,  a prosecutor’s Brady  obligation extends to exculpatory information  obtained or 
+possessed  by any federal  or investigative  agency  with involvement in a case,  including: the Federal  
+Bureau  of Investigation, United  States v. Zuno- Arce, 44 F.3d 1420, 1427 (9th Cir. 1995) 
+(explaining that a federal  prosecutor is “deemed  to have knowledge of and access  to anything in 
+the custody or control of any federal  agency  participating  in the same investigation  of the 
+defendant.”);  state lab technicians,  see In re Brown , 17 Cal. 4th 873, cert. denied , 525 U.S. 978 
+(1998) (reversing death  penalty  conviction for prosecution’s failure  to disclose forensic  crime  lab 
+worksheet showing possible drugs which  could have affected  defendant’s  mental  state,  even  
+though prosecutor had no actual  knowledge of the worksheet) ; the Department  of Corrections, 
+Carriger v. Stewart , 132 F.3d 463, 480 (9th Cir. 1997) ( en banc ); the Bureau of Alcohol, Tobacco 
+& Firearms, Bagley v. Lumpkin, 798 F.2d 1297 (9th Cir. 1986); the Drug Enforcement Agency, 
+United  States v. Butler , 567 F.2d 885, 891 (9th Cir. 1978); see also United  States v. Brumel -
+Alvarez , 991 F.2d 1452, 1461-63 (9th Cir. 1993); the U.S. Food and Drug  Administration,  
+United  States v. Wood, 57 F.3d 733 (9th Cir. 1995); the Internal  Revenue Service,  United  States v. 
+Bryan , 868 F.2d 1032, 1036 (9th Cir.) (“[P]rosecutor will be deemed  to have knowledge of and 
+access  to anything in the possession, custody or control of any federal  agency  participating  in the 
+same investigation  of the defendant”);  probation departments,  United  States v. Alvarez , 358 F.3d 
+1194 (9th Cir. 2004); and crime  labs, In re Brown , 17 Cal. 4th 873, cert. denied , 525 U.S. 978 
+(1998) (reversing death  penalty  conviction for prosecution’s failure  to disclose forensic  crime  lab 
+worksheet showing possible drugs which  could have affected  defendant’s  mental  state,  even  
+though prosecutor had  no actual  knowledge of the worksheet). DEFENDANT’S MOTION TO PRECLUDE THE DEATH PENALTY  
+AND ADOPT OTHER NECESSARY PROCEDURES DUE TO THE  
+STATE’S NUMEROUS DISCLOSURE VIOLATIONS      Page 12 E. Idaho Criminal Rule 16(a) Requires the Timely Disclosure of Exculpatory Evidence.  
+In addition to a prosecutor’s Brady  obligations, Idaho Criminal Rule 16(a) requires the 
+prosecution to disclose, as soon as practicable , any material or information “which tends to negate 
+the guilt of the accused as to the offense charged or reduce the punishment therefor.” These 
+obligations extend to any information and material in the possession or control of members of the prosecuting attorney’s staff and of any others who have participated in the investigation or evaluation of the case. I.C.R. 16(a). Additionally, I.C.R. 16’s disclosure requirements apply even 
+if prosecutors do not personally know of exculpatory and mitigating information. See State v. 
+Gardner, 126 Idaho 428, 433 (Ct. App. 1994) (holding that a prosecutor violated Brady  and I.C.R. 
+16(a) even though he was personally unaware of an exculpatory witness’ statement made to police). Therefore, I.C.R. 16 charges Idaho prosecutors with an affirmative duty to seek out and obtain all exculpatory and mitigating evidence and disclos e it to the Defendant  in a timely manner .  
+F. The Idaho Rules of Professional Conduct Require the Timely Disclosure of Exculpatory 
+Evidence.  
+The Idaho Rules of Professional Conduct and the ABA Model Rules of Professional 
+Conduct further recognize the prosecutor’s ethical duty to “make timely disclosure to the defense of all evidence or information known to the prosecutor that tends to negate the guilt of the accused or mitigates the offense, and, in connection with sentencing, disclose to the defense and to the tribunal all unprivileged mitigating information known to the prosecutor, except when the prosecutor is relieved of this responsibility by a protective order of the tribunal.” Idaho Rules of Prof’l Conduct, R. 3.8(d); Model Rules of Prof’l Conduct R. 3.8(d).  
+The ABA Criminal Discovery Standards further reflect a prosecutor’s well -settled 
+discovery obligations and admonish the prosecution to turn over any and all information within their control that would (1) tend to negate the guilt of the defendant; (2) tend to reduce the 
+punishment of the defendant; or (3) any material which may be used for impeachment. Std. 11-DEFENDANT’S MOTION TO PRECLUDE THE DEATH PENALTY  
+AND ADOPT OTHER NECESSARY PROCEDURES DUE TO THE  
+STATE’S NUMEROUS DISCLOSURE VIOLATIONS      Page 13  2.1. Furthermore, the prosecution must disclose to the defense when they are aware of information, 
+but do not have evidence verifying the information, when it would be discoverable if it were in 
+their possession or control. Std. 11- 4.3.  
+II. The Prosecution Has Turned O ver Mountains  of Unorganized Electronically Stored 
+Data  That Defense Counsel Cannot Possibly Review Prior to Trial.  
+When exculpatory material is contained in voluminous amounts of electronically stored 
+records, the State violates its Brady  obligations by doing nothing more than turning it over, 
+unorganized, on a drive .  In United States v. Sayler , 2010 U.S. Dist. LEXIS 77617, at * 19- 23 
+(E.D. Cal. Aug. 2, 2010), the court ordered the prosecution to identify Rule 16, Brady , and Giglio 
+documents contained in a voluminous discovery production “as a matter of case management (and fairness).” The court noted:  
+In light of the above, and to return to the real problem here, it bears 
+repetition to emphasize that the ultimate issue is whether there is ‘disclosure’ in the letter and spirit of Brady /Giglio simply by turning 
+over a mountain of ‘everything’ acquired over half a decade, and 
+telling defense counsel nothing about where exculpatory/impeaching information can be found. Again, ‘the government cannot meet its Brady obligations by providing [the 
+defendant] with access to 600,000 documents and then claiming that she should have been able to find the exculpatory information in the haystack.’ United States v. Hsia, 24 F.Supp. 2d 14, 29- 30 (D.D.C. 
+1998). Or, as the undersigned put it in the initial order: ‘[A]t some point (long since passed in this case) a duty to disclose may be unfulfilled by disclosing too much; at some point, ‘disclosure,’ in order to be meaningful, requires ‘identification’ as well.  
+ 
+Id. at *19- 20; see also id. at *5 ( concluding that the government must identify Brady  materials in 
+voluminous electronic records, that “[t]here is no authority” for a conclusion to the contrary, and 
+that it would be an “evisceration of constitutional rights” to shift the burden to the defense to review the records and identify Brady  materials); United States v. Cutting, 2017 WL 1324023, at 
+*10 (N.D. Cal. Jan. 12, 2017) (ordering that the government identify all exculpatory and impeachment materials in alrea dy-produced copies of electronic records because of the DEFENDANT’S MOTION TO PRECLUDE THE DEATH PENALTY  
+AND ADOPT OTHER NECESSARY PROCEDURES DUE TO THE  
+STATE’S NUMEROUS DISCLOSURE VIOLATIONS      Page 14  “voluminous nature” of the records and the government’s production in formats “that seriously 
+impede defendants’ ability to search the ESI”); United States v. Blankenship, 2015 WL 3687864, 
+at *6 (S.D. W.Va. June 12, 2015) (“[W]ithout more, the United States does not comply with the requirement of Brady  by merely including all known Brady material within the four million plus 
+pages of discovery.”); United States v. Adan, 10– CR–260, No. 607–1 at 21 (M.D. Tenn. May 10, 
+2011) (“The Court concludes that the Gove rnment’s blanket provision here of 142 disks including 
+disks unrelated to this action does not discharge its  Brady  and Giglio  obligations.”). 
+In the context of vast electronic records, even the circuit courts that have adopted the most  
+narrow approach to a prosecutor’s Brady  obligations have held that the government must do more 
+than simply produce the contents of these devices. In United States v. Skilling, 554 F.3d 529 (5th Cir. 2009), aff’d in part, vacated on other grounds, 561 U.S. 358 (2010), the defendant challenged the government’s open- file disclosure of several hundred million pages of discovery in an 
+electronic file. However, the Fifth Circuit held that this voluminous discovery did not violate 
+Brady obligations because: (1) the government provided copies of the electronic files to the defense; (2) the electronic file was searchable; (3) the government produced an index of “hot documents” indicatin g the documents that were important to its case as well as to documents that 
+included potentially exculpatory evidence; and (4) the government had created a number of other databases to assist the defense’s review of the evidence. Id.  at 577. As such, in the context of 
+voluminous electronic data, this standard requires that the government go “beyond merely providing [a defendant] with the open file.” See id .  
+The State has taken none of the  steps  beyond mere production in this case . The electronic 
+file is not searchable; defense counsel must locate and click into each and every separate document —of which there are many thousands —to find its contents. The State has not produced 
+an index of documents that it will rely on in its case; to the contrary, the expert disclosure deadline DEFENDANT’S MOTION TO PRECLUDE THE DEATH PENALTY  
+AND ADOPT OTHER NECESSARY PROCEDURES DUE TO THE  
+STATE’S NUMEROUS DISCLOSURE VIOLATIONS      Page 15  has come and gone without the State identifying its experts’ conclusions and which documents it 
+will use to support those conclusions. The State has not provided an index of Brady material, 
+including exculpatory and impeachment information, nor an index of documents that are 
+potentially relevant to the defense case. Indeed, the State has not provided anything to assist in the defense’s review, despite the knowledge that it would be impossible even through the exercise of due diligence to identify exculpator y or impeachment evidence within the hundreds of millions of 
+pages, tens of thousands of photos, and thousands of hours of video tape  and audio recordings .  
+Under the more exacting standards adopted by other courts, it is even more plainly apparent 
+that the State’s approach to its Brady  obligations runs afoul of Mr. Kohberger’s due process rights. 
+For example, the District of Columbia has rejected the Fifth Circuit’s standard as too lenient, thereby “directing the government to identify exculpatory information within its voluminous production.” United States v. Saffarinia, 424 F.Supp.3d 46, 90 (D.D.C. 2020); see also, e.g., United 
+States v. Sayler , supra (directing the government to create an index of exculpatory and 
+impeachment information for the 600,000 pages of discovery that had been disclosed to the defense); United States v. Hsia , 24 F. Supp. 2d 14, 29 (D.D.C. 1998) (“[O]pen- file discovery does 
+not relieve the government of its Brady obligations. The government cannot meet its Brady obligations by providing Ms. Hsia with access to 600,000 documents and then claiming that she shoul d have been able t o find the exculpatory information in the haystack.” ).  
+III. Example : the State Has Not Timely Produced Indexed or Identifiable Portions of 
+Contents  Relating to the 67 Electronic Devices  and Warrant Returns  it Intends to 
+Rely On.  
+The above problem is exemplified by, though certainly not limited to, the 67 electronic 
+devices and other digital data  and search warrant returns  that the State has turned over. Since the 
+State has not provided specific reports or indexes of materials it intends to use from the devices , 
+digital data and search warrant returns , the defense must guess which form electronic reading DEFENDANT’S MOTION TO PRECLUDE THE DEATH PENALTY  
+AND ADOPT OTHER NECESSARY PROCEDURES DUE TO THE  
+STATE’S NUMEROUS DISCLOSURE VIOLATIONS      Page 16  software  is utilized .  For most devices no specific report has been produced, for some devices 
+Axiom is used and for some Cellebrite ; the software  produce s different results  for the same device. 
+Each device results in an enormous volume of information to sift through; a single cellphone often 
+produces more than 10,000 pages of material .  This is because, m odern electronic devices, 
+including cell phones, have the capacity to store vast amounts of highly personal information. See  
+Riley v. California , 124 S. C t. 2473, 2490 (2014) (“Prior to the digital age, people did not typically 
+carry a cache of sensitive personal information with them as they went about their day. Now it is 
+the person who is not carrying a cell phone, with all that it contains, who is the e xception.”). Not 
+only can these devices store  immense amounts of information, but they also generate  records that 
+would otherwise never exist. See id.  at 2491 (“A phone not only contains in digital form many 
+sensitive records previously found in the home; it also contains a broad array of private information never found in a home in any form —unless the phone is.”).  
+Given the capacity for a person’s electronic device to effortlessly generate and compile 
+vast amounts of information, searches of these devices “typically expose . . . far more than the most exhaustive search of a house,” and may enable the reconstruction of the “sum of an individual’s private  life.” See id. at 2489- 91; see also, e.g., United States v. Andrus , 483 F.3d 711, 
+718 (10th Cir. 2007) (“[F]or most people, their computers are their most private spaces. People commonly talk about the bedroom as a very private space, yet when they have parties, all the guests —including perfect strangers —are invited to toss their coats on the bed. But if one of those 
+guests is caught exploring the host’s computer, that will be his last invitation.”). As such, the 
+contents of all the  67 electronic devices , digital data  and search warrant returns  seized in this case 
+contain enough information to paint a portrait of the daily lives of Mr. Kohberger , the victims, 
+witnesses,  alternate suspects , and people close to the victims . Given that the State’s case is almost DEFENDANT’S MOTION TO PRECLUDE THE DEATH PENALTY  
+AND ADOPT OTHER NECESSARY PROCEDURES DUE TO THE  
+STATE’S NUMEROUS DISCLOSURE VIOLATIONS      Page 17  entirely circumstantial, patterns of evidence that emerge out of these devices may be key to the 
+jury’s consideration of guilt or innocence.  
+ Courts often describe evidence regarding potential alternative perpetrators as “classic Brady  
+material.” See, e.g. , Williams v. Ryan , 623 F.3d 1258, 1265  (9th Cir. 2010) (“[N]ew evidence 
+suggesting an alternate perpetrator is ‘classic Brady  material.’”) (internal citations omitted); United 
+States v. Jernigan, 492 F.3d 1050, 1056- 57 (9th Cir. 2007) (en banc) (“Withholding knowledge of a 
+second suspect conflicts with the Supreme Court’s directive that the criminal trial, as distinct from 
+the prosecutor’s private deliberations, be preserved as the chosen forum f or ascertaining the truth 
+about criminal accusations.”); Boyette v. Lefevre, 246 F.3d 76, 91 (2d Cir. 2001) (describing such evidence as “classic Brady  material”). Regardless of the State’s ultimate conclusions about whom to 
+prosecute, “[w]ithholding knowledge of a second suspect conflicts with the Supreme Court’s directive that ‘the criminal trial, as distinct from the prosecutor’s private deliberations , [be preserved] as the 
+chosen forum for ascertaining the truth about criminal accusations.’” Jernigan , 492 F.3d at 1056- 57 
+(quoting Kyles , 514 U.S. at 440).  
+ Countless cases have been overturned due to prosecutors’ failure to timely produce evidence 
+that could have helped the defense identify a potential alternate perpetrator. See, e.g. , Comstock v. 
+Humphries , 786 F.3d 701 (9th Cir. 2015) (finding that prosecutors violated due process rights under 
+Brady  by failing to disclose the complainant’s statement that it was possible he had misplaced a stolen 
+ring); Jernigan , 492 F.3d at 1057 (finding that prosecutors violated Brady  obligations by failing to 
+disclose to bank robbery defendant fact that other nearby banks had been robbed after her arrest and 
+that a woman had been detained with uncannily similar physical description); Trammell v. McKune , 
+485 F.3d 546 (10th Cir. 2007) (holding that, despite eyewitness identification of defendant, prosecutors violated Brady  by failing to disclose to the defense evidence of a potential alternate 
+perpetrator with a similar appearance); Robinson v. Cain , 510 F. Supp. 2d 399 (E.D. La. 2007) DEFENDANT’S MOTION TO PRECLUDE THE DEATH PENALTY  
+AND ADOPT OTHER NECESSARY PROCEDURES DUE TO THE  
+STATE’S NUMEROUS DISCLOSURE VIOLATIONS      Page 18  (finding a Brady  violation in a second -degree murder case due to the State’s withholding a police 
+report that corroborated the defendant’s version of events and supplied a motive for a different person 
+to commit the offense); Harrington v. State , 659 N.W.2d 509 (Iowa 2003) (finding that the 
+prosecution violated Brady  by failing to disclose police reports identifying an alternative suspect).  
+Because many of these devices belong to the  witnesses , the victims and to people who 
+knew the victims, including potential alternate perpetrators, defense counsel is plainly obligated to review them. See, e.g., United States v. Cronic , 466 U.S. 648, 659 (1984) (explaining that, where 
+defense counsel never subjected “the prosecution’s case to meaningful adversarial testing, then there has been a denial of Sixth Amendment rights that makes the adversary process itself presumptively unrea sonable”); Soffar v. Dretke , 368 F.3d 441, amended, 391 F.3d 703 (5th Cir. 
+2004)  (“[A]n actual failure to investigate cannot be excused by a hypothetical decision not to use 
+its unknown results.”). Additionally, many  of the devices  and warrant returns  belong to Mr. 
+Kohberger . These  devices  and warrant returns  will paint a comprehensive picture of his life, and 
+therefore are likely to be key to the mitigation presentation at the sentencing phase.  
+But the  defense cannot reasonably make effective use of voluminous electronic records 
+because the State has not provided them in a detailed or indexed manner. Reviewing and 
+understanding all of the records from these devices , digital data and search warrant returns  alone 
+would require three years, even if defense counsel did not look at any of the other discovery.
+3  
+ 
+3 Of course, there is significant additional discovery which is likely to contain exculpatory 
+evidence relating to alternative perpetrators. For example, the defense had to fight for the several 
+thousand tips collected by law enforcement tip lines. Though t here were in the State’s possession 
+the entire time, the State did not turn them over until more than a year after the case began. The defense has no way of knowing whether the State intends to rely on or introduce any evidence from those tip lines, and has never received a log of Brady/Giglio  evidence that the State has 
+identified in the records. Because there is no log, an exact number is unknown, but the number of 
+tips is more than 45,000. Tips continue to be reported.  DEFENDANT’S MOTION TO PRECLUDE THE DEATH PENALTY  
+AND ADOPT OTHER NECESSARY PROCEDURES DUE TO THE  
+STATE’S NUMEROUS DISCLOSURE VIOLATIONS      Page 19  Worse yet, the State apparently intends to rely on this evidence to establish guilt through 
+three different experts, but has not identified what opinions these experts have drawn from the 
+evidence nor which parts of the voluminous data they are relying on. The State has created a 
+situation where the defense is completely in the dark and cannot mount even a limited investigation 
+into rebutting their expert’s testimony, including by identifying impeachment evidence or evidence 
+that contradicts their expert’s opinions. Rather than cure this defect when Court told the State that 
+its “job was not done” with its expert disclosures, the State submitted expert rebuttal disclosures that blamed the defense for its inability to properly disclose expert opinions related to electr onics , 
+digital data and search warrant  returns .  
+The State’s failure to timely disclose  this evidence in a meaningful way has prevented Mr. 
+Kohberger from developing a full  defense to the allegations in this case. As a result, the defense 
+will not have the ability to identify the critical pieces of evidence or conduct necessary follow -up 
+investigation on those pieces the State intends to rely on in the merits phase . The failure of the 
+State to identify important documents in the massive electronic data dump, including exculpatory documents , will hamper Mr. Kohberger’s ability to meaningfully contest the State’s theory. 
+Moreover, the State’s failure to identify exculpatory documents relating to the sentencing phase  
+will prevent a  capital jury from receiving a complete picture of the li fe of Mr. Kohberger, supported 
+by electronically generated records. See  Riley , 124 at 2490 (describing the distinct characteristics 
+of modern cell phones that make them indispensable in an investigation). Therefore, by dumping the contents of 67 electronic devices , digital data  and search warrant returns on defense counsel 
+without identifying the  pertinent information within them, the State has violated Mr. Kohberger’s 
+due process rights and his right to the effective assistance of  counsel  at both the merits phase and 
+at a capital sentencing proceeding , as well as his statutory rights under I.C.R. 16.  DEFENDANT’S MOTION TO PRECLUDE THE DEATH PENALTY  
+AND ADOPT OTHER NECESSARY PROCEDURES DUE TO THE  
+STATE’S NUMEROUS DISCLOSURE VIOLATIONS      Page 20  IV. Reviewing the Discovery is Only the Beginning of Defense Counsel’s Obligations; the 
+Defense Must Have Time and Opportunity to Conduct Independent Investigation of the State’s Evidence.  
+ When the prosecution seeks the death penalty, defense counsel “ must independently 
+investigate [] all evidence —whether testimonial, forensic, or otherwise—purporting to 
+inculpate the client.”  See American Bar Association Guidelines for the Appointment and 
+Performance of Defense Counsel in Death Penalty Cases, 31 H
+OFSTRA L. REV. 913, 926 (Rev. ed. 
+2003) (setting forth the expectations and obligations of defense counsel in capital cases over 178 
+pages of guidelines and commentary) (emphasis added). In recognizing the large number of 
+individuals sentenced to death who were later exonerated because they were innocent (110 when 
+the ABA Guidelines were written, id. at 1017, though the number now stands at more than 1954), 
+the Guidelines “underscor[e] the importance of defense counsel’s duty to take seriously the 
+possibility of the client’s innocence, to scrutinize carefully the quality of the state’s case, and to investigate and re -investigate all possible defenses ,” id. at 1018. Thus, a meaningful ability to  
+review discovery and the State’s case is essential to the right to a fair trial and effective assistance of counsel in a capital case.  This is a case where the facts are in great dispute. Mr. Kohberger 
+asserts his innocence .  There is no confession.  T here is no video or audio of the crime .  There is 
+no weapon. There is  ONLY trace evidence on a moveable object, a knife sheath.  Having full 
+knowledge of the State’s expert opinions and the documents they will rely on will provide leads for further investigation to uncover exculpatory evidence or to impeach prosecution witnesses.  
+In addition to a complete investigation of every piece of the State ’s case, counsel is 
+responsible for identifying and considering all legal claims potentially available, even if those claims have consistently lost in that jurisdiction. See id.  at 1032 (“Counsel should object to 
+anything that appears unfair or unjust even if it involves challenging well -accepted practices.”). 
+ 
+4 https://deathpenaltyinfo.org/innocence -list-those -freed -death -row  DEFENDANT’S MOTION TO PRECLUDE THE DEATH PENALTY  
+AND ADOPT OTHER NECESSARY PROCEDURES DUE TO THE  
+STATE’S NUMEROUS DISCLOSURE VIOLATIONS      Page 21  This is necessary because counsel in a capital case has a duty to preserve “any and all conceivable 
+errors for each stage of appellate and post -conviction review,” as the non -preservation of an issue 
+at the trial stage may result in a defendant’s execution  even if reversible error occurred. Id.  at 1030 
+(explaining a case in which, from a joint capital trial, one co- defendant was eventually executed 
+because his counsel failed to object to women being excluded from the jury, while the other co-
+defendant’s cas e was reversed and he is now serving life in prison because his attorneys preserved 
+the issue).  
+ In a case as complex as this one, the State’s failure to direct the defense to evidence it will 
+rely on in accordance with the Court’s schedule  is highly prejudicial . It will undoubtedly impact 
+the defense’s ability to meet the evidence at trial, develop a comprehensive defense strategy, adequately respond to each aspect the State’s case, and complete all pre -trial litigation about 
+admissibility of the evidence . Even assuming the State discloses detailed expert disclosures and 
+an index of “hot documents” t omorrow, counsel will need the remaining months before trial to 
+conduct independent investigation into the evidence and witnesses , identify evidence that 
+contradicts the S tate’s theories, and incorporate all of the new information into the defense’s case. 
+See, e.g., Leka v. Portuondo, 257 F.3d 89, 101 (2d Cir. 2001) (finding that the State suppressed exculpatory evidence by identifying an eyewitness days before trial, such that the attorney could not reasonably be expected to suspend other trial preparation to interview the witness, a nd thereby 
+constituting a failure “to make sufficient disclosure in sufficient time to afford the defense an opportunity for use”). It will not be possible to do this to the extent required in a death penalty case in addition to identifying and preserving all of the related legal claims that could stem from the 
+evidence. Thus, as discussed below, because heightened reliability standards cannot possibly be met on this timeframe, the Court must preclude the death penalty.  DEFENDANT’S MOTION TO PRECLUDE THE DEATH PENALTY  
+AND ADOPT OTHER NECESSARY PROCEDURES DUE TO THE  
+STATE’S NUMEROUS DISCLOSURE VIOLATIONS      Page 22  V. This Is a Capital Case and Heightened Due Process Applies.  
+The Supreme Court has been clear that the death penalty must be reserved for only those 
+few offenders deemed extraordinarily culpable, and therefore uniquely deserving of death. Zant v. 
+Stephens , 462 U.S. 862, 877 (1983). “[T]he average murderer” is insufficiently culpable to “justify 
+the most extreme sanction available to the State.” Atkins v. Virginia , 536 U.S. 304, 319 (2002). 
+While every murder is appalling, only the most  extreme qualify for the death penalty. A case is not 
+capital just because it is th e worst murder a community has ever seen, nor is it capital because it 
+technically checks the boxes of the necessary aggravating factors under a capital sentencing statute. A case may only  appropriately be capital —in the words of the U.S. Supreme Court —when 
+it falls into a very “narrow category of the most serious crimes” and involves a defendant “whose 
+extreme culpability makes them the most deserving of execution” in the entire country. Roper v. Simmons , 543 U.S. 551, 568 (2005); s ee also  Kennedy v. Louis iana, 554 U.S. 407, 420 (2008) 
+(explaining that the death penalty “must be limited to those offenders . . . whose extreme 
+culpability makes them the most deserving of execution”).  
+Heightened constitutional obligations apply in death penalty cases because a life -or-death 
+sentencing decision is “qualitatively different” from sentencing decisions involved in any other kind of case. Woodson v. North Carolina, 428 U.S. 280, 304 (1976). The nature, quality, and gravity of death cases makes the defense of capital cases fundamentally unlike any other type of legal endeavor. See, e.g.,  Sawyer v. Whitley, 505 U.S. 333, 343 (1992). As a result, death penalty 
+trials require especially stringent due process from both the judge and attorneys, and may not be treated as standard criminal cases. See, e.g., Gardner v. Florida, 430 U.S. 349 (1977); see also  
+Simmons v. South Carolina, 512 U.S. 154 (1994); Lankford v. Idaho, 500 U.S. 110 (1991). Courts 
+must go to “extraordinary measures” to ensure that a death penalty trial is fair.  Caldwell v. 
+Mississippi , 472 U.S. 320, 329 (1985). So long as Mr. Kohberger’s death is a possible result of DEFENDANT’S MOTION TO PRECLUDE THE DEATH PENALTY  
+AND ADOPT OTHER NECESSARY PROCEDURES DUE TO THE  
+STATE’S NUMEROUS DISCLOSURE VIOLATIONS      Page 23  this case, the State of Idaho and this Court must go to “extraordinary measures” to protect his 
+constitutional rights. Caldwell , 472 U.S. at 329. 
+VI. Mr. Kohberger Has Been Prejudiced by the State’s Failure to Fulfill Its Disclosure 
+Obligations and Judicial Remedy Is Required.  
+ 
+ Because the State has failed to satisfy its disclosure obligations in manner  that would enable 
+Mr. Kohberger to further investigate and incorporate exculpatory evidence into his defense for a n 
+August 2025 trial, Mr. Kohberger will be deprived of a fair trial and the right to effective assistance 
+of counsel if the Court does not remedy this situation. This Court has wide discretion to remedy 
+discovery violations as appropriate under the circumstances. I.C.R. 16(k); see also  ABA Standards 
+of Criminal Discovery, std. 11- 7.1(a)(iv). Generally, when the State has failed to timely produce 
+evidence “in violation of the Constitution, the [trial] court must choose between barring furthering prosecution or suppressing . . . the State’s most probative evidence.” Trombetta, 467 U.S. at 487.  
+In past cases, courts have entirely dismissed indictments based on discovery violations to 
+protect the defendant’s constitutional rights, to sanction the government for misconduct, and to 
+deter future Brady  abuses. See, e.g., United States v. Diabate , 90 F.Supp.2d 140 (D. Mass. 2000) 
+(dismissing indictment because prosecution failed to follow two local rules of discovery requiring 
+them to (1) inform all law enforcement agencies of their discovery obligations and (2) require all agents involved in the case t o maintain contemporaneous notes); United States v. Dollar , F. Supp. 
+2d 1320 (N.D. Ala. 1998) (dismissing case with prejudice after government “flagrantly breached” its obligation under Brady  to produce exculpatory and impeachment materials in a timely manner);  
+State v. Martinez , 86 P.3d 1210 (Wash. App. 2004) (affirming trial court’s finding that the 
+defendant was prejudiced because “late discovery compromised defense counsel’s ability to adequately prepare for trial”); State v. Harris , 713 N.E.2d 528 (Ohi o App. 1998) (affirming trial 
+judge’s dismissal of case when exculpatory material was withheld).  
+ Mr. Kohberger is not requesting dismissal of the indictment for these violations, at least at DEFENDANT’S MOTION TO PRECLUDE THE DEATH PENALTY  
+AND ADOPT OTHER NECESSARY PROCEDURES DUE TO THE  
+STATE’S NUMEROUS DISCLOSURE VIOLATIONS      Page 24  this point.5 Because five months  remain  before trial, the defense believes there are remedies that this 
+Court can order short of dismissing the case that will likely remedy a significant amount of the 
+prejudice.  
+ 
+1. Preclude Experts and Testimony Not Properly and Timely  Disclosed by the State.  
+ Mr. Kohberger requests that the State be prohibited from introducing experts, testimony, and 
+underlying evidence that has not been properly detailed in an expert disclosure for which the deadline 
+was January 9, 2025. Those specifics are detailed in the accompanying Motion in Limine .  
+ 
+2. Require the State to Provide a  “Hot Documents” Index of Information it Intends to Rely 
+on,  As Well As Brady/Giglio Evidence, in Accordance with The Minimum Standards 
+for Voluminous Electronic Discovery.  
+ 
+Given the compounding prejudice of late disclosure with the extreme amount of discovery 
+has been provided in a format that does not meet the minimum standards that courts have 
+considered, see Section II supra, Mr. Kohberger respectfully requests that this Court order the 
+State to provide, within two weeks or the soonest this Court deems reasonable:  (1) a detailed index6 
+of the discovery and evidence they intend to rely on at either the merits phase or in sentencing and 
+(2) a detailed index of Brady/Giglio  documents and evidence, including potentially exculpatory or 
+impeachment information . Given the amount of data, “[t]he government cannot meet its Brady  
+obligations by providing [Mr. Kohberger] with access to [more than 68terabytes of data] and then claiming that [he] should have been able to find the exculpatory information in the haystack.” See 
+United States v. Hsia, 24 F. Supp. 2d 14, 29 (D.D.C. 1998).  Both of these indexes should include 
+ 
+5 Mr. Kohberger reserves the right to request dismissal if and when the circumstances 
+warrant it.  
+6 The State’s current method of noting the date that is has produced a batch of discovery and the 
+number associated with the disclosure  pleading is not a detailed index.  DEFENDANT’S MOTION TO PRECLUDE THE DEATH PENALTY  
+AND ADOPT OTHER NECESSARY PROCEDURES DUE TO THE  
+STATE’S NUMEROUS DISCLOSURE VIOLATIONS      Page 25  location of the document in a way that makes it easily identifiable by the defense. See U.S. v. 
+Saylor, supra (ordering government to identify Brady  information within electronic discovery 
+already produced).  
+  As discussed above , evidence pointing to a possible  alternat e perpetrator  or anything 
+refuting the S tate’s theory is bedrock Brad y evidence and should be included . Moreover, if this 
+proceeds as a death penalty case, Brady  material includes any evidence that would tend to mitigate 
+punishment. Brady , 373 U.S. at 87. Examples of this evidence in a capital case include: evidence 
+that a capital defendant was a devoted and loving family member; that he experienced trauma, 
+neglect, isolation, or ostracization as a child, young adult, or adult; that he exc elled in his 
+educati on; that he experienced blows to the head or other potential brain injuries; that he 
+experienced depression, anxiety, or other symptoms of mental illness; that his symptoms began before he was charged with capital murder; and/or that he is susceptible to p ressure, manipulation, 
+or exploitation. 
+3. Preclude the Death Penalty as a Potential Sentencing Option.   
+Courts have also precluded the prosecution from seeking the death penalty in would- be 
+capital cases when the prosecution fails to satisfy their pretrial discovery obligations. As the First Circuit has noted, “[d]ismissal of the Notice [to seek death] is not as extreme as dismissal of an indictment. The government may still seek a conviction and the serious penalty of life imprisonment.” United States v. Lopez -Matias , 522 F.3d 150, 154 n.9 (1st Cir. 2008). This less -
+extreme remedy is appropriate even in situ ations when the violations would not amount to a 
+sanction in a non- capital felony case:  
+We do believe that [in a capital case] when the stakes are so high, a 
+smaller quantum of prejudice may justify a sanction [than in a regular murder case]. And, as discussed above, striking the Notice is not quite as serious as dismissing the indictment altogether, and so perhaps still less prejudice is required.  
+ DEFENDANT’S MOTION TO PRECLUDE THE DEATH PENALTY  
+AND ADOPT OTHER NECESSARY PROCEDURES DUE TO THE  
+STATE’S NUMEROUS DISCLOSURE VIOLATIONS      Page 26  Lopez -Matias , 522 F.3d at 158.   
+ 
+Another Idaho trial court recently concluded that precluding the death penalty was the only 
+way to cure the prejudice of disclosure violations by the State. In Idaho v. Lori Vallow Daybell , 
+the State had bates stamped and previously provided more than 80,000 documents in discovery; 
+however, the prosecution failed to turn over approximately 5,000 pages of discovery and 30 hours of audio files until a month before trial. The court ruled from the bench and signed an order. This is notably many, many multitudes  less than the  68 terabytes of  discovery turned over in this case. 
+Though the prosecution filed the discovery only one day after the deadline set by the court, the defense argued that  there was insufficient time for counsel to review the significant discovery in a 
+meaningful manner and complete any necessary follow up prior to the trial date one month later. The Court agreed and found that dismissal of the death penalty was appropriate  in order to mitigate 
+the prejudice . See, e.g ., Audio File: Judge Grants Lori Vallow’s Motion to Dismiss Death Penalty 
+(YouTube) (March 21, 2023), beginning at 21:16.
+7 The Court specifically found that the State had 
+acted in good faith and attempted to disclose all discovery, and that the remedy was not in any way intended to be a sanction for bad faith or misconduct by prosecutors Id.  However, the Court 
+specifically noted that “death is different,” that heightened standards of reliability and unique safeguards must apply in a death penalty case, and therefore striking  the death penalty was the 
+only appropriate remed y. This Court has commented in other proceedings  related to Mr. 
+ 
+7Available at 
+https://www.google.com/search?q=lori+daybell+motion+to+dismiss+the+death+penalty+%2B+
+discovery&sca_esv=0baf5c9e671f57b4&rlz=1C1UEAD_enUS928US929&biw=1280&bih=585&sxsrf=ADLYWIJ7z5CnAaYgsYK8_0g8oLjnqNAGiQ%3A1733775426181&ei=QlBXZ8HbCrO0wN4P95WomAE&ved=0ahUKE wjBhJfjwJuKAxUzGtAFHfcKChMQ4dUDCA8&uact=5&o
+q=lori+daybell+motion+to+dismiss+the+death+penalty+%2B+discovery&gs_lp=Egxnd3Mtd2l6LXNlcnAiPGxvcmkgZGF5YmVsbCBtb3Rpb24gdG8gZGlzbWlzcyB0aGUgZGVhdGggcGVuYWx0eSArIGRpc2NvdmVyeTIFECEYoAEyBRAhGKABMgUQIRigATIFECEYoAEyBR AhGK
+ABSOMPUNsCWLQOcAF4AJABAZgBqAKgAb8IqgEFMC42LjG4AQPIAQD4AQGYAgagAtAGwgIFECEYnwXCAgUQIRirApgDAIgGAZIHAzAuNqAHxC0&sclient=gws -wiz-
+serp#fpstate=ive&vld=cid:4e068cd9,vid:eu17oCSd4PU,st:0.  DEFENDANT’S MOTION TO PRECLUDE THE DEATH PENALTY  
+AND ADOPT OTHER NECESSARY PROCEDURES DUE TO THE  
+STATE’S NUMEROUS DISCLOSURE VIOLATIONS      Page 27  Kohberger’s trial setting and motions about discovery and expert opinions, that Lori Vallow’s case 
+is distinguishable because she had not waived her speedy trial  rights .  However, in this case, it is 
+the Court that is repeatedly telling all counsel and Mr. Kohberger  that the trial date is set in stone 
+and everyone must be ready to procee d by July 30, 2025. 
+In another case , a federal district court precluded the government from seeking the death 
+penalty for two defendants after the prosecution failed to turn over some of the statements made 
+by a witness for approximately one year after the defendants had been arrested. United States v. Joel Manuel Rivera -Clemente and Josean Clemente , No. 3:11- cr-00499 -JAF (D.P.R. Sep. 19, 
+2012). The judge found that the defendant had been prejudiced because the prosecutor’s “repeated delays and failures…to provide timely and f ull disclosure” hindered the defense’s ability to 
+investigate the crime. Id.  at 2. Due to the fact that discovery was not disclosed  in a timely manner, 
+the prosecutor’s conduct “easily pass[ed] the threshold to bar the government from seeking the death penalty,” id. at 3, and preclusion of the death penalty was the “only viable remedy that 
+protects the dignity of the process and the rights of a death penalty eligible defendant,” id. at 2.  
+In yet another case, the court declared a mistrial and precluded the death penalty after 
+discovering that the State did not turn over all the notes from one of the investigating officers. State v. Bellamy , No. 05- CRS -4713- 17 (N.C. 2011). The judge specifically noted that the 
+prosecution was not aware of the notes and had not acted willfully or in bad faith, but that their “regrettable and unintentional failure” to fully comply with their discovery obligati ons had 
+deprived the defendant of his rights to due process, a fair trial, and effective assistance of counsel. Id. at 6. While a mistrial alone may have cured the violation, the court ordered preclusion of the 
+death penalty in the re -trial as an additional sanction. Id.  at 6-7. In a case like this one, where more 
+than 68 terabytes of discovery  has been produced, the failure to direct the defense to evidence and DEFENDANT’S MOTION TO PRECLUDE THE DEATH PENALTY  
+AND ADOPT OTHER NECESSARY PROCEDURES DUE TO THE  
+STATE’S NUMEROUS DISCLOSURE VIOLATIONS      Page 28  discovery it will use in support of expert conclusions as required by the disclosure rules will result 
+in the same prejudice as if it was not turned over at all.  
+Several other judges have struck the death penalty as a sentencing option in response to 
+disclosure  violations  as well . See, e.g., State v. Montgomery , 220 N.C. App. 525 (2012) (“[T]he 
+trial court declared the case non -capital as a sanction for discovery violations by the State.”); 
+United States v. Rosado -Rosario, 1998 U.S. Dist. LEXIS 673 (ordering the case to proceed as a 
+regular felony proceeding after the prosecutors failed to timely turn over unredacted discovery to 
+the Defense); United States v. Gomez -Olmeda , 296 F. Supp. 2d 71, 89 (D.P.R. 2003) (precluding 
+the death penalty where the prosecution failed to clarify the nature of a meeting with the Department of Justice regarding the case, “coupled with the prosecution’s flagrant, and admitted, disregard of thi s court’s discovery deadlines”).  
+Mr. Kohberger has  repeatedly  brought forth  facts that demonstrate serious prejudice to his 
+due process rights. He has repeatedly raised the issue of the chaotic and disorganized production 
+of discovery. He has repeatedly compelled discovery.  Regardless of whether it was purposeful or 
+inadvertent, the prosecution has shirked its responsibility to fulfill its constitutional obligations to provide timely disclosure to the defense.  As a result, the defense’s ability to investigate has been serio usly impeded.  
+Regardless of whether the failure to organize the voluminous discovery into a searchable 
+and useable form, identify potential exculpatory evidence, and provide minimally adequate expert disclosures on the timeline set by this Court is intentional or merely  the result of inattention, the 
+prejudice is the same.  Indeed, other courts have precluded the death penalty on far less, and bad 
+faith is not the standard for applicability of sanctions. See, e.g ., State v Martinez , 86 P.3d 1210 
+(Wash. App. 2004) (affirmi ng dismissal of indictment, and noting that “governmental misconduct 
+need not be evil or dishonest in nature; simple mismanagement is sufficient”); State v. Bellamy , DEFENDANT’S MOTION TO PRECLUDE THE DEATH PENALTY  
+AND ADOPT OTHER NECESSARY PROCEDURES DUE TO THE  
+STATE’S NUMEROUS DISCLOSURE VIOLATIONS      Page 29  No. 05- CRS -4713- 17 (N.C. 2011) (precluding the death penalty despite the clear absence of willful 
+conduct or bad faith); State v. Montgomery , No. 07- CRS -215044 (N.C. 2010) (precluding death 
+penalty based on considerations of due process for the capital defendant, without addressing good 
+faith or bad faith on part of the prosecution, noting that “everyone involved in this case wishes [the viola tion] had never happened”).  
+Striking the death penalty is the only remedy that begins to adequately address the 
+prejudice to Mr. Kohberger. Even with a “hot documents” list and detailed expert disclosures —
+the minimum necessary for this case to proceed to trial —counsel is at a massive disadvantage 
+given the limited resources as compared to the State and the fact that only five months remain 
+before trial. And the tactical advantage that the State has gained because the Defense complied with the Court’s disclosure deadline cannot be remedied after -the-fact. See discussion in 
+accompanying Motion in Limine to Exclude.  
+Though counsel could proceed to a non- capital trial by making strategic decisions 
+about what to follow up on in the limited time frame, counsel will not have time to complete the type of  investigation that would be necessary to meet the required heightened reliability 
+standard in death penalty cases in light of the late disclosures and mountains of discovery.  
+Precluding the death penalty is therefore necessary to enforce Mr. Kohberger’s constitutional rights. This remedy will also reduc e the significant ris k of seating a  conviction- prone jury that does 
+not hold the prosecution to their burden of proof ,
+ 8  a fact that would exacerbate the State’s already -
+gained strategic and resource advantages . Though a risk will remain  that the extensive  and 
+prejudicial pretrial publicity will negatively impact the fairness and accuracy of the jury’s 
+factfinding, this risk will be mitigated when it is not compounded by the process of death 
+ 
+8 Mr. Kohberger hereby incorporates all arguments and authorities contained in his Motion 
+to Prevent Death -Qualification of the Jury.  DEFENDANT’S MOTION TO PRECLUDE THE DEATH PENALTY  
+AND ADOPT OTHER NECESSARY PROCEDURES DUE TO THE  
+STATE’S NUMEROUS DISCLOSURE VIOLATIONS      Page 30 qualification , a process that skews the jury towards conviction and death during voir dire  before a 
+single piece of evidence has been presented .  
+ DATED this ___ 24____ day of February, 2025. 
+ 
+         
+        _____________________________ 
+       ANNE C. TAYLOR  
+       ANNE TAYLOR LAW, PLLC  
+   
+CERTIFICATE OF DELIVERY 
+ 
+I hereby certify that a true and correct copy of the foregoing was personally served as 
+indicated below on the ___24____ day of February, 2025 addressed to: 
+ 
+Latah County Prosecuting Attorney –via Email: paservice@latahcountyid.gov  
+Elisa Massoth – via Email: legalassistant@kmrs.net  
+Jay Logsdon – via Email: Jay.Logsdon@spd.idaho.gov  
+Bicka Barlow, Attorney at Law – via Email: bickabarlow@sbcglobal.net  
+Jeffery Nye, Deputy Attorney General – via Email: Jeff.nye@ag.idaho.gov   
+       
+       
+       
+ 

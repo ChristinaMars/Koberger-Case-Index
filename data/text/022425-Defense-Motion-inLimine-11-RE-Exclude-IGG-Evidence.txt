@@ -1,0 +1,371 @@
+ 
+MOTION IN LIMINE #11  RE: EXCLUDE IGG EVIDENCE    Page 1  Anne Taylor Law, PLLC 
+Anne C. Taylor, Attorney at Law 
+PO Box 2347 
+Coeur d’Alene, Idaho 83816 
+Phone: (208) 512-9611 
+iCourt Email: info@annetaylorlaw.com 
+  
+Elisa G. Massoth, PLLC 
+Attorney at Law  
+P.O. Box 1003 
+Payette, Idaho 83661 
+Phone: (208) 642-3797; Fax: (208)642-3799 
+  
+Bicka Barlow  
+Pro Hac Vice  
+2358 Market Street 
+San Francisco, CA 94114 
+Phone: (415) 553-4110 
+  
+Assigned Attorney: 
+Anne C. Taylor, Attorney at Law, Bar Number: 5836 
+Elisa G. Massoth, Attorney at Law, Bar Number: 5647 
+Bicka Barlow, Attorney at Law, CA Bar Number: 178723 
+Jay W. Logsdon, First District Public Defender, Bar Number: 8759 
+ 
+IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE  
+STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA  
+ 
+ 
+CASE NUMBER CR01 -24-31665 
+ 
+ 
+MOTION IN LIMINE #11  
+ 
+RE: EXCLUDE IGG EVIDENCE  
+ 
+ 
+ 
+COMES NOW, Bryan C. Kohberger, by and through his attorneys of record, and pursuant 
+to the Idaho Rules of Evidence, moves this Honorable Court for an Order to Exclude Evidence of 
+IGG testing and searches.  This motion is based on the Idaho Rules 16(b)(1 -8) and that 
+presentation of such evidence would violate Mr. Kohberger’s State and Federal Constitutional STATE OF IDAHO,  
+ 
+                                   Plaintiff,  
+ 
+V. 
+ 
+BRYAN C. KOHBERGER,  
+ 
+                                   Defendant.  Electronically Filed
+2/24/2025 4:54 PM
+Fourth Judicial District, Ada County
+Trent Tripple, Clerk of the Court
+By: Jennifer Keyes, Deputy Clerk 
+MOTION IN LIMINE #11  RE: EXCLUDE IGG EVIDENCE    Page 2  rights to a fair trial under the Fifth and Fourteenth Amendments and his right to confront the 
+evidence against him and to have competent counsel under the Sixth Amendment.   
+RELEVANT FACTS  
+ A knife sheath that was recovered at 1122 King Road, Moscow Idaho on November 13, 
+2022.  The sheath was tested using standard DNA STR methods by the Idaho State Police (ISP) lab.  This profile was uploaded to the CODIS DNA database and resulted in no hits to known 
+offenders.  
+ The Moscow Police Department, with the assistance of the Idaho State Forens ics Lab, 
+transferred extracted DNA from Q1.1 to Othram labs, located in Texas on November 22, 2022. Othram promised to preserve all of its work in this case in the engagement agre ement and 
+proceeded to test the Q1.1 DNA using SNP (Single Nucleotide Polymorphism) techniques. Othram generated a “profile” using SNP and began building a family tree for Q1.1, looking for the closest relatives of the sample in commercial databases that allow law enforcement searches, GEDMatch 
+Pro and FamilyTreeDNA.  
+On December 10, 2022, Othram was asked to cease work on the case by the prosecutors 
+despite the fact that their genealogy investigation was incomplete.
+1  Othram reported that they had 
+identified a number of close relations to the knife sheath via searches of FamilyTreeDNA and GEDMatch Pro and suggested obtaining DNA samples from three individuals to further their investigation.  In an email, directing the  stop work, lab manager Matthew Gamette directed Othram 
+to “preserve the whole genome profile that you have generated on this case, any remaining DNA extract,  . . . any data generated on this case, and any other records [Othram] has on this case, and 
+anything else laid out in the state contract with Idaho, until the Moscow PD and the Latah County 
+POA communicate that such information does not need to be retained by Othram labs.”
+2  
+ 
+1 Motion in Limine 11 Exhibit 1 Othram report December 16, 2022.  
+2 Motion in Limine #11 Exhibit 2 Discovery, Bates 15378.   
+MOTION IN LIMINE #11  RE: EXCLUDE IGG EVIDENCE    Page 3  After Mr. Kohberger was charged, he swiftly requested discovery relating to the IGG 
+testing and family tree building that led to his arrest (May 3, 2023, Defendant’s 3rd Supplemental 
+Request for Discovery).  Mr. Kohberger laid out the rationale for his request in his 3rd Motion to 
+Compel, and a series of affidavits (filed June 22, 2023).   
+The State filed a Motion for Protective Order (June 16, 2023) in advance of Mr. 
+Kohberger’s motion to compel.  In the Motion for Protective Order the State drew a strong 
+distinction between the work done by Othram to generate a SNP profile and the work done to generate a family tree from the SNP data, in effect arguing that the family tree building did not fall under the Idaho rule of discovery for a number of reasons.  However, in this motion and during argument on the motion, the State conceded that the t esting done by Othram to generate the SNP 
+data fell under I.C.R. 16(b)(5) and stated: “the private laboratory developed the SNP profile from the DNA on the Ka -Bar knife sheath.  As required by Rule 16(b)(5), the State will produce the 
+report that documents  that DNA test.” (Motion for Protective Order at 14).  
+The court after hearing testimony from a number of defense expert witnesses, found that 
+the defense had met the threshold “required to show at least some of the IGG information sought is material to the preparation of the defense” and issued an order for p roduction of the “all of the 
+IGG information in the possession, custody or control of the State” for in camera  review. (Order 
+Addressing IGG DNA and Order for In Camera Review, at 20, 31 October 25, 2023).  On 
+November 30, 2023, the State provided material s to the Court for review, along with a table of 
+items.  The listed items included FBI materials, ISP emails, Othram emails and documents, shipment of DNA profile documents and ISP/Othram contracts
+3.  The Court ordered release of the 
+majority of the materials, with the exception of the generic contract documents of the MOU 
+ 
+3 Motion in Limine #11 Exhibit 3 Bates 15302.   
+MOTION IN LIMINE #11  RE: EXCLUDE IGG EVIDENCE    Page 4  between the ISP, Moscow PD, Latah County POA and Othram.  (Sealed Order for Disclosure of 
+IGG Information and Protection Order, December 29, 2023.)  
+After review of these materials, Mr. Kohberger requested additional discovery materials in 
+his 15th Supplemental Discovery Request relating to work done by Othram and the FBI.4  He 
+sought materials to encompass essentially all of the materials that are normally produced along with lab reports for scientific testing.  The State objected and Mr. Kohberger filed his 5
+th Motion 
+to Compel (Filed April 15, 2024).  In a hearing on May 30, 2024, extensive expert testimony was again heard by the Court as to the necessity of the materials sought.  The requested items included, among other things, raw data files for SNP testing, standard operating procedures (SOPs), 
+validation summaries, contamination logs, and bioinformatics programs and protocols. At the end of the testimony, the State through Mr. Nye argued the motion to compel.  In a striking exchange, Mr. Nye represented t o the Court:  
+the Court makes the decisions, and so we complied with that order. And we reached 
+out to the FBI and Othram and said, you got to give us what you have. We’ve talked a lot about -- and we’ve referenced a letter from the FBI today. I thought the letter 
+itself did a pretty good job laying out what they do and don’t have, what they have access to and what they don’t. We have talked to Othram. We’ve spoken to Othram since we have gotten this Exhibit N and provided them these requests.  And we are not in the posi tion --- for example, request 1 through 6, we are not fighting 
+those . I’m not saying we are not going to turn those over. In my view, they fall 
+pretty clearly under the Court’s order . The issue is, we go to Othram and show 
+them these, and Othram says, we have given you everything. You have everything. Everything we have was given to the Court and then provided to the Defense. So, there’s nothing on this list that we are holding back because we think we have some 
+justification. (Transcript, 5/30/24 at pg 84- 85.) 
+ 
+Items 1 -6 in Exhibit N are the materials described above that pertain to the SNP DNA 
+testing done by Othram labs.   Mr. Nye emphasized that Othram told the prosecution that as to the specific requests outlined in Items 1 -6 of Exhibit N, “Othram is just telling us we don’t have it, so 
+there’s nothing we can do.” (Id. at 85).  The Court then inquired:  
+ 
+4 Motion in Limine #11 Exhibit 4 Discovery Request “Exhibit N”   
+MOTION IN LIMINE #11  RE: EXCLUDE IGG EVIDENCE    Page 5  THE COURT: So Othram has said – you’ve asked them, and they said we’ve given 
+you everything we have?  
+ 
+MR. NYE: Yes. (Id. at 86). 
+ 
+Mr. Nye reiterated that the State knew that if the documents listed in Exhibit N, 1 -6, existed, 
+the State had an obligation to turn those material over to Mr. Kohberger: “And with the rest of it, 
+we are turning it over if it exists and if we have it. That’ s all.” ( Id. at 92).  
+In the court’s order related to the specific request in Exhibit N, the court relied in toto on 
+the representations of the State, specifically referencing Mr. Nye’s statement about items 1 -6: “The 
+State indicated that the material sought in this request doe s not exist.”  (Order on Defendant’s 4th 
+and 5th Motions to Compel Discovery, at 8, June 14, 2024.)  
+On January 23, 2025, a hearing was held before this Court regarding the suppression of 
+DNA- IGG and Mr. Kohberger’s Franks  proffer hearing.  During that hearing Matthew Gamette 
+testified regarding the state’s relationship with Othram, the contracting process and specific information about the IGG work done by Othram prior to its SNP data being passed to the FBI.  Mr. Gamette was involved in the original process that led to the IGG contract with Othram (TX 1 -
+23-25, at 89) which involved coming up with specifi cations for the scope of work for the contract.  
+Mr. Gamette specifically testified that “manuals, protocols were provided back to us as part of the bid” ( Id. at 91).  Mr. Gamette also testified that the contract with Othram  
+specifies that they would keep any data or other things associated with that. . .  And 
+so in this case I don’t know if they have other data or other records that they have kept, they have retained. We had asked them, as part of the termination in this case of our work, that they would preserve those things or that they would communicate with both the prosecutor's office and with Moscow Police Department if any of that information was to be disposed or whatnot . (Id.at 92 
+[emphasis added].)  
+ 
+Mr. Gamette stated that protocols and procedures were received from Othram in 2021 during the 
+bidding process, he believed would “likely exist.” ( Id. at 112).  In response to the new revelations 
+in Mr. Gamette’s testimony that the State had in its possession the protocols of the lab through the  
+MOTION IN LIMINE #11  RE: EXCLUDE IGG EVIDENCE    Page 6  contracting process as well as other significant materials, Mr. Kohberger filed his 22nd 
+supplemental discovery request on January 28, 2025, requesting multiple items relating to Mr. Gamette’s testimony.  In its response, dated February 11, 2025, the State  objected to a number of 
+items.  For purposes of this motion, the State response to request numbers 424 and 425 raises the specter of prosecutorial misconduct.  Mr. Kohberger specifically requested “All Othram lab Protocols/Policy and Procedures, and validation studies in place in December 2022 as testified about by Matthew Gamette on 1/23/25,” as well as all bench notes, electronic data files (.fastq), photographs and quality records.
+5   
+The State objected to this request in particular as being untimely and stated that  “[t]he 
+court did not require the State to produce any of the other bidding documentation, including Othram’s bid submission that discussed Othram’s accreditation status, ot her customers, past cases, 
+the name and qualifications of the primary genealogist, the name and qualifications of the chief scientist, and the SOPs or analytical methods that were to be used.”
+6   This was the first time that 
+the defense had been made aware of the contents of the material provided to the court for in camera  
+review.  Had Mr. Kohberger known that the materials contained the information described, certainly would have sought the specific listed information.  Because Mr. Kohberger did not know 
+the materials provided to the court included reference to SOPs and analytical methods, and because 
+Mr. Nye affirmatively represented that Othram had no such documentation, Mr. Kohberger did 
+not ask the court to reconsider its order regarding production  of the materials after the in camera  
+review or at the hearing on May 30, 2024 ( See Attached Exhibit 4, Item 4,).  
+Most troubling is the last statement in the State’s February 11, 2025, objection, that while 
+the materials provided to the court for review contained references to the SOPs, the SOPs were 
+ 
+5 These items are essentially identical to Items 1 -6 from Exhibit N filed in support of Mr. Kohberger’s Fifth Motion to 
+Compel.  
+6 Motion in Limine #11 Exhibit 5 State’s response to Defendant’s 22nd Supplemental Discovery Request   
+MOTION IN LIMINE #11  RE: EXCLUDE IGG EVIDENCE    Page 7  “inadvertently excluded from the materials.” Consequently, the court was misled about the 
+materials reviewed in camera  resulting in deprivation of clearly discoverable documentation. The 
+State objects to the production of materials that it conceded in 2023 Mr. Kohberger was entitled to.   
+Just six days later, on February 17, 2025, in its Expert Witness Rebuttal, the State provided 
+a disclosure for David Mittelman.
+7  Mittelman is the CEO of Othram labs.  The proposed testimony 
+concerns the testing done by Othram to generate the SNP profile.  The proposed testimony covers 
+the testing methods used by Othram, validation and quality standards.  All of these topics were 
+covered in Mr. Kohberger’s Fifth Motion to Compel.  
+ARGUMENT  
+“Under the Due Process Clause of the Fourteenth Amendment, criminal prosecutions must 
+comport with prevailing notions of fundamental fairness. We have long interpreted this standard of fairness to require that criminal defendants be afforded a meaningful o pportunity to present a 
+complete defense. To safeguard that right, the Court has developed ‘what might loosely be called the area of constitutionally guaranteed access to evidence.’” ( California v. Trombetta 467 U.S. 
+479,485 (1984) [citations omitted].)  “ ’[S]uppression by the prosecution of evidence favorable to 
+the accused upon request violates due process where the evidence is material either to guilt or to punishment, irrespective of the good faith or bad faith of the prosecution.’”  ( Arizona v Youngblood 
+488 U.S. 51, 53 (1988), quoting United States v. Valenzuela–Bernal , 458 U.S. 858, 867 (1982).)  
+The Idaho Supreme Court recognized that non disclosure cases can be place into three different 
+categories: 1) “’the undisclosed evidence demonstrates that th e prosecution’s case includes 
+perjured testimony and that the prosecution knew, or should have known, of the perjury’” ( United 
+States v Agurs , 427 U.S. 97, 103 (1976)); 2) Brady  type cases where the prosecution is put on 
+ 
+7 David Mittelman was disclosed in the State’s Rebuttal Expert disclosure.   
+MOTION IN LIMINE #11  RE: EXCLUDE IGG EVIDENCE    Page 8  notice of “what is specifically desired. Thus, the prosecutor should be well aware of what evidence 
+will be of assistance, and such notice should correspondingly raise the level of the prosecution’s duty to disclose;” and 3) where no specific request for newly discovered and potentially exculpatory evidence was made by the defense. ( Paradis v. State , 110 Idaho 534, 538- 39 (1986).)  
+Separately, “the problem of alleged loss or destruction by the state of allegedly exculpatory 
+evidence. . . . raise additional difficulties, such as that of deciding how materially favorable the evidence is to the defendant’s case and implementing an adequate remedy where justified. Usually, the only feasible remedy is dismissal of the prosecution or suppression of evidence that would have been impeached by the lost or destroyed evidence.” Id.  at 539 [emphasis added].   
+Mr. Kohberger is now asking for the remedy of exclusion because at this late date, he will 
+be unable to investigate the impact of the evidence itself as well as the consequence of withholding such evidence, even if the missing discovery is produced at this  point.  Mr. Kohberger’s right to 
+receive and review this evidence is guaranteed by the 5
+th, 6th and 14th Amendments to the United 
+States Constitution and Article 1 Section 13 of the Idaho Constitution.  
+In this case, the question of whether the State has withheld or concealed evidence 
+specifically requested by Mr. Kohberger, is evident in the record as laid out above. Knowing that 
+Mr. Kohberger was seeking such evidence, the State in bad faith failed to produce the evidence it 
+conceded Mr. Kohberger was entitled to as early as 2023 and now for the first time has informed 
+Mr. Kohberger and this court that some of the material sought was in their possession in 2023.   
+A. Brady violation 
+ 
+The basic tenet of Brady  stands to this day: “the suppression by the prosecution of evidence 
+favorable to an accused upon request violates due process where the evidence is material either to 
+guilt or to punishment, irrespective of the good faith or bad faith of the prosecution.”  (Brady v 
+Maryland 373 U.S. 83, 87 (1963).)   
+MOTION IN LIMINE #11  RE: EXCLUDE IGG EVIDENCE    Page 9  if the subject matter of such a request is material, or indeed if a substantial basis 
+for claiming materiality exists, it is reasonable to require the prosecutor to respond either by furnishing the information or by submitting the problem to the trial judg e. When the prosecutor receives a specific and relevant request, the 
+failure to make any response is seldom, if ever, excusable.  
+ 
+(Paradis v. State  110 Idaho 534 (1986)[quoting Augurs , 427 U.S. at 106].)  Here, Mr. Kohberger 
+repeatedly requested materials related to IGG and the court found that he had made a showing of 
+materiality as to the records sought through discovery requests and motions to compel. The Court held two hearings on Mr. Kohberger’s motion to compel.  In its first order dated November 13, 2022, Judge Judge of the Latah County District Court, after hearing evidence, issued an order explaining that Mr. Kohberger had es tablished sufficient evidence at the hearing to meet the “low 
+threshold” of materiality for “at least some of the IGG information sought” (Order Addressing IGG DNA and Order for In Camera Review, at 20).  The focus of the order was on the second 
+bucket of material identified by both Mr. Kohberger and the State, noting that “[a]ccording to the State, the rule only requires the disclosure of the results or reports themselves, in this case the STR 
+DNA profile and the SNP DNA profile created from the Ka -Bar kni fe,” and “[i]t is undisputed that 
+the SNP profile itself is the result of a scientific test done on evidence in the case,” acknowledging that the State had conceded that under Rule 16(b)(5), it was required to produce the results of the testing done by Othram labs. ( Id. at 22 -23). 
+The court then conducted an in camera  review of the totality of the IGG material provided 
+by the State concerning the construction of the family tree by Othram and then the FBI.  The court ordered the production of essentially all of the reviewed material with the exception of certain documents pertaining to the contract between Othram and the State (Sealed Order for Disclosure 
+of IGG Information and Protection Order, dated December 29, 2023).  
+The State provided test results in the form of two large text files, one identified as being 
+the data produced by Othram and the second as the data produced by the FBI.  Still not having 
+received the promised material regarding the SNP testing conducted by Othram, Mr. Kohberger  
+MOTION IN LIMINE #11  RE: EXCLUDE IGG EVIDENCE    Page 10  renewed his request for the material in his 15th Supplemental discovery request and filed his Fifth 
+Motion to Compel Discovery.  A hearing was held in the Latah County District Court on May 30, 
+2024, during which the State reiterated that Mr. Kohberger was entitled to the requested material 
+but that requested material did not exist.  The requested material was laid out in Exhibit N and 
+included all bench notes, all electronic data, all protocols and SOPs, all contamination logs, and 
+validation summaries.  
+During the most recent hearing before this Court, Mr. Gamette testified that during the 
+contracting process, the State had received at least the protocols for testing from Othram and that 
+the materials most likely were still in the State’s possession.  Mr.  Kohberger renewed his request 
+for the production of this material in light of Mr. Gamette’s testimony in its 22nd discovery request.  
+In request #424, Mr. Kohberger requested “[a]ll Othram lab Protocols/Policy and Procedures, and 
+validation studies in pla ce in December 2022 as testified about by Matthew Gamette on 1/23/25” 
+to which the state responded 
+Othram’s protocols and procedures in the context of the bidding process. The 
+documents related to the bidding were included in or referenced in the materials provided to the court to review in camera. The court required the State to discover only the MOU f rom the bidding documents. (See Sealed Order for Disclosure of 
+IGG Information and Protective Order, p.5, filed 12/29/2023 [“The State need only 
+discover pages 99- 103, the Memorandum of Understanding. The remaining 
+contract documents are not relevant to an y issue in the case.”]).  
+ 
+The court did not require the State to produce any of the other bidding 
+documentation, including Othram’s bid submission that discussed Othram’s accreditation status, other customers, past cases, the name and qualifications of the 
+primary genealogist, the name and qualifications of the chief scientist, and the 
+SOPs or analytical methods that were to be used. Though the SOPs were 
+inadvertently excluded from the materials reviewed in camera, the bidding document referencing the SOPs were included and the cour t did not require 
+disclosure of that document or the SOPs.  
+ If the defense thought it should have access to any of the protected materials, the 
+proper procedure would have been to move the court to reconsider its decision on 
+the protective order and the proper time would have been prior to the defense’s 
+deadline fo r discovery motions. 
+ 
+(See attached Exhibit 5 [emphasis added]).   
+MOTION IN LIMINE #11  RE: EXCLUDE IGG EVIDENCE    Page 11   This objection is incomprehensible in light of the State’s concession that the material 
+requested in request 424 was for materials that the State has repeatedly conceded were discoverable 
+under Rule 16(b)(5), and assuring the court on May 30, 2024, that t he State understood its 
+obligation to produce the material.   
+ Not until February 2025 did Mr. Kohberger learn that the State had possession of 
+minimally, the SOPs and protocols requested in their Fifth Supplemental Motion to Compel.  Why did the State not alert the court at the hearing on May 30, 2024, that in part the materials sought by Mr. Kohberger were included in the material provided for in camera  review in October 2023?  
+And most troubling, why did the State represent that the materials from Othram did not exist, when in fact at least some of the materials re quested were in the possession of the Latah County 
+Prosecutor’s office?  Idaho Rule of Prof. Conduct 3.3(a) requires that a lawyer not make “a false statement of fact or law to a tribunal or fail to correct a false statement of material fact or law previously made to the tribunal by the lawyer.”  
+ In addition, the State seems to imply that Mr. Kohberger had a duty to ask the court to 
+reconsider the decision regarding the material review in camera  without knowing that the materials 
+sought were contained in the reviewed materials, something the State now acknowledges and did not disclose.  As noted in the State’s Response, not only was the SOP itself “inadvertently” not provided for the review but t he inventory supplied to the court and Mr. Kohberger listed the 
+materials in the most generic terms as “ ISP/Othram Contract Documents” (See Attached Exhibit 
+3).    The State’s response appears disingenuous.  By essentially hiding the existence of the 
+requested material under an innocuous and generic title, and not informing the court that at least a portion of the documents requested were actually already in the pos session of the court in the form 
+of the in camera  submission, the State then falsely claimed that none  of the documents requested 
+existed.   
+MOTION IN LIMINE #11  RE: EXCLUDE IGG EVIDENCE    Page 12   The State’s objection to the timeliness of the request is not well taken because Mr. 
+Kohberger only learned for the first time in January 2025, that material sought his Third and Fifth 
+Motions to compel were in the possession of the State after representa tions that these materials did 
+not exist and that in fact the Latah County Prosecutor’s Office had been in possession of a portion of those materials as early as late 2023.  
+ The same arguments apply to Mr. Kohberger’s request #425, 
+Othram lab materials created, collected or held pursuant to the policy and protocol 
+in place as testified to by Matthew Gamette on 1/23/25. This request includes but is not limited to: all bench notes, original electronic data files (.fastq), photographs, quality records including positive and negative controls and degradation/contamination documents, bioinformatic methods, and documents related to case file #OCN221122- 01. 
+ And request #426  
+ 
+All documents and records produced to the FBI, including but not limited to documents and records from Othram, Moscow Police Department, Idaho State Police and Latah County Prosecutor’s Office.  
+ 
+ Finally, on February 17, 2025, the State produced a disclosure for rebuttal witness David 
+Mittelman of Othram labs.  Mittelman will testify about the methods, validations and quality 
+systems in place at Othram among other topics.  All of these topics are covered by the requests for discovery made in the Third and Fifth Motions to Compel.  If Mittelman is allowed to testify, Mr. Kohberger would be unable to effectively confront his testimony given the dearth of documents regarding the lab testing.  Counsel for Mr. Kohberger would be ineffective given the timing of this disclosure and the topics raised in the disclosure.  As Mittlemen points out, any credible opinion that Mr. Kohberger might seek would require an expert witness with extensive direct experienc e 
+with SNP testing and FIGG to speak to the highly technical aspects of the testing and FIGG analysis.  Mr. Kohberger is prejudiced, as set forth below  
+“The Due Process Clause of the Fourteenth Amendment requires the State to disclose to 
+criminal defendants favorable evidence that is material either to guilt or to punishment.” California  
+MOTION IN LIMINE #11  RE: EXCLUDE IGG EVIDENCE    Page 13  v. Trombetta 467 U.S. 479, 480 (1984).  The Due Process Clause requires “that criminal defendants 
+be afforded a meaningful opportunity to present a complete defense. To safeguard that right, the 
+Court has developed ‘what might loosely be called the area of constitutionally guaranteed access to evidence.’” Id . at 485 [quoting Unites States v. Valenzuela- Bernal , 458 U.S. 858, 867 (1982).  
+The Idaho Supreme Court  
+announced a test for determining when a defendant’s due process rights have been 
+violated by the State’s loss or destruction of allegedly exculpatory evidence:  
+ 
+“(1) whether the evidence was material to the question of guilt or the degree of punishment; (2) whether the defendant was prejudiced by the loss or destruction of the evidence; and (3) whether the government was acting in good faith when it destroyed or l ost the evidence.”  
+ 
+(State v. Ish 166 Idaho 492, 514 [quoting Paradis v. State , 110 Idaho 534, 539 (1986).])  
+ 
+We have recognized that the Supreme Court’s subsequent  
+decision in Youngblood consolidated these three factors  
+in cases where the destroyed evidence is of unknown value  
+“through its reasoning that materiality and prejudice to the  
+defense can be presumed where the government acts in bad  
+faith.  
+ 
+(State v. Ish, at 514 [quoting Stuart v. State  127 Idaho 806, 816].)  
+1. Materiality  
+In this case, the court has already found that the IGG materials are material.  The State has 
+conceded that the testing from Othram falls under Rule 16(b)(5), requiring that the State produce 
+the material.  
+2. Prejudice  
+As set forth above, Mr. Kohberger has requested materials relating to IGG testing in two 
+motions to compel, and in response to both motions, the State has conceded that materials relating to the testing conducted by Othram are discoverable under Rule 16(b) (5).  Despite this, Mr. 
+Kohberger sits in an untenable position.  Discovery has closed, expert disclosures have been exchanged, the time for filing motions to dismiss has passed, in Limine motions are being filed  
+MOTION IN LIMINE #11  RE: EXCLUDE IGG EVIDENCE    Page 14  and trial is rapidly approaching.  Mr. Kohberger’s motion to suppress and Franks  are impacted by 
+the failure to timely produce discovery as these materials may have provided information relevant 
+to the issues presented, particularly to what information Othram obtained via the testing.8   
+Additionally, the State now has noticed witness David Mittelman, CEO of Othram, who 
+will testify in “rebuttal” to Mr. Kohberger’s IGG witnesses.  The proposed testimony covers topics such as validation, policy and lab protocols and quality measures.  All of these topics were covered in Mr. Kohberger’s discovery requests.  Mr. Kohberger is left in the position of not being able to cross examine Mittelman effectively due to the complete lack of discovery of the material requested.  The prejudice to Mr. Kohber ger is clear.  
+Even if the court orders production of the materials sought at this late date, Mr. Kohberger, 
+is significantly handicapped.  Had Mr. Kohberger received these materials in a timely fashion in 2023, he would have been able to utilize the materials for motion work and consultation with 
+experts and be prepared to proceed to trial.   
+3. Bad faith  
+ Here, bad faith is evident, and materiality and prejudice should be presumed.  The State, 
+after conceding that they were required to turn over the testing conducted by Othram, failed to do so.  When pressed at the May 30, 2024, hearing on the existence of the material sought, the State affirmatively stated that the material did not exist.  Mr. Kohberger has just learned that during that hearing the State did have at least a portion of the requested material: the lab polices and protocols and SOPs. The State  knew in May 2024 that while they had failed to provide the court with the 
+actual SOP, that the court had substantial material in its possession that would in part have satisfied 
+ 
+8 One of the State’s arguments regarding the Motion to Suppress is that the State did not have access to SNP data relevant 
+to medical information, one of the key arguments in Mr. Kohberger’s motion.  The documents from Othram could have 
+bolstered Mr. Kohber ger’s arguments.   
+MOTION IN LIMINE #11  RE: EXCLUDE IGG EVIDENCE    Page 15  Mr. Kohberger’s request.  The State had a duty to inform the court but instead misled the court 
+into believing that the materials did not exist and were not in the possession of the State. 
+These circumstances have given the State an evidentiary advantage because of their failure 
+to be fully candid with the court during the discovery process.  This is especially true in that the State now intends to call a witness from Othram labs who can onl y be effectively cross examined 
+with the material sought by Mr. Kohberger and concealed by the State. In doing so, the State has hidden or perhaps caused to be destroyed material evidence necessary for Mr. Kohberger to present a full defense.  This type of  conduct violates both Federal and State Due Process rights.  In order 
+to even the playing field, the court should sanction the State, even if the requested discovery is produced.  
+The State has benefited by the taking of testimony of Mr. Kohberger’s witnesses at the 
+January 23, 2025 hearing as well as Mr. Kohberger’s timely production of expert disclosures regarding their intended testimony at trial.  Given the posture of this case, the conduct of the State 
+in hiding the evidence and the late disclosure of Mittelman as an expert, Mr. Kohberger seeks to exclude all evidence of the IGG work and does not intend to call the witnesses Leah Larkin and Daniel Hellwig.
+9  Furthermore, if Mr. Kohberger does not call Larkin or Hellwig, Mittelman’s 
+testimony is no longer rebuttal, it would have to be presented in the State’s case in chief.  The late disclosure and failure to produce the requested discovery violates not only Idaho law but also the 
+order of this Court regarding discovery and expert disclosure deadline as well as Mr. Kohberger’s due process and confrontation rights.  The court should exclude all reference to the IGG process from SNP testing to the construction of the family tree.  
+  
+ 
+9 If the court denies this motion to exclude IGG, then Mr. Kohberger may be required to call these witnesses as rebuttal 
+to Mittelman .  
+MOTION IN LIMINE #11  RE: EXCLUDE IGG EVIDENCE    Page 16  CONCLUSION 
+ Mr. Kohberger’s motion should be granted.  Additionally, the court should sanction the 
+State by excluding the IGG evidence in the form of the testimony of Mittelman based on their 
+violations of the court’s order regarding discovery sanctions and its bad faith behavior in concealing evidence that it knew was required to be discovered and that it had in its possession.  Such a serious sanction is warranted in the face of the State’s conduct and to remedy the prejudice to Mr. Kohberger.  
+DATED this ___ 24____ da
+ y of February, 2025. 
+ 
+ 
+___________________________________ 
+       BICKA BARLOW  
+       ATTORNEY AT LAW  
+   
+  
+CERTIFICATE OF DELIVERY 
+ 
+I hereby certify that a true and correct copy of the foregoing was personally served as 
+i
+ndicated below on the ___24____ day of February, 2025, addressed to: 
+  Latah County Prosecuting Attorney –via Email: paservice@latahcountyid.gov  
+Elisa Massoth – via Email: emassotht@kmrs.net   
+Jay Logsdon – via Email: Jay.Logsdon@spd.idaho.gov  
+Bicka Barlow, Attorney at Law – via Email: bickabarlow@sbcglobal.net  
+Jeffery Nye, Deputy Attorney General – via Email: Jeff.nye@ag.idaho.gov  
+  
+       
+      ____________________________________ 
+ 
+ 
+MOTION IN LIMINE #11  RE: EXCLUDE IGG EVIDENCE    Page 17    

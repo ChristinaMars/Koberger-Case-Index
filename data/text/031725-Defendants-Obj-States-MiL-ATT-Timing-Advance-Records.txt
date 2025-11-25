@@ -1,0 +1,202 @@
+OBJECTION TO THE STATE’S MOTION IN LIMINE  
+RE: AT&T TIMING ADVANCE RECORDS        Page 1 
+  Anne Taylor Law, PLLC 
+Anne C. Taylor, Attorney at Law 
+PO Box 2347 
+Coeur d’Alene, Idaho 83816 
+Phone: (208) 512-9611 
+iCourt Email: info@annetaylorlaw.com 
+  
+Elisa G. Massoth, PLLC 
+Attorney at Law  
+P.O. Box 1003 
+Payette, Idaho 83661 
+Phone: (208) 642-3797; Fax: (208)642-3799 
+  
+Bicka Barlow  
+Pro Hac Vice  
+2358 Market Street 
+San Francisco, CA 94114 
+Phone: (415) 553-4110 
+  
+Assigned Attorney:  
+Anne C. Taylor, Attorney at Law, Bar Number: 5836 
+Elisa G. Massoth, Attorney at Law, Bar Number: 5647 
+Bicka Barlow, Attorney at Law, CA Bar Number: 178723 
+Jay W. Logsdon, First District Public Defender, Bar Number: 8759 
+ 
+IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE  
+STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA  
+ 
+ 
+CASE NUMBER CR01 -24-31665 
+ 
+ 
+OBJECTION TO THE STATE’S 
+MOTION IN LIMINE RE: AT&T 
+TIMING ADVANCE RECORDS  
+ 
+ 
+ 
+COMES NOW, Bryan C. Kohberger, by and through his attorneys of record, and hereby 
+respectfully objects to the State’s Motion in Limine to exclude reference to unproduced AT&T 
+Timing Advance  Records  (TA).  Mr. Kohberger’s objection is grounded in his rights under the 
+United States Constitution, 5th, 6th and 14th Amendments and the Idaho Constitution Article 1 
+Section 13.   STATE OF IDAHO , 
+ 
+                                   Plaintiff,  
+ 
+V. 
+ 
+BRYAN C. KOHBERGER,  
+ 
+                                   Defendant.  Electronically Filed
+3/17/2025 2:48 PM
+Fourth Judicial District, Ada County
+Trent Tripple, Clerk of the Court
+By: Jennifer Keyes, Deputy ClerkOBJECTION TO THE STATE’S MOTION IN LIMINE  
+RE: AT&T TIMING ADVANCE RECORDS        Page 2  
+  The State’s motion seeks to prevent Mr. Kohberger  from  confronting, through a full and 
+fair cross examination, a portion of the case .  The State seeks Mr. Kohberger’s silence on records 
+produced by AT&T, Timing Advance (TA) records.  The State’ s motion  informs the Court TA 
+records  were not produced by AT&T Global Legal Demand Center until May of 2023.  Mr. 
+Kohberger agrees with that claim, however that is only partial information.  The State is misleading 
+the Court in its motion by what it leaves out.  What the State is not saying is that the TA Records 
+existed at AT&T in November and December of 2022.  The  State  has to know this to be true 
+because in April of 2024 the State produced the actual records  from AT&T  for cell  towers and 
+individual TA records for two ( 2) of the four deceased and one for a person who had been a person 
+of interest  at the beginning of the investigation  as well as over 3800 people on the cell t ower .  
+These records were from  November of  2022 and  were produced in discovery to Mr. Kohberger in 
+2024.  
+It is accurate that AT&T Global Legal Demand Center (GLDC) did not produce  TA 
+reports to Law Enforcement in 2022.  The TA  report s from AT&T GLDC were not available to 
+State and Local Law Enforcement until June of 2023, however the existence of these reports in 
+this case is direct evidence that these records could be and were provided to law enforcement by 
+AT&T prior to  production through GLDC .  As such, Mr. Kohberger’s AT&T TA  report from 2022 
+would not have been provided through AT&T’s GLDC.1 
+AT&T had TA  Reports prior to their availability through GLDC.  The State , attempting to 
+say the reports were not available until GLDC produced them , is nothing more than asking the 
+Court for permission to  hide the State’s failure to disclose  Mr. Kohberger’s AT&T TA report .  
+Depending on how far back the report goes it will  contain exculpatory evidence that will partially 
+ 
+1 AT&T GLDC began storing the data to produce the TA  reports in May of 2023, but did not 
+provide the actual TA  reports to State and Local Law Enforcement until June 15, 2023.   
+ OBJECTION TO THE STATE’S MOTION IN LIMINE  
+RE: AT&T TIMING ADVANCE RECORDS        Page 3  
+  corroborate Mr. Kohberger’s alibi.  Mr. Kohberger will provide evidence, testimony and argument 
+in support of his claim that the State  misrepresents the  availability of TA  records .  
+ 
+Background : 
+Mr. Kohberger’s TA records are different than other records provided in discovery.  The 
+records are location data that are accurate in determining the location of a cell phone.  TA  (TA) is 
+a term used in the cellular network industry relating to a measurement of time.  It measures the 
+time it takes for a radio frequency signal to travel between a mobile device and a base station in a 
+cellular network. TA is required in cellular network s to assign a time slot to a mobile device 
+allowing it to transmit data so that it doesn't interfere with other devices.  Given the signal is traveling at a known speed (the speed of light/  299,792 kilometers per second) it is possible to us e 
+timing information to determine the distance of the mobile device from the base station.  T hese 
+measurements can be very accurate.  When a mobile device is using multiple cell sites, it is possible to utilize trilateration to determine a very specific location , typicall y ranging in meters.  
+Essentially, TA records provide a much greater detail of accuracy than regular cell site location information only providing cell site and cell sector information.  When analyzing a pattern of life associated with a mobile device, TA can provide accuracy in such detail it is possible to pinpoint precise travel routes, stagnation, and anomalies within a pattern of life. Law Enforcement commonly relies on TA records for this purpose.  The methodology and accuracy is supported through est ablished, published, and accepted scientific practices.  
+AT&T wa s the last of the major providers in the United States to produce TA data for l aw 
+enforcement.  The first TA reports AT&T provided to l aw enforcement w ere the result of a 
+software program utilized by AT&T from a third party, Viavi Solutions.  Viavi Solutions offered a software solution known as AriesoGEO.  In using the AriesoGEO software, AT&T was able to 
+create and produce TA records  for law enforcement , but due to the pricing of the software it was OBJECTION TO THE STATE’S MOTION IN LIMINE  
+RE: AT&T TIMING ADVANCE RECORDS        Page 4  
+  at a great expense.  As a result, only certain law enforcement agencies were provided access to 
+these reports, the FBI has been  the primary agency given access.  T he TA reports were not common 
+nor were they created in the normal AT&T ecosystem ; thus, TA reports were not accessible to the 
+GLDC personnel within AT&T.  The FBI utilized  a different legal compliance unit within AT&T 
+to access these TA records.  That legal compliance unit is separate from GLDC .  When these 
+reports were first made available to the FBI, it was draped in secrecy. As a result, there is little 
+documentation to rely on  when dealing with early AT&T TA  reports made available to the FBI .     
+AT&T developed a new system, outside of the AriesoGEO system , to produce these 
+records at a fraction of the cost ; this cost reduction allowed AT&T to provide these records to s tate 
+and local law enforcement.  As a result, GLDC was given access to TA reports in May of 2023 
+and began providing them to s tate and l ocal law enforcement in June of 2023.  The distinction is 
+that AT&T TA records were available to only select law enforcement , specifically the FBI,  well 
+before this internal change.  
+Timing Advance  Information and Records in the State’s Possession:  
+Mr. Kohberger is aware of the fact AT&T GLDC did not produce TA  reports in 2022.  
+There is no doubt any representative from AT&T GLDC will testify to this fact. Mr. Kohberger  
+does not contest this claim.  The State is also aware of this, as they did not obtain the current  AT&T 
+TA records in their possession through the AT&T GLDC.  They had to utilize the FBI who went 
+through a different legal compliance unit within AT&T to obtain those records. 
+At the onset of this investigation, Detective s with the Moscow Police Department began 
+obtaining call detail records as part of the investigation.  In doing so, they heavily relied on assistance from Special Agent Nick Bal lance with FBI CAST.  This is first documented in emails 
+exchanged on November 15, 2022.   
+Detectives  Lawrence Mowery  and Brett Payne  were tasked with writing search warrants 
+to AT&T for a number of different requests.  O n November 15, 2022,  Detective Mowery  requested OBJECTION TO THE STATE’S MOTION IN LIMINE  
+RE: AT&T TIMING ADVANCE RECORDS        Page 5  
+  verbiage , via email,  from SA Ba llance in reference to AT&T records.  An email string that was 
+produced by the State in discovery contains a very clear account of SA Bal lance’s knowledge of 
+AT&T TA being available.  SA Ballance’s email to Det. Mowery states:  
+  “Subject: Re: ATT Tower Dump.pdf  
+Nelos became Location Database of Record or LocDBoR a little while back. List that and Timing Advance since both are applicable w them now. Nick Bal lance”  
+In reviewing this email, there is no doubt the email is in reference to AT&T, as it i s 
+referenced in the subject line.  Additionally, there is an attachment with the email chain that contains the words “Warrant ATT”.  
+Det. Mowery then forwarded SA Bal lance’s email to Prosecutor Ashley Jennings.  
+(Objection to State’s MIL: AT records Exhibit 1, email chain.)   Det. Mowery was informing 
+Prosecutor Jennings of the availability of AT&T TA reports  and requesting it be added to the 
+warrant.  In reviewing the AT&T Search Warrants that were produced over the next few days after 
+this email chain, all of them contain specific verbiage requesting AT&T TA  reports, just as 
+recommended  by SA Balance.   
+While the above reference email chain is clear as to the existence, availability , and 
+knowledge of availability to the State regarding  AT&T TA reports in November of 2022.   In July 
+of 2024 Mr. Kohberger received from the  State AT&T T A Reports from 2022 in reference to this 
+investigation.  These TA reports were not for his phone.   
+The State turned over 3 s eparate AT&T TA reports.  All three reports contain AT&T TA  
+data from November of 2022.  In the early phases of this investigation, l aw enforcement identified 
+3 AT&T phones of interest , two (2) belong to deceased  and the third phone belonged  to a person 
+of interest whom l aw enforcement was investigating as a suspect.  Det ective  Mowery authored an 
+affidavit in support of a  search warrant to AT&T, issued on November 16, 2022, that demanded OBJECTION TO THE STATE’S MOTION IN LIMINE  
+RE: AT&T TIMING ADVANCE RECORDS        Page 6  
+  the AT&T TA  records for these phones.  All three TA  reports were produced by AT&T and are 
+currently in the State’s possession.   
+The TA report the State disclosed on other phones is what Mr. Kohberger has sought 
+relating to his own phone record.  He requested the report through discovery and during a motion 
+to compel.  Mr. Kohberger  is aware, and will  provide testimony in support, that  the AT&T Timing 
+Reports currently in the State’s possession were not provided to the State by AT&T GDLC.  The reports were produced through another compliance unit within AT&T through the FBI’s close relationship with AT&T.  
+Mr. Kohberger posits that relying on GLDC stating they did not provide TA reports in 2022 
+misses the issue at hand.  Throughout the discovery process the State has provided different explanations  about TA report availability but always claiming it was not in their possession.   The 
+State obtained search warrants in December of 2022 where the State sought  AT&T TA reports for 
+Mr. Kohberger from  November of 2022.  The search warrant for Mr. Kohberger’s phone data 
+contains identical  verbiage  as was used requesti ng TA reports in warrants issued for other  AT&T 
+phone s in November  of 2022.  The same process of serving the warrant was also followed, Moscow 
+Police Department obtained the warrant, provided it to FBI SA Nick Bal lance, who then provided 
+it to AT&T.  The exact same process which resulted in TA  reports being produced in November 
+was repeated in December. (Objection to State’s MIL: TA Records, Exhibit 2, Search Warrants AT&T.)   The second AT&T warrant contained a document titled AT&T Mobility Carrier Request 
+Form instructing AT&T to provide TA records for the past 7 days as  available. (Objection to 
+State’s MIL:  TA Records, Exhibit 3, AT&T M obility Car rier Request Form .) 
+Mr. Kohberger has sought TA  records related to his own phone and litigated the issue.  
+During the course of litigation,  the lead detective testified he had seen Mr. Kohberger’s timing 
+advance records .  Mr. Kohberger has documents produced with search warrants that instruct 
+AT&T to provide Timing Advance Data.  Discovery documents contain emails about including OBJECTION TO THE STATE’S MOTION IN LIMINE  
+RE: AT&T TIMING ADVANCE RECORDS        Page 7  
+  that request in search warrants because it was available.  Mr. Kohberger provides those documents 
+as exhibits.   
+CONCLUSION 
+Mr. Kohberger has a right to confront evidence in the case against him. His Constitutional 
+protections mean he must be afforded a full and fair opportunity to cross examine state’s witnesses.  
+AT&T TA reports are available; the State has produced reports that were prepared before GLDC produced them for law enforcement. TA reports relating to him exist, yet the State has not produced 
+them.  The State now seeks to limit his cross examination  and their lack of disclosure by hiding 
+behind half-truths .  Mr. Kohberger must be allowed to explore the State withholding the evidence.   
+DATED this ___ 17____ day of March , 2025.  
+ 
+                
+       _____________________________ 
+      ANNE C. TAYLOR  
+      ANNE TAYLOR LAW, PLLC  
+ 
+ 
+   
+CERTIFICATE OF DELIVERY 
+ 
+I hereby certify that a true and correct copy of the foregoing was personally served as 
+indicated below on the ___17____ day of March , 2025 addressed to:  
+ Latah County Prosecuting Attorney –via Email: paservice@latahcountyid.gov 
+Elisa Massoth – via Email: legalassistant@kmrs.net 
+Jay Logsdon – via Email: Jay.Logsdon@spd.idaho.gov 
+Bicka Barlow, Attorney at Law – via Email: bickabarlow@sbcglobal.net  
+Jeffery Nye, Deputy Attorney General – via Email: Jeff.nye@ag.idaho.gov  
+        
+       
+ 

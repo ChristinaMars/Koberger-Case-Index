@@ -1,0 +1,679 @@
+   
+ 
+STATE’S RESPONSE TO  DEFENDANT’S MOTION IN LIMINE #9 RE: EXCLUDING AMAZON CLICK 
+ACTIVITY EVIDENCE AT TRIAL  1 LATAH COUNTY PROSECUTOR’S OFFICE    
+WILLIAM W. THOMPSON, JR., ISB 2613  
+PROSECUTING ATTORNEY  
+ASHLEY S. JENNINGS , ISB 8491  
+SENIOR DEPUTY PROSECUTING ATTORNEY 
+Latah County Courthouse 
+522 S. Adams Street, Ste. 211 
+Moscow, ID 83843  
+Phone: (208) 883-2246  
+paservice@latahcountyid.gov 
+  
+  
+IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE   
+  
+STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA  
+  
+ 
+Case No. CR01 -24-31665 
+ 
+STATE’S RESPONSE  TO DEFENDANT’S 
+MOTION IN LIMINE  #9 
+ 
+RE: EXCLUDING AMAZON CLICK 
+ACTIVITY EVIDENCE AT TRIAL  
+  
+COMES NOW the State of Idaho, by and through the Latah County Prosecuting 
+Attorney, and hereby responds to Defendant’s Motion in  Limine  #9 Re:  Excluding Amazon Click 
+Activity Evidence at Trial.  
+FACTS  
+ On November 13, 2022, law enforcement responded to 1122 King Road in Moscow, 
+Idaho. Payne Aff., page 1, attached as State’s Exhibit S -1. Four victims were found deceased 
+with apparent stab wounds. Id.  at pages 1 -2. A Ka -Bar knife sheath with a U nited States Marine 
+Corps (USMC) logo was found lying next to one of the victims. Id.  Bryan Kohberger’s DNA was 
+found on the Ka-Bar knife sheath found on scene. Id. at page 18.    
+STATE OF IDAHO,   
+                        Plaintiff,   
+  
+V.  
+  
+BRYAN C. KOHBERGER   
+                         Defendant.   
+  Electronically Filed
+3/17/2025 5:25 PM
+Fourth Judicial District, Ada County
+Trent Tripple, Clerk of the Court
+By: Jennifer Keyes, Deputy Clerk   
+ 
+STATE’S RESPONSE TO  DEFENDANT’S MOTION IN LIMINE  #9 RE: EXCLUDING AMAZON CLICK 
+ACTIVITY EVIDENCE AT TRIAL   2 On April 26, 2023, the State applied for and was granted a search warrant for Bryan 
+Kohberger’s Amazon.com user activity.  This Search Warrant was amended by Magistrate Judge 
+Megan Marshall on May 8, 2023, to correct a scrivener’s error. Amended Search Warr ant, dated 
+May 8, 2023, attached as State’s Exhibit S -2. The Search Warrant directed law enforcement to 
+seize from Amazon.com : (1) Bryan Kohberger’s “customer click activity pertaining to knives 
+and accessories”; (2) payment methods  used ; (3) “details of items in carts, to include all items 
+added to cart, all items removed or deleted from cart, wish listed or shopping baskets”; (4) “all 
+suggestions made to account  ”; (5) all records regarding “reviews by other Amazon users” 
+viewed by Bryan Kohberger; (6) advertising data; (7) devices used to connect to account; (8) all account linked to account. Id.  at pages 1 -2. The Search Warrant was limited to March 20, 2022, 
+to March 30, 2022, and November 1, 2022, through December 6, 2022. Id.  The Search Warrant 
+was ser ved on May 10, 2023. Mowery Aff. attached as State’s Exhibit S -3. On June 27, 2023, 
+Amazon.com provided law enforcement responsive data  for the dates requested for each of the 
+above categories.  Id. This evidence was provided to Defendant as AV000388 on July 12, 2023.  
+ On December 18, 2024, the State disclosed Shane Cox, Litigation and Regulatory 
+Manager II Law Enforcement Response (LER), for Amazon.com as a witness for the above evidence. As articulated in the disclosure, it is the State’s position that Shane Cox’s testimony is 
+not expert testimony pursuant to Idaho Rules of Evidence 701. However, out of an abundance of caution, the State disclosed Mr. Cox as an expert pursuant to Idaho Rules of Evidence 702 and 
+703. The State made this strategic decision solely to ensure the State was not precluded from calling Mr. Cox as a witness if the Court  subsequently made the determination that his testimony 
+is based on specialized knowledge.      
+ 
+STATE’S RESPONSE TO  DEFENDANT’S MOTION IN LIMINE  #9 RE: EXCLUDING AMAZON CLICK 
+ACTIVITY EVIDENCE AT TRIAL   3  On March 14, 2025, and in response to the Court’s January 24, 2025, instruction  that 
+more disclosures were needed, the State filed an amended disclosure.1 
+ARGUMENT  
+I. I.R.E. Rule 106 Does Not Apply to Business Records Containing User Activity 
+Records  
+ The Defendant primarily relies on Idaho Rules of Evidence Rule 106 as the basis for his  
+motion  to exclude Amazon click history data . I.R. E. 106 states:  
+Remainder of or Related Writings or Recorded Statements.  If a 
+party introduces all or part of a writing or recorded statement, and adverse party may require the introduction, that time, of any other part – or any other writing or recorded statement – that in fairness ought to be considered at the same time.  
+ 
+Under I.R.E. 801 a “stat ement” is defined as an “oral assertion, written assertion, or 
+nonverbal conduct if the person intended it as an assertion.” Examples of related writings or 
+recorded statements related to I.R.E. 106 include : (1) transcript of Defendant’s taped interview ; 
+(See State v. Fain, 116 Idaho 82, 774 P.2d 252 (1989) ); (2) recording of  defendant’s statements to 
+law enforcement  (See State v. Parmer , 147 Idaho 210, 207 P.3d 186 (2009) ); (3) videotape of 
+victim’s intervie w (See State v. Bingham , 124 Idaho 698, 864 P.2d 144 (1993) ); and (4) 
+Defendant’s statements recorded on police officer body cam footage  (See State v. Ogden, 171 
+Idaho 843, 526 P.3d 1013 (2023) ).  
+Defendant cites  the Idaho Supreme Court’s ruling in Ogden regarding the reasoning for 
+the adoption of Rule 106 (completeness doctrine) . As this Court is well -aware (Steven J. Hippler 
+was the presiding judge) , Ogden was a felony drug case . The evidence at issue (officer b ody 
+worn video) fell under the purview of Rule 106. On appeal, the Idaho Supreme Court 
+ 
+1 The State is awaiting additional information from Amazon that the State understands will clarify that the extent AI 
+is incorporated into Amazon’s system, AI does not create a user’s actual inquiry.     
+ 
+STATE’S RESPONSE TO  DEFENDANT’S MOTION IN LIMINE  #9 RE: EXCLUDING AMAZON CLICK 
+ACTIVITY EVIDENCE AT TRIAL   4 commented on the common- law rule underpinning I.R.E. 106 stating:  “there is a danger that an 
+out-of-context statement  may create such prejudice that it is impossible to repair by a subsequent 
+presentation  of additional material.” Id.  at 856, 1026. (emphasis added). Further the Ogden Court 
+held that Rule 106 “requires the admission of these portions of the statement that are ‘necessary 
+to qualify, explain or place into context the portion already introduced’ .” Id. (emphasis added). 
+The Supreme Court’s analysis of the completeness doctrine relates  to “statements .” User activity 
+from a business does not fall under the purvie w of Rule 106 because they are not “statements .” 
+The State is not able to locate any Idaho caselaw that extends Rule 106 to raw data of user activity from a business.  
+ Further , in this case the evidence at issue is complete. The Defendant argues that the data 
+the State has disclosed  to the Defendant is “extremely narrow” when compared to the “more 
+inclusive and broad warrants and subpoenas.” Def. Mot. at 2. But this argument  is incorrect . To 
+confirm, the State has disclosed  to the Defendant all data, including clickstream data, that 
+Amazon has produced in this case. The State narrowly tailored a search warrant for evidence 
+regarding the crimes of homicide or burglary occurring at 1122 King Road. This included 
+temporal limitations based on the officer’s investigation which limited the search from March 20, 2022, through March 30, 2022, ( time it was known Bryan Kohberger purchased a Ka -Bar knife 
+with sheath, and sharpener from Amazon.com) and November 1, 2022, through December 6, 
+2022 (time right before and after the homicides). Kohberger’s entire click history (items not related to knives and accessories) was not relevant . Without any legal basis, the Defendant 
+claims the State  “cherry -pick[ed] specific clicks or purchases out the Amazon click history .” This 
+is simply not true unless you consider seeking only items of evidentiary value “cherry- picking.” 
+Irrelevant click activity on Kohberger’s account would not provide any relev ant context to    
+ 
+STATE’S RESPONSE TO  DEFENDANT’S MOTION IN LIMINE  #9 RE: EXCLUDING AMAZON CLICK 
+ACTIVITY EVIDENCE AT TRIAL   5 Kohberger’s actual click activity (i.e. purchase of a Ka- Bar knife with  sheath before the murders 
+and his click activity indicating a  search for a knife with sheath after the murders ).2  
+II. Bryan Kohberger’s Amazon.com Click Activity is Releva nt and Admissible  
+Under Idaho Rule of Evidence 401, evidence is relevant if “it has the tendency to make a 
+fact more or less probable than it would be without the evidence; and the fact is of consequence 
+in determining the action .” I.R.E. 401. Defendant appears to argue  that the evidence of 
+Defendant’s Amazon.com click history is not relevant. That is not the case.  A Ka -Bar knife 
+sheath with a USMC logo was found next to one of  the victims at 1122 King Road. The 
+Defendant’s DNA was found on the Ka -Bar knife sheath found on scene. Applying the test for 
+relevancy, first, Kohberger’s click activity which shows a  purchase of a Ka -Bar knife  and sheath  
+before the homicides  makes it mo re probable (than it would be without the evidence) that the  Ka-
+Bar sheath found at the crime scene was Bryan Kohberger’s. Second, Kohberger’s click activity 
+after the homicides make s it more probable (than it would be without the evidence) tha t 
+Kohberger had a reason to search for a Ka- Bar knife and sheath after the homicides . These facts 
+are of consequence to determining whether Bryan Kohberge r committed the homicides at 1122 
+King Road-  the central question before the jury. This evidence is clearly relevant.  
+Defendant  argues pursuant to I.R.E. 403, the  relevant evidence should be excluded. The 
+Defendant fails to show how this evidence is unfair, confusing, misleading, would cause delay, 
+waste time, or would be cumulative. That  is because it is none of thos e things . What is clear from 
+the Defendant’s filing, is that the Defendant doesn’t like this piece of the State’s evidence 
+ 
+2 The Defendant argues that Amazon’s r ecommendation syst em “influences what users see and click on.” Def. Mot. 
+at 3. But this purported use of AI technology is not relevant. Even if an algorithm might suggest certain products t o a 
+customer , the algorithm would not  cause a customer to repeatedly and over the course of several days browse 
+webpages relating to Ka- Bar knives, sharpeners, and sheaths.       
+ 
+STATE’S RESPONSE TO  DEFENDANT’S MOTION IN LIMINE  #9 RE: EXCLUDING AMAZON CLICK 
+ACTIVITY EVIDENCE AT TRIAL   6 
+(Defendant’s Amazon  click activity)  and therefore would like to keep this piece of evidence from 
+the jury. However, his arguments are  without merit. While this evidence  is prejudicial (relevant 
+evidence tends to be) it is not unfair.3 
+CONCLUSION  
+In conclusion, the State respectfully requests this Court rule that the Amazon data received 
+in response to a search warrant (which includes “click activity) is complete  and this evidence is 
+relevant and admissible.   
+ RESPECTFULLY SUBMITTED thi s 17th day of March  2025 . 
+ 
+        ______________________________  
+        ASHLEY S. JENNINGS  
+        SENIOR DEPUTY PROSECUTOR  
+   
+ 
+   
+  
+ 
+ 
+  
+ 
+ 
+ 
+3 The Defendant touches on the issue of identifying the account user making the Amazon search inquiries as shown 
+by the click activity. Defendant’s Motion at page 4. The State recognizes that the identity of the user making the 
+inquiries is relevant, and the State intends to rely not only on the click activity but also other circumstances to 
+connect the Defendant to the original knife purchase and subsequent search inquiries for a replacement knife and/or 
+sheath. This will include the Defendant’s financial activities; the click activities vis -a-vis othe r events, such as the 
+homicides ; a related purchase activity connected only to the Defendant ; and testimony from witnesses with 
+knowledge that the Defendant purchased a Ka -Bar knife.      
+ 
+STATE’S RESPONSE TO  DEFENDANT’S MOTION IN LIMINE  #9 RE: EXCLUDING AMAZON CLICK 
+ACTIVITY EVIDENCE AT TRIAL   7 
+  
+ 
+CERTIFICATE OF DELIVERY  
+ 
+I hereby certify that true and correct copies of the STATE’S REPONSE TO 
+DEFENDANT’S MOTION IN LIMINE #9 RE: EXCLUDING AMAZON CLICK ACTIVITY 
+EVIDENCE AT TRIAL were served on the following in the manner indicated below:  
+ 
+Anne  Taylor  
+Attorney at Law  
+PO Box 2347  
+Coeur D Alene, ID 83816  
+info@annetaylorlaw.com  
+ ☒ Mailed  
+☒ E-filed & Served / E -mailed  
+☐ Faxed  
+☐ Hand Delivered  
+ 
+ Dated this  17th day of March  2025.  
+ 
+ 
+  
+  
+  Exhibit A 
+Statement of Brett Payne 
+The below information is provided by Brett Payne, who is a duly appointed, qualified and 
+acting peace officer within the County of Latah, State of Idaho. Brett Payne is employed by 
+Moscow Police Department in the official capacity or position of Corporal (CPL) and has been a 
+trained and qualified peace officer for approximately four (4) years. CPL Payne is being assisted by 
+members of the Idaho State Police and agents of the Federal Bureau of Investigation. 
+On November 13, 2022, at approximately 4:00 p.m., Moscow Police Department (MPD) 
+Sergeant Blaker and I responded to 1122 King Road, Moscow, Idaho, hereafter the "King Road 
+Residence," to assist with scene security and processing of a crime scene associated with four 
+homicides. Upon our arrival, the Idaho State Police (ISP) Forensic Team was on scene and was 
+preparing to begin processing the scene. MPD Officer (OFC) Smith, one of the initial responding 
+officers to the incident, advised he would walk me through the scene. 
+OFC Smith and I entered the King Road Residence through the bottom floor door on the 
+north side of the building. OFC Smith and I then walked upstairs to the second floor. OFC Smith 
+directed me down the hallway to the west bedroom on the second floor, which I later learned 
+(through Xana's driver's license and other personal belongings found in the room) was Xana 
+Kemodle's, hereafter "Kernodle" room. Just before this room there was a bathroom door on the 
+south wall of the hallway. As I approached the room, I could see a body, later identified as 
+Kemodle's, laying on the floor. Kernodle was deceased with wounds which appeared to have 
+been caused by an edged weapon. 
+Also in the room was a male, later identified as Ethan Chapin, hereafter, "Chapin". 
+Chapin was also deceased with wounds later determined (Autopsy Report provided by Spokane 
+1 
+008404 County Medical Examiner Veena Singh dated December 15, 2022) to be caused by "sharp-force 
+injuries." 
+I then followed OFC Smith upstairs to the third floor of the residence. The third floor 
+consisted of two bedrooms and one bathroom . The bedroom on the west side of the floor was 
+later determined to be Kaylee Goncalves , hereafter "Goncalves ," room. I later learned (from 
+review of Officer Nunes' body camera) there was a dog in the room when Moscow Police 
+Officers initially responded . The dog belonged to Goncalves and her ex-boyfriend Jack Ducoeur. 
+I found out from my interview with Jack Ducouer on November 13, 2022 that he and Goncalves 
+shared the dog. OFC Smith then pointed out a small bathroom on the east side of the third floor. 
+This bathroom shared a wall with Madison Mogen's, hereafter "Mogen" bedroom which was 
+situated on the southeast comer of the third floor. 
+As I entered this bedroom, I could see two females in the single bed in the room. Both 
+Goncalves and Mogen were deceased with visible stab wounds. I also later noticed what 
+appeared to be a tan leather knife sheath laying on the bed next to Mogen's right side (when 
+viewed from the door). The sheath was later processed and had "Ka-Bar" "USMC" and the 
+United States Marine Corps eagle globe and anchor insignia stamped on the outside of it. The 
+Idaho State Lab later located a single source of male DNA (Suspect Profile) left on the button 
+snap of the knife sheath. 
+As part of the investigatio n, numerous interviews were conducted by Moscow Police 
+Department Officers, Idaho State Police Detectives , and FBI Agents . Two of the interviews 
+included B.F., and D.M. Both B.F. and D.M. were inside the King Road Residence at the time of 
+the homicides and were roommates to the victims. B.F.'s bedroom was located on the east side 
+of the first floor of the King Road Residence . 
+2 
+008405 Based on numerous interviews conducted by MPD Officers, ISP Detectives, and FBI 
+Agents as well as my review of evidence, I have learned the following : 
+On the evening of November 12, 2022, Chapin and Kernodle are seen by B.F. at the 
+Sigma Chi house on the University ofldaho campus at 735 Nez Perce Drive from approximately 
+9:00 p.m. on November 12 to 1 :45 a.m. on November 13. B.F. also estimated that at 
+approximately , 1 :45 a.m. Chapin and Kernodle returned to the King Road Residence. B.F. also 
+stated that Chapin did not live in the King Road Residence but was a guest of Kernodle . 
+Goncalves and Mogen were at a local bar, the Comer Club at 202 N. Main Street, in 
+Moscow. Goncalves and Mogen can be seen on video footage provided by the Comer Club 
+between 10:00 p.m. on November 12 and 1:30 a.m. on November 13th. At approximately 1:30 
+a.m. Goncalves and Mogen can be seen on video at a local food vendor called the "Grub Truck" 
+at 318 S. Main Street in downtown Moscow. The Grub Truck live streams video from their food 
+truck on the streaming platform Twitch which is available for public viewing on their website. 
+This video was captured by law enforcement. A private party (Eric Grower) reported that he 
+provided a ride to Goncalves and Mo gen at approximately 1 :56 a.m. from downtown Moscow 
+(in front of the Grub Truck) to the King Road Residence. 
+D.M. and B.F. both made statements during interviews that indicated the occupants of the 
+King Road Residence were at home by 2:00 a.m. and asleep or at least in their rooms by 
+approximately 4:00 a.m. This is with the exception of Kernodle, who received a DoorDash order 
+at the residence at approximately 4:00 a.m. (law enforcement identified the DoorDash delivery 
+driver who reported this information) . 
+3 
+008406 D.M. stated she originally went to sleep in her bedroom on the southeast side of the 
+second floor . D.M. stated she was awoken at approximately 4:00 am. by what she stated 
+sounded like Goncalves playing with her dog in one of the upstairs bedrooms, which were 
+located on the third floor. A short time later, D.M. said she heard who she thought was 
+Goncalves say something to the effect of ''there's someone here." A review ofrecords obtained 
+from a forensic download ofKemodle's phone showed this could also have been Kernodle as her 
+cellular phone indicated she was likely awake and using the TikTok app at approximately 4:12 
+a.m. 
+D.M. stated she looked out of her bedroom but did not see anything when she heard the 
+comment about someone being in the house. D.M. stated she opened her door a second time 
+when she heard what she thought was crying corning from Kemodle's room. D.M. then said she 
+heard a male voice say something to the effect of "it's ok, I'm going to help you." 
+At approximately 4: 17 a.m., a security camera located at 1112 King Road, a residence 
+immediately to the northwest of 1122 King Road, picked up distorted audio of what sounded like 
+voices or a whimper followed by a loud thud. A dog can also be heard barking numerous times 
+starting at 4: 17 a.rn. The security camera is less than fifty feet from the west wall ofKemodle's 
+bedroom. 
+D.M. stated she opened her door for the third time after she heard the crying and saw a 
+figure clad in black clothing and a mask that covered the person's mouth and nose walking 
+towards her. D.M. described the figure as 5' IO" or taller, male, not very muscular, but 
+athletically built with bushy eyebrows. The male walked past D.M. as she stood in a ''frozen 
+shock phase." The male walked towards the back sliding glass door. D.M. locked herself in her 
+4 
+008407 room after seeing the male. D.M. did not state that she recognized the male. This leads 
+investigators to believe that the murderer left the scene. 
+The combination ofD.M.'s statements to law enforcement, reviews of forensic 
+downloads of records from B.F. and D .M. 's phone, and video of a suspect video as described 
+below leads investigators to believe the homicides occurred between 4:00 a.m. and 4:25 a.m. 
+During the processing of the crime scene, investigators found a latent shoe print. This 
+was located during the second processing of the crime scene by the ISP Forensic Team by first 
+using a presumptive blood test and then Amino Black, a protein stain that detects the presence of 
+cellular material. The detected shoe print showed a diamond-shaped pattern (similar to the 
+pattern of a Vans type shoe sole) just outside the door ofD.M.'s bedroom (located on second 
+floor). This is consistent with D.M. 's statement regarding the suspect's path of travel. 
+As part of the investigation, an extensive search, commonly referred to in law 
+enforcement as a ''video canvass," was conducted in the area of the King Road Residence . This 
+video canvass was to obtain any footage from the early morning hours of November 13, 2022, in 
+the area of the King Road Residence and surrounding neighborhoods in an effort to locate the 
+suspect(s) or suspect vehicle(s) traveling to or leaving from the King Road Residence. This 
+video canvass resulted in the collection of numerous surveillance videos in the area from both 
+residential and business addresses. I have reviewed numerous videos that were collected and 
+have had conversations with the other MPD Officers, ISP Detectives, and FBI Agents that are 
+similarly reviewing footage that was obtained. 
+A review of camera footage indicated that a white sedan, hereafter "Suspect Vehicle l ", 
+was observed traveling westbound in the 700 block of Indian Hills Drive in Moscow at 
+5 
+008408 approximately 3:26 a.m and westbound on Styner Avenue at Idaho State Highway 95 in Moscow 
+at approximately 3 :28 a.m. On this video, it appeared Suspect Vehicle 1 was not displaying a 
+front license plate. 
+A review of footage from multiple videos obtained from the King Road Neighborhood 
+showed multiple sightings of Suspect Vehicle 1 starting at 3 :29 a.m. and ending at 4:20 a.m. 
+These sightings show Suspect Vehicle 1 makes an initial three passes by the 1122 King Road 
+residence and then leave via Walenta Drive. Based off of my experience as a Patrol Officer this 
+is a residential neighborhood with a very limited number of vehicles that travel in the area during 
+the early morning hours. Upon review of the video there are only a few cars that enter and exit 
+this area during this time frame. 
+Suspect Vehicle 1 can be seen entering the area a fourth time a approximately 4:04 a.m. It 
+can be seen driving eastbound on King Road, stopping and turning around in front of 500 Queen 
+Road #52 and then driving back westbound on King Road. When Suspect Vehicle 1 is in front of 
+the King Road Residence, it appeared to unsuccessfully attempt to park or turn around in the 
+road. The vehicle then continued to the intersection of Queen Road and King Road where it can 
+be seen completing a three-point turn and then driving eastbound again down Queen Road. 
+Suspect Vehicle 1 is next seen departing the area of the King Road Residence at 
+approximately 4:20 a.m. at a high rate of speed. Suspect Vehicle 1 is next observed traveling 
+southbound on Walenta Drive. Based on my knowledge of the area and review of camera footage 
+in the neighborhood that does not show Suspect Vehicle 1 during that timeframe, I believe that 
+Suspect Vehicle 1 likely exited the neighborhood at Palouse River Drive and Conestoga Drive. 
+Palouse River Drive is at the southern edge of Moscow and proceeds into Whitman County, 
+Washington . Eventually the road leads to Pullman, Washington. Pullman Washington is 
+6 
+008409 approximately 10 miles from Moscow, Idaho. Both Pullman and Moscow are small college 
+towns and people commonly travel back and forth between them. 
+Law enforcement officers provided video footage of Suspect Vehicle 1 to forensic 
+examiners with the Federal Bureau of Investigation that regularly utilize surveillance footage to 
+identify the year, make, and model of an unknown vehicle that is observed by one or more 
+cameras during the commission of a criminal offense. The Forensic Examiner has approximately 
+35 years law enforcement experience with twelve years at the FBI. His specific training includes 
+identifying unique characteristics of vehicles, and he uses a database that gives visual clues of 
+vehicles across states to identify differences between vehicles. 
+After reviewing the numerous observations of Suspect Vehicle I, the forensic examiner 
+initially believed that Suspect Vehicle 1 was a 2011-2013 Hyundai Elantra. Upon further review, 
+he indicated it could also be a 2011-2016 Hyundai Elantra. As a result, investigators have been 
+reviewing information on persons in possession of a vehicle that is a 2011-2016 white Hyundai 
+Elantra. 
+Investigators were given access to video footage on the Washington State University 
+(WSU) campus located in Pullman, WA. A review of that video indicated that at approximately 
+2:44 a.m. on November 13, 2022, a white sedan, which was consistent with the description of the 
+White Elantra known as Suspect Vehicle 1, was observed on WSU surveillance cameras 
+travelling north on southeast Nevada Street at northeast Stadium Way. At approximately 2:53 
+a.m., a white sedan, which is consistent with the description of the White Elantra known as 
+Suspect Vehicle 1, was observed traveling southeast on Nevada Street in Pullman, WA towards 
+SR 270. SR 270 connects Pullman, Washington to Moscow, Idaho. This camera footage from 
+7 
+008410 Pullman, WA was provided to the same FBI Forensic Examiner. The Forensic Examiner 
+identified the vehicle observed in Pullman, WA as being a 2014-2016 Hyundai Elantra. 
+At approximately 5:25 a.m., a white sedan, which was consistent with the description of 
+Suspect Vehicle 1, was observed on five cameras in Pullman, WA and on WSU Campus 
+cameras. The first camera that recorded the white sedan was located at 1300 Johnson Road in 
+Pullman. The white sedan was observed traveling northbound on Johnson Road. Johnson Road 
+leads directly back to West Palouse River Drive in Moscow which intersects with Conestoga 
+Drive. The white sedan was then observed turning north on Bishop Boulevard and northwest on 
+SR 270. At approximately 5:27 a.m., the White Elantra was observed on cameras traveling 
+northbound on Stadium Way at Nevada Street, Stadium Way at Grimes Way, Stadium Drive at 
+Wilson Road, and Stadium Way at Cougar Way. 
+Depiction showing Moscow and Pullman: 
+Depiction showing White Elantra's path of travel (not to scale): 
+8 
+008411 C .i White Elantra 
+seen leaving WSU 
+campus 
+& White Elantra 
+seen Returning to 
+wsucampus 
+1630 NE Valley 
+Road 
+Arrows are 
+camera 
+locations and 
+indicate 
+vehicle 
+direction af 
+travel 
+On November 25, 2022, MPD asked area law enforcement agencies to be on the lookout 
+for white Hyundai Elantras in the area. On November 29, 2022, at approximately 12:28 am., 
+Washington State University (WSU) Police Officer Daniel Tiengo, queried white Elantras 
+registered at WSU. As a result of that query he located a 2015 white Elantra with a Pennsylvania 
+license plate LFZ-8649 . This vehicle was registered to Bryan Kohberger hereafter "Kohberger" 
+residing at 1630 NE Valley Road, Apartment 201, Pullman, Washington. 1630 NE Valley Road 
+is approximately three-quarters of a mile from the intersection of Stadium Way and Cougar Way 
+(last camera location that picked up the white Elantra). 
+That same day at approximately 12:58 a.m., WSU Officer Curtis Whitman was looking 
+for white Hyundai Elantra's and located a 2015 white Hyundai Elantra at 1630 NE Valley Road 
+in Pullman in the parking lot. 1630 NE Valley Road is an apartment complex that houses WSU 
+9 
+008412 students. Officer Whitman also ran the car and it returned to Kohberger with a Washington tag. I 
+reviewed Kohberg's WA state driver license information and p_hotograph . This license indicates 
+that Kohberger is a white male with a height of 6' and weighs 185 pounds. Additionally , the 
+photograph ofKohberger shows that he has bushy eyebrows . Kohberger's physical description is 
+consistent with the description of the male D.M. saw inside the King Road Residence on 
+November 13th. 
+Further investigation, including a review of Latah County Sheriff's Deputy CPL Duke's 
+body cam and reports, showed that on August 21, 2022, Bryan Kohberger was detained as part of 
+a traffic stop that occurred in Moscow, Idaho, by CPL Duke. At the time, Kohberger , who was 
+the sole occupant, was driving a white 2015 Hyundai Elantra with Pennsylvania plate LFZ-8649 
+which was set to expire on November 30, 2022. During the stop, which was recorded via a law 
+enforcement body camera, Kohberger provided his phone number as 509-592-8458 , hereafter the 
+"8458 Phone" as his cellular telephone number. Investigators conducted electronic database 
+queries and learned that the 845 8 Phone is a number issued by AT&T. 
+On October 14, 2022, Bryan Kohberger was detained as part of a traffic stop by a WSU 
+Police Officer. Upon review of that body cam and report of the stop, Kohberger was the sole 
+occupant and was driving a white 2015 Hyundai Elantra with Pennsylvania plate LFZ-8649. 
+On November 18, 2022, according to WA state licensing, Kohberger registered the 2015 
+white Elantra with WA and later received WA plate CFB-8708. Prior to this time, the 2015 white 
+Elantra was registered in Pennsylvania , which does not require a front license plate to be 
+displayed (this was learned through communications with a Pennsylvania officer who is 
+currently certified in the State of Pennsylvania) . Based on my own experience and 
+10 
+008413 communication with Washington law enforcement, I know that Idaho and Washington require 
+front and back license plates to be displayed. 
+Investigators believe that Kohberger is still driving the 2015 white Elantra because his 
+vehicle was captured on December 13, 2022, by a license plate reader in Loma, Colorado 
+(information provided by a query to a database). Kohberger's Elantra was then queried on 
+December 15, 2022 by law enforcement in Hancock County, Indiana. On December 16, 2022 at 
+approximately 2:26 p.m., surveillance video showed Kohberger's Elantra in Albrightsville, 
+Pennsylvania. The sole occupant of the vehicle was a white male whose description was 
+consistent with Kohberger . Kohberger has family in Albrightsville, Pennsylvania (learned 
+through a TLO search and locate tool database query). 
+Based on information provided on the WSU website, Kohberger is currently a Ph.D 
+Student in Criminology at Washington State University . Pursuant to records provided by a 
+member of the interview panel for Pullman Police Department, we learned that Kohberger's past 
+education included undergraduate degrees in psychology and cloud-based forensics. These 
+records also showed Kohberger wrote an essay when he applied for an internship with the 
+Pullman Police Department in the fall of 2022. Kohberger wrote in his essay he had interest in 
+assisting rural law enforcement agencies with how to better collect and analyze technological 
+data in public safety operations. Kohberger also posted a Reddit survey which can be found by 
+an open-source internet search. The survey asked for participants to provide information to 
+"understand how emotions and psychological traits influence decision making when committing 
+a crime." 
+As part of this investigation, law enforcement obtained search warrants to determine 
+cellular devices that utilized cellular towers in close proximity to the King Road Residence on 
+11 
+008414 November 13, 2022 between 3:00 a.m. and 5:00 a.m. After determining that Kohberger was 
+associated to both the 2015 White Elantra and the 8458 Phone, investigators reviewed these 
+search warrant returns. A query of the 8458 Phone in these returns did not show the 8458 Phone 
+utilizing cellular tower resources in close proximity to the King Road Residence between 3:00 
+a.m. and 5:00 a.m. 
+Based on my training, experience, and conversations with law enforcement officers that 
+specialize in the utilization of cellular telephone records as part of investigations, individuals can 
+either leave their cellular telephone at a different location before committing a crime or tum their 
+cellular telephone off prior to going to a location to commit a crime. This is done by subjects in 
+an effort to avoid alerting law enforcement that a cellular device associated with them was in a 
+particular area where a crime is committed . I also know that on numerous occasions , subjects 
+will surveil an area where they intend to commit a crime prior to the date of the crime. 
+Depending on the circumstances, this could be done a few days before or for several months 
+prior to the commission of a crime. During these types of surveillance , it is possible that an 
+individual would not leave their cellular telephone at a separate location or tum it off since they 
+do not plan to commit the offense on that particular day. 
+On December 23, 2022, I applied for and was granted a search warrant for historical 
+phone records between November 12, 2022 at 12:00 a.m. and November 14, at 12:00 a.m. for the 
+8458 Phone held by the phone provider AT&T (approximately 24 hours proceeding and 
+following the times of the homicides) . 
+On December 23, 2022, pursuant to that search warrant, I received records for the 8458 
+Phone from AT&T. These records indicated that the 8458 Phone is subscribed to Bryan 
+Kohberger at an address in Albrightsville , Pennsylvania and the account has been open since 
+12 
+008415 June 23, 2022. These records also included historical cell site location information (CSLI) for 
+the 8458 Phone. After receiving this information, I consulted with an FBI Special Agent (SA) 
+that is certified as a member of the Cellular Analysis Survey Team (CAST). Members of CAST 
+are certified with the FBI to provide expert testimony in the field of historical CSLI and are 
+required to pass extensive training that includes both written and practical examinations prior to 
+be certified with CAST as well as the completion of yearly certification requirements. 
+Additionally, the FBI CAST SA that I consulted with has over fifteen years of federal law 
+enforcement experience, which includes six years with the FBI. From information provided by 
+CAST, I was able to determine estimated locations for the 8458 Phone from November 12, 
+2022 to November 13, 2022, the time period authorized by the court. 
+On November 13, 2022 at approximately 2:42 a.m., the 8458 Phone was utilizing cellular 
+resources that provide coverage to 1630 Northeast Valley Road, Apt G201, Pullman, WA, 
+hereafter the "Kohberger Residence. " At approximately 2:47 a.m., the 8458 Phone utilized 
+cellular resources that provide coverage southeast of the Koh berger Residence consistent with 
+the 8458 Phone leaving the Kohberger Residence and traveling south through Pullman, WA. 
+This is consistent with the movement of the white Elantra. At approximately 2:47 a.m. the 8458 
+Phone stops reporting to the network, which is consistent with either the phone being in an area 
+without cellular coverage, the connection to the network is disabled (such as putting the phone in 
+airplane mode), or that the phone is turned off. The 8458 Phone does not report to the network 
+again until approximately 4:48 a.m. at which time it utilized cellular resources that provide 
+coverage to ID state highway 95 south of Moscow, ID near Blaine, ID (north of Genesee) . 
+Between 4:50 a.m. and 5:26 a.m., the phone utilizes cellular resources that are consistent with the 
+8458 Phone traveling south on ID state highway 95 to Genesee, ID, then traveling west towards 
+13 
+008416 Uniontown , ID, and then north back into Pulhnan, WA. At approximately 5 :30 a.m., the 8458 
+Phone is utilizing resources that provide coverage to Pullman, WA and consistent with the phone 
+traveling back to the Kohberger Residence . The 8458 Phone's movements are consistent with the 
+movements of the white Elantra that is observed traveling north on Stadium Drive at 
+approximately 5:27 a.m. Based on a review of the 8458 Phone's estimated locations and travel, 
+the 8458 Phone's travel is consistent with that of the white Elantra. 
+Further review indicated that the 8458 Phone utilized cellular resources on November 13, 
+2022 that are consistent with the 8458 Phone leaving the area of the Kohberger Residence at 
+approximately 9:00 a.m. and traveling to Moscow, ID. Specifically, the 8458 Phone utilized 
+cellular resources that would provide coverage to the King Road Residence between 9: 12 a.m. 
+and 9:21 am. The 8458 Phone next utilized cellular resources that are consistent with the 8458 
+Phone traveling back to the area of the Kohberger Residence and arriving to the area at 
+approximately 9:32 a.m. 
+Below is a depiction (not to scale) of the possible route taken based off of cellular site 
+locations: 
+14 
+008417 Investigators found that the 8458 Phone did connect to a cell phone tower that provides 
+service to Moscow on November 14, 2022, but investigators do not believe the 8458 Phone was 
+in Moscow on that date. The 8458 Phone has not connected to any towers that provide service to 
+Moscow since that date. 
+Based on my training, experience , and the facts of the investigation thus far, I believe that 
+Kohberger , the user of the 8458 Phone, was likely the driver of the white Elantra that is observed 
+departing Pullman, WA and that this vehicle is likely Suspect Vehicle 1. Additionally, the route 
+of travel of the 8458 Phone during the early morning hours of November 13, 2022 and the lack 
+of the 8458 Phone reporting to AT&T between 2:47 a.m. and 4:48 a.m. is consistent with 
+Kohberger attempting to conceal his location during the quadruple homicide that occurred at the 
+King Road Residence . 
+15 
+008418 On December 23, 2022, I was granted a search warrant for Kohberger's historical CSLI 
+from June 23, 2022 to current, prospective location information , and a Pen Register/Trap and 
+Trace on the 8458 Phone to aid in efforts to determine ifKohberger stalked any of the victims in 
+this case prior to the offense, conducted surveillance on the King Road Residence , was in contact 
+with any of the victims' associates before or after the alleged offense, any locations that may 
+contain evidence of the murders that occurred on November 13, 2022, the location of the white 
+Elantra registered to Kohberger , as well as the location ofKohberger. 
+On December 23, 2022 pursuant to that search warrant, I received historical records for 
+the 8458 Phone from AT&T from the time the account was opened in June 2022. After 
+consulting with CAST SA, I was able to determine estimated locations for the 8458 Phone from 
+June 2022 to present, the time period authorized by the court. The records for the 8458 Phone 
+show the 8458 Phone utilizing cellular resources that provide coverage to the area of 1122 King 
+Road on at least twelve occasions prior to November 13, 2022. All of these occasions , except for 
+one, occurred in the late evening and early morning hours of their respective days. 
+One of these occasions , on August 21, 2022, the 8458 Phone utilized cellular resources 
+providing coverage to the King Road Residence from approximately 10:34 p.m. to 11 :35 p.m. At 
+approximately 11 :37 p.m., Kohberger was stopped by Latah County Sheriff's Deputy CPL Duke, 
+as mentioned above. The 8548 Phone was utilizing cellular resources consistent with the location 
+of the traffic stop during this time (Farm Road and Pullman Highway) . 
+Further analysis of the cellular data provided showed the 8458 Phone utilized cellular 
+resources on November 13, 2022 consistent with the Phone travelling from Pullman, Washington 
+to Lewiston , Idaho via US Highway 195. At approximately 12:36 p.m., the 8458 Phone utilized 
+cellular resources that would provide coverage to Kate's Cup of Joe coffee stand located at 810 
+16 
+008419 Port Drive, Clarkston , WA. Surveillance footage from the US Chefs Store located at 820 Port 
+Drive, Clarkston , WA and adjacent to Kate's Cup of Joe showed a white Elantra, consistent with 
+Suspect Vehicle 1, drive past Kate's Cup of Joe at a time consistent with the cellular data from 
+the 8548 Phone. 
+At approximately 12:46 p.m., the 8458 Phone then utilized cellular data in the area of the 
+Albertson 's grocery store at 400 Bridge Street in Clarkston, Washington. Surveillance footage 
+obtained from the Albertson 's showed Kohberger exit the white Elantra, consistent with Suspect 
+Vehicle 1, at approximately 12:49 p.m. Interior surveillance cameras showed Kohberger walk 
+through the store, purchase unknown items at the checkout, and leave at approximately 1 :04 p.m. 
+Kohberger 's possible path of travel is depicted below (not to scale): 
+17 
+008420 Additional analysis of records for the 8458 Phone indicated that between approximately 
+5:32 p.m. and 5:36 p.m., the 8458 Phone utilized cellular resources that provide coverage to 
+Johnson, ID. The 8458 Phone then stops reporting to the network from approximately 5:36 p.m. 
+to 8:30 p.m. That is consistent with the 8458 Phone being the area that the 8458 Phone traveled in 
+the hours immediately following the suspected time the homicides occurred. 
+On December 27, 2022, Pennsylvania Agents recovered the trash from the Kohberger 
+family residence located in Albrightsville, PA. That evidence was sent to the Idaho State Lab for 
+testing. On December 28, 2022, the Idaho State Lab reported that a DNA profile obtained from 
+the trash and the DNA profile obtained from the sheath, identified a male as not being excluded 
+as the biological father of Suspect Profile. At least 99.9998% of the male population would be 
+expected to be excluded from the possibility of being the suspect's biological father. 
+Based on the above information, I am requesting an arrest warrant be issued for Bryan C. 
+Kohberger, (DOB) 11/21/1994, for Burglary at 1122 King Street in Moscow, Idaho, and four counts 
+of Murder in the First Degree for the murders of Madison Mogen, Kaylee Goncalves , Xana Kernodle, 
+and Ethan Chapin. 
+I declare under penalty of perjury pursuant to the law of the State of Idaho that the 
+foregoing is true and correct. 
+I 2. / 2 GJ /z.oz_z_ r I 
+Date Affiant 
+18 
+008421 INTHEDISTRICT COURTOFTHESECOND JUDICIAL DISTRICT OFTHE
+STATEOFIDAHO, INANDFORTHECOUNTY OFLATAH
+IntheMatteroftheApplication
+foraSearchWarrantfor:
+Amazon.com. (Amazon)
+Corporation ServicesCompany (CSC)
+Attn:LegalDepartment
+300Deschutes WaySW,Suite304
+Tumwater WA98501
+MPDCaseNo.22-M09903)
+)
+)
+)
+)
+)
+)
+)
+)
+)CaseNo.CR29-22-2805
+???et)SEARCH WARRANT
+TO:ANYPEACEOFFICER AUTHORIZED TOENFORCE ORASSISTIN
+ENFORCING ANYLAWOFTHESTATEOFIDAHO.
+Lawrence Mowery, havinggivenmeproof,uponoath,thisdayshowingprobable cause
+establishing groundsforissuingasearchwarrantandprobable causetobelievethereisinformation
+regarding thecrime(s)ofhomicide andburglaryoccurring at1122KingRoad,Moscow, Idahoon
+oraboutNovember 13,2022isonthefollowing Amazonaccounts forMarch20,2022through
+March30,2022andNovember 1,2022throughDecember 6,2022:
+•Customer name:BryanCKohberger
+•Customer Email:bryanchristopher 1994@gmail.com
+•Shipping Phone:570-520-5889
+toinclude:
+•Alldetailedcustomer clickactivitypertaining toknivesandaccessories;
+•Alldetailsofpaymentmethodsusedforordersmadeon'theaccount;
+•Alldetailsofitemsincarts,toincludeallitemsaddedtocart,allitemsremoved ordeleted
+fromcart,andallitemssavedincart,wishlistedorshopping baskets;
+•Allsuggestions madetoaccount,toincludeanyandalldatamaintained byAmazon
+1
+revealing itemssuggested forpurchase orviewingfortheuser;
+•Allrecordspertaining toreviewspertaining toanyandalldataofitemsreviewed bythe
+user,reviewsbyotherAmazonusersviewedbytheuserandcomments theusermade;
+•Advertising datatoincludealladvertising relatedtotheaccountincluding butnot
+limitedtoadvertising cookies;
+•Anyinformation identifying thedeviceordevicesusedtoaccesstheaccount,including
+adeviceserialnumber,aGUIDorGlobalUniqueIdentifier, AndroidID,aphone
+number,serialnumbers, MACaddresses, Electronic SerialNumbers ("ESN"), Mobile
+Electronic IdentityNumbers ("MEIN"), MobileEquipment Identifiers ("MEID"),
+MobileIdentification Numbers ("MIN"), Subscriber IdentityModules ("SIM"), Mobile
+Subscriber Integrated ServicesDigitalNetworkNumber("MSISDN"), International
+MobileSubscriber Identifiers ("IMSI"), orInternational MobileEquipment Identities
+("IMEi"), andanyotherinformation regarding thetypesofdevicesusedtoaccessthe
+account;
+•Allaccounts linkedtotheTargetAccount(including wherelinkedbymachinecookie
+orothercookie,creationorloginIPaddress,recovery emailorotherwise);
+whichisstoredatpremises owned,maintained, controlled, oroperatedbyAmazon.com., a
+freeonlinemessaging application at:
+Amazon.com
+Corporation ServiceCompany (CSC)
+Attn:LegalDepartment
+300Deschutes WaySW,Suite304
+Tumwater, WA98501
+Youaretherefore commanded tosearchtheabove-described premises fortheproperty
+described above,toseizeitiffoundandbringitpromptly beforethecourtabovenamed.This
+warrantshallbeexecuted withinà_daysofissuance, andisauthorized fordaytime
+serviceonly(pursuant toIdahoCriminal Rule41,"daytime" meansthehoursbetween6:00
+a.m.and10:00p.m.PST),andunderthefollowing specialdirections:
+2
+**AMAZON.COM. (AMAZON) SHALL DISCLOSE THE DESCRIBED PROPERTY
+AND INFORMATION WITHIN 14 DAYS OF ISSUANCE.**
+GIVEN UNDER MY HAND and DATED this day of 2023, at
+MagistrateJudge
+SEARCH WARRANT 3AFFIDAVIT OFLAWRENCE MOWERY
+STATEOFIDAHO )
+:ss.
+CountyofLatah )
+I,Lawrence Mowery, beingdulysworn,doherebystatethefollowing information istrueand
+correcttothebestofmyknowledge andbelief:
+(1)ThatIamemployed byMoscowPoliceDepartment intheofficialpositionofForensic
+Detective;
+(2)Affidavit hasbeenatrainedandqualified peaceofficefor12years;
+(3)OnMay8,2023,IobtainedasearchwarrantforAmazon;
+(4)ThewarrantwasservedonMay10,2023,byhttps://ler.amazon.com/us;
+(5)OnJune27,2023,FADouglass receivedtherequested data;
+(6)OnJuly5,2023,Ireceived ane-mailfromFADouglass whichcontained the
+requested information;
+(7)Aninventory wasprepared foralltheitemsreceived; and
+(8)Theinformation receivedwasplacedintoevidence atMoscowPoliceDepartment.
+FURTHER yourAffiantsayethnot.
+Lawrence Mowery
+Affiant
+Icertify(ordeclare)underpenaltyofperjurypursuanttothelawtheStateofIdahothat
+theforegoing istrueandcorrect.
+7/5/2023
+(Date)
+AFFIDAVIT

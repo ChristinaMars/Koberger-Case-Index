@@ -1,0 +1,636 @@
+Wendy J. Olson, Bar No. 7634 
+wendy.olson@stoel.com Cory M. Carone, Bar No. 11422 cory.carone@stoel.com STOEL RIVES 
+LLP 
+101 S. Capitol Boulevard, Suite 1900 Boise, ID  83702 Telephone:  208.389.9000 Facsimile:  208.389.9040 
+Attorneys for Intervenors 
+  
+IN THE DISTRICT COURT OF THE SE COND JUDICIAL DI STRICT OF THE 
+STATE OF IDAHO, IN AND FOR THE COUNTY OF LATAH 
+STATE OF IDAHO, 
+Plaintiff, 
+v. 
+BRYAN C. KOHBERGER, 
+Defendant. Case No. CR29-22-2805 
+Memorandum in Support of Motion to Vacate the Amended Nondissemination Order 
+ 
+THE ASSOCIATED PRESS; RADIO TELEVISION DIGITAL NEWS ASSOCIATION; SINCLAIR MEDIA OF BOISE, LLC/KBOI-TV (BOISE); STATES 
+NEWSROOM DBA IDAHO CAPITAL SUN; 
+TEGNA INC./KREM (SPOKANE), KTVB (BOISE) AND KING (SEATTLE); EASTIDAHONEWS.COM; THE LEWISTON TRIBUNE; WASHINGTON STATE ASSOCIATION OF BROADCASTERS; IDAHO PRESS CLUB; IDAHO EDUCATION 
+NEWS; KXLY-TV/4 NEWS NOW AND 
+KAPP/KVEW-TV—MORGAN MURPHY 
+MEDIA KXLY-TV/4 NEWS NOW; SCRIPPS 
+MEDIA, INC., DBA KIVI-TV, A DELAWARE  Electronically Filed
+5/1/2023 4:57 PM
+Second Judicial District, Latah County
+Julie Fry, Clerk of the Court
+By: Jennifer Oliphant, Deputy ClerkCORPORATION; THE SPOKESMAN-
+REVIEW/COWLES COMPANY; THE NEW YORK TIMES COMPANY; LAWNEWZ, INC.; ABC, INC.; WP COMPANY LLC, DBA THE WASHINGTON POST; SOCIETY OF PROFESSIONAL JOURNALISTS; THE MCCLATCHY COMPANY, LLC; and THE SEATTLE TIMES,  
+Intervenors. 
+  TABLE OF CONTENTS  
+ 
+Page  
+ 
+ -i-  
+ I. INTRODUCTION ............................................................................................................... ....... 1  
+II. BACKGROUND ................................................................................................................ ....... 1  
+III. ARGUMENT ........................................................................................................................... 5  
+A. The Gag Order violates the Firs t Amendment because it is vague, 
+overbroad, unduly restrictive, and not narrowly drawn. ........................................ 6  
+1. The Gag Order far exceeds Ida ho Rule of Professional Conduct 
+3.6............................................................................................................... 7  
+a. The Gag Order broadly prohibi ts any statements about Mr. 
+Kohberger’s prosecution. ............................................................... 7  
+b. The Gag Order prohibits speech from a broad and vague 
+group of individuals. ...................................................................... 8  
+2. U.S. Supreme Court precedent counsels in favor of vacating the 
+Gag Order................................................................................................... 9  
+3. The Court should treat the Gag Orde r as a prior restraint and apply 
+strict scrutiny. ........................................................................................... 15  
+4. The Court should reject the fiction that gag orders di rected at trial 
+participants do not rest rain the press. ....................................................... 16  
+5. The Court should apply strict scruti ny even if it does not find that 
+the Gag Order is a pr ior restraint. ............................................................ 18  
+6. The Gag Order fails under  strict scrutiny. ............................................... 19  
+7. The Gag Order fails under less exacting scrutiny. ................................... 21  
+B. The Gag Orders violates the Idaho Constitution for the same reasons. ............... 23  
+IV. CONCLUSION................................................................................................................. ..... 23   
+Memorandum in Support of Motion to Vacat e the Amended Nondissemination Order - 1 
+  
+I.  INTRODUCTION 
+Last week, the Idaho Supreme Court c onfirmed that a “vague, overbroad, unduly 
+restrictive, or not narrowly drawn” gag order is “an unconstitutional obstacle to [Intervenors] 
+gathering” informatio n about this case. In re Petition for Writ of M andamus or Writ of Prohibition , 
+No. 50482, 2023 WL 3050829, at *5 (Idaho Apr. 24, 2023) . But on procedural grounds, the Idaho 
+Supreme Court decided that this Court should have a chance, in th e first instance, to vacate the 
+amended nondissemination order en tered January 18, 2023 (the “Gag Order”). Following the Idaho 
+Supreme Court’s guidance, Intervenors now ask this  Court to vacate the Gag Order because it is 
+vague, overbroad, unduly restrictive, and not narr owly drawn. The Gag Order expands far beyond 
+Idaho Rule of Professional Conduct 3.6, applying to individuals not governed by those ethical rules and prohibiting any statements about this case, not just those that  present a substantial 
+likelihood of materially prejudici ng a future trial. What’s more, the State and Mr. Kohberger (the 
+“Parties”) have submitted no evidence that media c overage presents a suffic ient risk of prejudice 
+to Mr. Kohberger’s right to a fair trial or that other remedies are insufficie nt to prevent or remedy 
+any prejudice. The Gag Order, which is based on the Parties’ stipulation, rests merely on an assumption that press coverage is bad. The U.S. Constitution and the Idaho Constitution demand more. The Gag Order should thus be vacated.   
+II.  BACKGROUND 
+In December 2022, Bryan C. Kohberger was arre sted and charged for allegedly murdering 
+four students at the University of Idaho. Despite great public interest in the investigation of the 
+murders and now the prosecution of Mr. Kohberger , there have not been any notable leaks or 
+dissemination of extrajudicial information that w ould prejudice Mr. Kohberger’s right to a fair 
+trial. Yet the Parties stipulated to a gag orde r “prohibiting attorneys, investigators, and law  
+Memorandum in Support of Motion to Vacat e the Amended Nondissemination Order - 2 
+ enforcement personnel from making any extrajudicia l statement, written or  oral, concerning this 
+case, other than a quotation from or  reference to, without comment, the public records of the Court 
+in this case.” Declaration of Wendy  J. Olson (“Olson Decl.”), Ex. A.1 The Parties offered no 
+evidence in support of their stipulat ion, simply asserting: “As this C ourt is aware, this case involves 
+matters that have received a great deal of publicity.” Id. Their assertion, while not wrong, does not 
+say the publicity has been pr ejudicial to Mr. Kohberger. 
+The Court issued the requested gag order just over an hour after the Parties submitted their 
+stipulation. Id., Ex. B. Intervenors do not doubt that the Court had good intentions, but an hour 
+was not enough time to meaningfu lly consider the constitutional in terests at stake. There was no 
+time for the Court to hold a hearing, take any objections, make  factual findings, or perform any 
+legal analysis. 
+Ten days later, the Court held  a private meeting with the Pa rties and an attorney for a 
+victim’s family. Id., Ex. C. The Parties drafted a memorandum after the meeting. Id. The 
+memorandum is not a court order; it is the Parties’ memorialization of what they remember from 
+the meeting. Even though minor redactions would satisfy any privacy concerns, the Parties opted 
+to file the entire memorandum under seal. To th e public, it appeared that the meeting never 
+occurred (the Parties later agreed to unseal to  memorandum to use it to oppose the Intervenors’ 
+petition in the Ida ho Supreme Court).  
+Five days after the private mee ting, the Court issued the Gag Order that is at issue in this 
+motion. Id., Ex. D. Because the preceding meeting was held privately, to the public it appeared 
+that the Court issued the Gag Order sua sponte . The Court noted in the Gag Order that: “To 
+ 
+1 The docket cannot be accessed on iCourts, so In tervenors’ knowledge of  the proceedings is 
+limited to what the Idaho Judi cial Branch has posted at https://coi.isc.idaho.gov/ .  
+Memorandum in Support of Motion to Vacat e the Amended Nondissemination Order - 3 
+ preserve the right to fair trial some curtailment of  the dissemination of information in this case is 
+necessary and authorized under the law.” Id. The Court made no factual findings in support of that 
+conclusion—which of course it could not as, again, the Parties pr esented no evidence (if evidence 
+was presented during the private meeting, it was not offered on the record and cannot be relied 
+upon as Intervenors have no means to evaluate, let alone challenge the veracity of, the evidence). 
+Id. Nor did the Court hold a hearing or offer any legal analysis, asid e from a footnote citing several 
+authorities and offering no explanation of how or why those authorities apply. Id.  
+The Gag Order extends beyond what the Partie s requested in their stipulation. The Gag 
+Order applies to: “The attorneys for any interest ed party in this case, including the prosecuting 
+attorney, defense attorne y, and any attorney representing a witness, victim, or vi ctim’s family, as 
+well as the Parties to the above-e ntitled action, including but not limited to investigators, law 
+enforcement personal, and agents for the pros ecuting attorney or defense attorney[.]” Id. 
+Intervenors are a coalition of media companies that but for the Ga g Order would publish 
+more information about the murd ers at the University of Idaho and Mr. Kohberger’s prosecution. 
+Members of the media coalition have been  affected by the Gag Order as follows: 
+• A victim’s family wants to speak with th e press about Mr. Kohberger’s prosecution, 
+but they feel bound by the Gag Order. Id., Ex. E. 
+• A Washington agency has requested declar atory relief to determine whether, 
+consistent with the Gag Order, it can produce 9-1-1 tapes in response to public 
+records requests. Id., Ex. F.  
+Memorandum in Support of Motion to Vacat e the Amended Nondissemination Order - 4 
+ • Major Christopher Paris of th e Pennsylvania State Police to ld reporter Chris Ingalls 
+that he could not answer whether police had launched any review of unsolved cases 
+that could be linked to Mr. Kohberger because of the Gag Order.2 Olson Decl., ¶ 9. 
+• Moscow Mayor Art Bettge told reporter Er ica Zucco that the city attorney advised 
+he could not answer questi ons about the overall commu nity healing in Moscow 
+because of the Gag Order. Id. 
+•  Journalist Taylor Mirfendereski’s public  records requests were  denied by the Latah 
+County’s Sheriff’s Office,  Moscow Police Department, Pullman Police 
+Department, and Washington State Police Department because of the Gag Order. 
+Id. 
+• The Moscow Police Department issued a press release that: “Due to this court order, the Moscow Police Department will no longer be communicating with the public or the media rega rding this case.” Id., Ex. G.  
+• Gary Jenkins, Chief of Police at Wash ington State University, and Matt Young, 
+Communication Coordinator for the City of  Pullman, told reporter Morgan Romero 
+that they could not answer whether Mr. Kohberger applied for a graduate assistant research position with the Pullman Police Department because of the Gag Order. Olson Decl., ¶ 9. 
+• The Moscow Police Department refused to advise a reporter from the Idaho 
+Statesman how many cellphone towers are in the area near where the murders 
+ 
+2 For the following citations in th is paragraph, the source was referr ing either to the original or 
+amended gag order.  
+Memorandum in Support of Motion to Vacat e the Amended Nondissemination Order - 5 
+ occurred, the size of Mr. Kohberger’s cel l, the size of the Mo scow jail, and the 
+nature of Mr. Kohberger’s meals because of the Gag Order. Id. 
+• Law&Crime reporter Angenette Levy wa s denied access to Kohberger’s booking 
+video from the Latah County Sheriff's Office because of the “court’s non-
+dissemination order.” Id. 
+Within weeks of the Court issuing the Gag Order, Intervenors petitioned the Idaho Supreme 
+Court to vacate or nullify the Ga g Order. The Idaho Supreme Cour t held that Intervenors have 
+“sufficient standing to challenge the” Gag Order. In re Petition for Writ of Mandamus or Writ of 
+Prohibition, 2023 WL 3050829, at *6. In support of that  holding, the Idaho Supreme Court 
+“agree[d] that the injury claime d”—a claim that the Gag Order in fringes “freedom of the press by 
+restricting [Intervenors’] ability to gather info rmation for publication”—“ is recognized under the 
+First Amendment.” Id. at *5. The Idaho Supreme Court furthe r noted that if the Gag Order “is 
+vague, overbroad, unduly restrictive, or not narrowly drawn, it would be an unconstitutional obstacle to their gatherin g of such information.” Id.  
+But the Idaho Supreme Court declined to vaca te the Gag Order, opining that “the proper 
+course is to first seek redre ss from the magistrate court[.]” Id. at *10. Following that instruction, 
+Intervenors now ask this Court to vacate th e Gag Order because it vague, overbroad, unduly 
+restrictive, and not narrowly drawn. 
+III.  ARGUMENT 
+“[J]ustice cannot survive behind walls of silence[.]” Sheppard v. Maxwell , 384 U.S. 333, 
+349 (1966). For that reason, “[a] responsible press has always been regarded as the handmaiden of effective judicial administration, es pecially in the criminal field.” Id. at 350. “The press does not 
+simply publish information about tr ials but guards agains t the miscarriage of justice by subjecting 
+the police, prosecutors, and judicial processes to extensive public scrutiny and criticism.” Id. The  
+Memorandum in Support of Motion to Vacat e the Amended Nondissemination Order - 6 
+ First Amendment was thus “intended to give to li berty of the press the broadest scope that could 
+be countenanced in an orderly society.” Id.  (cleaned up).  
+To be sure, an orderly society must also consider  a criminal defendant’s right to a fair trial. 
+But when balancing that interest, First Amendmen t protections do not yield until they infringe the 
+Sixth Amendment. There is no presumption that sp eech is prejudicial to a criminal defendant or 
+that more speech necessarily mean s a less fair trial. To the c ontrary, the U.S. Supreme Court’s 
+precedent “demonstrate[s] that pretrial publicity[,] even pervasive, adverse publicity[,] does not 
+inevitably lead to an unfair trial.” Neb. Press Ass’n v. Stuart , 427 U.S. 539, 554 (1976). And even 
+when speech is prejudicial to a criminal defendant, only in “rel atively rare” cases does pretrial 
+publicity present “unmanageable threats.” Id. at 551, 554. Many mitiga ting measures exist, 
+“includ[ing] change of venue, tr ial postponement, a searching voir di re, emphatic jury instructions, 
+and sequestration of jurors.” Application of Dow Jones & Co. , 842 F.2d 603, 611 (2nd Cir. 1988) 
+(citing Sheppard, 384 U.S. 333, and Neb. Press , 427 U.S. 539). 
+To ensure a proper balance between the First and Sixth Amendments a party requesting a 
+gag order must present evid ence that the prohibited speech presen ts a sufficient risk of prejudice 
+to a fair trial and that none of the other a lternative remedies, which do not prohibit speech, are 
+sufficient to prevent or remedy any prejudice. Here, the Parties have fa llen well short, as they have 
+submitted no evidence on the record to support the sweeping Gag Order that is in place.  
+A. The Gag Order violates the First Amendmen t because it is vague, overbroad, unduly 
+restrictive, and not narrowly drawn. 
+The Gag Order broadly prohibits  any statements “concerning this case.” That prohibition 
+is much broader than Idaho Rule of Professiona l Conduct 3.6, and it is broader than the regulations 
+of speech described by the U.S. Supreme Court in Sheppard, Nebraska Press , and Gentile. There 
+is no evidence that every statem ent concerning Mr. Kohberger’s pr osecution poses a substantial  
+Memorandum in Support of Motion to Vacat e the Amended Nondissemination Order - 7 
+ risk to his right to a fair trial, nor is there a ny evidence that other, less restrictive measures could 
+not prevent or remedy any prejudice. As a result , the Gag Order violates the U.S. Constitution and 
+the Idaho Constitution.  
+1. The Gag Order far exceeds Idaho Rule of Professional Conduct 3.6. 
+Footnote 1 of the Gag Order cites Idaho Rule of Profession al Conduct 3.6. It is unclear 
+whether that citation is intended to  suggest that the Gag Order mirro rs Rule 3.6. Even if that were 
+the case, the Parties need to explain why the Idaho State Bar’s enforcement of Rule 3.6 is 
+insufficient, such that a court or der and the penalty of contempt are necessary. Those more severe 
+penalties present a unique chilling effect that wi ll reduce speech that do es not violate Rule 3.6. 
+In any event, the Gag Order does not mirror Rule 3.6. The Gag Order is far broader: It 
+prohibits more topics of speech and governs a wider range of individuals. 
+a. The Gag Order broadly prohibit s any statements about Mr. 
+Kohberger’s prosecution.  
+Rule 3.6 is carefully crafted to regulate a narrow set of topics that are most likely to be 
+prejudicial. It regulates speech that “will have a substantial likelihood of ma terially prejudicing an 
+adjudicative proceeding in the matter.” I.R.P.C. 3.6( a). The rule’s comment explains that there are 
+“certain subjects that are more likely than not to have a material prejudicial  effect on a proceeding,” 
+such as the “character, credibilit y, reputation or criminal record of a party,” “the possibility of a 
+plea of guilty to the offense or the existence or contents of any confessi on, admission, or statement 
+given by a defendant,” “[t]he performance or results of any examination or test or the refusal or 
+failure of a person to submit to an examination or test,” and “[a]ny opini on as to the guilt or 
+innocence of a defendant[.]” Id. 3.6 cmt. 5. 
+By contrast, the Gag Order is not tailored at all. Section 1 of the Gag Order prohibits any 
+“extrajudicial statements (written or oral) concerning this case.”  Olson Decl., Ex. D. Section 2  
+Memorandum in Support of Motion to Vacat e the Amended Nondissemination Order - 8 
+ offers examples of prohibited speech, but it does not say those examples are exhaustive or limit 
+the general prohibition of any statements “con cerning this case.” As a result, the Gag Order 
+prohibits all statemen ts about Mr. Kohberger’s prosecution—even statements that could help him 
+secure a fair trial.  
+Unsurprisingly then, individuals have said  the Gag Order prohibi ts them from making 
+comments on innocuous topics like how the Mosc ow community is hea ling, how many cellphone 
+towers are around where the murder occurred, the size of Mr. Kohberger’s  cell, the meals Mr. 
+Kohberger receives, and Mr. Kohberger’s job a pplications to the Pullman Police Department. 
+Olson Decl., ¶ 9.  
+Even without the sweeping prohibition in Sec tion 1, Section 2 of th e Gag Order does not 
+precisely mirror Rule 3.6’s commentary. For ex ample, Section 2(a) prohibits speech on 
+“[e]vidence regarding the occurrences or transactions involved in  the case,” which is broader than 
+the commentary’s concerns about speech related to  “the identity or nature of physical evidence 
+expected to be presented,” I.R.P.C. 3.6 cmt. 5. And Section 2(d) prohibits speech about “[a]ny 
+opinions as the merits of the case or the claims or defense of a pa rty,” which is broader than the 
+commentary’s concerns related to speech about “[ a]ny opinion as to the guilt or innocence of a 
+defendant,” I.R.P.C. 3.6 cmt. 5 (which is also co vered in Section 2(f), suggesting Section 2(d) is 
+intended to regulate somethi ng different and broader). 
+b. The Gag Order prohibits speech from a broad and vague group of 
+individuals. 
+The Gag Order targets “[t]he attorneys for any interested party in this case, including the 
+prosecuting attorney, defense attorn ey, and any attorney representing a witness, victim , or victim’s 
+family, as well as the Parties to the above-entitled action, including but not limited to investigators, 
+law enforcement personnel, and agents for the pr osecuting attorney or de fense attorney.” Olson  
+Memorandum in Support of Motion to Vacat e the Amended Nondissemination Order - 9 
+ Decl., Ex. D. 
+To start, that group of i ndividuals is vague. Although the Gag Order expressly identifies 
+certain types of individuals, that list is not ex haustive because of the ph rase “including but not 
+limited to.” Id. As a result, others—like the victims’ fa milies and law enforcement outside the 
+State of Idaho—must guess whethe r they too are subject to the Gag Order. That guessing game 
+renders the Gag Order unconstitutionally vague, and it also exceeds the Court’s jurisdiction, as the 
+Court cannot bind individuals who are not be fore it and who resi de outside Idaho. 
+That group of individuals is al so overbroad. In contrast to the Gag Order, Rule 3.6 governs 
+attorneys only, and specifically those attorneys admitted to practice in Idaho. E.g., I.R.P.C. pmbl.; 
+id. 8.5. Rule 3.8 demonstrates that limitation. It requires a prosecutor to “exercise reasonable care 
+to prevent investigators, law enforcement perso nnel, employees or othe r persons assisting or 
+associated with the prosecutor in a criminal cas e” from making statements that the prosecutor 
+could not make under Rule 3.6. Id. 3.8(f). That is, Rule 3.8 operates indirectly through the 
+prosecutor; it does not apply direct ly to an investigator or law en forcement (because they are not 
+lawyers admitted in Idaho). Nor does Rule 3.8 address the defense attorneys, the defense’s 
+investigators or agents, or the attorneys or ag ents for the victims’ families. The Gag Order by 
+contrast applies to both the prosecution and the defe nse, and it directly re gulates those who are not 
+subject to the Idaho Rule s of Professional Conduct. 
+2. U.S. Supreme Court precedent counsels in favor of vac ating the Gag Order. 
+The Court cited three U.S. Supreme Court decisions in footnote 1 of the Gag Order: 
+Sheppard , Nebraska Press , and Gentile . While those cases acknowledge the propriety of  regulating 
+some speech from lawyers and trial participants, th ey also explain the findings of prejudice and 
+the narrow tailoring that are required before proh ibiting speech. The Partie s’ stipulation and the 
+Gag Order ignore those principles.   
+Memorandum in Support of Motion to Vacat e the Amended Nondissemination Order - 10 
+ Taking the cases in order, the U. S. Supreme Court first decided Sheppard v. Maxwell , 384 
+U.S. 333 (1966). There, a prisoner challenged his conviction, arguing that he did not receive a fair 
+trial because of publicity before a nd during his trial. For example: 
+• “Sheppard jurors were subjected to newspaper, radio and television coverage of the 
+trial while not taking part in the proceedings.” Id. at 353. 
+• “[T]hree months before trial, Sheppard was examined for more than five hours 
+without counsel,” which “was televised live from a high school gymnasium seating 
+hundreds of people.” Id. at 354. 
+• During trial, the lower court erected “a pr ess table for reporters inside the bar,” 
+where “some 20 reporters” sat “within a few feet of the jury box.” The lower court also “assigned almost all of the available seats in the courtroom to the news media.” 
+Together, those decisions interfered with  the privacy and tranquility of the 
+defendant, the witnesses, and the jury during the trial. Id. at 355. 
+As a result of those and other facts, the Court held that “Sheppard did not receive a fair trial consistent with the Due Process Clause of the Fourteenth Amendment.” Id. at 335.  
+In support of that holding, the Court noted the trial judge’s failures to  prevent or remedy 
+any prejudice to Sheppard, using remedies such as  continuance of trial, sequestration of the jury, 
+and control of the courtroom. Intervenors acknowledge that one potential measure the Court 
+mentioned was: “the trial court might well have pr oscribed extrajudicial statements by any lawyer, 
+party, witness, or court official which divulged prejudicial matters, such as the refusal of Sheppard to submit to interrogation or ta ke any lie detector te sts; any statement ma de by Sheppard to 
+officials; the identity of prosp ective witnesses or their probable te stimony; any belief in guilt or 
+innocence; or like statements conc erning the merits of the case.” Id. at 361.  
+Memorandum in Support of Motion to Vacat e the Amended Nondissemination Order - 11 
+ But that observation does not compel ma intaining the Gag Order. To start, Sheppard is a 
+Due Process case—not a First Am endment case. Nobody appeared to  argue that the proscription 
+suggested by the Court would violate the First Ame ndment, so the Court did not decide that issue. 
+Sheppard also largely addre ssed conduct during trial, which fo r now is not at issue as Mr. 
+Kohberger’s trial has not even been set and is like ly many months or years away. And to be clear, 
+Intervenors do not seek to  conduct an out-of-court examination of  Mr. Kohberger or  to sit within 
+the bar at Mr. Kohbe rger’s trial.  
+While those stark legal and factual differences mean Sheppard is not controlling, more 
+importantly the Gag Order here is  not the hypothetic al order that Sheppard described. There, the 
+Court contemplated an order lim iting speech on “prejudicial matte rs, such as the refusal of 
+Sheppard to submit to interrogation or take any lie detector tests; any stat ement made by Sheppard 
+to officials; the identity of prospective witnesses or their probable testimo ny; any belief in guilt or 
+innocence; or like statements concerning the merits of the case.” Id. As described above, the Gag 
+Order is much broader. It prohib its any statements “concerning this  case,” regardle ss of how likely 
+or unlikely the statement is to be prej udicial (or helpful) to Mr. Kohberger. 
+The Court next decided Nebraska Press Association v. Stuart , 427 U.S. 539 (1976). The 
+gag order there prohibited statemen ts about “(a) the existence and nature of any confessions or 
+admissions made by the defendant to law enforcem ent officers, (b) any confessions or admissions 
+made to any third parties, except members of the pr ess, and (c) other facts strongly implicative of 
+the accused.” Id. at 545 (internal quotation marks omitted). Even with that narrower scope of 
+prohibitions, the Court held that the gag orde r was unconstitutional. While drawing that 
+conclusion, the Court explained th ree principles relevant here. 
+First, the First Amendment and the Sixth Amen dment are entitled to equal protection. As  
+Memorandum in Support of Motion to Vacat e the Amended Nondissemination Order - 12 
+ the Court explained: “The authors of the Bill of Rights did not undertake to assign priorities as 
+between First Amendment and Sixt h Amendment rights, ranking one as superior to the other.” Id. 
+at 561. It is thus not for cour ts “to rewrite the Constitution by undertaking what [the founders] 
+declined to do.” Id. Instead, First Amendment rights should yield only when necessary to protect 
+Sixth Amendment rights. There is a “need to protect the accused as fully as possible” and a “need 
+to restrict publication as little as possible.” Id. at 566. 
+The second, and related, principle is that cour ts should consider “other measures” before 
+issuing a gag order. Id. The Court endorsed many alternatives, such as “(a) change of trial venue 
+to a place less exposed to the intense publicity that seemed im minent in Lincol n County; (b) 
+postponement of the trial to a llow public attention to  subside; (c) sear ching questioning of 
+prospective jurors, as Mr. Chief Justice Marshall us ed in the Burr Case, to screen out those with 
+fixed opinions as to gui lt or innocence; (d) the us e of emphatic and clear instructions on the sworn 
+duty of each juror to decide the issues only on evidence presented in open court;” and (e) 
+“[s]equestration of jurors[.]” Id. at 563–64 (footnoted omitte d). By considering these 
+alternatives—in other words, by narrowly tailoring the remedy—cour ts ensure they are issuing 
+gag orders only when necessary. As a result, the First Amendment is infringed only when 
+necessary to protect a Sixth Amendment interest . That approach preser ves an equal balance 
+between the two rights, as intended by the founders. 
+The third principle is that when reviewing the above analysis, a reviewing court must 
+“examine the evidence before the trial judge” and the “precise terms of the restraining order[.]” Id. 
+at 562. 
+Based on these and other principles, Nebraska Press  held that the gag order there was 
+unconstitutional. The Court observed that “pretrial publicity, even if pervasive and concentrated,  
+Memorandum in Support of Motion to Vacat e the Amended Nondissemination Order - 13 
+ cannot be regarded as leading auto matically and in every kind of criminal case to an unfair trial.” 
+Id. at 565. Given that assumptions are inappropriate in this context, the probability of prejudice 
+was “not demonstrated with the degree of certainty” required. Id. at 569. The gag order was also 
+not properly tailored. The trial cour t there failed to consider altern atives short of a gag order, and 
+the prohibition on “implicative information” was “t oo vague and too broad to  survive the scrutiny” 
+required. Id. at 568. 
+In many ways, Nebraska Press  counsels in favor of vaca ting the Gag Order here. The 
+Parties offered no facts for the Court to determ ine that any statement concerning his case would 
+prejudice Mr. Kohberger. The Parties also offere d no explanation of why alternative measures 
+would not suffice. But even if they had, the pr ecise terms of the Gag Order (which prohibits 
+statements “concerning this case”) are broader than the Nebraska Press  gag order (which 
+prohibited statements about “impli cative information”) that the U.S. Supreme Court held was too 
+broad.  
+Last, the Court decided Gentile v. State Bar of Nevada , 501 U.S. 1030 (1991). There, an 
+attorney challenged disciplinary action taken against him for allegedly violating Nevada’s 
+equivalent of Idaho Rule of Professional Conduct 3.6. Like the Idaho rule, the Nevada rule 
+prohibited an attorney from ma king “an extrajudicial statemen t that a reasonable person would 
+expect to be disseminated by means of public communication if the lawyer knows or reasonably 
+should know that it will have a substantial likel ihood of materially prejudicing an adjudicative 
+proceeding.” Id. at 1033 (citation omitted). The Court held that the rule was unconstitutional as 
+interpreted and applied in Nevada.  
+ The Court’s decision was fractured, but Pa rt II of Chief Justice Rehnquist’s opinion 
+garnered a majority and is relevant here. Chief Justice Rehnquist first obs erved that, by default,  
+Memorandum in Support of Motion to Vacat e the Amended Nondissemination Order - 14 
+ the First Amendment requires a “showing of clear and present danger that a malfunction in the 
+criminal justice system will be caused before a State may prohibit medi a speech or publication 
+about a particular pending trial.” Id. at 1070–71 (internal quotation mark s omitted). That said, the 
+law imposes a less demanding standard for regulati ng “speech of lawyers representing clients in 
+pending cases” because those lawyers are “participants in the criminal justice system” and thus 
+“the State may demand some adherence to the precep ts of that system[.]” Id. at 1074. A 
+“substantial likelihood” of  material prejudice test satisfies that less demanding standard, as it 
+imposes “only narrow and neces sary limitations” on speech. Id. at 1075. Put differently, “[t]he 
+restraint on speech is narrowly tailored[.]” Id. at 1076. 
+Under Chief Justice Rehnquist’s reasoning, the Gag Order is unconstitutional. The Parties 
+have submitted no evidence of a “clear and presen t danger” of prejudice for statements made by 
+non-lawyers nor a “substantial likelihood” of materi al prejudice for statements made by lawyers. 
+And, again, the Gag Order is not at all tailored; it prohibi ts all statements “c oncerning this case”—
+not just those that would cau se material prejudice.  
+In sum, Sheppard, Nebraska Press , and Gentile  all counsel in favor of vacating the Gag 
+Order. Those cases only permit prohibitions on speech  that are (1) justified by a risk of material 
+prejudice, and (2) narrowly tailored  to limit only the speech that is  actually prejudicial and cannot 
+be prevented or remedied thr ough other means. The Parties ha ve submitted no evidence of 
+prejudice sufficient to justify a Gag Order (clear and present danger for non-lawyers and substantial risk of material prej udice for lawyers), and even if they had, the Gag Order is not 
+narrowly tailored to surgically proscribe only the sp eech that is prejudicial and cannot be prevented 
+or remedied through other means.   
+Memorandum in Support of Motion to Vacat e the Amended Nondissemination Order - 15 
+ 3. The Court should treat the Gag Order as  a prior restraint and apply strict 
+scrutiny. 
+Consistent with the principles articulated in Sheppard, Nebraska Press , and Gentile , the 
+Court should treat the Gag Order as a prior restrain t and vacate it because the Parties’ request does 
+not survive strict scrutiny. 
+The Gag Order is a prior restraint. Speech  presupposes a speaker and a recipient. Va. State 
+Bd. of Pharmacy v. Va. Citizens Consumer Council, Inc ., 425 U.S. 748, 756 (1976). Without the 
+one there cannot be the other. Richmond Newspapers, Inc. v. Virginia , 448 U.S. 555, 576 (1980) 
+(“[W]e have recognized that wi thout some protection for seeki ng out the news, freedom of the 
+press could be eviscerated.”). So the right to speech “necessarily protects the right to receive” 
+information and ideas. Va. Citizens, 425 U.S. at 757 (citation omitted). There is thus a 
+“constitutionally guaranteed right as a me mber of the press to gather news.” CBS Inc. v. Young, 
+522 F.2d 234, 238 (6th Cir. 1975). 
+The Gag Order restrains that constitutional ri ght before it can be exercised. Intervenors do 
+not make the news; they report the news. They ca nnot report what they ca nnot gather. Here, there 
+are many sources of newsworthy in formation that but for the am ended Gag Order would provide 
+information to Intervenors that Intervenors would then make editorial decisions about whether and 
+when to publish. Intervenors’ speech is thus being restrained before  they can even speak. That is 
+the definition of prior restraint. Prior Restraint , Black’s Law Dictionary (11th ed. 2019) (“A 
+governmental restriction on speech or publi cation before its actual expression.”). 
+If the amended Gag Order is a prior restraint,  then it is “subject to strict scrutiny[.]” Levine 
+v. U.S. Dist. Ct. for Cent. Dist. of Cal. , 764 F.2d 590, 595 (9th Cir. 1985).   
+Memorandum in Support of Motion to Vacat e the Amended Nondissemination Order - 16 
+ 4. The Court should reject the fiction that gag orders directed at trial 
+participants do not restrain the press. 
+To avoid the outcome dictated by prior restraint jurisprudence and cases like Sheppard , 
+Nebraska Press , and Gentile , Intervenors anticipate that the Pa rties will ask the Court to follow 
+the Second and Ninth Circuits in applying the First Amendment differently when the media 
+challenges gag orders directed at sources of in formation. The Court should reject those decisions 
+because they are not well reasone d and place form over function.  
+In Radio and Television News Association of Southe rn California v. U.S. District Court for 
+the Central District of California , the Ninth Circuit recognized that the media has a “first 
+amendment right of access or righ t to gather information[.]” 781 F.2d 1443, 1446 (9th Cir. 1986) 
+(internal quotation marks and ci tation omitted). But in the Nint h Circuit’s view, a court order 
+prohibiting an individual  from speaking with the media does not  infringe that right to gather 
+information because: “The media never has any gua rantee of or ‘right’ to interview counsel in a 
+criminal trial. Trial counsel are, of course, free to refuse interviews, whether or not restrained by 
+court order. If such an individual refuses an inte rview, the media has no recourse to relief based 
+upon the first amendment.” Id. at 1447. 
+That reasoning is misguided as a court prohi biting a person from speaking to the media is 
+different than an individual deciding not to speak to the media. To start, an interviewee’s decision 
+not to speak to the media is generally not a stat e action. As a result, the First Amendment typically 
+does not govern the interviewee’s de cision to not answer questions. E.g., Manhattan Cmty. Access 
+Corp. v. Halleck , 139 S. Ct. 1921, 1926 (2019) (“MNN is a private actor, not a state actor, and 
+MNN therefore is not subject to  First Amendment constraints on its editorial discretion.”). By 
+contrast, a gag order issued by a state court, even to  enforce the request of a private party, is a state 
+action and thus must comport with the First Amendment. See Apao v. Bank of N.Y. , 324 F.3d 1091,  
+Memorandum in Support of Motion to Vacat e the Amended Nondissemination Order - 17 
+ 1093 (9th Cir. 2003) (“[W]h at would otherwise be private c onduct, i.e., placing a racially 
+restrictive covenant in a deed, can  violate the Fourteenth Amendmen t when state action in the form 
+of a court order is sought to enfo rce its restrictiv e provisions.”). 
+The Ninth Circuit’s reasoning al so ignores the reality of ne ws coverage. There is no 
+reporting without information. The media does not make the news; it reports the news. If a court 
+orders an individual not to provide  information to the media, then the media has nothing to report. 
+The media may technically be allowed to ask ques tions to gather the news , but it has no real 
+expectation of an answer. The law should recognize, or at least assume, that in dividuals will follow 
+court orders. As a result, a court order regulating an individual’s speech to the media also regulates 
+the media. The media has no rea listic opportunity to publish the in formation that the sources of 
+the information are ordered not to  provide. Intervenors are not, as Radio and Television News 
+suggests, seeking an order co mpelling anybody to speak with them. Intervenors instead are 
+challenging a state action prohibiting speech and as king for a realistic opportunity to gather and 
+report information on a matt er of public interest. 
+The Second Circuit’s decision in Application of Dow Jones & Co . is also unpersuasive. 
+The Court’s analysis there begins by  observing the distinction observed in Radio and Television 
+News , which is a flawed for the reasons alread y described. 842 F.2d at 608. The Second Circuit 
+additionally noted that the partie s subject to the gag order there requested the order and urged its 
+affirmance. A party’s preference not to speak with  the press does not mean a state action adopting 
+that preference is lawful . A party’s preference not to speak is  typically not a state action, but it 
+becomes a state action when a court issues an order. See Apao , 324 F.3d at 1093. And here, not 
+everyone subject to the Gag Order requested it. In  fact, one of the victims’ families is actively 
+challenging it.  
+Memorandum in Support of Motion to Vacat e the Amended Nondissemination Order - 18 
+ Given the flawed reasoning in Radio and Television News  and Dow Jones , this Court 
+should reject those decisions and adopt  the better reasoned decisions in Young and People v. 
+Sledge, 879 N.W.2d 884 (Mich. Ct. App. 2015). In Young, the Sixth Circuit r ecognized that the 
+media has no realistic opportunity  to gather and publish the news when a court forbids sources of 
+information from talking to the media. It wrote: “Although the news media are not directly 
+enjoined from discussing the case, it is apparent  that significant and meaningful sources of 
+information concerning the case are effectively re moved from them and their representatives. To 
+that extent their protected right  to obtain information concerning the trial is curtailed and 
+impaired.” 522 F.2d at 239.  In Sledge , the Michigan Court of A ppeals similarly explained: 
+“Although the gag order does not directly prohibit th e media from discussing the case, it prohibits 
+the most meaningful sources of information from discussing the case with the media. Therefore, 
+the right of the [media] to obtain information from all pot ential trial participants is impaired.” 879 
+N.W.2d. at 893 (citation omitted). 
+Simply put, Radio and Television News  and Dow Jones  put form over function. They 
+observe a technical distinction between a gag order naming the media and a gag order naming a 
+third party, but they ignore that, in reality, both orders directly regulate the media. Richmond Newspapers, 448 U.S. at 576 (“[W]e have recognized that  without some protect ion for seeking out 
+the news, freedom of the pre ss could be eviscerated.”). Young and Sledge understand that reality. 
+This Court should follow the better reasoning in Young and Sledge and hold that the Gag Order 
+must be “narrowly drawn and cannot be upheld if  reasonable alternatives are available having a 
+lesser impact on First Amendment freedoms.” Young, 522 F.2d at 238. 
+5. The Court should apply strict scrutiny ev en if it does not find that the Gag 
+Order is a prior restraint. 
+Regardless of whether prior restraint jurisprude nce applies, the Court’s task here is to  
+Memorandum in Support of Motion to Vacat e the Amended Nondissemination Order - 19 
+ balance Intervenors’ First Amendment interests w ith Mr. Kohberger’s Sixth Amendment interests. 
+Neither right is superior. As a result, the Court should aim to give both rights the maximum effect 
+possible. It “need[s] to protec t the accused as fully as possibl e,” and it “need[s] to restrict 
+publication as little as possible.” Nebraska Press , 427 U.S. at 566. The only way to satisfy those 
+twin goals is to apply a standard that allows a gag order only when (1) the prohibited speech is almost certain to materially prejudice the crimin al defendant, and (2) nothing else can prevent or 
+cure the prejudice. 
+Anything less risks underenforcing the First Amendment. A less demanding test will be 
+overinclusive, at times restricting protected speech that does not cr eate prejudice or that creates 
+prejudice that can be remedied in other ways. The First Amendment will then be underenforced, as protected speech will be suppre ssed even if the speech does not infringe the criminal defendant’s 
+right to a fair trial. That outco me is intolerable because “any Fi rst Amendment infringement that 
+occurs with each passing day is irreparable.” Neb. Press Ass’n v. Stuart , 423 U.S. 1327, 1329 
+(1975) (Blackmun, J., in chambers). 
+6. The Gag Order fails under strict scrutiny. 
+A gag order survives strict scrutiny only if: “(1) the activity restrained poses either a clear 
+and present danger or a serious and imminent threat to a protected competing interest, (2) the order 
+is narrowly drawn, and (3) less restric tive alternatives are not available.” Levine, 764 F.2d at 595 
+(citations omitted). The Gag Order fails under each prong. 
+First, there is no evidence that the speech at  issue poses a clear and present danger or a 
+serious and imminent threat to Mr. Kohberger’s right to a fair tria l. The Parties offered no evidence 
+in support of their stipulation, and the Court has not collected any evidence, held any evidentiary 
+hearings, or made any factual determinations. 
+There is also no indication that the individua ls subject to the Gag Order will disseminate  
+Memorandum in Support of Motion to Vacat e the Amended Nondissemination Order - 20 
+ information that will prejudice Mr. Kohberger. Law enforcement released limited information 
+during its investigation and after Mr. Kohberge r’s arrest, including at the press conference 
+announcing the arrest. As the prosecution moves forwar ds, the Parties’ attorn eys must comply with 
+Idaho Rule of Professional Conduct 3.6 and the prosecution must  comply with Rule 3.8, even 
+without the Gag Order. The Parties’ attorneys’ willingness to enter the s tipulation suggests they 
+intend to strictly comp ly with those rules. 
+In any event, the Gag Order does not target prejudicial speech. It targets any speech 
+concerning the case with no consideration of whether the speech would be prejudicial or helpful 
+to Mr. Kohberger. 
+At bottom, there is not a clear and present danger or a serious and imminent threat that 
+absent the Gag Order, publicity will prejud ice Mr. Kohberger’s right  to a fair trial. 
+Second, as explained above, the Gag Order is not narrowly drawn. It is directed at a wide 
+and vague group of people, and it governs any st atement concerning the cas e, good or bad for Mr. 
+Kohberger. The Gag Order does not narrowly target speech that could be most prejudicial, but 
+rather wrongly assumes that all speech about the case is prejudicial. As a result, sources of 
+newsworthy information have declined to provide  information about topi cs like how the Moscow 
+community is healing, how many cellphone towers are around where the murder occurred, the size of Mr. Kohberger’s cell, the meals Mr. Kohberger receives, and Mr. Kohberger’s job applications 
+to the Pullman Police Department because of the Gag Order (or its predecessor). Those topics of speech, while arguably subject to th e Gag Order, are unlikely to pr ejudice Mr. Kohberger. Yet they 
+are suppressed. 
+Third, the Parties have not explained why othe r, less restrictive alternatives would not 
+prevent or remedy any prejudice to Mr. Kohberger. For example, prejudicial  publicity can be  
+Memorandum in Support of Motion to Vacat e the Amended Nondissemination Order - 21 
+ mitigated by a change of venue, trial postponement, a searching voi r dire, emphatic jury 
+instructions, and sequ estration of jurors. Dow Jones , 842 F.2d at 611 (citing Sheppard , 384 U.S. 
+333, and Nebraska Press , 427 U.S. 539). The need to consider le ss restrictive altern atives here, at 
+this early stage of the case, is particularly acute. No trial has been  scheduled (indeed the 
+preliminary hearing is not until June 2023), and given the seriousness of the charges, trial is likely 
+more than a year away. The Parties and the Court have ample time to as sess whether unrestrained 
+speech about Mr. Kohberger and the facts and circumstances of the crimes with which he is 
+charged unfairly prejudice his right to a fair trial.  And if a danger emergers, there will be plenty of 
+time to remedy it. 
+7. The Gag Order fails under less exacting scrutiny.  
+Courts that do not apply strict scrutiny to gag orders like th e one here still require some 
+factual findings to support the gag order. In Dow Jones , for example, the Sec ond Circuit considered 
+“whether there is a ‘reasonable likel ihood’ that pretrial publicity will prejudice a fair trial” and an 
+exploration of “whether  other available remedi es would effectively mit igate the prejudicial 
+publicity.” 842 F.2d at 610–11. Other courts  have required similar findings. See News-J. Corp. v. 
+Foxman, 939 F.2d 1499, 1515–16 (11th Cir. 19 91) (noting that after “a full hearing” where the 
+press could be heard, the district court found eviden ce of “the potential inability of impaneling an 
+impartial jury” and “concluded that there was no less restrictive means of safeguarding the 
+defendants’ Sixth Am endment rights”); Radio & Television News Ass’n of S. Cal ., 781 F.2d at 
+1447 (considering whether a gag order is reasonab le and overrides First Amendment interests); 1 
+Kevin F. O’Malley et al., Fed. Jury Prac. & In str. § 2:4, Westlaw (6th ed., updated Feb. 2023) (“A 
+gag order must be no greater than that necessary to  protect the interest involved. Hence a gag order 
+may be entered where there is a re asonable or serious threat, less restrictive alternatives are not 
+adequate, and the order would effe ctively prevent the threatened harm to the defendant’s right to  
+Memorandum in Support of Motion to Vacat e the Amended Nondissemination Order - 22 
+ a fair trial.”) (footnote s omitted); 75 George L. Blum et al ., Am. Jur. 2d Trial § 135, Westlaw (2d 
+ed., updated Feb. 2023) (“[A] court may issue a par ticipant gag order only where the press and 
+general public are given an opportunity to be hear d on the question of the issuance of the order, 
+the court describes those reasonabl e alternatives that the court c onsidered and rejected, the order 
+is narrowly tailored to serve the interest of protec ting the defendant’s right to a fair trial, and the 
+court has made a specific finding th at there was a substantial probabi lity that the defendant’s right 
+to a fair trial would be prejudi ced by publicity that would occur in  the absence of a gag order.”). 
+Again, the Parties here have offered no evidence of any risk of prejudice to Mr. Kohberger 
+or offered any explanation why alternatives to th e Gag Order would not suffice. So far, there has 
+been publicity surrounding Mr. Kohberger’s prosecu tion, but no indication th at the publicity has 
+been prejudicial. Since the murders occurre d, law enforcement and now the attorneys have 
+judiciously shared information with the public. There is no suggestion that anybody now subject 
+to the Gag Order had previously ma de extrajudicial statements that  may have biased the jury pool. 
+In fact, Mr. Kohberger may be le ss prejudiced if well- informed and responsible individuals share 
+some information, rather than a llowing the Gag Order to create a vacuum for mere  speculation on 
+the internet.  
+But even if there were some evidence of prej udicial publicity, there are other ways to ensure 
+Mr. Kohberger has a fair trial. To start, his trial date is not even been set and will presumably occur 
+well in the future. The passing of time reduces the risk of any jury taint.  Additionally, when the 
+time for trial arrives, a change in venue, probing voi r dire, and clear jury inst ructions can all ensure 
+Mr. Kohberger has a fair trial. 
+At bottom, the Gag Order suppresses speech w ithout any justificati on. That violates the 
+First Amendment no matter the test applied.  
+Memorandum in Support of Motion to Vacat e the Amended Nondissemination Order - 23 
+ B. The Gag Orders violates the Idaho Constitution for the same reasons. 
+Courts have “addressed simultaneously” the First Amendment of the U.S. Constitution and 
+Article I, Section 9 of the Idaho Constitution. Bingham v. Jefferson Cnty ., No. 4:15-CV-00245-
+DCN, 2017 WL 4341842, at *6 n.4 (D. Idaho Sept. 29, 2017). So the Court can find that the Gag 
+Order violates the Idaho Constitutio n for the same reasons that it violates the U.S. Constitution.   
+But the Court need not treat Idaho’s Constitution in lockstep with the U.S. Constitution. If, 
+for example, the Court is persuaded that under fe deral law gag orders need not survive strict 
+scrutiny, it should consider whether they must do so under Article I, Section 9 of the Idaho 
+Constitution. Unlike the First Amendment, Article I, Section 9 provides that a person may “publish 
+on all subjects[.]” For criminal trials, all subject s would include both inform ation presented inside 
+the courtroom and information pres ented outside the courtroom.  
+As explained above, when balancing the right to  speech with the right to a fair trial, the 
+Court’s aim should be to recognize each right as much as possible. Only when speech necessarily 
+infringes the right to a fair trial is there a jus tification for curtailing th e speech. And again, strict 
+scrutiny is an exacting standard that ensures speech is curtailed when, and only when, necessary. 
+So even if some federal courts have interprete d the First Amendment to yield short of the outer 
+boundaries of the right to a fair tr ial by adopting tests th at are overinclusive wh en curtailing speech, 
+this Court should interpret Article I, Section 9 as more broadly protecting a ll speech that falls short 
+of infringing the right to a fair tr ial, either because there is not su fficient certainty that the speech 
+will be prejudicial or because other remedies short of restricting speech can prevent or cure the 
+prejudice. 
+IV.  CONCLUSION 
+Intervenors request that the Court vacate the Gag Order becau se it violates the U.S. 
+Constitution and the Idaho Constitution.  
+Memorandum in Support of Motion to Vacat e the Amended Nondissemination Order - 24 
+ DATED:  May 1, 2023. 
+ STOEL RIVES LLP 
+ 
+ 
+ 
+/s/ Wendy J. Olson      
+Wendy J. Olson 
+Cory M. Carone 
+Attorneys for Intervenors 
+ 
+ 
+ 
+   
+Memorandum in Support of Motion to Vacat e the Amended Nondissemination Order - 25 
+ CERTIFICATE OF SERVICE  
+I HEREBY CERTIFY that on the 1st day of May 2023, I served a true and correct copy of 
+the within and foregoing MEMORANDUM IN SUPPORT OF MOTION TO VACATE OR 
+AMEND THE AMENDED NOND ISSEMINATION ORDER upon the following named 
+parties by the method indi cated below, and addre ssed to the following: 
+ 
+Latah County Prosecutor’s Office 
+William W. Thompson, Jr. Prosecuting Attorney Latah County Courthouse P.O. Box 8068 Moscow, ID  83843  ___  Hand Delivered ___  Mailed Postage Prepaid ___  Via Facsimile  ___  U.S. Mail         Via email 
+  X   Via iCourt efile & serve at:  
+ paservice@latahcounty.id.gov   
+Anne Taylor Attorney at Law P.O. Box 9000 Coeur d’Alene, ID  83816  ___  Hand Delivered ___  Mailed Postage Prepaid ___  Via Facsimile  ___  U.S. Mail   X   Via email at ataylor@kcgov.us 
+        Via iCour t efile & serve at:  
+           pdfax@kcgov.us   
+Jeff Nye Deputy Attorney General P.O. Box 83720 Boise, ID  83720 ___  Hand Delivered ___  Mailed Postage Prepaid ___  Via Facsimile  ___  U.S. Mail   X   Via email at jeff.nye@ag.idaho.gov 
+        Via iCour t efile & serve at:  
+  
+Shanon Gray 2175 N. Mountain View Road Moscow, ID  83843 ___  Hand Delivered ___  Mailed Postage Prepaid ___  Via Facsimile  ___  U.S. Mail 
+        Via email 
+  X   Via iCourt efile & serve at:  
+ shanon @graylaw.or g 
+ 
+               /s/ Wendy J. Olson     
+      Wendy J. Olson    
+ 

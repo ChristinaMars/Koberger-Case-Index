@@ -1,0 +1,194 @@
+ 
+ 
+MOTION IN LIMINE # 9 RE: EXCLUDING AMAZON  
+CLICK ACTIVITY EVIDENCE AT TRIAL        Page 1  Anne Taylor Law, PLLC 
+Anne C. Taylor, Attorney at Law 
+PO Box 2347 
+Coeur d’Alene, Idaho 83816 
+Phone: (208) 512-9611 
+iCourt Email: info@annetaylorlaw.com 
+  
+Elisa G. Massoth, PLLC 
+Attorney at Law  
+P.O. Box 1003 
+Payette, Idaho 83661 
+Phone: (208) 642-3797; Fax: (208)642-3799 
+  
+Bicka Barlow  
+Pro Hac Vice  
+2358 Market Street 
+San Francisco, CA 94114 
+Phone: (415) 553-4110 
+  
+Assigned Attorney: 
+Anne C. Taylor, Attorney at Law, Bar Number: 5836 
+Elisa G. Massoth, Attorney at Law, Bar Number: 5647 
+Bicka Barlow, Attorney at Law, CA Bar Number: 178723 
+Jay W. Logsdon, First District Public Defender, Bar Number: 8759 
+ 
+IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE  
+STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA  
+ 
+ 
+CASE NUMBER CR01 -24-31665 
+ 
+MOTION IN LIMINE # 9  
+ 
+ 
+ 
+RE: EXCLUDING AMAZON CLICK 
+ACTIVITY EVIDENCE AT TRIAL  
+ 
+ 
+COMES NOW, Bryan C. Kohberger, by and through his attorneys of record, and pursuant 
+to the Idaho Rules of Evidence, moves this Honorable Court for an Order in Limine  excluding any 
+Amazon evidence, purchase history, and “Amazon Click Activity” evidence by Mr. Kohberger.  
+More specifically, the Defense asserts that with the limited disclosures made by State, lack of raw STATE OF IDAHO,  
+ 
+                                   Plaintiff,  
+ 
+V. 
+ 
+BRYAN C. KOHBERGER,  
+ 
+                                   Defendant.  Electronically Filed
+2/24/2025 4:54 PM
+Fourth Judicial District, Ada County
+Trent Tripple, Clerk of the Court
+By: Jennifer Keyes, Deputy Clerk 
+ 
+MOTION IN LIMINE # 9 RE: EXCLUDING AMAZON  
+CLICK ACTIVITY EVIDENCE AT TRIAL        Page 2  data, lack of complete data, lack of disclosure of expert opinion, lack of explanation of “Amazon 
+click activity” or any analysis related there to,  amounts to cherry picked limited data that does not show a full picture, compared to  warrants that request ed extensive data. The State’s refining of all  
+the Amazon history and  Amazon click activity is out of context, incomplete, and unfairly prejudicial, thus making it inadmissible.  Incomplete, irrelevant and unfairly prejudicial evidence is barred by Rules  106, 401, 402,  403, 702, and 703 of the Idaho Rules of Evidence and pursuant 
+to the 6th, 8th, and 14th Amendments to the United States Constitution and Sections 13 of Article I of the Constitution of the State of Idaho.  
+ This motion should be read in conjunction with Motion in Limine 2, excluding expert 
+Shane Cox and any other expert the State intends to use regarding all Amazon evidence.  
+INTRODUCTION 
+The State disclosed Shane Cox as an expert who will testify about Mr. Kohberger’s 
+Amazon account, activity on that account to include logins, and  “Amazon Click Activity”. The 
+State wants to use very specific, narrow dates. The State has not defined “Amazo n Click Activity” 
+in any reports or expert disclosures nor provided any opinions or analysis related to the limited data it has produced.  The data produced is extremely narrow when compared to the more inclusive and broad warrants and subpoenas.  Even in the face of the Court telling the State that “its job was not done” with its expert disclosures, nothing was produced in the State’s Rebuttal Expert Disclosure to further clarify the underlying data, analysis, and opinions it intends to offer regarding anything Amazon related.  Mr. Kohberger faces his Capital trial with no more than the State 
+disclosing an expert testifying about  dates related to Mr. Kohberger’s Amazon account and the production of records and expertise regarding Amazon “click activity”. B ecause Mr. Kohberger is 
+placed in a position of guessing what the State’s intentions are, he has consulted an expert, David  
+ 
+MOTION IN LIMINE # 9 RE: EXCLUDING AMAZON  
+CLICK ACTIVITY EVIDENCE AT TRIAL        Page 3  Howell, to attempt preparation.  1. Mr. Kohberger has learned the limited disclosure leaves him 
+unprepared to confront this evidence.  
+ In this ever -evolving age of technology, Amazon uses artificial intelligence (“AI”) to 
+improve the customer experience by helping customers find products that match their interests and 
+preferences. See https://aws.amazon.com/ai/our -story .  Amazon’s AI driven system does not just 
+reflect searches, it actively shapes user behavior through recommendations, paid advertisements, and algorithmic reinforcement. Amazon’s use of AI began well before 2022. Often when searching for something on Amazon, the end of the pathway does not tell the beginning of the pathway.  This is because AI is continuously gathering information about the customer’s interests and preferences and making suggestions along the way. Customer in the context of a household sharing an Amazon account, is all members of the family sharing the account. In other words, the purchases, searches, and machine learning (ML) impact all of the users of the household Amazon account.   
+Amazon’s recommendation system, powered by AI and ML, significantly influences what 
+users see and click on. In 2022, Amazon’s AI -driven system did not passively reflect user searches 
+but actively guided purchasing behavior based on predictive models. This means that a user’s browsing and purchase history may not necessarily reflect deliberate intent but could have been shaped by Amazon’s algorithm. 
+Omnichannel shopping extends beyond a single device. A user’s Amazon activity spans 
+across phones, tablets, laptops, desktops, and even smart home devices, all tracked and synchronized by Amazon. Shared household devices further complicate attribution, as multiple 
+users contribute to search history, ad targeting, and recommendation patterns.  Devises ( e.g. smart 
+phones, computers, and tablets) talk to one another and learn from each other.  For example, ads that pop up on Facebook and YouTube can be influenced by what you searched for elsewhere. 
+ 
+1 Motion in Limine #9 Exhibit 1 is Mr. Howell’s Resume   
+ 
+MOTION IN LIMINE # 9 RE: EXCLUDING AMAZON  
+CLICK ACTIVITY EVIDENCE AT TRIAL        Page 4  Amazon’s advertising system plays a critical role in shaping what users see and click on. 
+Unlike a simple search -and-buy process, Amazon’s AI -driven ad placements, keyword targeting, 
+and personalized recommendations actively guide users toward specific products. Amazon 
+specializes in driving suggestions that are not actively searched for by a purchaser.  
+ In this case, the State’s refining or limiting the Amazon “click activity” to a specific click 
+or a specific item excludes data, takes things out of context, and could tell a completely inaccurate story to cause the jury to speculate about intent. Full Amazon advertising logs and r ecommendation 
+data must be reviewed to determine whether a purchase was truly user -initiated or heavily 
+influenced by Amazon’s AI. The data produced does not identify the purchaser through means 
+other than by name or credit card
+2, nor does it identify the device from which the item was 
+purchased.  For example, suppose someone buys a pair of binoculars on Amazon on a household 
+account with four users. Who in the household either searched for binoculars or through some other searches triggered Amazon’s AI to do a target ad for binoculars. How long were they searching for the binoculars, were they wish listed for a period of time, were they placed in the cart and removed, all which could indicate indecisiveness? Did an Amazon AI gener ated AD cause 
+the purchase of binoculars as a result of a search for some other product? Were other Ads show to the purchaser by Amazon? How long were binoculars searched before being actually purchased? What types were considered or placed as target Ads b y Amazon. Were other purchases made 
+around the same time that provide context?  Other purchases made around the same time can 
+provide context to the intent of the purchaser.  In our example, the shopper also purchased a 
+sleeping bag, a tent, a cook stove, long johns, and a safety vest for an upcoming hunting trip. 
+ 
+2 Simply because a package is delivered to a name at a house, using the credit card of someone in the house, does not 
+indicate that person is the purchaser when it comes to an Amazon account.    
+ 
+MOTION IN LIMINE # 9 RE: EXCLUDING AMAZON  
+CLICK ACTIVITY EVIDENCE AT TRIAL        Page 5  Compare the possibility that the purchaser instead bought rope, night vision goggles, zip ties, duck 
+tape, a tarp, and a stun gun. These combined purchases could show a completely different intent.   
+Amazon’s Sponsored Products and Display Ads allow sellers to pay for visibility, meaning 
+that if someone searched for “binoculars”, “camping gear” or “outdoor equipment,” they could have been ad targeted with a gun or bear spray listing not because they were looking for these items, but because an advertiser paid for it to appear. Sellers using Amazon’s as a platform to sell, specifically choose terms to prompt Ads and those terms may be completely unrelated to the item they are selling. Yet, that term will target an Ad to get a purchaser's attention.  Similarly, the 
+"Frequently Bought Together" and "Customers Also Bought" sections —often assumed to reflect 
+organic trends—are manipulated by paid placements. 
+Shared Amazon accounts also impact “click activity” or search history. This is a nother 
+example of incomplete or limited data leading to an improper conclusion in a shared household Amazon account. One person in a household’s interest in certain items, impacts the entire household account and attributed “click activity”.  This can even happen by the mere existence of proximity to a wifi network shared by others. See Proximity Advertising and Perceived 
+Eavesdropping, The Times:  
+https://www.thetimes.co.uk/article/think -your-phone- is-listening -to-
+you-thats -proximity -advertising-q7nl9qbwt  ( This article explains the phenomenon where 
+individuals believe their phones are eavesdropping on conversations, explaining that targeted ads often result from proximity advertising)
+. 
+The Amazon “click activity” in this case, is for an account which is a household account 
+shared by Mr. Kohberger and other family members. The click history includes items searched for or viewed on Amazon which might be related to a search conducted by other family members or  
+ 
+MOTION IN LIMINE # 9 RE: EXCLUDING AMAZON  
+CLICK ACTIVITY EVIDENCE AT TRIAL        Page 6  might be items suggested by Amazon based on prior interests or prior purchases and AI and ML 
+making recommendations that look like “click activity”.   
+The discovery produced related to all Amazon data and the “click activity” in this case is 
+extremely limited and therefore unconstitutionally incomplete, out of context and inadmissible.  
+ARGUMENT  
+Mr. Kohberger believes that the State intends to use Amazon evidence to prove elements 
+of its case.  To allow such in the face of the explanation above and the failure to disclose, would be unconstitutional and in violation of the rules of evidence.  
+A. Rule 106 Guards against Introduction of Incomplete Evidence.  
+In fairness,  incomplete Amazon data and “click activity” should not be offered as evidence.  
+Cherry -picking specific clicks or purchases out of an Amazon click -history removes all of the 
+context explained above.  Idaho Rule of Evidence  106 identifies the confines of the completeness 
+doctrine:  
+If a party introduces all or part of a writing or recorded statement, an adverse party 
+may require the introduction, at that time, of any other part --or any other writing or 
+recorded statement --that in fairness ought to be considered at the same time  
+ 
+“Under the common- law rule that underpins Idaho Rule of Evidence 106, the reason for 
+the completion doctrine is that there is a ‘danger that an out -of-context statement may create such 
+prejudice that it is impossible to repair by a subsequent presentation of additional material.’ ” State 
+v. Ogden, 171 Idaho 843, 856, 526 P.3d 1013, 1026 (2023) (quoting Beech Aircraft Corp. v. Rainey , 488 U.S. 153, 171 n.14, 109 S.Ct. 439, 102 L.Ed.2d 445 (1988)).  Thus, Rule 106 “requires 
+the admission of those portions of the statement that are ‘necessary to qualify, explain or place into context the portion already introduced.’ ”  Id. (citations omitted)  
+B. Rules 401, 402, and 403 Exclude Evidence That is Irrelevant and Unfairly Prejudicial.  
+ 
+MOTION IN LIMINE # 9 RE: EXCLUDING AMAZON  
+CLICK ACTIVITY EVIDENCE AT TRIAL        Page 7  Evidence must be relevant to be admissible. I.R.E. 402. The test for relevancy is set out in 
+I.R.E. 401 which provides that: 
+Evidence is relevant if:  
+(a) it has any tendency to make a fact more or less probable than it would be without the 
+evidence; and  
+(b) the fact is of consequence in determining the action. 
+ 
+I.R.E. 401. See also State v. Sheldon, 145 Idaho 225, 228, 178 P.3d 28, 31 (2008).  I.R.E 402 instructs that “[r]elevant evidence is admissible unless these rules, or other rules 
+applicable in the courts of this state, provide otherwise.  Irrelevant evidence is not admissible.”  As noted above, I.R.E. 401 provides the test for relevancy.   
+Under I.R.E. 403, this Court may exclude evidence “if its probative value is substantially 
+outweighed by a danger of one or more of the following: unfair prejudice, confusing the issues, misleading the jury, undue delay, wasting time, or needlessly presenting cumulative evidence.” I.R.E. 403. “This rule requires the court to balance the probative value of the evidence against the danger that the evidence may be unfairly prejudicial.” State v. Johnson, --- Idaho ---, 544 P.3d 766, 
+774 (Idaho 2024). See also I.R.E. 403. These rules control what is relevant. 
+CONCLUSION 
+For the reasons addressed above, Mr. Kohberger respectfully requests this Court grant his 
+Motion in Limine  to exclude any Amazon and Amazon Click Activity evidence because it is 
+improperly isolated, out of context, does not take into account advertising influence and omnichannel factors. Mr. Kohberger intends to offer expert testimony of David Howell at the motion hearing on April 9, 2025 
+DATED this ___ 24____ da
+ y of February, 2025. 
+ 
+___________________________________ 
+       ELISA G. MASSOTH 
+       ELISA G. MASSOTH, PLLC ATTORNEY  
+ 
+ 
+MOTION IN LIMINE # 9 RE: EXCLUDING AMAZON  
+CLICK ACTIVITY EVIDENCE AT TRIAL        Page 8   
+CERTIFICATE OF DELIVERY 
+ 
+I hereby certify that a true and correct copy of the foregoing was personally served as 
+i
+ndicated below on the ___24____ day of February, 2025, addressed to: 
+ 
+ Latah County Prosecuting Attorney –via Email: paservice@latahcountyid.gov  
+Elisa Massoth – via Email: emassotht@kmrs.net   
+Jay Logsdon – via Email: Jay.Logsdon@spd.idaho.gov  
+Bicka Barlow - via Email: bickabarlow@sbcglobal.net   
+Jeffery Nye, Deputy Attorney General – via Email: Jeff.nye@ag.idaho.gov  
+        
+ 
+ ____________________________ 

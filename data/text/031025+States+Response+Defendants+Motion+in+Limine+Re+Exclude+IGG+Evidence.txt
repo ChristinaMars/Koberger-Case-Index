@@ -1,0 +1,428 @@
+ 
+ 
+STATE’S RESPONSE  TO DEFENDANT’S MOTION IN LIMINE #11 RE: EXCLUDE IGG EVIDENCE   1 
+ LATAH COUNTY PROSECUTOR’S OFFICE   
+WILLIAM  W. THOMPSON, JR., ISB No, 2613 
+PROSECUTING ATTORNEY 
+JEFF NYE , ISB 9238  
+SPECIAL ASSISTANT ATTORNEY GENERAL  
+Latah County Courthouse 
+522 S. Adams Street, Ste. 211 
+Moscow, ID 83843 
+Phone: (208) 883-2246 
+ISB No. 2613 
+paservice@latah countyid.gov  
+ 
+ 
+ 
+ 
+IN THE DISTRICT COURT  OF THE FOURTH JUDICIAL DISTRICT OF THE  
+ 
+STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA  
+ 
+ 
+ 
+STATE OF IDAHO,  Case No. CR 01-24-31665  
+                        Plaintiff,   
+ 
+V. STATE’S RESPONSE TO 
+DEFENDANT’S MOTION IN 
+LIMINE #11 RE: EXCLUDE IGG 
+EVIDENCE  
+BRYAN C. KOHBERGER ,  
+                         Defendant.  
+ 
+ 
+ COMES NOW  the State of Idaho, by and through the Latah County Prosecuting Attorney, 
+and responds to Defendant’s Motion in Limine regarding investigative genetic genealogy (“IGG”) . 
+The defense ’s motion rests on inaccurate factual assertions and an erroneous legal standard. 
+Nevertheless , the State does not object to—and has in fact also moved —for the exclusion of the 
+IGG information at trial. 
+FACTS  
+ In June 2023, the State moved for “an order protecting the information related to the use Electronically Filed
+3/10/2025 4:00 PM
+Fourth Judicial District, Ada County
+Trent Tripple, Clerk of the Court
+By: Jennifer Keyes, Deputy Clerk 
+ 
+STATE’S RESPONSE  TO DEFENDANT’S MOTION IN LIMINE #11 RE: EXCLUDE IGG EVIDENCE   2 
+ of IGG in this case ,” including “[t]he raw data related to the SNP profile and the underlying 
+laboratory documentation related to the development of the profile, such as chain of custody for ms, 
+laboratory standard operating procedures, analyst notes, etc.” (Mot ion for Prot ective Order, p.7, 
+filed 6/16/2023.) The State argued the IGG information did not fall within Rule 16 of the Idaho 
+Criminal Rules because it was used only as a tip and the S tate “has no plans to present the IGG 
+information for which a protective order is sought as evidence at trial,” other than having an investigator testify “ only that they received a tip pointing law enforcement to Defendant.” Id. at 
+12-13 & n.6. The State suggested that the Court review the IGG information in camera  to 
+determine what, if any, of the IGG information should be disclosed to the defense. Id. at 17- 18. 
+ The Court  found “[t]he State’s argument that the IGG investigation is wholly irrelevant 
+since it was not used in obtaining any warrants and will not be used at trial is well supported.” (Order Addressing IGG DNA and Order for In Camera Review (“ In Camera Order”) , p.30, filed 
+10/25/2023) , but also determined the defense may be entitled to some of the IGG information. Id. 
+Accordingly, the Court “grant[ed] the State’s request for an in camera  review of the IGG 
+information .” Id. at 1.  
+ The State gathered the IGG information from the Idaho State Police ; Othram, which is the 
+private lab who contracted with the Idaho State Police;  and the FBI  and turned the information 
+over to the Court. The information provided to the Court included original documents as well as some descriptions of other IGG -related information that was available for further review if the 
+Court chose to do so. After the in camera  review, the Court issued an order describing which pages 
+of the IGG information had to be disclosed. ( Sealed Order for Disclosure of IGG Information and 
+Protection Order (“Disclosure Order”), filed 12/29/2023.)  The State then provided the defense the 
+materials the Court ordered disclosed.   
+ 
+STATE’S RESPONSE  TO DEFENDANT’S MOTION IN LIMINE #11 RE: EXCLUDE IGG EVIDENCE   3 
+  The Court’s In Camera Order and Disclosure Order made it clear that all IGG discovery 
+was to be filtered through the Court. Nevertheless, a  few months later , the defense sent  
+supplemental discovery requests to the State requesting additional  IGG information. ( Defendant’s 
+15th Supplemental Request for Discovery, Exhibit N, filed 3/27/2024.)  The State objected to all 
+the requests . (State’s Objection to Defendant’s 15th Supplemental Request for Discovery, filed 
+4/4/2024.) The State explained the basis of its objection was that the State had already provided  
+the IGG information to the Court, the Court had already  ordered what IGG information should be 
+disclosed to the defense, and the State had already disclosed that information. Id.  at 1- 2. 
+ At the hearing on the defense’s motion to compel the IGG information, the State made the 
+same argument  asserted in the written objection.  The State explained that, after it had received the 
+In Camera Order, it reached out to the private lab and to the FBI and asked for everything related 
+to IGG. ( 5/30/2024 Tr., p.83, L.6- 16.) The State explained that it was not fighting the  In Camera 
+Order or trying to withhold from the Court any of the IGG information. (5/30/2024 Tr., p.83, L.22 
+– p.84, L.1.) The State asserted that, after receiving the new IGG requests, the State showed the 
+new requests to Othram , and O thram said they had already given everything they had to the State . 
+(5/30/2024 Tr., p.84, Ls.1- 7.) To the extent the new requests were asking for anything beyond  
+what had already been provided, Othram had told the State it did not exist. ( 5/30/2024 Tr., p.84, 
+Ls.3-7.) The Court clearly understood the State’s argument to be that the requested materials either  
+had been turned over to the Court or  did not exist because it concluded the discussion on Othram’s 
+materials with this question: 
+THE C OURT: So Othram has said – you’ve asked them and they 
+said we’ve given you everything we have?  
+ 
+[THE STATE]: Yes.  
+ (5/30/2024 Tr., p.85, Ls.16- 18.) The Court denied the defense’s motion to compel as it related to  
+ 
+STATE’S RESPONSE  TO DEFENDANT’S MOTION IN LIMINE #11 RE: EXCLUDE IGG EVIDENCE   4 
+ the IGG information . (Order on Defendant’s 4th and 5th Motions to Compel Discovery, pp.8- 12, 
+filed 6/14/2024.1) 
+ The defense later  moved to suppress all evidence collected as a result of IGG on the basis 
+that the IGG process violated Defendant’s rights under the Fourth Amendment. At the January 23, 
+2025, hearing on the motion to suppress, ISP Lab Director Matthew Gammette test ified that ISP 
+had received  Othram’s standard operating procedures  in the context of the bidding process used 
+by ISP to secure a private lab to perform work related to IGG.  (1/23/25 Tr., p.58, Ls.1- 13.)  
+ Shortly a fter the hearing, the defense sent additional discovery requests to the State  related 
+to the IGG information , including a request for Othram’s protocols and procedures as testified to 
+by Matthew Gammette.  (Defendant’s 22nd Supplemental Request for Discovery, Exhibit U, filed 
+1/28/2025.) The State put together a response objecting to each of the IGG requests for the same 
+or similar reasons it had objected to previous IGG -related discovery requests : the IGG discovery 
+had already been handled through the process established by the Court’s In Ca mera  Order and 
+Disclosure Order.  
+ 
+1 Consistent with the colloquy at the hearing, the Court’s order gave the defense the benefit of the 
+doubt and interpreted the requests related to Othram to be asking for additional materials that were 
+not already known to the Court  rather than as an attempt  to evade the Court’s protective order and 
+secure from the State materials the Court had already ruled on . The defense’s interpretation, that 
+the Court was saying none of the requested information existed at all , is not consistent with the 
+record. For exam ple, one of the requests asked for the names and CVs of the  individuals 
+responsible  for work done at Othram. ( See Defendant’s 15th Supplemental Request for Discovery, 
+Exhibit N, p.1, filed 3/27/2024.)  Obviously, t he State never represented to the Court that  the 
+individuals who worked  at Othram did not have names or CVs . In fact, the State had already 
+disclosed in camera  information about the c hief scientist who did the work at Othram, including 
+his name and qualifications. (In Camera Materials, ISP Othram Contract Documents, p.80, filed 
+11/30/23.)  Similarly, another Othram- related discovery request asked for any data file that was 
+uploaded to any commercially available database , and the State expressly told the Court both in 
+writing and at the hearing that documents existed that were responsive to the request but had 
+already been turned over. ( See 5/30/24 Tr., p.85, Ls.3- 13; Second Supplemental Response to 
+Defendant’s Fifth Motion to Compel, p.2 (stating in response to Request 3 that “[n]o such data f ile 
+exists other than the SNP profile(s) already provided) (emphasis added), filed 5/28/24.).       
+ 
+STATE’S RESPONSE  TO DEFENDANT’S MOTION IN LIMINE #11 RE: EXCLUDE IGG EVIDENCE   5 
+  In putting together its response , the State learned  that Othram had provided its standard 
+operating procedures to ISP, but ISP had not provided them to the Latah County prosecutor’s office  
+to be disclosed to the Court  in response to the Court’s  December 29, 2023, In Camera Order. 
+Specifically, on February 9, 2025, the State first recognized that the form Othram filled out during 
+the bidding process asked the bidder to submit written standard operating procedures, and 
+Othram’s response indicated that Othram uploaded its standard operating procedures as the file SOPs.zip. (In Camera Materials, ISP Othram Contract Documents, p.80, file d 11/30/23.)  The State 
+compared Othram’s response to the information provided to the Court in response to the In Camera  
+Order and found the State did not provide the SOP s.zip file as an attachment to the bid . Upon 
+further review of its records, the State found that  ISP had not provided the file SOPs.zip to the 
+Latah County prosecutor’s office. The State then confirmed with ISP that Othram had provided the standard operating procedures to ISP but that they were inadvertently not provided to the Latah 
+County prosecutor ’s office.  
+ Just two days after learning this information, the State provided to the defense and filed 
+with the Court its response to the defense’s discovery requests. (State’s Response to Defendant’s 22nd Supplemental Request for Discovery, filed 2/11/2025.) The State explained in its response that the bidding documents included for the Court’s in camera  review revealed the existence of 
+Othram’s standard operating procedures, but the State had inadvertently failed to disclose the 
+standard operating procedures themselves. Id. at 1. The State also explained that the standard 
+operating procedures were covered by the Court’s protective order because the Court had not required the disclosure of any of the bidding documentation other than the MOU , including the 
+document that revealed the existence of the standard operating procedures, on the basis that  “[t]he 
+remaining contract documents are not relevant to any issue in the case.” (State’s Response to  
+ 
+STATE’S RESPONSE  TO DEFENDANT’S MOTION IN LIMINE #11 RE: EXCLUDE IGG EVIDENCE   6 
+ Defendant’s 22nd Supplemental Request for Disc overy, Ex. S -1, p.1, filed 2/11/2025 (quoting 
+Disclosure Order, p.5).) Two weeks later, the defense filed a motion in limine asking the Court to 
+exclude IGG evidence from the trial on the basis that the State allegedly violated Brady . 
+ARGUMENT  
+ The defense’s motion is based on a mischaracterization of the record and inapposite case 
+law. The State did not act in bad faith; the State never made the concession  the defense now claims ; 
+and the defense’s reliance on Youngblood is legally erroneous . The defense has failed both legally 
+and factually to substantiate a Brady violation.  
+A. The defense’s motion is based on the wrong legal standard.  
+ The defense’s motion relies on the wrong legal standard by confusing Brady  and 
+Youngblood. The Brady standard asks if the State withheld  exculpatory evidence that had a 
+reasonable probability of changing the outcome of  the proceeding and applies  “irrespective of the 
+good faith or bad faith of the prosecution.”  Thumm v. State , 165 Idaho 405, 422- 23, 447 P.3d 853, 
+870-71 (2019). Brady  applies when the State possesses but fails to disclose  allegedly exculpatory 
+evidence. See State v. Campbell , 170 Idaho 232, 247, 509 P.3d 1161, 1176 (2022).  “However, a 
+separate issue arises when the allegedly exculpatory evidence was not withheld by the State, but 
+rather lost or destroyed by the State.” State v. Davis , 165 Idaho 709, 714, 451 P.3d 422, 427 (2019). 
+In that circumstance, the Youngblood standard asks whether the State acted in bad faith. See id.  
+ Idaho’s appellate courts have been clear about this distinction for decades. See, e.g. , State 
+v. Sarbacher , 168 Idaho 1, 5, 478 P.3d 300, 304 (2020) (“ While we have consistently held that 
+Brady  applies when the State fails to disclose known exculpatory evidence, we have applied 
+[Youngblood]  in cases where the State has failed to preserve material evidence of unknown 
+exculpatory value. ”); State v. Ward, 135 Idaho 68, 74, 14 P.3d 388, 394 (Ct. App. 2000)  
+ 
+STATE’S RESPONSE  TO DEFENDANT’S MOTION IN LIMINE #11 RE: EXCLUDE IGG EVIDENCE   7 
+ (explaining “the district court failed to distinguish between the state’s duty to disclose  evidence 
+and the state’s duty to preserve evidence” and that Youngblood “applies only to situations where 
+the state failed to preserve potentially exculpatory evidence”).  
+ Determining which  legal standard applies  is as easy as it sounds.  For example, in a case 
+where the State possessed but failed to disclose a n allegedly exculpatory social media post , the 
+Idaho Supreme Court held Brady was the correct standard. See Campbell , 170 Idaho at 247- 49, 
+509 P.3d at 1176- 78. But in a different case when the State  “destroyed or deleted”  an allegedly 
+exculpatory social media post, the court held that Youngblood applied . See Davis , 165 Idaho at 
+715, 451 P.3d at 428. Here, Brady applies because the defense alleges that the State failed to 
+disclose Othram’s standard operating procedures. Youngblood does not apply because the defense 
+has not alleged that the State lost or destroyed Othram’s standard operating procedures . Becaus e 
+Brady applies rather than Youngblood, whether the State acted in good faith or bad faith is 
+irrelevant.  Thus, the defense’s motion, which rests entirely on its faulty accusations of bad faith, 
+fails from the get- go. 
+ Though legally correct, it is unfortunate for the State that Youngblood does not apply 
+because there is no reasonable reading of the record that supports a finding of bad faith. “Bad faith 
+is a high bar, requiring more than mere negligence; rather, bad fai th refers to a calculated effort to 
+circumvent the disclosure requirements established by Brady v. Maryland and its progeny.”  State 
+v. Sarbacher , 168 Idaho 1, 7, 478 P.3d 300, 306 (2020)  (internal quotations omitted) . There was 
+no calculated effort to circ umvent Brady . The State disclosed to the Court the records it had 
+received regarding the bidding process. Then, just two days after learning that the standard 
+opera ting procedures themselves were inadvertently left out of  the material provided for in camera  
+review, the State notified the defense and the Court  still six months  before the trial. The State acted  
+ 
+STATE’S RESPONSE  TO DEFENDANT’S MOTION IN LIMINE #11 RE: EXCLUDE IGG EVIDENCE   8 
+ in good faith and there is no reasonable basis to conclude otherwise.  
+B. The defense has not and cannot prove a Brady violation . 
+ The defense has not and cannot  prove a Brady violation related to Othram’s standard 
+operating procedures.  “There are three components of a true Brady  violation: The evidence at issue 
+must be favorable to the accused, either because it’s exculpatory, or because it is impeaching; that 
+evidence must have been suppressed by the State, either willfully or inadvertently; and prejudice must have ensued.” State v. Hall , 163 Idaho 744, 830, 419 P.3d 1042, 1128 (2018). The defense 
+has not proven any of three components.  
+ First , the defense has not shown that Othram’s standard operating procedures are 
+exculpatory or impeaching. Much of the defense’s argument  is based on a misreading of the 
+transcript of May 30, 2024, to say the State conceded the IGG information is relevant to the case.  
+Of course, relevance is not the proper standard. See State v. Campbell , 170 Idaho 232, 247, 509 
+P.3d 1161, 1176 (2022) (explaining Brady  only applies where the evidence is  “favorable to the 
+defense ”). In any event, the defense is wrong about the State’s concession.  
+ The defense omitted from its motion the beginning of the State’s argument  at the hearing , 
+which demonstrates  that the State maintained its position that none  of the IGG information is  
+relevant  and that the State’s references to the Court’s order were refer ring to the In Camera Order 
+requiring the State to turn IGG information over to the Court , not the Disclosure Order requiring 
+the State to turn some  of the IGG information over to the defense : 
+[THE STATE]: Thanks, Judge. So I just want to start with maybe a 
+bigger picture for a second. You know, we started with arguments 
+about whether the IGG stuff is relevant at all. We, of course, made our argument that it is not relevant at all. It shouldn’t even have to be produced. The Court made a ruling on that. We still don’t agree with it, but we understand – 
+[THE COURT]: I understand.  
+ 
+STATE’S RESPONSE  TO DEFENDANT’S MOTION IN LIMINE #11 RE: EXCLUDE IGG EVIDENCE   9 
+ [THE STATE]: -- the Court makes the decisions, and so we 
+complied with that order.  
+(5/30/2024 Tr., p.83, Ls.6- 15.) In light of that portion of the Sta te’s argument, it is clear that the 
+next portion of the State’s argument was nothing more than the State acknowledging that —to the 
+extent the requested materials exist —those materials fell within the scope of the Court’s In Camera  
+Order and, pursuant to th at order, the State had to turn over those materials to the Court : 
+[THE STATE:] We have talked to Othram. We’ve spoken to 
+Othram since we have gotten  this Exhibit N and provided them these 
+requests. And we are not in a position – for example, request 1 
+through 6, we are not fighting those. I’m not saying, we are not going to turn those over. In my view, they fall pretty clearly under the Court’s order. The issue is, we go to Othram and show them 
+these, and Othram says, we have given you everything. You have everything. Everything we have was given to the Court and then provided to the Defense. So, there’s nothing on this list that we are holding back be cause we think we have some justification for doing 
+so. Othram is just telling us we don’t have it.  
+(5/30/2024 Tr., p.83, L.20 – p.84, L.7.)  
+ That the State was referring to the In Camera Order and turning over materials to the Court  
+is also clear from th e orders themselves. The In Camera Order required the State to disclose a 
+category of information to the Court: all the IGG information related to the case. (In Camera Order, 
+pp.30- 31.) The Disclosure Order, on the other hand, specified precisely which pages or discrete 
+information reviewed in camera  needed to be turned over to the defense. (See Disclosure Order,  
+pp.1- 5.) Given the nature of the orders, it would make no sense for the State to assert that any 
+additional information not provided in camera  was subject to the Disclosure Order.  
+ The defense’s misreading of the transcript pales in comparison to its misreading of the 
+State’s motion for a protective order. (Mot. at 3.) The defense tries to claim the State conceded in 
+its motion that all information related to Othram’s work was relevant because the State agreed to provide the lab report pursuant to Rule 16(b)(5). Id. Nothing could be further from the truth. The  
+ 
+STATE’S RESPONSE  TO DEFENDANT’S MOTION IN LIMINE #11 RE: EXCLUDE IGG EVIDENCE   10 
+ State dedicated an entire section of the motion to explaining why Rule 16(b)(5) required only  the 
+disclosure of the scientific report and nothing else. (Motion for Protective Order, pp.13- 15, filed 
+6/16/2023.) The State also affirmatively argued the rest of the IGG information should be protected 
+because it fell outside of Rule 16, including any “raw data related to the SNP profile and the 
+underlying laboratory documentation related to the development of the profile, such as ch ain of 
+custody forms, laboratory standard operating procedures, analyst notes, etc.” Id.  at 7.  
+ Second, the defense has not shown that the State “suppressed” Othram’s standard operating 
+procedures  because those documents have been withheld from disclosure to the Defendant 
+pursuant to a  protective order. Idaho’s appellate courts have looked with favor on the use of an in 
+camera  review process  for a trial court to determine whether evidence is exculpatory or 
+impeaching. See Campbell , 170 Idaho at 246-49, 509 P.3d at 1175- 78. The Court ordered such a 
+process in this case. (See In Camera  Order, pp. 30-31.) While Othram’s standard operating 
+procedures were inadvertently left out of the material presented in camera , the material s that w ere 
+provided w ere sufficient to obtain a ruling from the Court  that the information Othram provided 
+to ISP as part of the bidding process , was not relevant to the case. As the State explained in its 
+response to the defense’s discovery request:  
+Matthew Gamette testified about Othram’s protocols and 
+procedures in the context of the bidding process. The documents related to the bidding were included in or referenced in the materials provided to the court to review in camera . The court required the 
+State to discover only the MOU from the bidding documents. (See Sealed Order for Disclosure of IGG Information and Protective Order, p.5, filed 12/29/2023 (“The State need only discover pages 99-103, the Memorandum of Understanding. The remaining 
+contract documents are not relevant to any issue in the case.”)).  
+The court did not require the State to produce any of the other bidding documentation, including Othram’s bid submission that discussed Othram’s accreditation status, other customers, past cases, the name and qualifications of the primary genealogist, the name  
+ 
+STATE’S RESPONSE  TO DEFENDANT’S MOTION IN LIMINE #11 RE: EXCLUDE IGG EVIDENCE   11 
+ and qualifications of the chief scientist, and the SOPs or analytical 
+methods that were to be used. Though the SOPs were inadvertently excluded from the materials reviewed in camera, the bidding  
+document referencing the SOPs were included and the court did not require disclosure of that document or the SOPs.    
+(State’s Response to Defendant’s 22nd Supplemental Request for Discovery, Exhibit S -1, p.1, filed 
+2/11/25.) If the defense disagreed with the State’s position, it could have filed a motion to have 
+the Court rule on the issue. Instead, the defense chose to skip that step and jump straight to alleging 
+the State violated Brady . 
+ The defense’s only explanation for jumping ahead to the exclusion of the IGG information 
+instead of first asking the Court to order the disclosure of the  standard operating procedures is a 
+conclusory statement that Defendant would be “significantly handicapped” by “production of the materials sought at this late date” because with an earlier disclosure “he would have been able to utilize the materials for motion work and consultation with experts.” (Mot. at 14.)  But when the 
+Brady  issue is one of delayed disclosure, the question is whether “‘earlier disclos ure would have 
+created a reasonable doubt of guilt.’” Thumm , 165 Idaho at 423, 447 P.3d at 871 (quoting United 
+States v. Burke , 571 F.3d 1048, 1054 (10th Cir. 2009). In Thumm , the Idaho Supreme Court found 
+disclosure of a fingerprint report  just one week b efore trial did not violate Brady because the 
+defense attorney “had enough time to review the report and use its conclusions if she sought to do so” and “[t]he State then agreed not to use the report in its case- in-chief.”  Id. Here, the defense 
+was informe d of the standard operating procedures six months  before trial ; the defense has not 
+even attempted to articulate with any specificity how the standard operating procedures could make any differen ce in the jury’s determination of guilt ; and the State is not seeking to use the 
+standard operating procedures (or any of the IGG information) at trial.  
+ Third, the defense has not shown prejudice,  and the law and logic dictate that the defense  
+ 
+STATE’S RESPONSE  TO DEFENDANT’S MOTION IN LIMINE #11 RE: EXCLUDE IGG EVIDENCE   12 
+ cannot show prejudice with respect to Othram’s standard operating procedures . “‘Prejudice’ and 
+‘materiality’ are used interchangeably in the context of Brady .” Campbell , 170 Idaho at 247 n.5, 
+509 P.3d at 1176 n.5. “When assessing materiality , the question is whether the favorable evidence 
+could reasonably be taken to put the whole case in such a different light as to undermine confidence 
+in the [outcome].” Id. at 247, 509 P.3d at 1176 (quoting Thumm  v. State , 165 Idaho 405, 423 -24, 
+447 P.3d 853, 871- 72 (2019) (brackets in original)). “Such evidence is material ‘if there is a 
+reasonable probability that, had the evidence been disclosed to the defense, the result of the proceeding would have been different.’” Id.  (quoting Strickler v. Greene, 527 U.S. 263 (1999)). 
+Nothing about IGG in this case, including Othram’s standard operating procedures, comes 
+anywhere close to  being “ material ” for purposes of Brady . 
+ It is undisputed that IGG is simply a means to generate potential leads as to who DNA 
+found at a crime scene may belong. If one of those leads proves fruitful, law enforcement can 
+conduct a confirmatory test as to whether the DNA belongs to the suspect using an STR 
+comparison. The strength of the evidence against a defendant  in terms of DNA evidence depends 
+upon the confirmatory result from the STR DNA analysis between the defendant’s DNA  and the 
+DNA recovered from the crime scene. See, e.g.,  In the Matter of: Michael Green , Case No. 
+PDL20200007, Ruling on Motion to Compel Production of Discovery, pp.11- 12 (Sup. Ct. Cal. 
+Oct. 5, 2020) (“ [T]he evidence that is material to [the defendant’s] guilt or innocence is the testing 
+that followed the [IGG] i nvestigation, which directly compared a fresh swab of [the defendant’s] 
+DNA with the DNA profile collected from the victim’s nightgown.”).  
+ Here, t he IGG information is even less material  (if that is possible)  than it would otherwise 
+have been  because the defense has not disclosed any experts or evidence  to challenge the 
+confirmatory STR  comparison. The defense has disclosed  an expert  regarding DNA evidence  
+ 
+STATE’S RESPONSE  TO DEFENDANT’S MOTION IN LIMINE #11 RE: EXCLUDE IGG EVIDENCE   13 
+ interpretation and the likelihood ratio to  challeng e one of the State’s conclusions concerning DNA . 
+(Defendant’s Supplemental Response to Request for Discovery Regarding Expert Witnesses, Ex. 
+D10-B, pp.1- 2, filed 1/23/25.)  But the defense has not disclosed any experts to challenge the  
+confirmatory  STR comparison showing the DNA on the  knife sheath  matched Defendant’s DNA . 
+On the contrary, the defense has disclosed that its Forensic Biology and DNA  expert  will testify 
+that “[t]here is good support that Mr. Kohberger’s DNA was found on Item 1.1, a swab from the 
+knife sheath .” (Id., Ex. D1- B, p.19.) Instead of challenging the conclusion that the DNA on the 
+knife sheath belonged to Defendant, t he defense ’s expert disclosures reveal that the defense plans 
+to argue the DNA on the knife sheath does not prove Defendant was ever at the crim e scene and 
+the knife sheath itself could have been planted by the real perpetrator. See, e.g. , id.  
+ The parties ’ theor ies demonstrate  why the IGG work in this case cannot possibly be 
+material  under Brady . See Thumm , 165 Idaho at 424, 447 P.3d at 872 ( finding allegedly 
+exculpatory evidence not material under Brady  because it was “not part of the State’s theory of the 
+case”).  The IGG was conducted as a preliminary assessment of potential owners of the DNA found 
+on the knife sheath and identified Defendant as a potential owner of the DNA. But it was the  
+scientific process of the  STR comparison that confirmed Defendant’s DNA matched the DNA 
+found on the knife sheath. Now, the State has no plans to use the preliminary assessment  of the 
+IGG at trial, and the defense has no plans to challenge the confirmatory STR comparison. Thus, 
+the preliminary assessment of the IGG could have no effect on the result of the trial.   
+ The defense erroneously asserts prejudice on the basis that it will not be able to us e the 
+standard operating procedures to cross -examine the State’s expert witness David Mittelman, the 
+CEO of Othram.  (Mot. at 14.)  But the State disclosed Dr. Mittelman only as a rebuttal witness to 
+respond to the two IGG experts the defense initially disclosed . Now that the defense has  decided  
+ 
+STATE’S RESPONSE  TO DEFENDANT’S MOTION IN LIMINE #11 RE: EXCLUDE IGG EVIDENCE   14 
+ not to call their IGG experts, the State has no need to call Dr. Mittelman. (See “State’s Response 
+to Defendant’s M otion in Limine #10 RE: Improper Expert Opinion Testimony – Mittelman” filed 
+contemporaneously with this Response.  More importantly, however, demonstrating prejudice under Brady  requires far more than a 
+showing that the standard operating procedures could be used for cross -examination. See 
+Campbell , 170 Idaho at 247, 509 P.3d at 1176 (defining the elements of Brady  to require the 
+defendant to show “prejudice” separate from showing the evidence is “exculpatory or impeaching”). The defense would have to prove that the cross -examination using the standard 
+operating procedures would have a reasonable probability of changing the outcome of the case . 
+See id.  at 249, 509 P.3d at 1178. T he defense has not (and cannot) do so. Even if Othram failed to 
+follow every standard operating procedure , that does not change the fact s that the IGG merely 
+pointed law enforcement to ward  Defendant as a potential owner of the DNA on the knife sheath 
+or that the unchallenged confirmatory STR comparison showed the  DNA on the knife sheath 
+matched  Defendant.  
+ The defense also  whispers in a footnote that Defendant may have been prejudiced because 
+the standard operating procedures “could have” bolstered Defendant’s argument that the IGG work violated his Fourth Amendment rights  on the basis that it revealed private medical information. 
+(Mot. at 14 n.8.) Such speculation is insufficient to prove prejudice under Brady . See, e.g. , State 
+v. Albert , 138 Idaho 284, 290, 62 P.3d 208, 214 (Ct. App. 2002) ( “Materiality, for purposes of a 
+Brady  analysis, must rest on something more than wild speculation.”). The defense’s speculation 
+also runs contrary to all the related evidence presented at the hearing.  For example, Rylene Nowlin, 
+a forensic laboratory manager with ISP, testified that medical information fell outside of Othram’s scope of work  in this case and that the information Othram provided back to ISP did not contain  
+ 
+STATE’S RESPONSE  TO DEFENDANT’S MOTION IN LIMINE #11 RE: EXCLUDE IGG EVIDENCE   15 
+ medical information. (1/23/25 Tr., p.73, L.1 –  p.74, L.1.) Similarly, the defense’s own expert, who 
+previously oversaw a lab like Othram and played a role like Othram in law  enforcement 
+investigations, testified such labs develop SNP profiles related to genealogy and ancestry rather 
+than medical information and developing SNPs related to medical information in the context of 
+IGG “wouldn’t be relevant nor probative nor appropr iate.” (1/23/25 Tr., p.136, Ls.11- 21.) 
+ Furthermore , even if the defense’s speculation were correct, it would not  have changed the 
+outcome of the Court’s decision. (See Order on Defendant’s Motion to Suppress Re: Genetic 
+Information, p.17, filed 2/19/25 (“ Moreover, even assuming there were sensitive genetic details 
+revealed by the IGG performed here, the fact that the DNA was obtained from a crime scene and analyzed for purposes of identifying the perpetrator displaces any reasonable expectation of privacy.”).)   
+ The defense has not proven any of the elements necessary to show a Brady violation , and 
+this Court should deny the defense’s motion. 
+C. The State does not object to the requested relief.  
+ The defense’s factual allegations and legal arguments all fall flat. But perhaps the most 
+perplexing portion of the defense’s motion is the relief requeste d: in the ultimate concession of 
+immateriality, the defense seeks only the exclusion at trial of the IGG information  even though the 
+State has  consistently stated it does not plan to present  the IGG information  to the jury. This means 
+the State finds itself in the unusual position of strongly disagree ing with the rationale for the 
+defense’s motion but having no objection to the defense’s requested relief .  
+ As the State has explained as far back as the beginning of the litigation over the IGG and 
+as recently as its competing motion in limine filed contemp oraneously with the defense’s motion, 
+the State does not intend to introduce the IGG information at trial other than to help the jury  
+ 
+STATE’S RESPONSE  TO DEFENDANT’S MOTION IN LIMINE #11 RE: EXCLUDE IGG EVIDENCE   16 
+ 
+understand how the investigation progressed. The State can do so by referring to the IGG 
+information as a generic tip  without revealing the source or the substance of the tip. An investigator 
+can simply testify that law enforcement  received a tip and that based on the information received 
+law enforcement took the next step in the investigation. 
+CONCLUSION 
+ The State did not act in bad faith, and the defense has failed to show the State violated its 
+obligations under Brady . This Court should deny the defense’s motion to the extent the defense 
+requests sanctions against the State. The parties do seem to agree, however, that the IGG 
+information should not be presented at trial. This Court should thus enter an order excluding the 
+IGG information at trial other than as a generic tip for  the purpose of helping the jury understand 
+how the investigation progressed.  
+ RESPECTFULLY SUBMITTED this  10th day of  March  2025.      
+  
+___________________________________   _______________________________  
+William W. Thompson, Jr.     Jeff Nye  
+Prosecuting Attorney      Special Assistant Attorney General  
+   
+ 
+STATE’S RESPONSE  TO DEFENDANT’S MOTION IN LIMINE #11 RE: EXCLUDE IGG EVIDENCE   17 
+ 
+CERTIFICATE OF DELIVERY  
+ 
+I hereby certify that true and correct copies of the STATE’S OBJECTION TO 
+DEFENDANT’S MOTION IN LIMINE #11 RE: EXCLUDE IGG EVIDENCE  were served on 
+the following in the manner indicated below:  
+Anne  Taylor  
+Attorney at Law  
+PO Box 2347 
+Coeur D Alene, ID 83816  
+ ☐  Mailed  
+☒  E -filed & Served / E -mailed  
+☐  Faxed  
+☐  Hand Delivered  
+ 
+ Dated this 10th day of March  2025.  
+ 
+ 
+__________________________________________ 
+ 
+ 

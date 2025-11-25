@@ -1,0 +1,561 @@
+MOTION TO STRIKE FUTURE DANGEROUSNESS AGGRAVATOR  Page 1 
+ Anne Taylor Law, PLLC 
+Anne C. Taylor, Attorney at Law 
+Bar Number: 5836 
+PO Box 2347 
+Coeur d’Alene, Idaho 83816 
+Phone: (208) 512-9611 
+iCourt Email: info@annetaylorlaw.com   
+ 
+Jay W. Logsdon, Interim Public Defender 
+Kootenai County Public Defender’s Office 
+PO Box 9000 
+Coeur d’Alene, Idaho 83816 
+Phone: (208)446-1700 
+ 
+Elisa G. Massoth, PLLC 
+Attorney at Law  
+P.O. Box 1003 
+Payette, Idaho 83661 
+Phone: (208)642-3797; Fax: (208)642-3799 
+ 
+Assigned Attorney: 
+Anne C. Taylor, Public Defender, Bar Number: 5836 
+Jay W. Logsdon, Chief Deputy Public Defender, Bar Number: 8759 
+Elisa G. Massoth, Attorney at Law, Bar Number: 5647 
+ 
+IN THE DISTRICT COURT OF THE SECOND JUDICIAL DISTRICT OF THE  
+STATE OF IDAHO, IN AND FOR THE COUNTY OF LATAH  
+ 
+ 
+CASE NUMBER CR29 -22-2805 
+ 
+ 
+MOTION TO STRIKE FUTURE 
+DANGEROUSNESS AGGRAVATOR 
+ 
+ 
+ 
+ 
+COMES NOW, Bryan  C. Kohberger , by and through his attorneys of record , and hereby 
+moves to strike the future dangerousness aggravator listed in the state’s Notice Pursuant to Idaho 
+Code § 18-4004A .  The S tate’s aggravator  should be struck  because it fails to genuinely narrow STATE OF IDAHO  
+ 
+                                   Plaintiff,  
+ 
+V. 
+ 
+BRYAN C. KOHBERGER,  
+ 
+                                   Defendant.  Electronically Filed
+9/5/2024 2:48 PM
+Second Judicial District, Latah County
+Julie Fry, Clerk of the Court
+By: Tamzen Reeves, Deputy ClerkMOTION TO STRIKE FUTURE DANGEROUSNESS AGGRAVATOR  Page 2  
+ the class of defendants eligible for death and provides no standards to the jury to avoid imposing 
+the death penalty in an arbitrary and capricious manner.  
+ISSUE S 
+I. I.C. § 19- 2515(9)(i) fails to narrow the class of death -eligible defendants.  
+II. I.C. § 19- 2515(9)(i) is impermissibly vague. 
+III. I.C. § 19- 2515(9)(i) is irrelevant  to culpability and therefore cannot be an aggravator .  
+ 
+ARGUMENT  
+The United States Supreme Court has stated that the Eighth Amendment's prohibition 
+against cruel and unusual punishment, made applicable to the states through the Fourteenth Amendment, prohibits a state from imposing the death penalty in an arbitrary and c apricious 
+manner. Instead, the sentencing body must be provided with standards which will genuinely narrow the class of crimes and the persons against whom the death penalty is imposed.  Zant v. Stephens , 462 U.S. 862, 877, 103 S.Ct. 2733, 2742 (1983) .  See also  Gregg v. Georgia, 428 U.S. 
+153, 206–07, 96 S.Ct. 2909, 2940–41, 49 L.Ed.2d 859, reh. denied 429 U.S. 875, 97 S.Ct. 197, 50 L.Ed.2d 158 (1976); Furman v. Georgia, 408 U.S. 238, 294, 92 S.Ct. 2726, 2754–55, 33 L.Ed.2d 346 (Brennan, J., concurring), reh. denied 409 U.S. 902, 93 S.Ct. 89, 34 L.Ed.2d 164 (1972).  
+“To pass constitutional muster, a capital -sentencing scheme must ‘genuinely narrow the 
+class of persons eligible for the death penalty and must reasonably justify the imposition of a more severe sentence on the defendant compared to others found guilty of m urder.’” Lowenfield v. 
+Phelps , 484 U.S. 231, 244, 108 S.Ct. 546, 554 (1988) citing  Zant, 462 U.S. at  877, 103 S.Ct. at  
+2742; Gregg , 428 U.S. 153, 96 S.Ct. 2909.  The Court stated:“[T]he narrowing function required 
+for a regime of capital punishment may be provided in either of these two ways: The legislature may itself narrow the definition of capital offenses, as Texas and Louisiana have done, so that the jury finding of guilt responds to this concern, or the legislature may more broadly define capital MOTION TO STRIKE FUTURE DANGEROUSNESS AGGRAVATOR  Page 3  
+ offenses and provide for narrowing by jury findings of aggravating circumstances at the penalty 
+phase.”  Id.  The clear provisions of the Idaho  statute provide that the narrowing occur in the  
+sentencing phase of the trial, particularly here, where the allegation is simply premediated murder. See, State v. Hall , 163 Idaho 744, 788 (2018) (finding aggravating circumstances in Idaho are in 
+both the definition of the crime and in the statutory aggravating circumstances).  
+That said, aggravating circumstances must meet two requirements: the circumstance may 
+not apply to every defendant convicted of murder; it must apply only to a subclass of defendants convicted of murder (genuine narrowing), and the circumstance must not be  unconstitutionally 
+vague. Tuilaepa v. California, 512 U.S. 967, 972, 114 S.Ct. 2630, 2635 (1994).  
+“Claims of vagueness directed at aggravating circumstances defined in capital punishment 
+statutes are analyzed under the Eighth Amendment and characteristically assert that the challenged provision fails adequately to inform jurors what they must find to i mpose the death penalty and as 
+a result leaves them and appellate courts with the kind of open -ended discretion held invalid in 
+Furman v. Georgia.” Maynard, 486 U.S. at 361 –62, 108 S.Ct. at 1858.  A statutory aggravating 
+factor is unconstitutionally vague if it fails to furnish principled guidance for the choice between death and a lesser penalty. See, e.g., Maynard v. Cartwright, 486 U.S. 356, 361- 364, 108 S.Ct. 
+1853, 1857- 59, 100 L.Ed.2d 372 (1988); Godfrey v. Georgia, 446 U.S. 420, 427- 433, 100 S.Ct. 
+1759, 1764- 1767, 64 L.Ed.2d 398 (1980).  
+In State v. Creech , 105 Idaho 362, 670 P.2d 463 (1983), the Idaho Supreme Court upheld 
+the propensity aggravating circumstance as being constitutional. In doing so the Court construed  
+the word “propensity” as follows:  
+We would construe “propensity” to exclude, for example, a person who has no 
+inclination to kill but in an episode of rage, such as during an emotional family or lover's quarrel, commits the offense of murder. We would doubt that most of those convicted of murder would again commit murder, and rather we construe the “propensity” language to specify that person who is a willing, predisposed killer, a killer who tends toward destroying the life of another, one who kills with less than MOTION TO STRIKE FUTURE DANGEROUSNESS AGGRAVATOR  Page 4  
+ the normal amount of provocation. We would hold that propensity assumes a 
+proclivity, a susceptibility, and even an affinity toward committing the act of murder.  
+ 
+Id. at 370–71, 670 P.2d at 471–72. The Court noted that:  
+In Jurek v. Texas , 428 U.S. 262, 96 S.Ct. 2950, 49 L.Ed.2d 929 (1976), the Court 
+rejected an argument that the circumstance of “a probability that the defendant would commit criminal acts of violence that would constitute a continuing threat to society” was unconstitutiona lly vague. There the appellant had contended that the 
+provision required the court to predict the future. It was noted that such speculation on future behavior is made by courts countless times daily in every sentencing decision and in eve ry determination of bail, and by parole authorities constantly in 
+probation decisions. Jurek, supra, 428 U.S. at p. 275, 96 S.Ct. at p. 2957 (opinion 
+of Stewart, J., joined by Powell and Stevens, JJ.). White, J., joined by Chief Justice Burger and Rehnquist, J., concurred in the holding that the statutory aggravating circumstances of the Texas statute w ere sufficiently narrow in definition to 
+withstand a challenge for vagueness. Accord Proffitt v. Florida , 428 U.S. 242, 255, 
+96 S.Ct. 2960, 2968, 49 L.Ed.2d 913 (1976).  
+ Id. 
+ Both holdings are problematic within the jurisprudence outlined above .  First, the Idaho 
+Supreme Court’s definition of propensity to commit murder matches and even makes use of the 
+language from the definition of murder.  Essentially, the Court excluded manslaughter.  Second, 
+the United States Supreme Court failed to recognize that the vagueness inherent in the question of whether a particular individual poses a threat to society is that the very factors that might lead one person to conclude they should die may be thought of by another as a reason for mercy.  It is not 
+clear from the decades of authorities on the subject whether the homicidally inclined are to be despised or pitied.  Finally, such evidence is not relevant to determining which defendants are 
+culpable of acts worthy of the death penalty. 
+I. I.C. § 19- 2515(9)(i) fails to narrow the class of death -eligible defendants.  
+The gloss placed on future dangerousness by the Idaho Supreme Court makes anyone who 
+is found guilty of murder a candidate for death.  This is because the Court’s holding differentiates MOTION TO STRIKE FUTURE DANGEROUSNESS AGGRAVATOR  Page 5  
+ murder from manslaughter, rather than creating a subclass of murders. Murder is defined in Idaho 
+as: 
+the unlawful killing of a human being including, but not limited to, a human embryo 
+or fetus, with malice aforethought or the intentional application of torture to a human being, which results in the death of a human being. Torture is the intentional infliction of extreme and prolonged pain with the intent to cause suffering. It shall also be torture to inflict on a human being extreme and prolonged acts of brutality irrespective of proof of intent to cause suffering. The death of a human being caused by such torture is murder irrespective of proof of specific intent to kill; torture causing death shall be deemed the equivalent of intent to kill.  
+ I.C. § 18-4001.  The Supreme Court’s interpretation of future dangerousness would clearly catch 
+all torturers within its ambit, so the only question is whether those who unlawfully kill with malice 
+aforethought are meaningfully separate out by the Court’s gloss.  The leg islature defines malice 
+aforethought as:  
+Such malice may be express or implied. It is express when there is manifested a 
+deliberate intention  unlawfully to take away the life of a fellow creature. It is 
+implied when no considerable provocation appears , or when the circumstances 
+attending the killing show an abandoned and malignant heart. [emphasis added]  
+ I.C. § 18- 4002.   
+This language corresponds almost exactly with that use by the Supreme Court to define 
+those with a propensity to kill:  
+We would construe “propensity” to exclude, for example, a person who has no inclination to kill but in an episode of rage, such as during an emotional family or lover's quarrel, commits the offense of murder. We would doubt that most of those convicted of murder would again commit murder, and rather we construe the “propensity” language to specify that person who is a willing, predisposed killer , 
+a killer who tends toward destroying the life of another , one who kills with less 
+than the normal amount of provocation . We would hold that propensity assumes 
+a proclivity , a susceptibility , and even an affinity  toward committing the act of 
+murder. - [emphasis added]  
+ 
+Id. at 370–71, 670 P.2d at 471–72.  These definitions are essentially the same:  
+(1) Both definitions rely on a lack of provocation.   
+(2) A propensity, an i nclination, a willingness, an affinity, and a tendency toward murder  are 
+all synonymous  within this context.  Inclination/propensity as  defined by the Oxford 
+American Dictionary  means : MOTION TO STRIKE FUTURE DANGEROUSNESS AGGRAVATOR  Page 6  
+ A person’s natural tendency or urge to act or feel in a particular way.  
+ 
+NEW OXFORD AMERICAN DICTIONARY  878 (3rd ed. 2010).  Affinity means:  
+ A spontaneous or natural liking or sympathy for someone or something.  
+Id. at 27.  To be willing is to be “inclined to do something.”  Id. at 1978.  To have a predisposition 
+toward a thing is to have “a liability or tendency .. to hold a particular attitude or act in a particular 
+way. ” Id. at 1376.  The New Oxford American Dictionary defines susceptibility as:  
+The state or fact of being likely or liable to be influence or harmed by a particular thing.  
+Id. at 1751.  It would be impossible for a person to be inclined to murder without being susceptible 
+to the concept.   
+(3) To kill with out inclination, propensity, or intent, but in a “fit of rage” is traditionally 
+understood to be  manslaughter. See State v. Norris , 2 N.C. 429, 443 (1796) (“If two persons 
+suddenly fall out and fight, and in the contest one kills the other, that is manslaughter: the blood is heated, the passions boil, rage dictates his conduct, and whilst the blows are passing, there is no leisure for reflection, nor time for reason to assume its empire.” citing  
+Keeling 56).  
+ Indeed Idaho defines voluntary manslaughter as:  
+ 
+the unlawful killing of a human being including, but not limited to, a human embryo or fetus, without malice. It is of three (3) kinds:  
+ (1) Voluntary-- upon a sudden quarrel or heat of passion. 
+ I.C. § 18- 4006.  
+  Therefore, the Supreme Court’s gloss is a list of synonyms that define anyone who would 
+commit murder as already defined by the legislature.  It does not accomplish the genuine narrowing 
+required by the Eighth Amendment. 
+II. I.C. § 19- 2515(9)(i) is impermissibly vague. 
+The United States Supreme Court held that future dangerousness was not vague as it was 
+something judges had to do all the time.  Jurek v. Texas , 428 U.S. 262, 96 S.Ct. 2950, 49 L.Ed.2d 
+929 (1976).  While this is true, the vagueness of future dangerousness does not lie in what the MOTION TO STRIKE FUTURE DANGEROUSNESS AGGRAVATOR  Page 7  
+ concept means but what a jury is intended to do with the information.  Traditionally, future 
+dangerousness was seen as mental illness , which in turn was seen as a mitigating circumstance.  
+The Supreme Court has, confusingly, also held to this traditional understanding in reversing death penalty cases.  Is evidence of  future dangerousness both an aggravating and mitigating factor?  If 
+it is, the n how can this evidence be “adequate[ ] to inform jurors what they must find to impose 
+the death penalty and as a r esult leaves them and appellate courts with the kind of open -ended 
+discretion held invalid in Furman v. Georgia” ? Maynard, 486 U.S. at 361–62, 108 S.Ct. at 1858.  
+At the founding and throughout the 19
+th century, mental illness was a difficult issue for the 
+judiciary. See, generally, Susanna L. Blumenthal, L AW AND THE MODERN MIND: CONSCIOUSNESS 
+AND RESPONSIBILITY IN AMERICAN LEGAL CULTURE  (2016).  Theories about how the mind 
+operated led many scholars to conclude that negative behaviors were symptoms of mental illness and thus removed responsibility for all evil actions. See id . at 61, 75, 84, 89, 129 (discussing “moral 
+insanity”). In essence, since no rational being would behave badly, all criminals were madmen.  
+While psychology has come a long way since the 19
+th century, the definition of mental 
+disorder  still contains the basic concept that a person choosing sustained negative behaviors is 
+mentally ill.   According to the DSM -V, a mental disorder is: 
+A mental disorder is a syndrome characterized by clinically significant disturbance 
+in an individual’s cognition, emotion regulation, or behavior that reflects a 
+dysfunction in the psychological, biological, or developmental processes underlying mental functioning. Mental disorders are usually associated with significant distress or disability in social, occupational, or other important 
+activities.  An expectable or culturally approved response to a common stressor or 
+loss, such as the death of a loved one, is not a mental disorder. Socially deviant 
+behavior (e.g., political, religious, or sexual) and conflicts that are primarily 
+between the individual and society are not mental disorders unless the deviance or conflict results from a dysfunction in the indi vidual, as described above.  
+ DSM -V at 20.  Practically speaking, every case where a jury is asked to find a person is likely to 
+pose a threat of future dangerousness will involve underlying significant disturbances in that 
+person’s mental functioning.   MOTION TO STRIKE FUTURE DANGEROUSNESS AGGRAVATOR  Page 8 F rom the Supreme Court’s view, a mental illness  of a type that renders a person unable to 
+understand the meaning of or reason for it  bars the application of the death penalty.  See, Ford v. 
+Wainwright , 477 U.S. 399, 417, 106 S.Ct. 2595, 2606 (1986).  All other forms of mental illness 
+are mitigating and only an ineffective attorney would not fully investigate and consider present ing 
+such evidence to a jury. See Wiggins v. Smith, 539 U.S. 510, 123 S.Ct. 2527 (2003). 
+In turn, legislatures have labeled this same evidence as aggravating by pointing out that the 
+factors that reduce culpability are increasing the threat the defendant in question poses to society. 
+There is nothing new about making this observation, but by placing the legislative weight on the aggravation side of the scale the evidence considered constitutionally mitigating is rendered a danger to the capital defendant. See, Penry v. Lynaugh, 492 U.S. 302, 324, 109 S.Ct. 2934, 2949 
+(1989) abrogated on other  grounds by  Atkins v. Virginia , 536 U.S. 304, 122 S.Ct. 2242 (2002) ; 
+see also  Royal v. Taylor 188 F.3d 239 (4th Cir. 1999) (noting that evidence of  psychological 
+impairments as a mitigating factor in  sentencing can be a “double-edged sword”) .)   
+The best response to this decision the  Supreme Court has made is that though the legislature 
+renders  the evidence aggravating at the base of a death qualifying “ pyramid ” the jury can still treat 
+it as mitigating at the “ apex. ” See, Walton v. Arizona, 497 U.S. 639, 716, 110 S.Ct. 3047, 3090 
+(1990) (Stevens, J. dissenting); Zant v. Stephens , 462 U.S. 862, 870- 872, 103 S.Ct. 2733, 2739-
+2740 (1983).  That explanation of how the system is to work is made all the more  Kafkaesque by 
+states like Idaho that require defendants to give up rights and privileges in order to introduce 
+evidence of a mental disorder . I.C. § 18 -207.  The system is not well- served by permitting the 
+legislature  to make the purpose of psychological evidence unclear  for juries.  Studies have shown 
+that juries are confused by the double intentions behind such evidence and typically find it aggravating. See, Ronald J. Tabak, Overview of the Task Force Proposal on Mental Disability and MOTION TO STRIKE FUTURE DANGEROUSNESS AGGRAVATOR  Page 9 the Death Penalty , 54 CATH. U. L. REV. 1123, 1123-31 (2005) (Exhibit A).  Therefore, for 
+the clarity of the jury, the future dangerousness aggravator should be struck in this matter. 
+III. I
+.C. § 19-2515(9)(i) is irrelevant to culpability and thus cannot be an aggravator.
+More concerning from a constitutional standpoint is that the United States Supreme Court
+has never actually held that evidence of future dangerousness is relevant to whether someone 
+should die.  The Eighth Amendment requires that defendants only be condemned to death if they are deserving  of the ultimate punishment based on their culpability , not their dangerousness. See, 
+e.g., Atkins , 536 U.S. at 319, 122 S.Ct. at 2251. In California v. Ramos , 463 U.S. 992, 1005-08,
+103 S.Ct. 3446, 3455-56 (1983), the United States Supreme Court held: 
+Closely related to, yet distinct from respondent's speculativeness argument is the 
+contention that the Briggs Instruction is constitutionally infirm because it deflects the jury's focus from its central task. Respondent argues that the commutation instruct ion diverts the jury from undertaking the kind of individualized sentencing 
+determination that, under Woodson v. North Carolina, 428 U.S., at 304, 96 S.Ct., at 2991, is “a constitutionally indispensable part of the process of inflicting the penalty of death.” 
+A
+s we have already noted, supra, at 3454, as a functional matter the Briggs 
+Instruction focuses the jury's attention on whether this particular defendant is one whose possible return to society is desirable. In this sense, then, the jury's deliberation is individualized. The instruction invites the jury to predict not so much what  some future Governor might do, but more what the defendant himself might 
+do if released into society. 
+A
+ny contention that injecting this factor into the jury's deliberations constitutes a 
+departure from the kind of individualized focus required in capital sentencing decisions was implicitly rejected by the decision in Jurek.  Indeed, after noting that 
+consideration of the defendant's future dangerousness was an inquiry common throughout the criminal justice system, the joint opinion of Justices Stewart, POWELL, and STEVENS observed: “What is essential is that the jury have before 
+it all possible relevant information about the individual defendant whose fate it must determine. Texas law clearly assures that all such evidence will be adduced.” 428 U.S., at 276, 96 S.Ct., at 2958. As with the Texas scheme, the California sentencing system ensures that the jury will have before it information regarding the individual characteristics of the defendant and his offense, including the nature and circumstances of the crime and the defendant's character, background, history, mental condition, and physical condition. Cal.Penal Code Ann. § 190.3 (West Supp.1983). MOTION TO STRIKE FUTURE DANGEROUSNESS AGGRAVATOR  Page 10  
+ More to the point, however, is the fundamental difference between the nature of the 
+guilt/innocence determination at issue in Beck and the nature of the life/death 
+choice at the penalty phase. As noted above, the Court in Beck identified the chief 
+vice of Alabama's failure to provide a lesser included  offense option as deflecting 
+the jury's attention from “the central issue  of whether the State has satisfied its 
+burden of proving beyond a reasonable doubt that the defendant is guilty of a capital 
+crime.” Id ., at 642, 100 S.Ct., at 2392 (emphasis added). In returning a conviction, 
+the jury must satisfy itself that the necessary elements of the particular crime have 
+been proved beyond a reasonable doubt. In fixing a penalty, however, there is no 
+similar “central issue” from which the jury's attention may be diverted. Once the jury finds that the defendant falls within the legislatively defined category of persons eligible for the death penalty, as did res pondent's jury in determining the 
+truth of the alleged special circumstance, the jury then is free to consider a myriad of factors to determine whether death is the appropriate punishment. In this sense, the jury's choice between life and death must be individualized. “But the Constitution does not require the jury to ignore other possible ... factors in the process of selecting ... those defendants who will actually be sentenced to death.” Zant v. Stephens , 462 U.S., at [878] , 103 S.Ct., at 2743 (footnote omitted). As we 
+have noted, the essential effect of the Briggs Instruction is to inject into the sentencing calculus a consideration akin to the aggravating factor of future dangerousness in the Texas scheme. See p. 3454 supra. This element “is simply 
+one of the countless considerations weighed by the jury in seeking to judge the 
+punishment appropriate to the individual defendant.” Id ., at [900] , 103 S.Ct., at 
+2755 (REHNQUIST, J., concurring in the judgment).  
+(footnote omitted).  In Skipper v. South Carolina, 476 U.S. 1, 5, 106 S.Ct. 1669, 1671 (1986) the 
+Court ruled that evidence showing that a person will be a well -behaved prisoner, despite having 
+no relevance to culpability , was relevant mitigating  evidence.  Thus, the Court has only 
+tangentially considered the issue.  This Court should consider the question directly: if the Eighth 
+Amendment requires that the death penalty only be imposed on the worst of the worst whose culpability  supports such a punishment, how is risk of future dangerousness relevant?  
+ The only explanation that can work within the Court’s jurisprudence is the pyramid analogy 
+from Zant .  But that would require that future dangerousness be considered only  once the jury has 
+found aggravators in terms of culpability raising the defendant up the pyramid.  In other words - 
+future dangerousness cannot be an aggravator differentiating one murderer from the next.  It can only operate as a consideration once a jury has found the defendant to be culpable of a crime worse than first degree murder.  MOTION TO STRIKE FUTURE DANGEROUSNESS AGGRAVATOR  Page 11 T hus, this Court should strike the Future Dangerousness aggravator. 
+CONCLUSION 
+Based upon the foregoing and argument to be presented at the hearing hereon, this Court 
+is respectfully requested to grant this Motion that: 
+(a) the future dangerousness aggravator in the State’s Notice Pursuant to Idaho Code § 18-
+4004A be struck; 
+(b) the Court not instruct the jury on future dangerousness.
+DAT
+ED this    4    day of September, 2024. 
+BY: 
+JAY LOGSDON  
+INTERIM CHIEF PUBLIC DEFENDER  
+CERTIFICATE OF SERVICE 
+I hereby certify that a true and correct copy of the foregoing was personally served 
+by placing a copy of the same in the interoffice mailbox on the ___5___ day of September, 
+2024,  addressed to: 
+L
+atah County Prosecuting Attorney –via Email: paservice@latahcountyid.gov 
+Elisa Massoth – via Email: legalassistant@kmrs.net 
+AOVERVIEW OF TASK FORCE PROPOSAL ON MENTAL..., 54 Cath. U. L. Rev. 1123
+ © 2024 Thomson Reuters. No claim to original U.S. Government Works. 154 Cath. U. L. Rev. 1123
+Catholic University Law Review
+Summer, 2005
+Symposium: The Death Penalty and Mental Illness
+Ronald J. Tabak
+Copyright © 2005 by Catholic University Law Review; Ronald J. Tabak
+OVERVIEW OF TASK FORCE PROPOSAL ON MENTAL DISABILITY
+AND THE DEATH PENALTY
+A. WHY THE TASK FORCE WAS CREATED
+In 2003, the American Bar Association (ABA) Section of Individual Rights and Responsibilities (IR&R) formed a Task Force
+to consider mental disability and the death penalty. The Task Force includes professionals knowledgeable in law, psychology,
+and psychiatry, some of whom are advocates for people with mental disability.1
+After an organizational meeting in late 2003 and early 2004, the Task Force began substantive work. By mid-2004, the Task
+Force had developed a proposal with three prongs. Later that year the National Alliance for the Mentally Ill (NAMI) adopted
+this proposal as policy. In February 2005 so did the American Psychological Association. In November 2004 the American
+Psychiatric Association adopted as policy prong two of the Task Force's proposal.
+The impetus for the Task Force's creation was the Supreme Court's holding in Atkins v. Virginia2 and the reactions thereto. In
+Atkins , the Court held that it is unconstitutional to execute people with mental retardation.3 Within hours after the decision
+in Atkins  was announced, the National Mental Health Association stated that the same principles and reasoning that Atkins
+applied to the mentally retarded were equally applicable to many with mental illness, who the Association said should also
+be categorically exempted from capital punishment.4 Moreover, public opinion polling showed a strong majority opposing
+executions of people with mental illness.5
+The ABA IR&R concluded that in view of these developments, serious consideration should be given to whether some people
+with mental illness should be exempt from execution and how to deal with several issues concerning mental illness of death
+row inmates.
+*1124  B. THE LEGAL AND LEGISLATIVE BACKGROUND
+Unlike mental retardation, there have not been serious legislative efforts to exempt people with serious mental illness from the
+death penalty. One likely reason for this legislative inaction is that those who might have wished to propose such legislation
+could not advocate that everyone with mental illness should be exempt from execution because there are various effects and
+differing degrees of permanency. Whereas mental retardation is essentially a permanent condition with certain basic effects,
+and everyone meeting one of the generally accepted definitions of mental retardation6 is significantly less morally culpable
+than the “average” murderer, the same can not be said of everyone with mental illness. It was apparent to the ABA IR&R that
+to conceptualize which  mentally ill people should not be executed and under what circumstances  would require considerable
+additional thought. The ABA IR&R formed the Task Force in order to facilitate such conceptual thinking.
+The ABA IR&R did not expect the Task Force to formulate proposals that would form the basis for an immediate constitutional
+challenge, such as that which ultimately succeeded in Atkins7 (after having previously failed in the late 1980s in Penry v.OVERVIEW OF TASK FORCE PROPOSAL ON MENTAL..., 54 Cath. U. L. Rev. 1123
+ © 2024 Thomson Reuters. No claim to original U.S. Government Works. 2Lynaugh8). Since an important basis for the Supreme Court's holding in Atkins  was the fact that eighteen states had passed laws
+barring execution of people with mental retardation,9 it appeared far more likely to the ABA IR&R that the most immediate
+impact of adopting a proposal on this subject would be in the legislative arena. As with mental retardation (and juveniles), such
+legislative efforts could be supported by death penalty proponents as well as opponents.
+Although the initial impetus for the Task Force's creation came from the belief that there likely were categories of people with
+mental illness whose mental condition at the time of the crime should exempt them categorically from the death penalty, the
+ABA IR&R was also increasingly troubled by a growing number of instances in which people already on death row were getting
+executed despite troublesome facts about their mental state while on death row. These arose in three contexts. One concerned
+death row inmates who were “volunteering” to end legal and clemency proceedings and be executed, where this “decision”
+appeared to have been significantly influenced by serious mental illness. A second concerned people who were not mentally
+able *1125  to assist counsel or otherwise participate meaningfully with respect to potentially meritorious issues following their
+initial appeal—where the post-conviction and habeas corpus proceedings nonetheless proceeded. The third context involved
+people who were being found “competent” for execution even though they did not truly understand why they were to be
+executed, or where, after having been found incompetent to be executed, an inmate was medicated for the sole purpose of
+enabling him to be executed.
+An important point to recognize is that nothing that the Task Force was asked to consider, and nothing in the proposal it
+developed, would preclude anyone from being convicted of capital murder and being severely punished for it, up to and including
+life imprisonment without possibility of parole. Thus, the Task Force was addressing issues very different from insanity cases.
+Typically, someone who is found insane cannot  be found guilty. Often, such people can be confined only as long as they remain
+insane.
+C. DEVELOPMENT OF THE TASK FORCE'S PROPOSAL, AND ITS CONSIDERATION BY PROFESSIONAL
+ASSOCIATIONS
+After organizational meetings in late 2003 and early 2004, the Task Force began substantive work. By mid-2004, the Task Force
+had developed a proposal with three prongs. Later that year, the National Alliance for the Mentally Ill (NAMI) adopted the first
+two prongs of this proposal as policy.10 In February 2005 so did the American Psychological Association.11 In November
+2004 the American Psychiatric Association adopted as policy prong two of the Task Force's proposal.12
+In the Spring of 2005, after further consultation with representatives of the American Psychiatric Association, the Task Force
+approved refined versions of prongs one and three of its proposal.13 As of this writing, it is considered likely that later in
+2005 the American Psychiatric Association *1126  will adopt as policy the refined versions of prongs one and three and that
+either in late 2005 or early 2006 NAMI and the American Psychological Association will revise their policies to incorporate
+the refinements to prongs one and three. It is anticipated that in February 2006 the ABA House of Delegates will be asked to
+approve as policy the Task Force's entire proposal.
+D. PRINCIPLE UNDERLYING THE FIRST TWO PRONGS OF THE TASK FORCE'S PROPOSAL
+As noted above, the first two prongs of the Task Force's proposal make categorical exclusions from death penalty eligibility.14
+The first prong deals with people with mental retardation and with others who are functionally the same as those with mental
+retardation but whose disability did not commence during childhood years.15 The second prong deals with people whose severe
+mental illness at the time of the crime makes them, in the Task Force's view, sufficiently less morally culpable for their actions
+than the “average murderer”16 such that they should not be subject to the death penalty.17
+With regard to those individuals covered by these prongs, the Task Force believes that important rationales in Atkins  are equally
+applicable. As Ronald Honberg's article points out, the Court in Atkins  said that concerns regarding retribution and deterrence,
+upon which it had relied in upholding the constitutionality of capital punishment in Gregg v. Georgia ,18 were of dubious
+applicability where the defendant has mental retardation.19 The retribution rationale presupposes the absence of a compelling
+mitigating factor20—yet mental retardation is such a factor. As for deterrence, the Court doubted that capital punishment wouldOVERVIEW OF TASK FORCE PROPOSAL ON MENTAL..., 54 Cath. U. L. Rev. 1123
+ © 2024 Thomson Reuters. No claim to original U.S. Government Works. 3deter people whose mental retardation lessens impulse control, planning capability, and the ability to formulate a calculated
+scheme to kill someone.21
+Moreover, as Mr. Honberg points out, the Atkins  Court also cited the danger that people with mental retardation would be more
+likely to make coerced or otherwise false “confessions,” to have a demeanor caused by their disability that would make jurors
+less likely to vote *1127  against the death penalty, and to be less able to help counsel develop important mitigating evidence.22
+The Task Force feels that such dangers also exist with regard to those individuals covered by prongs one or two.
+Professor Slobogin's article discusses a basis on which some would disagree with both of these prongs, just as they disagree
+with Atkins .23 These people say that such categorical exclusions stigmatize everyone with mental retardation or severe mental
+illness by suggesting they lack certain key qualities of human beings.24 However, as noted above, these prongs do not say
+that such people cannot form sufficient intent to make them guilty of capital murder.25 Rather, these prongs are premised on
+the view that certain categories of people cannot be sufficiently depraved to warrant the death penalty—as opposed to other
+punishments, including life without parole.
+It is important, in this connection, to recognize that this same issue was debated within the community of advocates for, and
+family members of, people with mental retardation during the legislative efforts preceding Atkins .26 Ultimately, all of the
+leading groups took the position that people with mental retardation should be exempt from capital punishment.27 Significantly,
+the first organization to support the Task Force's proposal was NAMI,28 the leading grassroots advocacy group for those with
+mental illness.29
+E. PARTICULAR POINT REGARDING PRONG ONE
+As Professor Slobogin's article points out, prong one is designed, inter alia, to help jurisdictions better implement Atkins  by
+providing a definition for mental retardation.30 This definition is almost identical to that of the American Association of Mental
+Retardation and is consistent with that of the American Psychiatric Association.31
+As Professor Slobogin also notes, prong one exempts from the death penalty anyone whose disability at the time of the offense
+is functionally the same as mental retardation, with the only difference being that the *1128  disorder causing great intellectual
+deficits arose after childhood.32 An example is a significant loss of intellectual functioning, leading to an IQ in the mental
+retardation range, arising from a very serious head trauma.33
+F. PARTICULAR POINTS REGARDING PRONG TWO
+Prong two proposes exempting from the death penalty some of those who, at the time of the crime, have such serious mental
+illness that their culpability is as diminished as those with mental retardation.34 This lesser extent of culpability arises from such
+effects of their mental illness as delusions, hallucinations, significant thought disorders, and highly disorganized thinking. This
+exemption would apply to those with such disorders as schizophrenia and psychosis, but not anti-social personality disorder.
+However, having a severe mental disorder such as schizophrenia or psychosis at the time of the crime would not be sufficient
+to exempt an individual from capital punishment under prong two. In addition, the disorder must lead to one of three kinds of
+significant incapacity as of the time of the crime. As Professor Slobogin's article describes in greater detail, the disorder must
+(a) lessen the nature, consequences, or wrongfulness of the offense; (b) involve a significant incapacity “to exercise rational
+judgment in relation to conduct”; or (c) entail a significant incapacity “to conform their conduct to the requirements of the
+law.”35
+In any event, one would not come within the exemption provided by prong two if one's mental disorder were manifested
+primarily by repeated criminal conduct or were manifested solely by the acute impact of alcohol or drugs.OVERVIEW OF TASK FORCE PROPOSAL ON MENTAL..., 54 Cath. U. L. Rev. 1123
+ © 2024 Thomson Reuters. No claim to original U.S. Government Works. 4G. ADDITIONAL CONCERNS UNDERLYING PRONG TWO
+The principle underlying prong two is discussed in Part D, above. Also of relevance in this regard are other, practical concerns.
+One such concern is the likelihood, as shown by the Capital Jury Project studies, that jurors will consider the severe mental
+illnesses covered by prong two to be aggravating  factors,36 i.e., factors making it more likely that they will vote for the death
+penalty, whereas the law requires that they be *1129  considered, if at all, as mitigating  factors, i.e., factors making it less likely
+that they will vote for the death penalty. This is often the case because jurors frequently equate severe mental illness with a
+greater likelihood of being dangerous in the future.37
+This problem is compounded by the fact that jurors often do not understand what the word “mitigating” means.38 They often
+think that it means the same as “aggravating.”39 They also often do not understand that the defendant does not have to prove
+a mitigating factor beyond a reasonable doubt—reasonable doubt being a concept that they are used to from the guilt phase.40
+They also often do not understand the instruction that even if only one juror finds a factor to be mitigating, that juror can consider
+it in his or her vote on the death penalty.41 Most jurors believe, incorrectly, that every  member of the jury must consider a
+factor to be mitigating in order for anyone  to consider it.42
+Some defendants forbid their attorneys from presenting evidence of mental illness at trial—sometimes due to the potential for
+embarrassment or the desire to shield their families from embarrassment, and other times because of their refusal or inability
+to believe that they have a severe mental illness. Obviously, even a juror who realizes that severe mental illness is relevant, if
+at all, only as a mitigating factor, and who recognizes what “mitigating” means and how to bring it to bear, cannot consider a
+defendant's severe mental illness when no evidence about it is presented.
+A factor that numerous jury studies have shown is crucial in capital sentencing is whether the defendant appears to show
+remorse.43 Many people with certain kinds of mental illness do not—due to medication they are given to treat that mental illness
+—show much emotion of any kind about anything while in court.44 This is often misinterpreted by the *1130  jury, particularly
+if there is no expert testimony offered by the defense to explain to the jury why the defendant may not show remorse.45
+H. SUMMARY OF PRONG THREE
+The Task Force proposal's third prong deals with mental illness's impact on prisoners who have already been sentenced to
+death.46 As Professor Bonnie's article discusses, these include prisoners who, as a result of their mental illness, seek to
+“volunteer” for execution; “[p]risoners whose mental illness impairs their ability to assist [counsel] or otherwise to participate
+meaningfully in post-conviction [or habeas corpus] proceedings;” and “[p]risoners whose impaired understanding of the nature
+and purpose of the punishment may render them incompetent for execution.”47
+Prong three would prevent the waiver of claims by inmates whose mental illness is a principal factor in their decision to
+“volunteer” for execution.48 Also under prong three, post-conviction or habeas proceedings would be suspended if death row
+inmates cannot assist counsel or otherwise participate meaningfully on issues as to which they might secure relief from their
+conviction or death sentence.49 Finally, under prong three, if a person facing a reasonably imminent execution is so mentally
+disabled that he does not understand why the state is going to execute him, his sentence would be reduced to a non-death
+sentence.50
+I. PARTICULAR POINTS REGARDING PRONG THREE
+Professor Bonnie's article summarizes the bases for prong three, and discusses how it would work.51 The following are a few
+high points.
+The Task Force believes it is unacceptable to permit death row inmates to forgo or drop post-conviction and habeas corpus
+proceedings challenging their convictions or sentences where their mental disorders significantly impair their ability to decideOVERVIEW OF TASK FORCE PROPOSAL ON MENTAL..., 54 Cath. U. L. Rev. 1123
+ © 2024 Thomson Reuters. No claim to original U.S. Government Works. 5rationally whether to pursue such relief. As Mr. Honberg's article states, “the pain ... of living with a severe mental illness is
+[sometimes] so [great] that death may seem like a better alternative,” particularly in light of egregious death row conditions
+and, in some cases, the failure to provide them with medical treatment *1131  for their severe mental disorder(s).52 As he
+points out, such defendants usually change their minds after being medicated and stabilized.53
+Under the Task Force proposal, a next friend acting on an inmate's behalf should be allowed to initiate or pursue post-conviction
+or habeas corpus remedies at times when the inmate is unable, due to mental disorder(s), from rationally deciding to begin or
+carry through with such litigation.
+The Task Force also believes that where a mental disorder significantly impairs a death row inmate's ability to assist counsel, yet
+the inmate's participation is necessary for a fair and accurate adjudication of specific claims in post-conviction or habeas corpus
+proceedings, those proceedings should be suspended. It would be fundamentally unfair to decide claims adversely to a mentally
+disabled death row inmate who might have succeeded on those claims if he had been able to assist his counsel. Under the Task
+Force's proposal, an inmate's death sentence should be reduced if there is no significant likelihood of the inmate's becoming
+able to assist his counsel with regard to such claims in the foreseeable future.
+Finally, the Task Force's proposal regarding people facing reasonably imminent execution is necessary because, although the
+Supreme Court held in Ford v. Wainwright54 that it is unconstitutional to execute people who have become incompetent for
+execution,55 it did not provide a clear definition of such incompetence. Although this issue does not arise in most cases, there
+are a wide variety of holdings in those cases in which it has arisen. Some of these are very troubling.
+For example, in Barnard v. Collins ,56 the Fifth Circuit held that Mr. Barnard was competent to be executed even though he
+suffered from the delusion that he was chosen for execution as the result of a conspiracy of various societal groups and the
+Mafia.57 In 2004, a Texas federal district judge relied on Barnard  in holding that Scott Panetti was competent for execution
+—despite his delusion that the State and forces of evil were conspiring against him and that he was going to be executed for
+preaching the gospel.58 Under the Task Force proposal, the death sentences of such people would be vacated, and a lesser
+punishment imposed.
+Footnotes
+1The Task Force's members are: Dr. Michael Abramsky; Dr. Xavier F. Amador; Michael Allen, Esq.; Donna Beavers; John
+Blume, Esq.; Professor Richard J. Bonnie; Colleen Quinn Brady, Esq.; Richard Burr, Esq.; Dr. Joel Dvoskin; Dr. James
+R. Eisenberg; Professor I. Michael Greenberger; Dr. Kirk Heilbrun; Ronald Honberg, Esq.; Ralph Ibson; Dr. Matthew B.
+Johnson; Professor Dorean M. Koenig; Dr. Diane T. Marsh; Hazel Moran; John Parry, Esq.; Professor Jennifer Radden;
+Professor Laura Lee Rovner; Robyn S. Shapiro, Esq.; Professor Christopher Slobogin; and Ronald J. Tabak, Esq.
+2
+536 U.S. 304 (2002) .
+3
+Id. at 321.  In March 2005 the Supreme Court relied heavily on Atkins  in holding unconstitutional the execution of
+anyone who was under eighteen-years-old at the time of the offense. 
+ Roper v. Simmons, 125 S. Ct. 1183, 1192, 1200
+(2005) .
+4Patty Reinert, Death Penalty Debate Reopened by Court's Retardation Decision , HOUSTON CHRON ., June 22, 2002,
+at A17; see also  Mike Tolson, Ill Inmate Can Find No Escape , HOUSTON CHRON ., Nov. 4, 2002, at A1 (quoting
+Ronald Honberg, Legal Director of the National Alliance for the Mentally Ill).OVERVIEW OF TASK FORCE PROPOSAL ON MENTAL..., 54 Cath. U. L. Rev. 1123
+ © 2024 Thomson Reuters. No claim to original U.S. Government Works. 65DEATH PENALTY INFO. CTR., SUMMARIES OF RECENT POLL FINDINGS , http:// www.deathpenaltyinfo.org/
+article.php?scid=23&did=210 (last visited Apr. 17, 2005).
+6See, e.g ., AM. ASS'N ON MENTAL RETARDATION, THE AAMR DEFINITION OF MENTAL RETARDATION
+(2002), available at  http:// www.aamr.org/Policies/pdf/definitionofMR.pdf.
+7
+See 
+ Atkins , 536 U.S. at 310, 321 .
+8
+See 
+Penry v. Lynaugh, 492 U.S. 302, 340 (1989) .
+9
+Atkins , 536 U.S. at 314-15 .
+10See PUB. POLICY COMM. OF THE BD. OF DIRS. & DEP'T OF PUB. POLICY & RESEARCH, NAT'L
+ALLIANCE FOR THE MENTALLY ILL, PUBLIC POLICY PLATFORM OF THE NATIONAL ALLIANCE FOR
+THE MENTALLY ILL  §§ 9.6.1.1-.2 (rev. 7th ed. 2004).
+11See American Psychological Association, Exerpt from the Council of Representatives 2005 Meeting Minutes (Feb.
+18-20, 2005) (on file with the Catholic Unviersity Law Review).
+12See AM. PSYCHIATRIC ASS'N, DIMINISHED RESPONSIBILITY IN CAPITAL SENTENCING: POSITION
+STATEMENT  (2004), available at  http:// www.psych.org/edu/other_res/lib_archives/archives/200406.pdf.
+13The latest version of the entire Task Force proposal, including the revised prongs one and three, are set forth in this Issue.
+Recommendations of the American Bar Association Section of Individual Rights and Responsibilities Task Force on
+Mental Disability and the Death Penalty , 54 CATH. U. L. REV . 1115 (2005)  [hereinafter Task Force Recommendations ].
+14Id. §§ 1-2.
+15Id. § 1.
+16
+See 
+Atkins v. Virginia, 536 U.S. 304, 318-20 (2002) .
+17See Task Force Recommendations, supra  note 13, § 2.
+18
+428 U.S. 153, 183, 187 (1976)  (plurality opinion).
+19
+Atkins , 536 U.S. at 318-20;  Ronald Honberg, The Injustice of Imposing Death Sentences on People with Severe
+Mental Illnesses , 54 CATH. U. L. REV . 1153, 1158 (2005) .
+20
+See 
+ Atkins , 536 U.S. at 319 .OVERVIEW OF TASK FORCE PROPOSAL ON MENTAL..., 54 Cath. U. L. Rev. 1123
+ © 2024 Thomson Reuters. No claim to original U.S. Government Works. 721
+Id. at 319-20.
+22
+Id. at 320-21;  Honberg, supra  note 19, at 1158.
+23Christopher Slobogin, Mental Disorder as an Exemption from the Death Penalty: The ABA-IRR Task Force
+Recommendations , 54 CATH. U. L. REV . 1133, 1136-39, 1147-50 (2005) .
+24Id. at 1136-37.
+25See supra  Part B, p. 1125.
+26
+See 
+ Atkins , 536 U.S. at 316 n.21 .
+27See id.
+28See supra  note 10 and accompanying text.
+29See Honberg, supra  note 19, at 1154.
+30See Slobogin, supra  note 23, at 1134.
+31Id.
+32Id. at 1135.
+33Id.
+34See Task Force Recommendations, supra  note 13, § 2.
+35Slobogin, supra  note 23, at 1142-44.
+36See Scott E. Sundby, The Jury as Critic: An Empirical Look at How Capital Juries Perceive Expert and Lay Testimony ,
+83 V A. L. REV . 1109, 1165-66 (1997) .
+37See id. at 1166.
+38See William J. Bowers, The Capital Jury Project: Rationale, Design, and Preview of Early Findings , 70 IND. L.J . 1043,
+1053-54 (1995) .
+39See id.OVERVIEW OF TASK FORCE PROPOSAL ON MENTAL..., 54 Cath. U. L. Rev. 1123
+ © 2024 Thomson Reuters. No claim to original U.S. Government Works. 840Theodore Eisenberg & Martin T. Wells, Deadly Confusion: Juror Instructions in Capital Cases , 79 CORNELL L. REV .
+1, 10-11 (1993) ; James Luginbuhl & Julie Howe, Discretion in Capital Sentencing Instructions: Guided or Misguided? ,
+70 IND. L.J . 1161, 1167 (1995) .
+41Luginbuhl & Howe, supra  note 40, at 1167.
+42Id.
+43Sundby, supra  note 36, at 1560; see also  Theodore Eisenberg et al., But Was He Sorry? The Role of Remorse in Capital
+Sentencing , 83 CORNELL L. REV . 1599, 1616-17 (1998) .
+44
+See 
+Riggins v. Nevada, 504 U.S. 127, 143 (1992)  (Kennedy, J., concurring).
+45See Sundby, supra  note 36, at 1558, 1595.
+46See Task Force Recommendations, supra  note 13, § 3.
+47Richard J. Bonnie, Mentally Ill Prisoners on Death Row: Unsolved Puzzles for Courts and Legislatures , 54 CATH. U.
+L. REV . 1169, 1169 (2005) .
+48See Task Force Recommendations, supra  note 13, § 3(b).
+49See Task Force Recommendations, supra  note 13, § 3(c).
+50See Task Force Recommendations, supra  note 13, § 3(d).
+51Bonnie, supra  note 47, at 1169-70.
+52Honberg, supra  note 19, at 1165.
+53Id.
+54
+477 U.S. 399 (1986) .
+55
+Id. at 409-10.
+56
+13 F.3d 871 (5th Cir. 1994) .
+57
+Id. at 876-78.OVERVIEW OF TASK FORCE PROPOSAL ON MENTAL..., 54 Cath. U. L. Rev. 1123
+ © 2024 Thomson Reuters. No claim to original U.S. Government Works. 958Panetti v. Dretke, No. A-04-CA-042-SS, at 16-18 (W.D. Tex. Sept. 29, 2004) (order denying writ of habeas corpus and
+staying execution pending appeal).
+54 CATHULR 1123
+End of Document © 2024 Thomson Reuters. No claim to original U.S. Government
+Works.

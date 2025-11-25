@@ -1,0 +1,162 @@
+MOTION TO STRIKE FELONY MURDER AGGRAVATOR    Page 1   Anne Taylor Law, PLLC 
+Anne C. Taylor, Attorney at Law 
+Bar Number: 5836 
+PO Box 2347 
+Coeur d’Alene, Idaho 83816 
+Phone: (208) 512-9611 
+iCourt Email: info@annetaylorlaw.com   
+ 
+Jay W. Logsdon, Interim Public Defender 
+Kootenai County Public Defender’s Office 
+PO Box 9000 
+Coeur d’Alene, Idaho 83816 
+Phone: (208)446-1700 
+ 
+Elisa G. Massoth, PLLC 
+Attorney at Law  
+P.O. Box 1003 
+Payette, Idaho 83661 
+Phone: (208)642-3797; Fax: (208)642-3799 
+ 
+Assigned Attorney: 
+Anne C. Taylor, Public Defender, Bar Number: 5836 
+Jay W. Logsdon, Chief Deputy Public Defender, Bar Number: 8759 
+Elisa G. Massoth, Attorney at Law, Bar Number: 5647 
+ 
+IN THE DISTRICT COURT OF THE SECOND JUDICIAL DISTRICT OF THE  
+STATE OF IDAHO, IN AND FOR THE COUNTY OF LATAH  
+ 
+ 
+CASE NUMBER CR29 -22-2805 
+ 
+ 
+MOTION TO STRIKE FELONY 
+MURDER AGGRAVATOR 
+ 
+ 
+ 
+COMES NOW, Bryan C. Kohberger , by and through his attorney s of record , and hereby 
+moves to strike the felony murder aggravator from the State’s Notice Pursuant to Idaho Code § 
+19-4004A.  This Motion is made on the grounds that a malice aforethought  murder cannot be 
+aggravated  by a burglary that itself is predicated on  the same murder.  STATE OF IDAHO  
+ 
+                                   Plaintiff,  
+ 
+V. 
+ 
+BRYAN C. KOHBERGER,  
+ 
+                                   Defendant.  Electronically Filed
+9/5/2024 2:48 PM
+Second Judicial District, Latah County
+Julie Fry, Clerk of the Court
+By: Tamzen Reeves, Deputy ClerkMOTION TO STRIKE FELONY MURDER AGGRAVATOR    Page  2   Issues 
+1. Whether felony murder can be predicated on a burglary itself predicated on murder.  
+2. Whether malice aforethought murder can be aggravated by a burglary predicated on the 
+same Murder.  
+I.  Felony Murder c annot be predicated on a Burglary predicated on Murder.  
+It is impossible to charge felony murder on the basis of a burglary with the intent to commit 
+the murder in question.  The State has given notice that it intends to show  the murders in this case 
+are aggravated because “the murder was committed in the perpetration or attempted perpetration of a .. burglary .. and the defendant killed, intended a killing, or acted with reckless indifference to 
+human life...”  In count I , the State charges that Mr. Kohberger  committed burglary  by “enter [ing] 
+a residence,  located at 1122 King Road, Moscow, with the intent to commit the  felony crime  of 
+murder.”  Counts II through V all charge premeditated murder.  In other words, the State seeks to 
+prove the aggravated circumstance of this murder  by showing intent to commit murder at the time 
+of entry.  
+As the Supreme Court of California has noted, “…in [a case such as this ] the felony- murder 
+rule [is] unnecessary…” People v. Farley, 210 P.3d 361, 410 (Cal. 2009).  “ The purpose of the 
+felony- murder rule is to deter felons from killing negligently or accidentally by holding them 
+strictly respon sible for killings they commit.”  People v. Washington, 402 P.2d 130, 133 (Cal. 
+1965).  There is no rational reason for a first degree intentional murder to be enhanced by the fact that the murderer intended the killin g at the time he or she entered a building. 
+States have taken different approaches to whether it is possible to charge  felony murder 
+where the felony is a burglary with the intent upon entry to commit murder .  In Sivak v. State, 112 
+Idaho 197, 211- 13 (1986), our Supreme Court determined that the felony in a felony murder was 
+a lesser included offense of felony murder.  In so doing, it construed the phrase “in the perpetration 
+of, or attempt perpetration of” in I.C. § 18- 8004A (1986)( which are the same as I.C. § 19- 2515 MOTION TO STRIKE FELONY MURDER AGGRAVATOR    Page  3   (2023), to mean a murder “ in furtherance ” of the felony crime.  Id.  at 212 (overruling State v. 
+Hall,  86 Idaho 63, 383 P.2d 602 (1963) .  The Court held that:  
+holding on this issue makes sense because without the robbery, the state would have 
+received only a second degree murder conviction against Sivak. And with it, a much lighter punishment. However, because of the robbery, the state sought and received 
+a first degree murder conviction carrying a more severe penalty. Thus, Sivak, in essence, is being punished for the robbery by way of the punishment he received for the felony murder offense.   
+ 
+Id. at 212- 13.  The concept of committing a murder in furtherance of a burglary committed with 
+the intent to commit that same murder has been rejected by multiple jurisdictions. See, Williams v. 
+State , 818 A.3d 906, 913 (Del.v2002) superseded by statute as stated in Comer v. State , 977 A.2d 
+334, 340 (Del. 2009); Parker  v. State , 731 S.W.2d 756, 759 (Ark. 1987) .  As the Court in Williams  
+held:  
+Williams burglarized the Charles home with the intent of murdering Mason. The murder was not committed to carry out the commission of the burglary. Had his purpose been to steal jewelry and Mason was killed to facilitate his thievery, a case for felony mur der would exist. Here, however, the sole purpose of the burglary was 
+to murder his victim. It just so happened she was in a place he was not permitted to enter. Thus the murder, although “in the course of” the burglary, was not carried out “in furtherance of” it.  
+ 818 A.3d at 913. 
+ Thus, under Idaho law, a felony murder could not be based upon a burglary whose sole aim 
+is murder.   If that is so, the question is whether a deliberate, intentional murder with malice 
+aforethought can be aggravated by a burglary predicated on the murder itself. II. A Malice Aforethought Murder cannot be aggravated by a Burglary predicated on the same Murder.  
+ New York’s Court of Appeals has held it cannot.  In People v. Cahill , 809 N.E.2d 561, 588 
+(N.Y. 2003), the court considered whether a man charged with killing his wife’s murder could be aggravated because he entered his home to do it.  The court began by considering the nature of burglary and finding it is an aggravated tr espass, a trespass with the intent to commit a different MOTION TO STRIKE FELONY MURDER AGGRAVATOR    Page  4   crime. Id. at 588.  Then the court noted that to reach capital murder, a murder must be intentional 
+and have an aggravating factor. Id.   The court then found that a situation where the burglary is 
+predicated on the murder intended is not adding anything to the murder. Id.    
+ The court then considered the common law basis of felony murder and how it diverges 
+from its use in the capital arena:  
+In contrast to  Penal Law § 125.27(1), felony murder covers nonintentional killings. 
+The very purpose of the felony murder doctrine is to utilize the underlying felony 
+as a substitute for the defendant's murderous intent and thereby raise an unintentional killing to the level of murder ( see People v. Chico, 90 N.Y.2d 585, 
+665 N.Y.S.2d 5, 687 N.E.2d 1288 [1997];  People v. Lytton, 257 N.Y. 310, 178 N.E. 
+290 [1931] ). As we said in  People v. Hernandez , 82 N.Y.2d 309, 317, 604 
+N.Y.S.2d 524, 624 N.E.2d 661 [1993], “The basic tenet of felony murder liability 
+is that the  mens rea  of the underlying felony is imputed to the participant 
+responsible for the killing. By operation of that legal fiction, the transferred intent allows the law to characterize a homicide, though unintended and not in the common design of the felons, as an i ntentional killing” (citations omitted  [in 
+original] ). 
+ The felony murder concept was derived from the common law, at which no intent to kill was necessary. It was enough that the victim was killed while the accused 
+was engaged in the commission of a felony. Under the common law, the felonious intent was impute d to the committed act, and, if it were homicide, made it murder 
+(see People v. Enoch, 13 Wend. 159 [1834] ).
+ 
+  Penal Law § 125.27(1)(a)(vii) borrows language from the felony murder statute but is critically different because it deals with intentional, not unintentional, killings. The purposes of  the capital statute and the felony murder statute are distinct, and 
+the felonies covered by them are not the same. For example, under the felony 
+murder statute, the killing need not be committed by one of the people engaged in the commission of the underlying crime  (People v. Hernandez, 82 N.Y.2d 309, 604 
+N.Y.S.2d 524, 624 N .E.2d 661 [1993] ), whereas  Penal Law § 125.27(1)(a)(vii) 
+does not apply where the defendant's liability is based on someone else's conduct (unless the defendant commanded the murder). Moreover, felony murder liability for the death of a victim has been br oadly construed ( see e.g.  People v. Ingram, 67 
+N.Y.2d 897, 501 N.Y.S.2d 804, 492 N.E.2d 1220 [1986];  People v. Matos, 83 
+N.Y.2d 509, 611 N.Y.S.2d 785, 634 N.E.2d 157 [1994] ), whereas the Legislature crafted  Penal Law § 125.27(1)(a) to narrow the class of eligible offenders. 
+Conceptually, Penal Law § 125.27(1)(a) begins with murder in the second degree and builds  on it. Conversely, felony murder builds  toward it. Thus, felony murder 
+ends up as murder, whereas  Penal Law § 125.27(1)(a) begins with murder. The two 
+concepts share certain components but have entirely different objectives and constituents, and were statutorily constructed to reach different types of  homicides 
+and different categories of defendants.  
+ MOTION TO STRIKE FELONY MURDER AGGRAVATOR    Page  5   809 N.E.2d at 361- 62 (footnotes omitted).  The court ruled that burglary predicated on the very 
+same murder it sought to aggravate cannot satisfy its statute. Id.  at 593.   
+ Finally, California, whose statute then used the terminology “during the commission or 
+attempted commission” , made essentially the same holding in People v. Green , 609 P.2d 468, 497, 
+504 (Cal. 1980) superseded by statute on other grounds as state in  People v. McLean , 2003 WL 
+1091907 at *20 (Cal.Ct.App. 2003) (unpublished).  In Green , the court held:  
+The Legislature's goal is not achieved, however, when the defendant's intent is not 
+to steal but to kill and the robbery is merely incidental to the murder —‘a second 
+thing to it,’ as the jury foreman here said—because its sole object is to facilitate or conceal the primary crime. In the case at hand, for example, it would not rationally 
+distinguish between murderers to hold that this defendant can be subjected to the death penalty because he took his victim's clothing for the purpose of burning it later to prevent identification, when another defendant who committed an identical first degree murder could not be  subjected to the death penalty if for the same 
+purpose he buried the victim fully clothed—or even if he doused the clothed body with gasoline and bur ned it at the scene instead. To permit a jury to choose who 
+will live and who will die on the basis of whether in the course of committing a first degree murder the defendant happens to engage in ancillary conduct that technically constitutes robbery or on e of the other listed felonies would be to revive ‘the risk 
+of wholly arbitrary and capricious action’ condemned by the  high court plurality in 
+[Gregg v. Georgia, 428 U.S. 153, 189 (1976)] . 
+ 609 P.3d at 505- 06. 
+ This Court should hold that Idaho has the same understanding of its aggravation statute.  
+For this Court to rule otherwise, it would have to overrule Sivak , which it cannot do.  Therefore, 
+this Court must excise the felony murder aggravator from the State’s notice. 
+CONCLUSION 
+ 
+ Based upon the foregoing and argument to be presented at the hearing hereon, this Court 
+is respectfully requested to grant this Motion that:  
+(a) the felony murder  aggravator in the State’s Notice Pursuant to Idaho Code § 18- 4004A 
+be struck;  
+(b) the Court not instruct the jury on the felony murder  aggravator.           
+  MOTION TO STRIKE FELONY MURDER AGGRAVATOR Page 6 Counsel requests a hearing on this issue.  Counsel estimates requiring 20 minutes for the 
+he
+aring. 
+DATED this __ 4___ day of September, 2024. 
+B
+Y: 
+J AY WESTON LOGSDON 
+INTERIM CHIEF PUBLIC DEFENDER  
+CERTIFICATE O F DE LIVERY 
+I hereby certify that a true and correct copy of the foregoing was personally served as 
+indicated below on the ___5____ day of September, 2024 addressed to: 
+L
+atah County Prosecuting Attorney –via Email: paservice@latahcountyid.gov 
+Elisa Massoth – via Email: legalassistant@kmrs.net 
+____________________________________
+ 

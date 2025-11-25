@@ -1,0 +1,461 @@
+ 
+STATE’S REPLY TO OBJECTION TO THE STATE’S MOTION IN LIMINE RE:  AT&T TIMING ADV ANCE 
+RECORDS    1 LATAH COUNTY PROSECUTOR’S OFFICE   
+WILLIAM  W. THOMPSON, JR., ISB No . 2613 
+PROSECUTING ATTORNEY 
+ASHLEY S. JENNINGS, ISB No. 8491 
+SENIOR DEPUTY PROSECUTOR  
+Latah County Courthouse 
+522 S. Adams Street, Ste. 211 
+Moscow, ID 83843 
+Phone: (208) 883-2246 
+paservice@latah countyid.gov  
+ 
+ 
+IN THE DISTRICT COURT  OF THE FOURTH JUDICIAL DISTRICT OF THE  
+ 
+STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA  
+ 
+ 
+ 
+ 
+STATE OF IDAHO,  Case No. CR 01-24-31665  
+                        Plaintiff,   
+  
+STATE’S REPLY TO 
+OBJECTION TO THE STATE’S 
+MOTION IN LIMINE   
+V.  
+RE: AT&T TIMING ADVANCE 
+RECORDS   
+BRYAN C. KOHBERGER , 
+                         Defendant.  
+ 
+ 
+COMES NOW  the State of Idaho, by and through the Latah County Prosecuting Attorney, 
+and respectfully replies to the Defendant’s “Objection to the State’s Motion in Limine R E: AT&T 
+Timing Advance Records” filed on March 17, 2025.  
+Timing Advance Records refer to data that is used by providers to estimate the location of a 
+mobile device. The collection of t his data is necessary for a cellular network to work properly. 
+Carriers do not retain this data indefinitely.   Electronically Filed
+3/24/2025 2:32 PM
+Fourth Judicial District, Ada County
+Trent Tripple, Clerk of the Court
+By: Jennifer Keyes, Deputy Clerk 
+STATE’S REPLY TO OBJECTION TO THE STATE’S MOTION IN LIMINE RE:  AT&T TIMING ADV ANCE 
+RECORDS    2 
+Regarding AT&T, before June 2023, AT&T retained timing advance records for seven (7) 
+days. These records were not routinely provided in response to legal demand prior to June 2023. 
+After June 2023, AT&T started providing these records pursuant to legal demand and began 
+retaining  timing advance records for thirteen  (13) months.  
+In this case, the homicides occurred on November 13, 2022. Bryan Kohber ger was 
+identified as a suspect December 19, 2022. Search warrants for his AT&T records were executed on 
+December 2 3, 2022 . At this point, timing advance records were not available for Bryan Kohberger’s 
+phone to cover the relevant time period - November 13, 2022. Despite Defendant’s repeated 
+assertions, the fact of the matter is that AT&T did not provide Timing Advance Records  to law 
+enforcement for Bryan Kohberger’s phone . The State is attaching Affidavit s from AT&T verifying 
+that the State did not receive timing advance records  for Bryan Kohberger’s phone . See State’s  
+Exhibit S -1 and Exhibit S -2. 
+Based on the above, s tatements or inferences by defense counsel or their witnesses that there 
+is additional evidence that could have been provided, or was not provided, is  simply not correct and 
+should not be allowed. Under I.R.E. 403 any probative value of such evidence is outweighed by the danger of misleading the jury, undue delay, and waste of time . For these reasons, the State request s 
+the Court issue an order  in limine prohibiting the defense from making any reference to the absence 
+of AT&T Timing Advance Records for Bryan Kohberger.  
+RESPECTFULLY SUBMITTED this  24
+th day of March  2025. 
+     
+             
+       Ashley S. Jennings  
+       Senior Deputy Prosecuting Attorney  
+   
+STATE’S REPLY TO OBJECTION TO THE STATE’S MOTION IN LIMINE RE:  AT&T TIMING ADV ANCE 
+RECORDS    3 
+CERTIFICATE OF DELIVERY  
+ 
+I hereby certify that true and correct copies of the STATE’S REPLY TO OBJECTION TO 
+THE STATE’S MOTION IN LIMINE RE: AT&T TIMING ADVANCE RECORDS w ere served 
+on the following in the manner indicated below:  
+Anne  Taylor  
+Attorney at Law  
+PO Box 2347 
+Coeur D Alene, ID 83816  
+ ☐  Mailed  
+☒  E -filed & Served / E -mailed  
+☐  Faxed  
+☐  Hand Delivered  
+ 
+ Dated this  24th day of February  2025.  
+ 
+ 
+__________________________________________ 
+ 
+ AT&T
+11760USHWY1,SUITE30
+NORTHPALMBEACHFL33408
+(800)635-6840
+(888)938-4715 (Fax)
+CERTIFICATE OFAUTHENTICITY OFDOMESTIC RECORDS PURSUANT TOFEDERAL
+RULESOFEVIDENCE 902(11)AND902(13,AND803(7)
+GLDCFILENUMBER 3586162
+I,StedhenGordonattest,underpenalties ofperjurybythelawsoftheUnitedStatesof
+Americapursuant to28U.S.C.§1746,thattheinformation contained inthiscertification istrue
+andcorrect.Iamemployed byAT&T,andmytitleisDirector Compliance. Iamqualified to
+authenticate recordsresponsive totheattached SearchWarrantdated12/22/22 becauseIam
+familiarwithhowtherecordswerecreated,managed, stored,andretrieved. Ifurtherstatethat:
+a.AT&Tmaintains recordsmadeatornearthetimeoftheoccurrence ofthereferenced
+mattersetforthby,orfrominformation transmitted by,apersonwithknowledge of
+thosematters, andtherecordswerekeptintheordinary courseoftheregularly
+conducted business activityofAT&T,andmadebyAT&Tasaregularpractice; and
+b.AT&Tprovided recordsforthephonenumber509-592-8458 responsive tothe
+referenced SearchWarrantdatedDecember 23,2023,forrecordsbetween November
+12,2022,at12:00a.m.PSTtoNovember 14,2022at12:00a.m.PST,relatedtothe
+November 13,2022,homicides; and
+c.AT&TdidnotprovideTimingAdvance Recordsforphonenumber509-592-8458.
+TimingAdvance Recordswereonlyavailable ifrequested withinseven(7)daysof
+thespecified timeframe.TimingAdvance Recordswerenotincluded inAT&T
+recordsresponsive tothereferenced SearchWarrantbecausemorethanseven(7)
+dayselapsedbetween November 13,2022,andthedateoftheSearchWarrant
+December 23,2022.
+Ifurtherstatethatthiscertification isintended tosatisfyRules902(11),902(13)and803(7)of
+theFederalRulesofEvidence.
+3/24
+Dated SignatureINTHEDISTRICT COURTOFTHESECONDJUDICIAL DISTRICT OFTHE
+STATEOFIDAHO,INANDFORTHECOUNTYOFLATAH
+NorthPalmBeach,FL33408-3029)
+IntheMatteroftheApplicationCaseNo.CR29-
+ForaSearchWarrantfor:
+AT&T
+11760U.S.Highway 1,Suite300 )SEARCHWARRANT
+)
+MPDCaseNo.22-M09903
+TO:ANYPEACEOFFICERAUTHORIZED TOENFORCE ORASSISTIN
+ENFORCING ANYLAWOFTHESTATEOFIDAHO.
+BrettPayne,havinggivenmeproof,uponoath,thisdayshowingprobable cause
+establishing groundsforissuingasearchwarrantandprobable causetobelieveproperty
+consistsofcertainevidence regarding theinvestigation intothecrime(s)ofhomicide at
+1122KingRoadinMoscow, IdahoisontheAT&Taccountassociated withthephone
+number509-592-8458 between November 12,2022at12:00a.m.PSTtoNovember 14,
+2022at12:00a.m.PST.Information shouldincludeuseraccountinformation, locationdata,
+andstoredcommunications heldbyAT&T,described infurtherdetailasfollows:
+1.Allcustomer/subscriber information, including anylistedaddresses, otherlisted
+telephone number(s), socialsecurity number(s), datesofbirth,name(s),
+address(es), anyothercustomer identifying information, mobilehandset or
+deviceidentifiers/serial numbers (MEID,ESN,IMSI,IME],SUPI),activation
+dateanddeactivation date,andpointofpurchase orlocation devicewas
+purchased ifapplicable;
+SEARCHWARRANT 12.DevicePurchase Information. Thisisspecifically toincludetheDate,Timeand
+Locationofwherethedeviceoranypre-paidrefillcardswerepurchased aswell
+asanyinformation maintained aboutthepurchase toincludestorename,store
+number, terminalnumber, andamountofpurchase;
+3.Anyemailaddresses associated withtheaccountorwiththedevicethatis
+currently onfileandstoredinthenormalcourseofbusiness oftheService
+Provider;
+4.Calldetailrecords, including detailed information inreference toallknown
+outgoing andincoming callsassociated withtheaccount, datesandtimescalls
+weremade,anddurationofallcallsmadeorreceived. Thisistoincludeanyother
+pertinent calldetailrecordsincluding specialfeaturescodes,oranyothercodes
+thataremaintained inthenormalcourseofbusiness fortheServiceProvider, of
+anycellularnumbers identified inthecourseoftheinvestigation. Inadditionto
+voicecalls,thiswouldalsoincludeanydetailrecordsshowing textmessages,
+MMSmessages, ordataactivity;
+a.Intheeventtherequested CallDetailRecordscontainotherService
+Provider customer numbers, identified aseitherincoming oroutgoing
+calls,theServiceProvider willprovidesubscriber information tothe
+specificnumbers identified, ifrequested.
+5.Cellsiteinformation, toincludeallknowncelltowersassociated withoutgoing
+andincoming calls(CallDetailRecords). Thisinformation istoincludeany
+sectorinformation, azimuthforeachidentified sector,cellsitelocation, handoff
+towerandsector,timeontowerinformation, andanyotherrelatedmaterial that
+wouldbenecessary toidentifythelocationandsectorinreference tothecellsite
+information associated withthecalldetailrecords. Intheeventtextmessages,
+MMSmessages, Dataactivity,including IPsessions anddestination addresses
+thatwereproduced, theserecordsarealsoincluded inthisrequest;
+6.Cellsitelocations forallServiceProvider CellSites,sectorinformation,
+including azimuthheadings, intheregionalmarketassociated withtherequested
+cellsiteinformation;
+7.Location information, toincludeanyestimated orknownlongitude andlatitude
+ofthecellulardevice'scurrentlocation, orapproximate location, information
+receivedbycelltower(s)inreference todirection anddistance fromthetowera
+devicemaybelocated(timingandtriangulation information). RadioFrequency
+signalstrengths, direction, andtransmission information. Thegeographical
+constraints oflocationinformation willbelimitedtotheUnitedStates;
+8.Locationinformation canbeintheformofhistorical records.Thiswouldinclude
+SEARCHWARRANT 2anyreportsofdeviceactivitythatwouldincludetheapproximate latitudeand
+longitude ofthedeviceatthetimeoftheactivity,estimated marginoferror,
+direction anddistance fromthetower,andotherlocationrelatedinformation
+commonly referredtoasRealTimeTool(RTT),TimingAdvance Information,
+LocationDatabase ofRecord(LocDBoR). Thisfurtherincludesanyotherreport
+similarinnaturethatwouldprovideanestimate ofthecellularphoneonthe
+ServiceProvider's network;
+9.Alltextmessage and/orMMSmessages, including message content, currently
+storedinthenormalcourseofbusiness fortheServiceProvider, toincludeany
+cloudserviceswhichallowforthelong-term storageofbothvoicemails and
+SMS/MMS messages;
+10.CloudData,anycontentthatmayhavebeenbackeduptoCloudStorageforthe
+listeddates/times. IfsaidCloudStoragehasbeenprovided byathird-party
+provider, pleaseproviderelevantcontactinformation forthatprovider;
+locatedwithinthefollowing described premises:
+AT&T
+Attn:GlobalLegalDemands Center
+11760USHighway 1,Suite600
+NorthPalmBeach,FFL33408
+gidc@att.com
+Pleaseprovidethisinformation toBrettPayneatb digital
+formatonacompact diskinExcel,PDForTXTformat.Youaretherefore commanded to
+searchtheabove-described premisesfortheproperty described above,toseizeitiffoundand
+bringitpromptly beforethecourtabovenamed.Thiswarrantshallbeexecuted within14
+daysofissuance, andisauthorized fordaytimeornighttime service(pursuanttoIdaho
+Criminal Rule41,"daytime" meansthehoursbetween 6:00a.m.and10:00p.m.PST),and
+underthefollowing specialdirections:
+**THISSEARCHWARRANT ISISSUEDFORALAW
+ENFORCEMENT PURPOSE, THESERVICEPROVIDER (AT&T)IS
+ORDERED NOTTODISCLOSE THEEXISTENCE ORCONTENTS OF
+THISSEARCHWARRANT ORTHEINFORMATION FURNISHED IN
+RESPONSE TOTHESEARCHWARRANT FORAPERIODOF90
+SEARCHWARRANT 3DAYSORUNTILFURTHER ORDEROFTHECOURT.
+THESERVICEPROVIDER SHALLDISCLOSE THEDESCRIBED
+PROPERTY ANDINFORMATION WITHIN14DAYSOF
+ISSUANCE.**
+dayofDecember, 2022,at GIVENUNDERMYHANDandDATEDthis23rd
+10:03 m.
+C
+Magistrate Judge
+SEARCHWARRANT 4AT&T
+11760USHWY1,SUITE30
+NORTHPALMBEACHFL33408
+(800)635-6840
+(888)938-4715 (Fax)
+CERTIFICATE OFAUTHENTICITY OFDOMESTIC RECORDS PURSUANT TOFEDERAL
+RULESOFEVIDENCE 902(11)AND902(13,AND803(7)
+GLDCFILENUMBER 3586353
+1,Stephen attest,underpenalties ofperjurybythelawsoftheUnitedStatesof
+Americapursuant to28U.S.C.§1746,thattheinformation contained inthiscertification istrue
+andcorrect.Iamemployed byAT&T,andmytitleisDirector Compliance. Iamqualified to
+authenticate recordsresponsive totheattached SearchWarrantdated12/22/22 becauseIam
+familiarwithhowtherecordswerecreated,managed, stored,andretrieved. Jfurtherstatethat:
+a.AT&Tmaintains recordsmadeatornearthetimeoftheoccurrence ofthereferenced
+mattersetforthby,orfrominformation transmitted by,apersonwithknowledge of
+thosematters, andtherecordswerekeptintheordinary courseoftheregularly
+conducted business activityofAT&T,andmadebyAT&Tasaregularpractice; and
+bAT&Tprovided recordsforthephonenumber509-592-8458 responsive tothe
+referenced SearchWarrantdatedDecember 23,2023,forrecordsbetween June23,
+2022,toDecember 23,2022,relatedtotheNovember 13,2022,homicides; and
+AT&TdidnotprovideTimingAdvance Recordsforphonenumber509-592-8458.
+TimingAdvanceRecordswereonlyavailable ifrequested withinseven(7)daysof
+thespecified timeframe.TimingAdvance Recordswerenotincluded inAT&T
+recordsresponsive tothereferenced SearchWarrantbecausemorethanseven(7)
+dayselapsedbetween November 13,2022,andthedateoftheSearchWarrant
+December 23,2022.
+Ifurtherstatethatthiscertification isintended tosatisfyRules902(11),902(13)and803(7)of
+theFederalRulesofEvidence
+03/2Dated SignatureINTHEDISTRICT COURTOFTHESECONDJUDICIAL DISTRICT OFTHE
+STATEOFIDAHO,INANDFORTHECOUNTYOFLATAH
+)
+IntheMatteroftheApplication )CaseNo.CR29-
+ForaSearchWarrantfor: )
+)SEARCHWARRANT AND
+AT&T )ORDERAUTHORIZING
+11760U.S.Highway 1,Suite300 )INSTALLATION AND/OR
+NorthPalmBeach,FL33408-3029 )USEOFAPENREGISTER,
+)TRAPANDTRACEDEVICE
+)AND
+)NON-DISCLOSURE ORDER
+)PURSUANT TOIC.18-6722
+MPDCaseNo.22-M09903
+TO:ANYPEACEOFFICERAUTHORIZED TOENFORCE ORASSISTIN
+ENFORCING ANYLAWOFTHESTATEOFIDAHO.
+BrettPayne,havinggivenmeproof,uponoath,thisdayshowingprobable causeestablishing
+groundsforissuingasearchwarrantandprobable causetobelievetherearerecordsrelatedto
+thecrime(s)ofhomicide at1122KingRoad,Moscow, Idahoandarecurrently underthe
+controlofAT&Tforhistoriccalldetailrecordsforthetelephone number509-592-8458
+withcellsitesforallvoice,sms,anddataconnections between June23,2022,topresent,
+toinclude:
+SEARCHWARRANT
+ANDORDERFORA
+PENREGISTER ORA
+TRAPANDTRACEDEVICE
+ANDNON-DISCLOSURE ORDER
+PURSUANT TOLC.18-6722 1Subscriber orRegistration AccountInformation, including subscriber or
+registered usernameoridentity,address, billing/payment information;
+accountinitiation date;typeofaccount; customaccountfeatures; additional
+phonenumbers; addresses (bothphysicalandelectronic) and/orother
+contactinformation; additional personshavingauthority ontheaccount; any
+additional accounts linkedtothesubjectaccount; accountchangesforthe
+targetaddressandanylinkedaccounts; and
+DeviceIdentifying Information forthedeviceusingthetargetaddress, such
+asphonenumber, MACaddress, IPaddress, andotheruniquehardware and
+software identifiers; and
+UsageandLocation Information, including storedandtransactional records
+forallvoice,smsanddataconnections suchasinboundandoutbound call,
+message, radioorothercommunication detaildata,together withdateand
+timeofeachcommunication; including positioning information suchas
+GPSlongitude/latitudeormultilateration orprecision location, historical
+andprospective cellsitelocationinformation (CSLI),orotherinformation
+tendingtorevealtheproximate orpreciselocationofthedeviceassociated
+withtheabove-identified targetaddress; E911dataforthetargetaddress;
+and,forinternetcommunications, detailsuchasIPaddress, Port,Socket
+Address, VoIPaddress, routinginformation; theaddress(es) fromwhichthe
+communication ismade,conducted, andterminated; non-content textor
+email,header,IPaddress; andothernon-content information; and
+suchascellsitepositioning information, GPSlongitude/latitude or
+multilateration orprecision location(including RTTandLocDBoR reports
+orsimilarlygenerated locationinformation), TimingAdvanceand/orTrue
+Callorotherinformation tendingtorevealtheproximate orpreciselocation
+ofthedeviceassociated withthetargetaddress; E911dataforthetarget
+address; and
+Physicaladdressofcellularantennatowersusedbythecustomer's device,
+togetherwithRFcoverage map(s)and/orsatellites contacted orusedbythe
+above-identified customer/number/account(s)/device(s),andperiodsof
+telephone activation, sessiontimes,duration, andtheidentityofany
+temporarily assigned networkaddresses; and
+subscriber identityinformation forcustomers whocontactorarecontacted
+bythedeviceusingthetargetaddress;
+locatedatthefollowing premises:
+SEARCHWARRANT
+ANDORDERFORA
+PENREGISTER ORA
+TRAPANDTRACEDEVICE
+ANDNON-DISCLOSURE ORDER
+PURSUANT TOLC.18-6722 2AT&T
+11760U.S.Highway 1,Suite300
+NorthPalmBeach,FL33408-3029
+Youaretherefore commanded tosearchtheabove-described premises fortheproperty
+described above,toseizeitiffoundandbringitpromptly beforethecourtabovenamed.This
+warrantshallbeexecuted within14daysofissuance, andisauthorized fordaytimeand
+nighttime service(pursuant toIdahoCriminalRule41,"daytime" meansthehoursbetween
+6:00a.m.and10:00p.m.PST).
+FURTHER, thereisprobable causetobelievethatuseofapenregisterand/ortrap
+andtracedevicewillleadtolawenforcement acquisition ofrealtimepenregisterand/ortrap
+andtraceinformation, andthatthisinformation wouldbeevidence relatedtothecrime(s)of
+homicide whicharecurrently underthecontrolofAT&T.ThecourtfindsthatBrettPayne,
+investigating officer,andAshleyJennings, SeniorDeputyProsecutor, hascertifiedtothe
+courtthattheinformation likelytobeobtained bysuchinstallation anduseisrelevantto
+anongoingcriminalinvestigation.
+Pursuant toILC.18-6722(2) theCourtfindsthattheidentityofthepersontowhom
+thephoneisleasedorinwhosenameislistedtothetelephone linetowhichthepen
+registerortrapandtracedeviceistobeattached isBryanKohberger; theidentityofthe
+personwhoissubjectofthecriminalinvestigation isBryanKohberger whoresidesat
+Pullman, WA;thephonenumberis509-592-8458 and
+thephysicallocationofthephoneiscurrently Albrightsville, Pennsylvania: thephone's
+SEARCHWARRANT
+ANDORDERFORA
+PENREGISTER ORA
+TRAPANDTRACEDEVICE
+ANDNON-DISCLOSURE ORDER
+PURSUANT TOIC.18-6722 3serviceprovideris:
+AT&T
+11760U.S.Highway 1,Suite300
+NorthPalmBeach,FL33408-3029
+Thegeographic limitsofthetrapandtraceorderaretheUnitedStatesandU.S.
+Territories.
+ITISHEREBYORDERED pursuant toILC.18-6722thattheabove-identified
+investigators andinvestigative agency/agencies areauthorized toinstallanduseapenregister
+toregister,filter,recordanddecodeelectronic orotherimpulses, including, butnotlimitedto
+dialing,routing,addressing, signsandsignaling information, orotherimpulses thattogether
+withdatetimeandduration identifythenumbers dialed,electronic mailaddressing orrouting
+information, emailaddress, IPaddressand/orothernon-content information otherwise
+transmitted fromthetargetaddress; andinformation tendingtoidentifythedeviceusingthe
+targetaddressincluding anyotheruniqueidentifiers forthedevice,including theinformation
+referenced above;and
+ITISFURTHER ORDERED pursuant toI.C.18-6722thattheabove-identified
+investigators andinvestigative agency/agencies areauthorized toinstallanduseatrapand
+tracedevicetotrace,identify,register,filter,recordanddecodeelectronic orotherimpulses,
+including, butnotlimitedtodialing,routing,addressing, signsandsignaling information, or
+otherimpulses that,togetherwithdatetimeandduration, identifythenumbers dialed,
+electronic mailaddressing orroutinginformation, emailaddress, IPaddressand/orothernon-
+SEARCHWARRANT
+ANDORDERFORA
+PENREGISTER ORA
+TRAPANDTRACEDEVICE
+ANDNON-DISCLOSURE ORDER
+PURSUANT TOLC.18-6722 4contentinformation otherwise transmitted tothetargetaddress,orotherimpulses thatidentify
+theoriginating numbers ordigitaladdresses fromwhichawireorelectronic communication
+istransmitted; and,ifknown,thecustomer orusernameoridentityassociated withthe
+device,numberoraddresssendingcommunications, signals,messages, orotherelectronic
+impulses totheabove-identified targetaddress, fromanylocationwithintheUnitedStates;
+and
+ITISFURTHER ORDERED baseduponprobable cause,thattheabove-identified
+serviceprovider, investigators andinvestigative agencies areauthorized touseacellsite
+simulator inconnection withthetargetaddress; andthatanycellsitesimulator devicemaybe
+usedinanygeographic areanecessary tolocatethedeviceusingthetargetaddressinreal
+time;andthattheabove-listed serviceproviderandanyotherpersonservedwiththisorder
+shall,uponrequestbylawenforcement, assistbyproviding, ona24-hourbasisthelisted
+investigative agencywithallinformation tendingtorevealortoleadtolearningthelocation
+ofthedeviceusingthetargetaddress, including positioning information suchasGPS
+longitude/latitude ormultilateration orprecision location, prospective cellsitelocation
+information (CSLI),orotherinformation tendingtorevealtheproximate orpreciselocation
+ofthedeviceassociated withthetargetaddress, including positioning information suchas
+GPSlongitude/latitude ormultilateration orprecision location, prospective cellsitelocation
+information (CSLI),orotherinformation tendingtorevealtheproximate orpreciselocation
+ofthedeviceassociated withthetargetaddress; and
+ITISFURTHER ORDERED that,forpurposes ofthisorder,theterms"cellsite
+SEARCHWARRANT
+ANDORDERFORA
+PENREGISTER ORA
+TRAPANDTRACEDEVICE
+ANDNON-DISCLOSURE ORDER
+PURSUANT TOLC.18-6722 5simulator" and"cellsitesimulator data"includepenregisterandtrapandtrace,anddata
+derivedfrompenregisterand/ortrapandtraceforthetargetdevice,asthosetermsaredefined
+byLC.18-6719andalsoincludesrealtimelocationinformation collected byalaw
+enforcement operated cellsitesimulator deviceand/orbyaserviceproviderwhen,atlaw
+enforcement request,theproviderdeliberately seekstolocatethetargetdevice,totheextent
+thetermsortechnology overlap.
+ITISFURTHER ORDERED thattheabovelistedserviceproviderandanyother
+personservedwiththisordershallfurnishagentsoftheabove-identified investigative
+agency/agencies forthwith allinformation, facilities, andtechnical assistance necessary to
+accomplish theinstallation and/oroperation ofthepenregister,trapandtrace,andcellsite
+simulator, andsearchoftheirfacilitiesandrecordsunobtrusively andwithminimum
+interference totheservicesaccorded personswithrespecttowhomtheinstallation and/oruse
+istotakeplace;anduponrequestfromlawenforcement andfortheduration ofthiswarrant;
+AT&TwillprovideallRTTreports.
+ITISFURTHER ORDERED thatthisOrdershallapplyto,andthedefinition of
+targetaddressshallinclude,anyotheraccount, targetaddress,network, hardware orsoftware
+identityorotheruniquedeviceidentifier, towhichthetargetaddresshaschangedforthetwo
+monthspreceding thesigningofthisorderthroughtheenddateoftheauthority granted
+pursuant tothisorder;and
+ITISFURTHER ORDERED, thatinvestigators andserviceproviders areauthorized
+SEARCHWARRANT
+ANDORDERFORA
+PENREGISTER ORA
+TRAPANDTRACEDEVICE
+ANDNON-DISCLOSURE ORDER
+PURSUANT TOLC.18-6722 6tocontinue usingthetoolsandtechniques authorized bythisorderduringanytimethatthe
+devicesbeingmonitored enterprivateproperty; and
+ITISFURTHER ORDERED thattheinvestigators andinvestigative agencies usinga
+cellsitesimulator shalltakeallstepsnecessary tolimitcollection ofanyinformation or
+metadata tothetargetaddress; takeallstepsnecessary topermanently deleteanyinformation
+ormetadata collected fromanypartynotspecified inthisorderimmediately following its
+collection; andmustnottransmit, use,orretainsuchinformation ormetadata foranypurpose
+whatsoever; andmustdeleteanyinformation ormetadata collected fromthedeviceusingthe
+targetaddresswithinthirtydaysifthereisnolongeranyprobable causetosupportthebelieve
+thatsuchinformation ormetadata isevidence ofacrime.
+ITISFURTHER ORDERED thatthelistedserviceproviderandanyotherpersonor
+entityproviding assistance becompensated bytheabove-identified investigative
+agency/agencies forreasonable expenses incurredincomplying withthisOrder;andrecords
+andinformation provided pursuant tothisordershouldbeprovided inacommercially-
+reasonable electronic formatanddelivered forthwith viaelectronic mailasspecified bythe
+lawenforcement officerservingthisOrder.
+ITISFURTHER ORDERED thatthisOrderiseffectiveonDecember 23,2022at
+4:53pmPSTtobecompleted nolaterthanFebruary23,2023 atthesametimeof
+day.
+ITISFURTHER ORDERED pursuant toI.-C.18-6722(4)(a) thisorderwillbesealed
+SEARCHWARRANT
+ANDORDERFORA
+PENREGISTER ORA
+TRAPANDTRACEDEVICE
+ANDNON-DISCLOSURE ORDER
+PURSUANT TOLC.18-6722 7untilotherwise orderedbythecourt;and
+ITISFURTHER ORDERED pursuant toI.C.18-6722(4)(b) thattheserviceprovider
+towhomthisorderisaddressed, oranyotherpersonservedwiththisorder,areprohibited
+fromgivingnoticeoftheexistence ofthisordertoanyperson,including thesubscriber or
+customer towhomthetargetaddressrelates,exceptthattheserviceprovidermaydisclosethe
+ordertoitslegalcounselforpurposeofreceiving legaladvice.
+UNDERMYHANDandDATEDthis23rddayofDecember, 2022,at
+: .m.GIVEN
+Magistrate Judge
+SEARCHWARRANT
+ANDORDERFORA
+PENREGISTER ORA
+TRAPANDTRACEDEVICE
+ANDNON-DISCLOSURE ORDER
+PURSUANT TOI.C.18-6722 8

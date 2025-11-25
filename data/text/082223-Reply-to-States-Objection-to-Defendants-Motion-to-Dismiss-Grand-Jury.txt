@@ -1,0 +1,326 @@
+REPLY TO STATE’S OBJECTION TO  
+DEFENDANT’S MOTION TO DISMISS GRAND JURY  
+ON GROUNDS OF ERROR IN GRAND JURY INSTRUCTIONS    Page  1 Anne C. Taylor, Public Defender 
+Kootenai County Public Defender 
+PO Box 9000 
+Coeur d’Alene, Idaho 83816 
+Phone: (208) 446- 1700; Fax: (208) 446- 1701 
+Bar Number: 5836 
+iCourt Email: pdfax@kcgov.us  
+ 
+Elisa G. Massoth, PLLC  
+Attorney at Law  
+P.O. Box 1003 
+Payette, ID 83661  
+208-642-3797 
+ 
+Assigned Attorney:  
+Anne C. Taylor, Public Defender, Bar Number: 5836 
+Jay Weston Logsdon, Chief Deputy Litigation, Bar Number: 8759 
+Elisa G. Massoth, Bar Number: 5647 
+ 
+IN THE DISTRICT COURT OF THE SECOND  JUDICIAL DISTRICT OF THE  
+STATE OF IDAHO, IN AND FOR THE COUNTY OF LATAH  
+ 
+ 
+CASE NUMBER CR29 -22-2805 
+ 
+ 
+REPLY TO STATE’S OBJECTION TO 
+DEFENDANT’ S MOTION TO DISMISS 
+GRAND JURY ON GROUNDS OF 
+ERROR IN GRAND JURY 
+INSTRUCTIONS  
+ 
+ 
+ 
+COMES NOW , Bryan C. Kohberger , by and through their attorney, Jay Weston Logsdon, 
+Chief Deputy Litigation, and hereby  submits the following Reply to the State’s objection to hi s 
+previously filed Motion to dismiss the Indictment for error in the instruction as to the standard of 
+proof, or to remand for a preliminary hearing. STATE OF IDAHO  
+ 
+                                   Plaintiff,  
+ 
+V. 
+ 
+BRYAN C. KOHBERGER,  
+ 
+                                   Defendant.  Electronically Filed
+8/22/2023 2:37 PM
+Second Judicial District, Latah County
+Julie Fry, Clerk of the Court
+By: Tamzen Reeves, Deputy ClerkREPLY TO STATE’S OBJECTION TO  
+DEFENDANT’S MOTION TO DISMISS GRAND JURY  
+ON GROUNDS OF ERROR IN GRAND JURY INSTRUCTIONS    Page  2 I. There is no Idaho Supreme Court authority binding on this Court as to the standard 
+of proof for a grand jury.  
+ The State begins by arguing that Edmonson  contains a holding binding upon this Court that 
+the standard of proof for a grand jury is probable cause. State’ s Brief at 2.  The State insists this was 
+a holding because the Supreme Court relied upon it to come to two conclusions: the use of a grand jury as opposed to a preliminary hearing did not violate equal protection, and that a court may set aside an indictm ent lacking probable cause. Id.  at 2-3.  The issue then is: did it matter to the Court 
+that the standard it proclaimed for a grand jury was probable cause?  
+Starting with the equal protection claim, the answer is clearly no.  The Court’s holding as to 
+Mr. E dmonson’s equal protection challenge was it was a “cloak” for a request to “place a limit on 
+prosecutorial discretion.” Edmonson , 113 Idaho at 234.  The Court refused. Id.   The State insists that 
+the next lines claiming that a grand jury has the same purpose as a preliminary hearing are what cinched it for prosecutorial discretion. Id.   However, t he issue of the standard of proof was not 
+before the Court.  Mr. Edmonson wanted the ability to call witnesses and challenge his case in a 
+preliminary hearing; he took no issue with the standard. Id.   The Court determined he could be 
+denied those rights because a prosecutor’s reasons for choosing a grand jury instead were valid. Id.  at 
+235.  That was the holding, not that somehow the lower standard of probable cause  saved the day 
+for grand juries as opposed to the balanced approach of a preliminary hearing.  
+Next, the State’s claim that there is a holding d ealing with sufficient evidence required is not 
+quite accurate .  The actual issue was whether admission of hearsay required the indictment to be 
+thrown out. Edmonson , 113 Idaho at 236.  The Defendant did not even challenge whether there was 
+sufficient evidence  after the hearsay was excised from the proceedings. Id.   Thus, the State’s claims 
+that this is a holding are  simply erroneous.  REPLY TO STATE’S OBJECTION TO  
+DEFENDANT’S MOTION TO DISMISS GRAND JURY  
+ON GROUNDS OF ERROR IN GRAND JURY INSTRUCTIONS    Page  3 The State goes on to say that the unexamined issue of the standard of proof for a grand jury 
+is set in “black letter law” because courts have been using probable cause. State’s Brief at 4 -5.  An 
+issue of first impression is not somehow s et in stone by cases that relied on unchallenged court 
+rules.  The Idaho Supreme Court has never considered the c onstitutionality of I.C.R. 6.5 Thus, this 
+Court is free to do so.  
+II. Section 19 -1107 sets the stand of proof for grand juries at beyond a reasonable doubt.  
+The State’s next argument is that despite its plain language, I.C. § 19 -1107 actually has to be 
+transposed into probable cause, because:  
+• The Idaho Supreme Court adopte d a rule on the same issue, which , according to the 
+State, forces this Court to abandon the usual rules of statutory interpretation. State’s 
+Brief at 5 -6. 
+• The Idaho Supreme Court remarked once in dicta that it did not think the statute set 
+the standard a t beyond a reasonable doubt in Gasper v. Seventh Jud. Dist. , 74 Idaho  
+388, 395 (1953). State’s Brief at 6.  
+• The phrase “in their judgment” means no one should question what a grand jury 
+does. State’s Brief at 6 -7. 
+• The word “warrant” in 1862 meant ““ [t]o authorize; to give authority or power to do 
+or forbear anything, by which the person authorized is secured or saved harmless from any loss or damage by the act.” State’s Brief at 7 (quoting Goodrich, Chauncey A., “An American Dictionary of the English  Language,” G. and  C. Merriam, 
+Springfield Mass., (1862), p. 1249).  
+• The California Supreme Court’s decision in Cummiskey v. Sup.  Ct., 839 P.2d 1059, 
+1066 (Cal. 1992)  is persuasive authority. State’s Brief at 8. REPLY TO STATE’S OBJECTION TO  
+DEFENDANT’S MOTION TO DISMISS GRAND JURY  
+ON GROUNDS OF ERROR IN GRAND JURY INSTRUCTIONS    Page  4 • The debate at the Idaho Constitutional Convention demonstrates a knowledgeable 
+group clearly aware of the laws in effect in the territory. State’s Brief at 8 -9.  
+Organizing the State’s arguments, we have two relating to the plain meaning of the statute, two relating to judicial interpretations, a n argument about the separation of powers (presumably), and an 
+argument from history.  
+a. The plain language of the statute does not help the State’s case, especially  if we are 
+speaking in 1862.  
+The State’s argument as to the plain language of the statute i s confusing at best.  While 
+“warrant” today might give the State some wiggle room to advance a “reasonable foundation” argument, its own quote from 1862 permits no such reading of the statute.  Why then does the State claim that “to authorize, to give auth ority or power to do…” somehow shows that a grand jury was 
+permitted to act at a lower standard of proof?  The State’s argument as to what “in their judgment” means is even more confusing - the cases cited seem to merely indicate the grand juries ability to  
+nullify.  Certainly in Idaho, and other states that have adopted the F
+IELD CODES , the ability to 
+challenge their judgment was adopted by statute.  Even if it were not so - the State has already noted 
+that Edmonson  permits such challenges.  
+b. History does not help the State’s case.  
+The State offers that which the Defense has already acknowledged, William Claggett claimed 
+grand juries decide things on the basis of probable cause.  And the Defense already explained why he was mistaken.  In the words of our Sup reme Court, our founders took a “ belt-and-suspenders 
+approach … to anticipating and assuaging congressional concerns about admitting Idaho to the 
+Union.” State v. Heath , 168 Idaho 678, 684 (2021).  At issue in that particular debate was whethe r to 
+permit preliminary hearings because (perhaps ironically) some of the framers did not care for them.  But the Constitution, it must be recalled, was not adopted by the convention, but by the voters that REPLY TO STATE’S OBJECTION TO  
+DEFENDANT’S MOTION TO DISMISS GRAND JURY  
+ON GROUNDS OF ERROR IN GRAND JURY INSTRUCTIONS    Page  5 ratified it. State v. Clarke , 165 Idaho 393, 397 (2019).  Just because the delegate from Shoshone was 
+unaware of the F IELD CODE and its import, hardly means the voters were not.  The fact that literally 
+every grand jury case the Supreme Court considered until Edmonson  involved the Court noting that 
+the p rosecutors, for some reason that they could not fathom, were using a beyond a reasonable 
+doubt standard, would tend to show that the people  of this state believed in that standard.   
+• Neither Cummiskey  nor Gasper  are convincing authorities.  
+The State clai ms the Idaho Supreme Court in Gasper  rejects the plain language of the statute.  
+Perhaps, but it gave no grounds as to why it did so, and as it was dicta, it is of no help to the State’s 
+argument.  Gasper v. District Court , 74 Idaho 388, 390- 92 (1953) . 
+Cumm iskey is a more complicated matter.  Similar to the State’s hodgepodg e argument here, 
+the California  Supreme Court makes various claims to try to overcome the plain language of the 
+statute. 839 P.2d at 1064.  It begins with the plain language - but uses the  definition of “warrant” 
+from 1980. Id.   It cites to Cal. Penal Code § 995, which at that time (and still today) specifically states 
+an indictment can be dismissed if it lacks probable cause.  Idaho has no such statutory language.  In point of fact - that l anguage was adopted in 1949. See , Stats.1949, c. 1311, p. 2298, § 1.  Thus, it is no 
+surprise that the court goes on to cite to a number of cases - all post 1949.  The court then calls the 
+holding in Tinder  went to the “quality of evidence”  instead of the standard-  which makes little sense, 
+particularly in view of the history of the F
+IELD CODES  and their champion in the state of California, 
+who, as previously noted in the Defense’s brief, wrote Tinder. Cummiskey , 839 P.2d at 1066 ( citing 
+People v. Tinder , 19 Cal. 539 (1862)).   
+It would be a rather large mistake for the state of Idaho to consider Cummiskey  a persuasive 
+authority as to its own statutes, unmodified since territorial times, and now able to be viewed in terms of their origin.  REPLY TO STATE’S OBJECTION TO  
+DEFENDANT’S MOTION TO DISMISS GRAND JURY  
+ON GROUNDS OF ERROR IN GRAND JURY INSTRUCTIONS    Page  6 c. The Idaho Supreme Court cannot overrule statutes by adopting rules on the same 
+subject.  
+The State’s final argument is that:  
+Idaho Code § 19 -1107 and Idaho Criminal Rule 6.5(a) share the same title and 
+address the same issue: “ Sufficiency of Evidence to Warrant Indictment.” The rule 
+explicitly sets the standard of proof at probable cause. See I.C.R. 6.5(a). The statute 
+can—and therefore must —be read to do the same. See State v. Garner , 161 Idaho 708, 
+711, 390 P.3d 434, 437 (2017) (“Statutes and rules that can be read together without 
+conflicts must be read in that way.”).  
+ State’s Brief at 5 -6.  This is an accurate quote, however, it is misleading without the context of the 
+paragraph proceeding the analysis:  
+“When a statute and a  rule can be reasonably interpreted so that there is no conflict 
+between them, they should be so interpreted rather than interpreted in a way that results in conflict.”  [State v. Two Jinn, Inc. , 148 Idaho 706,] 709 [(2010)].   “When there 
+is a conflict betw een a statute and a criminal rule, this Court must determine whether 
+the conflict is one of procedure or one of substance; if the conflict is procedural, the 
+criminal rule will prevail.”  State v. Johnson , 145 Idaho 970, 974, 188 P.3d 912, 916 
+(2008). On th e other hand, when the conflict is substantive, the statute will 
+prevail. Two Jinn , 148 Idaho at 709, 228 P.3d at 390; see also  State v. Beam , 121 Idaho 
+862, 828 P.2d 891 (1992). 
+ 
+State v. Garner, 1 61 Idaho 708, 711 (2017).  The Court in Garner goes to some pains to show a lack of 
+conflict in the statute and rule at issue in the case - a statute and rule nothing at all like what is at 
+issue before this Court. Id.  This Court, then, must consider whether this is a substantive or 
+procedural issue.  
+III. I.C. § 19 -1107 and Rule 6.5(a) conflict and the rule does not control, because it is a 
+substantive right.  
+The State next argues that the standard of proof is a procedural matter rather than a 
+substantive one.   To get there, the State relies on:  
+• A concurrence by a former federal jurist; 
+• A United States Supreme Court case  involving choice -of-law; REPLY TO STATE’S OBJECTION TO  
+DEFENDANT’S MOTION TO DISMISS GRAND JURY  
+ON GROUNDS OF ERROR IN GRAND JURY INSTRUCTIONS    Page  7 • An AEDPA decision by the United States Supreme Court ; 
+• That burdens of proof differ from standards;  
+• That only Idaho can decide whether the standard for  a grand jury is procedural or 
+substantive . 
+It should be noted that if the State is correct as to the last point, the first three are irrelevant.  
+ Starting then with the second to last point - it is true that the burden of proof differs from 
+the standard of  proof.  
+standard of proof  (1857) The degree or level of proof demanded in a specific case, 
+such as “beyond a reasonable doubt” or “by a preponderance of the evidence”; a rule about the quality of the evidence that a party must bring forward to prevail.  
+ 
+B
+LACK 'S LAW DICTIONARY  (11th ed. 2019) . 
+burden of proof (18c)  1. A party's  duty to prove a disputed assertion or charge; a 
+proposition regarding which of two contending litigants loses when there is no 
+evidence on a question or when the answer is simply too difficult to find. • The 
+burden of proof includes both the  burden of per suasion  and the  burden of production.  — 
+Also termed  evidentiary burden ; evidential burden ; onus probandi.  See SHIFTING THE 
+BURDEN OF PROOF . Cf. STANDARD OF PROOF . 2. Loosely,  BURDEN OF 
+PERSUASION . — Abbr. BOP.  
+ 
+“In the past the term ‘burden of proof’ has been used in two different senses. (1) 
+The burden of going forward wit h the evidence. The party having this burden must 
+introduce some evidence if he wishes to get a certain issue into the case. If he introduces enough evidence to require consideration of this issue, this burden has 
+been met. (2) Burden of proof in the sense  of carrying the risk of nonpersuasion. 
+The one who has this burden stands to lose if his evidence fails to convince the jury — or the judge in a nonjury trial. The present trend is to use the term ‘burden of 
+proof’ only with this second meaning …” Rollin M. Perkins & Ronald N. Boyce,  Criminal Law  78 (3d ed. 1982).  
+ “The expression ‘burden of proof’ is tricky because it has been used by courts and 
+writers to mean various things. Strictly speaking, burden of proof denotes the duty of 
+establishing by a fair p reponderance of the evidence the truth of the operative facts 
+upon which the issue at hand is made to turn by substantive law. Burden of proof is sometimes used in a secondary sense to mean the burden of going forward with the 
+evidence. In this sense it is  sometimes said that a party has the burden of countering 
+with evidence a prima facie case made against that party.” William D. Hawkland,  Uniform Commercial Code Series  § 2A -516:08 (1984). 
+ REPLY TO STATE’S OBJECTION TO  
+DEFENDANT’S MOTION TO DISMISS GRAND JURY  
+ON GROUNDS OF ERROR IN GRAND JURY INSTRUCTIONS    Page  8 BLACK 'S LAW DICTIONARY  (11th ed. 2019) .  As noted by Black’s Law D ictionary, simply going by 
+the word “burden” or “standard” is unhelpful.  
+ But to the State’s more interesting argument, Defense Counsel was able to find the same 
+argument in the case G & M Farms v. Funk Irr. Co. , 119 Idaho 514, 530- 32 (1991) (BISTLINE, J., 
+concurring in part ).  Justice Bistline in that matter argues essentially what the State argues here, the 
+standard of evidence is procedural, and it is not bound by the holdings of the United States Supreme 
+Cour t. Id. at 532.  The trouble for the State, of course, is that Justice Bistline was arguing alone.   
+Additionally, as the State noted, there is no doubt that the burden  of proof is substantive. See , e.g., 
+State v. Bassett , 86 Idaho 277 (1963).  However, even  Bassett  seems to imply that the presumption of 
+innocence includes  the evidentiary standard. Id. 
+ From the perspective of the Defense, this understanding, implicit in Bassett , is correct.  For 
+example, in State v. Jones , 125 Idaho 477, 485- 86 (1994) overru led on other grounds by State v. Montgomery , 
+163 Idaho 40 (2017), the Court considered the difference between the “substantive” law versus “evidentiary principle”. Id.   As the Court found, the burden of proof was a requirement that differed 
+between these t wo. Id.  Although the Court used the term “burden”, it also quotes with approval the 
+Ninth Circuit’s understanding of “ what must be proved”, and since in either case the “burden” is 
+clearly on the State, the Court undoubtedly was considering the “standard of pr oof.” Id. (quoting  
+United States v. Peralta,  941 F.2d 1003, 1006 (9th Cir.1991)  (quoting  United States v. Gil, 604 F.2d 546, 
+549 (7th Cir.1979) )). 
+ Another example is State v. Shackelford, 150 Idaho 355 , 375  (2010) abrogated on other grounds by 
+State v. Garcia , 166 Idaho 661 ( 2019), which dealt with ex post facto law.   In that case, the Court gave a 
+more robust definition of substantive as opposed to procedural:  
+However, if the change is merely procedural, “and does ‘ not increase the punishment 
+nor change the ingredients of the offense or the ultimate facts necessary to establish 
+guilt,’ ”  there is no ex post facto  violation. [ Weaver v. Graham , 450 U.S. 24,] 29, n. 12, REPLY TO STATE’S OBJECTION TO  
+DEFENDANT’S MOTION TO DISMISS GRAND JURY  
+ON GROUNDS OF ERROR IN GRAND JURY INSTRUCTIONS    Page  9 [(1981) ] (quoting  Hopt v. Utah,  110 U.S. 574, 590, 4 S.Ct. 202, 210, 28 L.Ed. 262, 269 
+(1884)). “[T]he constitutional provision was intended to secure substantial personal rights against arbitrary and oppressive legislation and not to limit the legislative 
+control of remedies and modes of procedure which do not affect matters of 
+substance.”  Beazell v. Ohio, 269 U.S. 167, 171, 46 S.Ct. 68, 69, 70 L.Ed. 216, 218 
+(1925). The Supreme Court in  Collins v. Youngblood  stated that “procedural” can be 
+thought to refer to “changes in the procedures by which a crimina l case is 
+adjudicated, as opposed to changes in the substantive law of crimes.”  497 U.S. 37, 
+45, 110 S.Ct. 2715, 2720, 111 L.Ed.2d 30, 40 (1990). 
+ 
+Id. The Court concluded that a change as to instructions to treat direct and circumstantial evidence 
+the same  way was merely procedural. Id.  It did so because the change did not affect the 
+“substantive”  criminal law but merely  “recognized that direct and circumstantial evidence possess 
+the same probative value and thus the reasonable doubt standard is applicable to both.” Id.    
+ One can also come at this issue from the other direction.  In re Winship , 397 U.S. 358 (1970), 
+conclusively established that the standard of proof for criminal and juvenile cases is beyond a 
+reasonable doubt because it was required for Due  Process.   However, who was the Court overruling 
+in that case?  It was the standard of proof set by the legislature  of New York. Id.   It may be that due 
+process concerns lead courts to overrule statutory standards of proof - but in case after case, it was 
+the legislature, not the courts, that set those standards. In Idaho, for example, the legislature has set the standard of proof for various hearings. See , Ballard v. Kerr , 160 Idaho 674, 710 (2016) (holding 
+legislature sets the standard of proof in medical malpractice actions);  Akers v. D.L. White Const., Inc. , 
+156 Idaho 37, 52 n. 10 (2013) (finding legislature set standard of proof for punitive damages) ; Rhodes 
+v. State , Dept. of Health and Welfare , 107 Idaho 1120, (1985) (BISTLINE, J., concurring ) (noting 
+legislature set standard of proof in parental right termination cases); State v. Osborn , 102 Idaho 405, 
+428 (1981) (BISTLINE, J., separately concurring in reversal for s entencing ) (arguing legislature set standard 
+of proof for aggravators in death cases) ; State v. McGough, 129 Idaho 371, 374 (Ct.App. 1996) 
+(finding legislature set standard of proof for forfeiture); Interest of Doe I , 2022 WL 16955164, at *3 REPLY TO STATE’S OBJECTION TO  
+DEFENDANT’S MOTION TO DISMISS GRAND JURY  
+ON GROUNDS OF ERROR IN GRAND JURY INSTRUCTIONS    Page  10 (Ct.App.2022) (unpublished) (finding legislature set standard of proof for aggravating circumstances 
+in Child Protection cases at preponderance of evidence).  
+ Counsel cannot find, in Idaho or anywhere else, a time when a court has held that the 
+legislature set the stand ard of proof too high , and set it lower.  As the Court held in Ballard : 
+Where the  legislature  has intended that a heightened standard of  proof  or a specific 
+method of proof apply, it has expressly provided for such a requirement. For example, the  legislatu re has required that a claimant seeking punitive damages 
+“prove, by clear and convincing evidence, oppressive, fraudulent, malicious or outrageous conduct by the party against whom the claim for punitive damages is 
+asserted.”  I.C. § 6– 1604
+. Likewise, the  legislature  expressly provided that the 
+standard of care and breach of that standard be proven by direct expert testimony in a medical malpractice action.  
+I.C. § 6–1012.  Idaho Code section 6 –1603  provides 
+that the cap on awards of non- economic damages shall not apply to causes of actio n 
+arising out of reckless misconduct, but is silent on the method of proof required to 
+show recklessness. Likewise,  section 6 –1012  is silent on the issue of recklessness. 
+Where the  legislature  has not expressly provided that direct expert testimony is 
+required to prove recklessness in medical malpractice actions, we decline to apply 
+such a requirement.  
+ 160 Idaho at 710.   It would be exceedingly anomalous for the judiciary to sudden proclaim that the 
+citizens of Idaho may not demand additional protections against the risk of false arrest.  See, Winship , 
+397 U.S. at 363. (“[The reasonable -doubt standard]  is a prime instrume nt for reducing the risk of 
+convic tions resting on factual error.”)   It should be beyond a reasonable doubt that the Idaho 
+Supreme Court did not somehow supplant the law with a rule in the 1980s.  
+IV. Mr. Kohberger asserts a theory the law allows and seeks a remedy this Court can 
+grant.  
+The State’s final argument is that erroneous instructions to a grand jury do not permit either 
+dismissal or to treat the Indictment as a Presentment.  State’s Brief at 11 -13.  Once again, a tortuous 
+path to this conclusion must be tread.  First, the State claims only statutory bases for dismissal can affect a grand jury, relying on a case from 1927. Id.  at 11 ( quoting State v. Arregui , 44 Idaho 43 (1927) ).  
+While the Defense is typically interested in the past, the State already noted that in Edmonson  the REPLY TO STATE’S OBJECTION TO  
+DEFENDANT’S MOTION TO DISMISS GRAND JURY  
+ON GROUNDS OF ERROR IN GRAND JURY INSTRUCTIONS    Page  11 Court went beyond what the statute permits.  The Defense already explained why - courts, like 
+Idaho, have gone beyond the statutes to find due process concerns attach to grand juries. De fense’s 
+Brief at 18.  The State, likely r ealizing that this argument has little likelihood of success, then shifts to 
+arguing that prejudice must be shown.  
+First, Mr. Kohberger disagrees.  Yes, the cases Counsel cited are for trial juries.  However, 
+there is simply no credible  argument to be made that the State may mislead a grand jury as to the 
+standard of proof and rely on the Indictment it procures.  Additionally, it makes little sense that a 
+defendant deprived of his right to counsel for a preliminary hearing will doom his eventual conviction, but a defendant given a grand jury told it may indict a “ham sandwich” has no recourse. See, Coleman v. Alabama , 399 U.S. 1 (1970).  To deprive the accused of a fundamental right has 
+natural consequences.  
+Second, Mr. Kohberger will dem onstrate in a separate motion the prejudice that resulted 
+from the erroneous instruction in this matter.  
+Finally, the State argues it can always seek another Indictment and there is no way for this 
+Court to treat this Indictment as a presentment.  The law is replete with courts treating legal documents  masquerading  as one thing  as what they actually are. See , e.g. State v. Doe , --- P.3d ---, 2023 
+WL 4750727  (Ct.App. 2023)  (pending publication).   The State’s argument that the language in I.C. 
+§§ 19- 1603, 160 4 does not give courts the power to prevent resubmission of a case to a grand jury is 
+simply inaccurate.  The Idaho Supreme Court found that a court can  refuse resubmission. See, e.g. 
+Martin v. Lyons , 98 Idaho 102, 104 (1977).  
+V. The Opinions of Various District Courts are not persuasive authority.  
+The State also appends to its decision three district court opinions, claiming they are 
+persuasive authority.  Certainly all these respectable jurists may have attempted to tackle these issues, but they did not have the benefit of Mr. Kohberger’s briefing  and research elucidating where the REPLY TO STATE’S OBJECTION TO  
+DEFENDANT’S MOTION TO DISMISS GRAND JURY  
+ON GROUNDS OF ERROR IN GRAND JURY INSTRUCTIONS  P age 12 beyond a reasonable doubt standard for grand juries originated and how it has been treated by 
+prosecutors and courts ever since its adoption.   It appears that the State has cul led from these 
+decisions much of its argument, and there is nothing within them that has not been addressed above.  Thus, the Defense respectfully asks that this Court approach this subject with an open mind. 
+DATED this ____22___ day of August , 2023.  
+A
+NNE C. TAYLOR, PUBLIC DEFENDER  
+KOOTENAI COUNTY PUBLIC DEFENDER  
+BY : 
+J AY WESTON LOGSDON 
+CHIEF DEPUTY LITIGATION  
+ASSIGNED ATTORNEY  
+C
+ERTIFICATE OF DELIVERY  
+I hereby certify that a true and correct copy of the foregoing was personally served as 
+indicated below on the ___ 22____ day of August, 2023 addressed to: 
+L
+atah County Prosecuting Attorney –via Email: paservice @latahcountyid.gov  
+Elisa Massoth – via Email: legalassistant@kmrs.net  
+____________________________________
+ 

@@ -1,0 +1,1105 @@
+NO.
+AM.FILED1
+INTHEDISTRICT COURTOFTHEFOURTHJUDICIAL DISTRICT OF2025 FEB
+TRENTTRIPPLE, Clerk
+THESTATEOFIDAHO,INANDFORTHECOUNTYOFADA8YANNAMEYERDEPUTY
+AdaCountyCaseNo.CR01-24-31665
+ORDERONDEFENDANT'S MOTIONS
+TOSUPPRESS RE:AT&T,GOOGLE,
+USB,APPLEANDAMAZONSTATEOFIDAHO,
+Plaintiff,
+BRYANC.KOHBERGER,
+Defendant.
+I.INTRODUCTION
+Defendant ischargedwithonecountofBurglary andfourcountsofMurderintheFirst
+Degreeinconnection withthestabbing deathsoffourUniversity ofIdahostudents intheearly
+morning hoursofNovember 13,2022.Aspartoflawenforcement's investigation, theFederal
+BureauofInvestigation (FBI)issuedfederalgrandjurysubpoenas toApple,Inc.andAmazon,
+Inc.toobtaininformation fromaccounts linkedtoDefendant. TheFBIprovided responsive
+information todetectives fromtheMoscowPoliceDepartment, whorequested andreceived
+searchwarrants fortheAppleandAmazonaccounts. Inaddition, detectives soughtandobtained
+searchwarrants forDefendant's Googleaccounts, aUSBdrivecontaining Defendant's cell
+phonedataandforinformation heldbyDefendant's cellularcarrier,AT&T.
+BeforetheCourtareDefendant's motionstosuppress theinformation obtained through
+thesubpoenas andtheAT&T,Google,AppleandUSBsearchwarrants. Defendant arguesthe
+FBI'sissuance ofthesubpoenas constituted awarrantless searchthatviolatedhisprivacy
+interests underboththeFourthAmendment andArticleI,§17oftheIdahoConstitution. He
+furtherarguesthatthesearchwarrants failtocommand asearchand/orlackparticularity.
+'Defendant alsoarguedthattheAT&T,Apple,Amazon, USBandGooglesearchwarrants wereinvalidunder
+Franksv.Delaware, 438U.S.154(1978)duetoclaimsofrecklessly orintentionally falseoromittedmaterial
+information and/orbecausetheywerebasedonlawenforcement's allegedly unconstitutional useofInvestigative
+GeneticGenealogy (IGG).Onthesearguments, Defendant incorporated byreference hisarguments inhisMotion
+foraFranksHearingandhisMotiontoSuppress re:GeneticInformation. TheCourtincorporates hereinitsrulings
+denyingbothmotions. Consequently, thisOrderonlyaddresses thearguments stillatissue.
+1TheStateresponds thatDefendant relinquished anyprivacyinteresthehadinthe
+AmazonandApplematerials and,further,contends theremaining warrants areproperand
+sufficiently particular.
+Asuppression hearingontheportionofDefendant's motionsatissueinthisOrder?was
+heldonJanuary24,2025,duringwhichtheCourtreceivedtestimony fromDetective Corporal
+BrettPayneandDetective Lawrence Mowery, bothfromtheMoscowPoliceDepartment. The
+Courtfoundbothdetectives tobecredibleandreliable.FFollowing argument, theCourttookthe
+matterunderadvisement. TheCourtfindssuppression isnotwarranted because: 1)Defendant
+relinquished anyprivacyinteresthehadintherecordssubpoenaed fromAmazonandApple
+pursuant tothethird-party doctrine, and;2)theremaining searchwarrants arevalid.
+II.STANDARD
+Thestandard ofreviewofamotiontosuppress isbifurcated. Thepowertoassessthe
+credibility ofwitnesses, resolvefactualconflicts, weighevidence, anddrawfactualinferences is
+vestedinthetrialcourt.Statev.Valdez-Molina, 127Idaho102,106,897P.2d993,997(1995).
+Atrialcourt'srulingonamotiontosuppress evidence combines theissueoflawandfact,and
+thetrialcourt'sfactualfindingswillnotbeoverturned unlesstheyareclearlyerroneous. Statev.
+Conant,143Idaho797,799,153P.3d477,479(2007).Whenadecisiononamotiontosuppress
+ischallenged, theapplication ofconstitutional principles tothefactsfoundwillbefreely
+reviewed. Statev.Veneroso, 138Idaho925,928,71P.3d1072,1075(2003).
+2Evidence andargument ontheFranksmotionandIGGmotionwereheardonJanuary23,2025.Thebalanceof
+motionstosuppress wastakenupthefollowing day.
+2Ill.FINDINGS OFFACT?
+OnNovember 13,2022,anofficerfromtheMoscowPoliceDepartment responded toa
+residence locatedat1122KingRoadinMoscow, Idahowherehediscovered thebodiesof
+Madison Mogen,KayleeGoncalves, EthanChapin,andXanaKernodle. Eachappeared tohave
+beenstabbedtodeath.Theinvestigation thatensuedwasamulti-agency affairinvolving
+members oftheMoscowPoliceDepartment, theIdahoStatePoliceandtheFBI,amongothers.
+Forpurposes oftheinvestigation, acommand teamconsisting ofseveralinvestigators
+fromeachoftheseagencies wassetupattheMoscowPoliceheadquarters. Thecommand team
+included, amongothers,Detective BrettPayneandDetective Lawrence MoweryoftheMoscow
+PoliceDepartment, aswellasSpecialAgentNicholas BallanceoftheFBI,allofwhomwereco-
+locatedonthesecondflooroftheMoscowPoliceDepartment. Thecommand teammettwice
+dailyforseveralweekstoreview,analyze,andorganize theinformation gathered inthe
+investigation. Pertinent information wastransmitted intoaworkingprobable causeaffidavitthat
+couldbeandwasincorporated bylawenforcement intotheirvarioussearchwarrant
+affidavits. Allinvestigators hadaccesstothesearchwarrantaffidavits issuedduringthe
+investigation.
+3TheCourt'sfindingsarebasedonsuppression hearingtestimony provided byDetectives PayneandMoweryas
+wellasthefollowing documentary evidence: ForFirstAT&TWarrant: Defendant's ExhibitAattached toReplyto
+State'sObjection toDefendant's MotiontoSuppress andMemorandum inSupportRe:AT&TFirstWarrant(Dec.
+19,2024)(admitted asExhibitS-2.1atsuppression hearing)andState'sExhibitsS1andS2attached toitsObjection
+toDefendant's MotiontoSuppress andMemorandum inSupportRe:AT&TFirstWarrant(Dec.6,2024)("First
+AT&TObjection"); ForAT&TPenTrapandTraceWarrant: Defendant's ExhibitsAthroughCattached toReplyto
+State'sObjection toDefendant's MotiontoSuppress andMemorandum inSupportRe:PenTrapandTraceDevice
+(Dec.19,2024)("PenTrapReply")(ExhibitsAandCwereadmitted asExhibitsS-2.2andS-2.3,respectively, at
+suppression hearing)andState'sExhibitsS-1andS-2attached toitsObjection toDefendant's MotiontoSuppress
+andMemorandum inSupportRe:PenTrapandTraceDevice(Dec.6,2024)('PenTrapObjection"); ForApple
+subpoena andwarrant: Defendant's ExhibitsAthroughEinsupportofhisMotiontoSuppress re:AppleAccount
+FederalGrandJurySubpoena andSearchWarrantDatedAugust1,2023(Nov.18,2024)("AppleMotion") andthe
+State'sExhibitsS-1throughS-4attached toitsObjection toDefendant's MotiontoSuppress re:Apple(Dec.6,
+2024)("AppleObjection"); ForAmazonsubpoena andwarrant: Defendant's ExhibitAinsupportofhisMotionto
+Suppress re:AmazonAccountFederalGrandJurySubpoena andSearchWarrants DatedApril26,2023andMay8,
+2023(Nov.18,2024)("Amazon Motion") andtheState'sExhibitsS-1throughS-4attached toitsObjection to
+Defendant's MotiontoSuppress re:Amazon(Dec.6,2024)("Amazon Objection"); ForGooglewarrants:
+Defendant's ExhibitsAthroughFinsupportofhisMotiontoSuppress re:GoogleWarrants Dated1/3/23,1/24/23,
+and2/24/23(Nov.18,2024)("Google Motion"), and;ForUSBwarrant: Defendant's ExhibitAinsupportofhis
+MotiontoSuppress re:MoscowPoliceForensic LabWarrantDatedJanuary9,2023(Nov.18,2024)("USB
+Motion").
+3Amongtheinitialsearchwarrants soughtintheinvestigation weretwotoAT&T,the
+cellularcarrierforaphonenumberthatlawenforcement hadlinkedtoDefendant. Detective
+Payneappliedforandreceivedbothwarrants onDecember 23,2022.AsDetective Paynewas
+notanexpertincellphonedata,herelied"heavily" uponAgentBallance, whoisamember of
+theFBI'sCellularAnalysisSurveyTeam("CAST")andspecializes incellrecordsanalysis.
+AgentBalanceaidedDetective Payneinbothdraftingthesearchwarrantaffidavits forthe
+AT&Twarrants andanalyzing thereturned information.
+Withinaweekofobtaining theAT&Twarrants, lawenforcement obtained awarrantfor
+Defendant's arrest.Thearrestwaseffectuated onDecember 30,2022athisparents'homein
+Pennsylvania. Atthattime,lawenforcement seizedDefendant's cellphonepursuant toasearch
+warrantforthehome.Topreserve thephone'sdata,theFBIcopiedthecontents ofthecellphone
+ontoaUSBdrive,butdidnotreviewthecontents. Lawenforcement alsohadawarranttosearch
+Defendant's vehicle,whichwaslocatedinthegarageofhisparents'home.Duringthesearchof
+thevehicle,areceiptforanAppleiPadwasfound.
+Following Defendant's arrest,theFBIobtained andservedtwofederalgrandjury
+subpoenas: onetoApple,Inc.andonetoAmazon, Inc.Inaddition, Detectives Payneand/or
+Moweryobtained searchwarrants forrecordsfromGoogle,Inc.,Apple,Inc.,Amazon, Inc.and
+forthecontents oftheUSBdrive.
+A.FirstAT&TWarrant
+ThefirstAT&TwarrantDetective Payneappliedforsoughtninecategories ofrecords
+associated withDefendant's cellphone:1)customer/subscriber information; 2)devicepurchase
+information; 3)associated emailaddresses; 4)calldetailrecords;5)cellsiteinformation; 6)cell
+sitelocations; 7)locationinformation forthecellphone;8)textandMMSmessages, and;9)
+Clouddata.See,Exh.S-1toFirstAT&TObjection. Eachofthesecategories wasnarrowed bya
+detaileddescription ofthespecificinformation sought.Theinformation requested was
+temporally limitedtoa48-hourperiod:November 12,2022at12:00a.m.PSTthrough
+November 14,2022at12:00a.m.PST.
+Inhisaccompanying searchwarrantaffidavit, Detective Paynesetforthindetailthe
+circumstances ofthecrimeandthescopeandresultsoftheinvestigation asofthatdate,
+including evidence linkingDefendant tothesuspectvehicleseenonsurveillance videosaround
+thetimeofthemurders. /d.Detective Payneindicated howeachofthecategories ofinformation
+4soughtwouldaidtheinvestigation, including indetermining whetherthephone'sactivitywas
+consistent withthesuspectvehicle'srouteoftravelasseenonthesurveillance videos,whether
+thephonewasinthevicinityofthemurders duringorpriortoitsoccurrence aspartofplanning
+thecrime,andwhyDefendant's phonewasnotreporting tothenetworkduringtheestimated
+timethecrimeoccurred.' Jd.
+BasedonDetective Payne'ssearchwarrantaffidavit, themagistrate issuedasearch
+warrantfortherecordssoughttherein.Thewarrantstated,inrelevantpart:
+BrettPayne,havinggivenmeproof,uponoath,thisdayshowingprobable cause
+establishing groundsforissuingasearchwarrantandprobable causetobelieve
+property consistsofcertainevidence regarding theinvestigation intothecrime(s)
+ofhomicide at1122KingRoadinMoscow, IdahoisontheAT&Taccount
+associated withthephonenumber509-592-8458 between November 12,2022at
+12:00a.m.PSTtoNovember 14,2022at12:00a.m.PST.
+See,Exh.S-2toFirstAT&TObjection ("FirstAT&TWarrant").
+Thewarrantthensetfortheachofthecategories ofinformation definedbyDetective
+Payneinhissearchwarrantaffidavit. ItwasservedbyDetective MoweryuponAT&Tviaemail.
+See,Exh.S-2.1.AswasDetective Mowery's practice, hedidnotincludeDetective Payne's
+searchwarrantaffidavitwiththewarrantwhenservingit.AT&Temailedareturnofthe
+requested information backtoDetective Mowerylaterthatday.Jd.Thereturned information was
+immediately turnedovertoAgentBallance forreviewandanalysis. Inreviewing the
+information, AgentBallancehadaccesstoandknowledge ofDetective Payne'ssearchwarrant
+affidavitsupporting theFirstAT&TWarrant.
+B.AT&TPenTrapandTraceWarrant
+Withinhoursofreceiving thereturnontheFirstAT&TWarrant, Detective Payneapplied
+forasecondwarranttoAT&T,thistimetoobtainrecordsassociated withDefendant's cell
+phonenumberforthepriorsixmonths,aswellasfortheinstallation ofapenregisterandtrap
+andtracedevice?forthenumber. See,State'sExh.S-1toPenTrapObjection. Therecords
+soughtwerecalldetailrecordswithcellsitesforallvoice,smsanddataconnections. These
+'Anearliersearchwarranthadrevealed thatDefendant's cellphonedidnotappeartobereporting tothenetwork
+forthehourbeforeandhourafterthehomicides occurred.
+5Penregisters capturetheoutgoing phonenumbers, email!addresses andotherdialingorroutinginformation
+transmitted byacellphone.Trapandtracedevicescapturesimilarinformation thatisreceived bythecellphone
+(incoming).
+5recordswerefurtherdefinedtoincludesubscriber accountinformation, deviceidentifying
+information, usageandlocationinformation toincludecellsitepositions information, addresses
+ofcelltowersusedbythedeviceandsubscriber identityinformation forcustomers whocontact
+orarecontacted bythedevice.Jd.
+Again,Detective Payne'ssearchwarrantaffidavitsetforthingreatdetailthe
+circumstances ofthecrimeandthescopeandresultsoftheinvestigation asofthatdate,
+including ananalysisofthedatareceived fromtheFirstAT&TWarrant. Thisinformation,
+according toDetective Payne,showedthattheestimated locations forDefendant's cellphone
+duringthe48hoursbeforeandafterthehomicides wereconsistent withthemovement ofthe
+suspectvehicleseeninthevarioussurveillance videos.Hestated:
+Id.Basedonmytrainingandexperience, andthefactsoftheinvestigation thusfar,|
+believethatKohberger, theuserofthe8458Phone,waslikelythedriverofthe
+whiteElantrathatisobserved departing Pullman, WAandthatthisvehicleis
+likelySuspectVehicle1.Additionally, therouteoftravelofthe8458Phone
+duringtheearlymorning hoursofNovember 13,2022andthelackofthe8458
+Phonereporting toAT&Tbetween 2:47a.m.and4:48a.m.isconsistent with
+Kohberger attempting toconcealhislocationduringthequadruple homicide that
+occurred attheKingRoadResidence. Asaresult,Iamseekinghistorical CSLI
+fromJune23,2022tocurrent,prospective locationinformation, andaPen
+Register/Trap andTraceonthe8458Phonetoaidineffortstodetermine if
+Kohberger stalkedanyofthevictimsinthiscasepriortotheoffense,conducted
+surveillance ontheKingRoadResidence, isincontactwithanyofthevictim's
+associates beforeoraftertheallegedoffense,anylocations thatmaycontain
+evidence ofthemurders thatoccurred onNovember 13,2022,thelocationofthe
+whiteElantraregistered toKohberger, aswellasthelocationofKohberger.
+Asearchwarrantfortheinformation requested byDetective Paynewasissuedbythe
+magistrate laterthatsameday.Thewarrantstated,inrelevantpart:
+BrettPayne,havinggivenmeproof,uponoath,thisdayshowingprobable cause
+establishing groundsforissuingasearchwarrantandprobable causetobelieve
+therearerecordsrelatedtothecrime(s)ofhomicide at1122KingRoadin
+Moscow, Idahoandarecurrently underthecontrolofAT&Tforhistoriccall
+detailrecordsforthetelephone number509-592-8458 withcellsitesforallvoice,
+sms,anddataconnections between June23,2022,topresent[.]
+See,State'sExh.S-2toPenTrapObjection ("PenTrapWarrant").
+6Thewarrantthensetfortheachofthecategories ofdataoutlinedbyDetective Paynein
+hissearchwarrantaffidavit. Inaddition, thewarrantauthorized investigators toinstallandusea
+penregister,trapandtracedeviceandcellsitesimulator inaccordance withI.C.§18-6719, et
+seq.
+Onceissued,Detective PaynesentthePenTrapWarranttotheFBIforservicesincethe
+FBIhostedthepenregisterportionofthewarrant. See,Exh.$2.2.AgentBallancethenserved
+thewarrantonAT&TonbehalfoftheMoscowPoliceDepartment. See,Def'sExh.BtoPen
+TrapReply.Detective Payne'ssearchwarrantaffidavitsupporting thePenTrapWarrantwasnot
+servedwiththewarrant; however, thereturnwasprovided toAgentBallance, whohadaccessto
+thesearchwarrantaffidavitinreviewing thereturn.See,Exh.S-2.3.
+C.GoogleWarrants
+Detective Moweryappliedforandwasissuedthreedifferent warrants toGoogle,Inc.
+between January3,2023andFebruary 24,2023.Eachofthethreewarrants beganwiththe
+following language:
+Lawrence Mowery, havinggivenmeproof,uponoath,thisdayshowingprobable
+causeestablishing groundsforissuingasearchwarrantandthereisprobable
+causetobelievethattheproperty referredtoandsoughtinoruponsaidpremises
+consistsofinformation relatedtotheinvestigations intothecrime(s)ofhomicide
+at1122KingRoad,Moscow, IdahoontheGoogleaccountofBryanC.
+Kohberger...
+See,Def'sExh.A-CtoGoogleMotion.
+Eachwarrantrequested information inconnection withemailaccounts, phonenumbers
+andInternational MobileEquipment Identifier (IMEI)numbers thattheinvestigation had
+revealed wereassociated withDefendant. TheGooglewarrantissuedJanuary3,2023("Google
+WarrantOne")requested "business recordsandsubscriber information" inconnection with
+bryanchristopher1994(@gmail.com plustwophonenumbers andanIMEInumber. TheGoogle
+warrantissuedJanuary24,2024("Google WarrantTwo")requested "business recordsand
+subscriber information" inconnection withyewsirneighm@gmail.com. TheGooglewarrant
+issuedFebruary 24,2023("Google WarrantThree")requested datainconnection with"all
+Gmailaccounts linkedbyrecovery email,cookie,AndroidID,Creation IPorphonenumber
+associated with"alloftheaccounts listedinGoogleWarrants OneandTwo,aswellasfor
+bk5781@desales.edu.
+7Eachofthethreewarrants weretemporally limitedtoJanuary1,2021throughDecember
+30,2022.Inaddition, allthreewarrants listedthefollowing sixteenspecificitemstoseize:
+eGoogleAccountsubscriber information, asdefinedin18U.S.C.§2703(c)(2);
+eGoogleAccountrecentactivitylogsandconnected devices;
+eGoogleemailmessages (Gmail)including draftsandthoseinthetrash;
+eGooglePay-Accountinformation andtransactions;
+eCalendar- calendar events;
+eContacts -
+peoplecontactfiles;
+ePhotos-photos,videosandalbums,andassociated metadata;
+eDrive-documents, spreadsheets, presentations andfiles,andassociated metadata;
+eKeep-titlesandthenotes;
+eHangouts andChats-messages, including attachments suchasphotos;
+eLocation History-locationdataanddeletionrecords;
+eMyactivity-searches andbrowsing history,including activityfromWeb&App
+Activity,GoogleAssistant, andGoogleHome;
+eGoogleVoice-GoogleVoiceinformation, including GoogleVoicebasic
+subscriber information, calllogs,forwarding number, textmessages, and
+voicemails;
+eYouTube- Registration email,channelID,displayname,IPlogs,andaccount
+registration information;
+eAndroid- recordsforAndroidDevices,toincludesubscriber information, other
+associated accounts, cellular~carrierinformation, anddevice/hardware
+information;
+eGooglePlay-GooglePlaypurchases madeandGooglePlayapplications
+Downloaded.
+Id.
+Thesewarrants wereeachsupported bysearchwarrantaffidavits executed byDetective
+Mowery. Intheseaffidavits, Detective Mowerysetforthastatement describing indetailthe
+scopeandresultsoftheinvestigation todate,howtheaccounts andphonenumbers identified in
+eachwarrantwerediscovered andhowtheywereconnected toDefendant. Healsoincluded a
+detailedexplanation astohowGoogleworksandwhyeachofthesixteenitemslistedinthe
+warrants couldberelevanttotheinvestigation.
+Uponreceiving eachGooglewarrant, Detective MoweryserveditonGoogle
+electronically throughitslawenforcement portal.Aswashispractice, Detective Mowerydidnot
+servehissearchwarrantaffidavitinadditiontoeachwarrant. ThereturnsforeachGoogle
+warrantweresubmitted tolawenforcement asadigitalfileavailable throughGoogle's law
+8enforcement portal.Detective Paynedownloaded eachreturnuponreceipt,afterwhichhe
+prepared aReceiptandInventory ofWarrant. Detective Mowerythenreviewed thedownloaded
+material toensureitcontained information forthecorrectaccounts identified inthewarrants
+beforedisseminating thereturnstootherinvestigators inthecommand teamtoprocess. Each
+member oftheteamhadaccesstothesearchwarrantaffidavits supporting therespective
+warrant. Thus,inprocessing thereturnsonthethreeGooglewarrants, thereviewing investigator
+wasabletorefertotheparticular searchwarrantaffidavit.
+D.USBSearchWarrant
+AfterthecontentofDefendant's cellphonewascopiedontotheUSBdrivebutnot
+reviewed-by theFBI,theUSBwassenttoDetective Mowery, whostoreditintheforensics lab
+attheMoscowPoliceDepartment. Detective Mowerythenappliedforawarranttosearchthe
+contents oftheUSB.Inhissearchwarrantaffidavit, Detective Mowerysetforthindetailthe
+circumstances ofthecrime,theinvestigation todateandhisprobable causetosuspect
+Defendant's cellphonecontained evidence ofthehomicides. See,Def'sExh.AtoUSBMotion.
+Awarrantwasissuedthatstatedinpertinent part:
+Lawrence Mowery, havinggivenmeproof,uponoath,thisdayshowingprobable
+causeestablishing groundsforissuingasearchwarrantandprobable causeto
+believeproperty consisting ofaSeagate2TBExternalUSBDrivewithSerial
+Number#NA87TIGN forevidence regarding theinvestigation intothecrimesof
+homicide ofMadison Mogen,KayleeGoncalves, XanaKernodle, andEthan
+Chapinat1122KingRoad,Moscow, Idaho,including:
+eDataCompilations relatingtoorcontaining information indicating, suggesting, or
+relatedtoviolence, afight,ormotive/hostility foranyofthesame,toinclude
+withoutlimitation ledgers,papers,lists,books,notes,letters,calendars, diaries,
+tapes,photographs, audio,videos,orothermediaorsimilardocuments oritems,
+computer andcommunications devicescapableofstoringelectronic data,other
+electronic storagedevicesandmedia,andaccesstocontents ofalloftheabove;
+eRecordsofcommunications;
+eWritten/text communications including emails,SMStextmessages, MMS
+messages, andothercommunications, including butnotlimitedto,third-party
+applications suchasKik,Whatsapp, Facebook, Instagram;
+eContacts stored;
+eLocation information;
+9eLocation information storedinanycloudaccountassociated withthephoneif
+[sic]saidaccountcredentials canbeobtained fromtheforensicimageofthe
+phone;
+eInternethistory,bookmarks, and/orassociated cloudaccounts;
+eWrittenandaudiorecorded notesoranycloudaccountassociated withthedevice;
+eIndiciaofresidency in,orownership orpossession of,thepremises andanyofthe
+aboveitems[.]
+locatedinoruponthefollowing described premises, locatedinLatahCounty,
+StateofIdaho:
+TheMoscowPoliceDepartment islocatedas155Southview, inMoscow, Idaho.
+TheForensics LabislocatedonthesecondflooroftheMoscowPolice
+Department.
+YOUARETHEREFORE COMMANDED TOSEARCHtheabove-
+described premises fortheproperty described above,TOSEIZEitisfoundand
+bringitpromptly beforetheCourtabove-named.
+Id.atpp.24-25("USBWarrant").
+TheUSBWarrantwasservedbyDetective Moweryinpersonattheforensics lab.He
+thenobtained theUSBandprepared aninventory documenting hisseizureoftheUSBand
+"BryanKohberger's Phonedata."Hesubmitted thereturntothemagistrate who,inasubsequent
+order,authorized theproperty tobe"delivered toanypersonorlaboratory orlaboratories forthe
+purposeofconducting orobtaining anytests,analysis, oridentification ofsaidproperty... /d.at
+pp.26-32.ThedataontheUSBwassubsequently processed byotherinvestigators ontheteam,
+allofwhomhadaccesstoDetective Mowery's supporting searchwarrantaffidavit.
+E.AppleSubpoena andSearchWarrant
+TheFBIservedafederalgrandjurysubpoena uponApple,Inc.onoraboutJanuary12,
+2023.°Appleresponded onJanuary27,2023byproviding subscriber information fortwoApple
+accounts associated withDefendant: bkohberger@spartan.northhampton.edu, whichApple
+indicated was"Active",andwifiarmyowns@yahoo.com, whichAppleindicated was"Locked."
+See,State'sExh.S-4toAppleObjection. Bothaccounts werecreatedonOctober7,2016.The
+subscriber information provided byApplealsorevealed theActiveaccounthadlastbeen
+6TheFBI'ssubpoena isnotintherecord.
+10accessed onDecember 20,2022,justdaysbeforeDefendant's arrest.'OnoraboutApril6,2023,
+theFBIissuedapreservation requesttoAppleforthesetwoaccounts.® See,Def'sExh.Cto
+AppleMotion,p.2.
+TheFBIsharedtheinformation received fromtheApplesubpoena withDetectives Payne
+andMowery. OnAugust1,2023,Detective Payneappliedforasearchwarrantfor"'allApple
+accounts andassociated orlinkedaccounts associated" withthetwoabove-identified Apple
+accounts fromOctober7,2016tothedateofDefendant's arrest.See,State'sExh.S-1toApple
+Objection. Hissearchwarrantaffidavitdiscussed indetailthecircumstances ofthecrime,the
+resultsoftheinvestigation todateandwhyDefendant wasarrested andcharged. Detective Payne
+alsoconveyed thatDefendant wasseekinganadvanced degreeincriminology andhadstudied
+cloud-based forensics priortothecrimes.Theaffidavitdiscussed howDefendant hadattempted
+toconcealhislocationduringtheperiodimmediately beforeandafterthecrimewascommitted.
+Detective Paynealsoincluded adetailedexplanation aboutwhattypesofinformation
+Applecaptures andmaintains fromusersofAppleaccounts andthathebelievedtheinformation
+soughtfromApplewould"provide information concerning Kohberger's plans,thoughtprocess,
+research, locations, photosorotherpertinent information storedonhisAppleaccount, including
+hisiCloudaccount." AsearchwarrantforApplewasissuedthatsameday.See,State'sExh.S-2
+toAppleObjection ("AppleWarrant"). Itstated,inrelevantpart:
+Corporal BrettPayne,havinggivenmeproof,uponoath,thisdayshowing
+probable causeestablishing groundsforissuingasearchwarrantandprobable
+causetobelieveproperty consisting ofthereisprobable causetobelievethatthe
+property referredtoandsoughtinoruponsuchpremises consistsofinformation
+relatedtotheinvestigation intoburglary and/orhomicides as1122KingRoadin
+Moscow, IdahoonoraboutNovember 13,2022,ontheAppleaccountand/or
+iCloudaccounts associated withthefollowing identifiers: AppleID:
+bkohberger@spartan.northhampton.edu (DSIS10616147671) and/orAppleID:
+wifiarmyowns@yahoo.com.(DSID 1012112549)[.]
+Id.
+7Theinformation produced byAppleinresponse totheFBI'ssubpoena iscontained onathumbdrivesubmitted by
+theStateasExhibitS-4totheAppleObjection.
+®
+TheFBI'spreservation requestalsolistedotheremailaccounts itdetermined mightbeassociated withDefendant,
+butApple'sresponse totherequestindicated ithadnorecordsassociated withthoseaccounts.
+11TheAppleWarrantsetoutninecategories ofinformation soughtbyDetective Paynein
+hisaffidavit, assummarized: 1)accountidentification records;2)recordsregarding devices
+associated withtheaccounts; 3)contents ofemailsassociated withtheaccounts; 4)thecontents
+ofIMsassociated withtheaccounts; 5)thecontentofstorediCloudfiles;6)activity,connections
+andtransactional logsfortheaccounts; 7)locations wheretheaccounts wereaccessed; 8)records
+pertaining tothetypesofserviceused,and;9)information necessary todecryptanydata./d.
+Otherthanitsreference tothedateofthecrimebeinginvestigated, theAppleWarrantwasnot
+temporally limited.
+TheAppleWarrantwasservedelectronically byDetective PaynethroughApple'slaw
+enforcement's emailportal.Asishispractice, hedidnotincludehissearchwarrantaffidavit
+whenservingtheAppleWarrant.
+Approximately oneweeklater,Detectives PayneandMowerydownloaded thereturn
+provided byAppleandprepared andfiledaninventory ofthereturnwiththemagistrate. See,
+Def'sExh.EtoAppleMotion.Subsequently, themagistrate issuedanorderallowingforthe
+returned information tobe"delivered toanypersonorlaboratory orlaboratories forthepurpose
+ofconducting orobtaining anytests,analysis, oridentification ofsaidproperty whichisdeemed
+necessary bythecustodial lawenforcement agencyorjurisdictional prosecuting attorney without
+furtherorderofthisCourt."See,State'sExh.S-3toAppleObjection. Detective Payne
+disseminated thereturned information toothermembers oftheinvestigative teamforprocessing,
+namelyDetective MoweryandSpecialAgentNicholas Ballance. Bothoftheseindividuals had
+accesstoDetective Payne'ssearchwarrantaffidavitinsupportoftheAppleWarrant.
+F.AmazonSubpoena andSearchWarrant
+Atsomepointintheinvestigation, theFBIlocatedanAmazonaccountassociated with
+Defendant. Itservedafederalgrandjurysubpoena uponAmazon, Inc.seekingorderhistory
+records." Amazonresponded byproviding theFBIwithDefendant's Amazonsubscription
+information andpurchase historyfromJanuary1,2022toDecember 13,2022.See,State'sExh.
+S-4toAmazonObjection.
+Afterreceiving thisinformation, Detective Moweryappliedforandreceivedasearch
+warrantforrecordsretained byAmazonforDefendant's accountregarding customer click
+activity,detailsofitemsaddedordeletedfromhiscart,allsuggestions madetotheaccount,
+°TheFBI'ssubpoena isnotintherecord.
+12advertising data,deviceidentification information andlinkedaccounts, withadaterangeof
+March20through30,2022andNovember 1,2022throughDecember 6,2022.See,State'sExhs.
+S-1toS-3toAmazonObjection.
+IV.CONCLUSIONS OFLAW
+Havingalreadydispensed withDefendant's arguments regarding whetherthewarrants at
+issueinthefoursuppression motionsaddressed hereinwereinvalidunderFranksand/orasa
+resultoflawenforcement's IGGinvestigation, theremaining issuesareasfollows:1)whether
+thegrandjurysubpoenas violatedDefendant's privacyinterests inhisAppleandAmazon
+accounts underboththeFourthAmendment andArticleI,§17oftheIdahoConstitution; 2)
+whethertheAT&T,Google,USBandApplesearchwarrants weresufficiently particular, and;3)
+whethertheGoogle,USBandApplesearchwarrants properly command asearch.TheCourt
+findssuppression isnotwarranted onanyoftheseissues.
+A.Defendant DoesNotHaveAPrivacyInterestIntheSubpoenaed Records
+Protected bytheFourthAmendment orArt.I§17oftheIdahoConstitution.
+TheFourthAmendment totheUnitedStatesConstitution andArticleI,§17oftheIdaho
+Constitution prohibitunreasonable searches andseizures. Warrantless searches andseizuresare
+presumed tobeunreasonable. Statev.Weaver,127Idaho288,290,900P.2d196,198(1995).
+However, apersonchallenging asearchhastheburdenofshowingthatheorshehadalegitimate
+expectation ofprivacyintheitemorplacesearched. Statev.Pruss,145Idaho623,626,181P.3d
+1231,1234(2008)(citingRawlings v.Kentucky, 448U.S.98,104(1980)).Thatinvolvesatwo-
+partinquiry:Didthepersonhaveasubjective expectation ofprivacyintheobjectofthe
+challenged search?Issocietywillingtorecognize thatexpectation asreasonable? /d.Thefirst
+inquiryisaquestion offact;thesecond,aquestion oflaw./d.
+1. Thesubpoenas didnotviolateDefendant's FourthAmendment rights.
+Pursuant tothethird-party doctrine, "'apersonhasnolegitimate expectation ofprivacyin
+information hevoluntarily turnsovertothirdparties."Smithv.Maryland, 442U.S.735,743-44
+(1979).Thisistrue"eveniftheinformation isrevealed ontheassumption thatitwillbeused
+onlyforalimitedpurpose." UnitedStatesv.Miller,425U.S.435,443(1976)."Asaresult,the
+Government istypicallyfreetoobtainsuchinformation fromtherecipient withouttriggering
+FourthAmendment protections." Carpenter v.UnitedStates,585U.S.296,308(2018.)
+13InMiller,theUnitedStatesSupreme Courtappliedthedoctrinetobankrecords. In
+investigating taxevasion,thegovernment subpoenaed thedefendant's banks,seekingcancelled
+checks,depositslips,andmonthlystatements. 425U.S.at438-39.TheCourtrejectedthe
+defendant's FourthAmendment challenge becausehecould"assertneitherownership nor
+possession" ofthese"business recordsofthebanks."Jd.at440.Moreover, thedefendant's
+purported expectation ofprivacywasunavailing inlightofthenatureofthebankrecords.The
+checkswere"notconfidential communications butnegotiable instruments tobeusedin
+commercial transactions"; andthebankstatements were"exposed to[bank]employees inthe
+ordinary courseofbusiness." /d.at442.Having"'take[n]therisk,inrevealing hisaffairsto
+another, thattheinformation [would]beconveyed bythatpersontotheGovernment," theCourt
+foundthedefendant relinquished anyFourthAmendment protection. /d.at443.
+InSmith,theUnitedStatesSupreme Courtappliedthedoctrinetoinformation conveyed
+toatelephone company. 442U.S.at737-46.TheCourtheldthatthegovernment's warrantless
+useofapenregisterwasnota"search." /d.at745-46.RelyinglargelyonMiller,theCourt
+concluded:
+[P]etitioner canclaimnolegitimate expectation ofprivacyhere.Whenheusedhis
+phone,petitioner voluntarily conveyed numerical information tothetelephone
+company and'exposed' thatinformation toitsequipment intheordinary course
+ofbusiness. Insodoing,petitioner assumed theriskthatthecompany would
+revealtopolicethenumbers hedialed.
+Wetherefore conclude thatpetitioner inallprobability entertained noactual
+expectation ofprivacyinthephonenumbers hedialed,andthat,evenifhedid,
+hisexpectation wasnot'legitimate.'
+Smith,442U.S.at745.
+AsDefendant notes,thethird-party doctrinehascomeunderincreased scrutinyinthe
+digitalage.UnitedStatesv.Moalin,973F.3d977,992(9thCir.2020)(noting"commentators
+andtwoSupreme CourtJusticeshavequestioned thecontinuing viabilityofthethird-party
+doctrineundercurrentsocietalrealities.") Inherconcurring opinioninUnitedStatesv.Jones,'®
+JusticeSotomayor notedthedoctrineis"illsuitedtothedigitalage,inwhichpeoplereveala
+10AtissueinJoneswasGPSmonitoring ofavehicle.
+14greatdealofinformation aboutthemselves tothirdpartiesinthecourseofcarryingoutmundane
+tasks."565U.S.400,417(2012)(Sotomayor, J.,concurring).
+Later,inCarpenter, theUnitedStatesSupreme Courtrejectedapplication ofthethird-
+partydoctrinetogovernment collection ofhistorical CSLI.585U.S.at315.Insodoing,the
+Courtfoundthetworationales underpinning thedoctrine first,whetherthenatureofthe
+material revealed tothird-parties indicates a"reduced expectation ofprivacy," and,second,
+whethertherewas"voluntary exposure" oftheinformation toothers werenotfulfilledwhen
+appliedtoCSLI./d.at314-315.
+Withregardtothefirstrationale, theCourtnotedthatalthough onenormally doesnot
+haveanexpectation ofprivacyinhismovement onpublicstreets,the"pervasive" trackingof
+movements revealed byhistorical CSLIwasdifferent becauseitprovided "adetailedchronicle
+ofaperson's physicalpresence compiled everyday,everymoment, overseveralyears."/d.at
+315."Thereisaworldofdifference between thelimitedtypesofpersonal information addressed
+inSmithandMiller"andthe"exhaustive chronicle oflocationinformation casuallycollected by
+wirelesscarrierstoday."/d.Withregardtothesecondrationale, theCourtfoundCSLIis
+"nottruly'shared'asonenormally understands theterm."Jd.at315.Rather,itisdatathatis
+generated bytheusersimplyturningonthecellphone./d.Notingthatcarryingacellphone"is
+indispensable toparticipation inamodernsociety,"theCourtfoundthat"innomeaningful sense
+doestheuservoluntarily 'assume[ ]therisk'ofturningoveracomprehensive dossierofhis
+physicalmovements." Jd.(quotingSmith,442U.S.at745).
+TheCourtwascarefultolimititsholdinginCarpenter tothefactsbeforeit,expressly
+declining to"disturbtheapplication ofSmithandMiller"inothercontexts. /d.at315.While
+Defendant recognizes thislimitation, hearguesthathispurchase recordsfromAmazonanddata
+associated withhisAppleaccounts providethesametypeofextensive privateinformation that
+CSLIdoes.!!Additionally, hepointsoutthatbothAmazonandAppleareheavilyregulated and
+contends thattheyguarantee theirusers'privacy.Consequently, heassertsthat,underCarpenter,
+awarrantisrequired forlawenforcement toaccessthisinformation.
+However, unlikeinCarpenter, thedualrationales underpinning third-party doctrine
+supportitsapplication toDefendant's AmazonandAppleinformation. First,thenatureof
+1
+Defendant setsforthalaundrylistofallthetypesofinformation AmazonandApplecollectonitsusers.
+15information obtained fromthesubpoenas cannotbecompared tothe"exhaustive chronicle" of
+locationinformation atissueinCarpenter. TheAmazonrecordsconsisted ofhispurchase history
+andassociated accountinformation foroneyear.TheApplerecordswereevenmorelimited,
+consisting ofaccountsubscriber information andthedatetheaccountwasopened. Whileboth
+AmazonandApplearecertainly capableofobtaining farmoreinformation byitsusers,the
+information specifically soughtandobtained herethroughthesubpoenas wasextremely limited.
+Moreover, thisinformation wasnotgenerated bysimplypassively powering onaphone,
+aswastheCSLIinCarpenter; itwasvoluntarily conveyed tothirdparties.TheApplesubscriber
+information wasgenerated byDefendant's affirmative conductinopeningAppleaccounts.'? The
+Amazonpurchase recordswerelikewisegenerated byDefendant's affirmative actinvisitingthe
+Amazonwebsite,shopping foritems,placingtheminashopping cartandarranging fordelivery
+andpayment. Hadhebeenshopping inaphysicalstore,thereisnoquestion that,underMiller,
+thesecurityvideofootageofhimshopping andthetransaction recordscouldbeobtained without
+implicating theFourthAmendment. Thefactthathewasinavirtualstoredoesnotchangethe
+analysis.
+Inaddition, anysubjective expectation ofprivacyhemayhavehadinhisAmazon
+purchase recordsandApplesubscriber information isunreasonable given-according tothe
+policiescitedbyDefendant bothAmazonandApplenotifytheircustomers thatthepersonal
+information collected maybesharedwithotherthird-parties andthird-party providers.3
+Consequently, havingconsidered boththenatureoftheinformation obtained anditsvoluntary
+exposure tootherparties,theCourtfindsnoreasontodepartfromthethirdpartydoctrineas
+appliedinMillerandSmithandconcludes suppression isnotwarranted undertheFourth
+Amendment.
+12Federalcourts"uniformly" holdthatsubscriber information andotherpersonally identifiable information
+disclosed tothirdpartiesareconsidered fairgameunderMillerandSmith.2WayneR.LaFave,Criminal Procedure
+§4.4(b)(4"ed)(Nov.2024update).
+'3Seegenerally: Amazon.com PrivacyNotice(Updated March31,2024):
+https://www.amazon.com/gp/help/customer/display.html?nodeld=201909010 (lastaccessed February 72025);
+ApplePrivacyPolicy(Updated Sept.18,2024):https://www.apple.com/legal/privacy/en-ww/ (lastaccessed
+February 7,2025).BothpolicieswerecitedbyDefendant inhissuppression motionsthough,notably,notthe
+policiesastheyexistedatthetimeofthesearch.
+162.ArticleI,§17oftheIdahoConstitution affordsnogreaterprotection than
+theFourthAmendment.
+Attimes,Idaho'sappellate courtshaveextended protections underArt.1§17ofthe
+IdahoConstitution beyondthatprovided bytheFourthAmendment. Thisgreaterprotection has
+beenbasedonananalysisofthreefactors:"theuniqueness ofourstate,ourConstitution, andour
+long-standing jurisprudence." Statev.Donato,135Idaho469,470-71,20P.3d5,6-7(2001).
+Withregardtothethird-party doctrine, Idaho'sappellate courtshavedetermined with
+oneexception thatprotection underArticleI,§17oftheIdahoConstitution iscoextensive with
+theFourthAmendment. Thatexception aroseinStatev.Thompson, wheretheIdahoSupreme
+Courtrejectedthemajorityreasoning inSmithandheldthattheuseofapenregisterconstituted
+asearchunderArticleI,§17oftheIdahoConstitution. 114Idaho746,760P.2d1162,1163
+(1988).Inrecognizing "alegitimate andreasonable expectation ofprivacyinthephonenumbers
+thataredialed[,]" theCourtwithoutanyadditional explanation oranalysis adoptedand
+excerpted thereasoning ofJusticesStewartandMarshall intheirdissenting opinions inSmith.Id.
+at749-51,760at1164-66.
+Inhisexcerpted dissent,JusticeStewartrecognized the"vitalrole"telephones playedin
+everyday life,the"intimate detailsofone'slife"dialedphonenumbers mayreveal,aswellasthe
+factthatatelephone callcannotbemadewithoutthird-party involvement. Jd.(quotingSmith,
+442U.S.at746-48(Stewart, J.,dissenting)). JusticeStewartarguedthatconstitutional protection
+shouldapplytodialednumbers asitwasprivateinformation gainedfromsurveillance andthe
+information emanated fromprivateconductwithinaperson's homeoroffice,bothofwhichare
+constitutionally protected places./d.JusticeMarshall's dissentfocusedonsocietalconcerns. He
+notedthat"[p]rivacy inplacingcallsisofvaluenotonlytothoseengaged incriminalactivity.
+Theprospect ofunregulated governmental monitoring willundoubtedly provedisturbing evento
+thosewithnothingillicittohide."Jd.(quotingSmith,442U.S.at750-52(J.Marshall,
+dissenting)).
+Thompson waslaterextended bytheIdahoCourtofAppealstoapplytothecontentof
+textmessages storedbyaserviceprovider. Statev.Branigh, 155Idaho404,411,313P.3d732,
+739(Ct.App.2013).There,theCourtreasoned thatifaprotected privacyinterestexistsindialed
+phonenumbers then,bylogicalextension, itmustalsoexistinthecontents oftextmessages,
+whichare"farmoreintimateandprivate[.]" Jd.
+17However, Thompson hasnotbeenextended torecognize protected privacyinterests in
+otherthird-party contexts. InDonato,theIdahoSupreme Courtfoundthereasoning inThompson
+didnotjustifybroadening theprotection underArticleI,§17toprohibitthewarrantless search
+ofgarbageleftatthecurbforcollection. 135Idahoat473,20P.3dat9.TheCourtreasoned that,
+unlikenumbers dialedonatelephone-which apersoncanassumewillberecorded solelyfor
+thephonecompany's business purpose trashleftoutforcollection isknowingly exposedto
+publicview.Jd.at474,20P.3dat10.
+InStatev.Kluss,theIdahoCourtofAppealsconsidered whetherthedefendant hada
+reasonable expectation ofprivacyunderArticleI,§17inhispowerconsumption recordsheldby
+apublicutilitycompany. 125Idaho14,19-20,867P.2d247,252-53(Ct.App.1993).Infinding
+hedidnot,theCourtnotedthatpowerrecordsdonotrevealdiscreteinformation abouta
+person's activities; theysimplyidentifytheamountofpowerusage,whichcouldbecausedbv
+anyoneofnumerous factors./d.at21,867P.2dat254.Thus,theCourtfoundnoconstitutional
+basisforsuppression whentheutilitycompany voluntarily disclosed theserecordstolaw
+enforcement. Jd.
+Finally,inStatev.Mubita,theIdahoSupreme Courtdeclined toextendThompson toa
+defendant's laboratory reportshevoluntarily released toapublichealthdepartment toobtain
+HIVservices, aswellasthehealthdepartment's ownformsthedefendant executed inseeking
+services. 145Idaho925,188P.3d867(2008),abrogated onothergroundsbyVerskav.St.
+Alphonsus, 151Idaho889,265P.3d502(2011)).Indoingso,theCourtfoundtherecords
+analogous tothebankrecordsinMiller.Id.at935,188P.3dat876.Byvoluntarily turningover
+hislabreportstothehealthdepartment andexecuting business recordswiththehealth
+department, theCourtfoundthedefendant assumed theriskthatthisinformation wouldbe
+furtherdisclosed bythehealthdepartment. /d.
+Defendant positsthatthemassiveamountofprivateinformation obtained byAmazon
+andApplethroughuseractivitydistinguishes thiscasefromDonato,KlussandMubitaandfits
+squarely withintheconfinesofThompson. However, indetermining privacyinterests, theCourt
+mustnecessarily looktotheinformation actuallyobtained, notwhatcouldhavebeenobtained.
+Whatwasobtained herewasextraordinarily limited,asdiscussed supra.Further,fromaprivacy
+perspective, theinformation isreadilydistinguishable fromanindividual's communications
+madefromprivatephones.Purchases donotbecomedeserving ofconstitutional protection
+18simplybecausetheyareconducted throughanon-lineplatform withthirdparties.Likewise,
+thereisnothingprivateaboutsubscriber information apersonvoluntarily conveystoathirdparty
+inordertouseitsservices. Indeed,ifaperson's healthcarerecordsvoluntarily conveyed tothe
+healthdepartment containing intimateinformation abouttheperson's sexuallytransmitted
+diseasewerefoundundeserving ofprotection underArticleI,§17oftheIdahoConstitution,
+purchase historyandsubscriber information whichisfarlessprivate fallswelloutsideits
+protection. Consequently, suppression isnotwarranted undertheIdahoConstitution.
+B.TheWarrants AreSufficiently Particular.
+TheFourthAmendment totheUnitedStatesConstitution andArticleI,section17ofthe
+IdahoConstitution prohibittheissuance ofawarrantunlessit"particularly describe[s] theplace
+tobesearched andthepersonorthingtobeseized."U.S.Const.Amend.4;IdahoConst.art.1,§
+17."Thepurposeofthisguarantee istosafeguard theprivacyofcitizensbyinsuringagainstthe
+searchofpremises whereprobable causeislacking." Teal,145Idahoat989,188P.3da,931.
+Whileasearchconducted pursuant toawarrantistypicallyreasonable, so-called "general
+warrants" whichpermit"ageneral,exploratory rummaging inaperson's belongings" are
+prohibited. Coolidge v.NewHampshire, 403U.S.443,467(1971).Topreventsuch
+"rummaging," theFourthAmendment requires"a'particular description' ofthethingstobe
+seized."Id.at467.
+Thepurposeoftheparticularity requirement istopreventtheseizureofonethingundera
+warrantdescribing anotherandtopreventtheexerciseofdiscretion bytheofficerexecuting the
+warrant. Teal,145Idahoat991,188P.3dat933.Itsobjective istorenderaslimitedaspossible
+thosesearches deemednecessary basedonthemagistrate's probable causedetermination. /d."A
+searchwarrantmustbeparticular enoughsothat'[a]stowhatistobetaken,nothingislefttothe
+discretion oftheofficerexecuting thewarrant.'" Jd.(quotingMarronv.UnitedStates,275U.S.
+192,196(1927)).Thisstatement, however, is"nottobereadliterally." /d.(citationomitted).
+Rather,thewarrantmustallowthesearcher to"reasonably ascertain andidentifythethings
+whichareauthorized tobeseized."/d.(citations omitted). Todetermine ifadescription is
+sufficiently particular, thecourtlooksto:
+(1)whetherprobable causeexiststoseizeallitemsofaparticular typedescribed
+inthewarrant; (2)whetherthewarrantsetsoutobjective standards bywhich
+executing officerscandifferentiate itemssubjecttoseizurefromthosewhichare
+not;and(3)whetherthegovernment wasabletodescribe theitemsmore
+19particularly inlightoftheinformation available toitatthetimethewarrantwas
+issued.
+Id.(quoting UnitedStatesv.Spilotro, 800F.2d959,963(9"Cir.1986)).
+"Thespecificity required inawarrantvariesdepending onthecircumstances ofthecase
+andthetypeofitemsinvolved. Warrants whichdescribe genericcategories ofitemsarenot
+necessarily invalidifamoreprecisedescription oftheitemssubjecttoseizureisnotpossible."
+Spilotro, 800F.2dat963.Itisthedefendant's burdentoshowa
+particularity problem ontheface
+ofthewarrant. UnitedStatesv.Carhee,27F.3d1493,1496(10thCir.1994);Statev.Kelly,106
+Idaho268,275,678P.2d60,67(Ct.App.1984)(wheresearchhasbeenmadepursuant to
+warrant, itisdefendant burdentoshowsearchwasinvalid).
+Ifthefourcornersofasearchwarrantarefoundnottobesufficiently particular, asearch
+warrantaffidavitmay"cure"suchparticularity deficiencies "whenthewarrantsuitably
+references theaffidavit, andtheaffidavitaccompanies thewarrant." Adamcikv.State,163Idaho
+114,124-25,408P.3d474,484-85(2017)(citingGrohv.Ramirez, 540U.S.551,557-58
+(2004).Nomagicwordsareneededtosuitablyreference anaffidavit; itcanbeaccomplished
+simplybyastatement onthefaceofthewarrantnoting"thesupporting affidavit(s)." Jd.(citing
+UnitedStatesv.SDIFutureHealth,Inc.,568F.3d684,700(9thCir.2009)).The"accompany"
+requirement meansthattheaffidavitmayeitherbeattached physically tothewarrantorsimply
+beavailable tothesearchteamforreference. SD/FutureHealth,Inc.,568F.3dat700.
+Defendant's challenges tothewarrants atissueregardsearches fordigitaldataassociated
+withDefendant's cellphoneandGoogleandAppleaccounts. Whiletheparticularity requirement
+isnotusuallydifficulttoapplytoaphysicalworld,courtsrecognize itismorechallenging to
+applytothedigitalworld.Asobserved bytheUnitedStatesSupreme Court,cellphones-with
+theirimmense storagecapacities akintopowerful "minicomputers"-have becomerepositories
+ofnearlyeveryaspectofaperson's life.Rileyv.California, 573U.S.373,393-94(2014).
+"Vigilance inenforcing theprobable causeandparticularity requirements is...essential tothe
+protection ofthevitalprivacyinterests inherent invirtuallyeverymoderncellphoneandtothe
+achievement ofthe'meaningful constraints' contemplated inRiley."Burnsv.UnitedStates,235
+A.3d758,773-74(D.C.2020)(quotingRiley,573U.S.at399).
+Electronic datacanbehiddeninmultipleformatsandplacesinacellphoneorcomputer;
+consequently, itcanbedifficultforlawenforcement tospecifyinadvancethesectionsofthe
+20devicethatshouldbesearched. AdamM.Gershowitz, ThePost-Riley SearchWarrant: Search
+Protocols andParticularity inCellPhoneSearches, 69Vand.L.Rev.585,599(2016).
+Typically, particularity violations arefoundwithregardtoelectronic information searchwarrants
+intwosituations: 1)wherethesearchwarrantdoesnotstateonitsfacewhatcrimethesearchis
+beingconducted tofindevidence of,and;2)wherethesearchwarrantcontains overbroad, catch-
+alllanguage. Jd.
+Defendant's challenges tothesearchwarrants atissuefocusonthelattersituation. Ashe
+notes,asearchwarrantthatsimplyprovides anunbounded description authorizing thesearchand
+seizureofanyandalldigitaldatawilltypicallynotsatisfytheparticularity requirement. InState
+v.Wilson,relieduponbyDefendant, theGeorgiaSupreme Courtconsidered asearchwarrantfor
+aforensicexamination ofamurdersuspect's cellphonesthatbroadlyauthorized thesearchof
+"anyandallstoredelectronic information" onthephones,"including butnotlimitedto"various
+kindsofelectronic information. 884S.E.2d298,300-01(Ga.2023).Thesearchwarrant
+included preprinted boilerplate language statingthat"[t]heforegoing described property, items,
+articles,instruments, andperson(s) tobesearched forandseizedconstitute evidence connected
+withtheforegoing listedcrime(s)andis/are..."followed bycheckboxeswheretheaffiants
+couldchooseamongpreprinted statements generally describing howtheobjectofthesearchwas
+relevant.'4 Jd.Inopposing thedefendant's suppression motion,thestatereliedonthispreprinted
+formlanguage as"limiting" whatitacknowledged tobeotherwise sweeping authorization. The
+courtnotedthatwhilesuchbroadlanguage maybepermissible wherethewarrantcontains a
+"residual clause"orotherlimitinglanguage constraining thesearchtoevidence ofaspecific
+crime,thepreprinted language provided nosuchlimit.Id.!>
+14TnthewarrantatissueinWilson,theofficercheckedboxesstatingthatthecellphonesatissuewere"'intended for
+useinthecommission ofthecrime(s)hereindescribed;' 'usedinthecommission ofthecrime(s)hereindescribed;'
+'tangible, corporeal orvisibleevidence ofthecommission ofthecrime(s)setforthabove;'and'intangible,
+incorporeal orinvisibleevidence ofthecommission ofthecrime(s)setforthabove.'"/d.at299-300.
+5Defendant pointsoutthat,inaconcurring opinioninWilson,onejusticequestioned whethertheinclusion ofa
+residualclausewouldsavethewarrantfromoverbreadth stating:"Awarrantthatfailstogiveanyparameters 'fora
+forensicexamination' ofcellphonesisnotnarrowed bytheemptyassurance thatthesearchwillonlybelookingfor
+evidence ofaparticular crime.Perhapssuchawarrantmayoncehavebeensufficient, whencellphoneshada
+fractionofthefunctionality andstoragecapacitythattheydonow.Buttoday,acaveatthatthesearchislimitedto
+evidence ofaparticular crimemightnarrowtheobjectofthesearch,butitgiveslittleornoclaritytoanofficerasto
+wheretolook,forwhattolook,orhowtolookforit."/d.at303(Peterson, J.,concurring). However, theweightof
+authority recognizes thatifwarrants forcellphonesearches areaffirmatively limitedtoevidence ofaspecificcrime
+orspecifictypesofmaterial, theparticularity requirement ismet.WayneR.LaFave,Criminal Procedure, §3.4(e)
+21Asrecognized inWilson,broadlanguage maybepermissible wherethewarrant
+constrains thesearchtoevidence ofaspecificcrimeratherthanallowafishingexpedition forall
+criminalactivity.See,e.g.,UnitedStatesv.Bishop,910F.3d335,336-37(7thCir.2018);United
+Statesv.Bass,785F.3d1043,1049-50(6thCir.2015).Therationale forholdingthatsuch
+warrants aresufficiently particular andnotoverbroad isthat"[c]riminals don'tadvertise where
+theykeepevidence." Bishop,910F.3dat336.Indeed,"[a]warrantauthorizing thesearchofa
+housefordrugspermitsthepolicetosearcheverywhere inthehouse,because'everywhere' is
+wherethecontraband maybehidden." Jd.at336-37.Moreover, inthecontextofelectronic
+devicessuchascomputers andcellphones,"criminals canandoftendo hide,mislabel, or
+manipulate filestoconcealcriminalactivity[suchthat]abroad,expansive searchofthe[device]
+mayberequired." Bass,785F.3dat1049-50(citations omitted). Becauselawenforcement
+cannotknowinadvancehowa
+suspectmaylabelorcodefilescontaining evidence ofcriminal
+activity,"bynecessity government effortstolocateparticular fileswillrequireexamining many
+otherfilestoexcludethepossibility thatthesoughtafterdataareconcealed there."Peoplev.
+English,52Misc.3d318,321-22,32N.Y.S.3d837(N.Y.Sup.Ct.2016).
+However, asDefendant notes,theinclusion ofaresidualclauseorotherlimiting
+language isnotagreenlightforlawenforcement tosearchinelectronic fileswhereevidence of
+thecrimeisunlikelytobe.See,UnitedStatesv.Winn,79F.Supp.3d904,919(S.D.Ill.2015)
+("Themajor,overriding problem withthedescription oftheobjectofthesearch-'any orall
+files'isthatthepolicedidnothaveprobable causetobelievethateverything onthephonewas
+evidence ofthecrimeofpublicindecency."). Forexample, ifthereisprobable causetobelieve
+thatevidence ofacrimewillbefoundintextmessages, butnotinphotos,videos,oranyother
+applications onaparticular device,thenawarrantallowingofficerstoaccessallthedatainthe
+devicewouldviolatetheparticularity requirement. See,Gershowitz at633.
+Ifthecircumstances oftheinvestigation allowofficerstonarrowthesearch,alimitless
+searchwarrantisunacceptable. Tothisend,Defendant citestoStatev.Castagnola, wherethe
+OhioSupreme Courtfoundoverbroad asearchwarrantcommanding asearchfor"records and
+documents storedoncomputers" withoutanylimitation onwhatrecordsordocuments couldbe
+searched. 46N.E.3d638,656(Ohio2015).Thislanguage, thecourtnoted,didnotserveto
+(4"ed.)(Nov.2024update)(collecting cases).
+22"guideandcontrol"thesearcher's judgment astowhatwastobeseizedonthecomputer and
+included itemsthatwerenotsubjecttoseizure./d.at658.Importantly, thecourtobserved that
+thedetective wasabletoarticulate atthesuppression hearingthespecificrecordsanddocuments
+heexpected tofindonthecomputer, yethedidnotincludethosedetailsinthesearchwarrant
+affidavit. Id.TheCourtfound"thisdegreeofspecificity wasrequired, sincethecircumstances
+andthenatureoftheactivityunderinvestigation permitted theaffianttobethisspecific." Id.
+Likewise, ifcircumstances allowofficerstoincludetemporal restrictions forasearchof
+digitaldata,itmayalsosatisfytheparticularity requirement. InWheelerv.State-also citedby
+Defendant theSupreme CourtofDelaware heldthatwheretherewerenofactsinthesearch
+warrantaffidavitthatthecrimeatissueoccurred priortoJulyof2013,awarrantauthorizing a
+searchofthedefendant's computer withoutanytemporal limitwasimpermissibly overbroad.
+135A.3d282,304-05(Del.2016).Moreover, evenafterdetermining thatthecomputer hadnot
+beenpowered onsinceSeptember of2012,thesearcher nevertheless "siftedthrough[the
+defendant's] digitaluniverse" despitethefactthatthesearchwouldnothavecontained relevant
+material. Jd.AsinCastagnola, thecourtobserved thatalthough generalclassifications ina
+warrantarepermissible whereamoreprecisedescription isnotpossible, ifinvestigators areable
+tobemorespecific,suchspecificity shouldbeincluded intheprobable causeaffidavitsoasto
+appropriately narrowthewarrantand"mitigate thepotential forunconstitutional exploratory
+rummaging." Id.Seealso,Commonwealth v.Snow,160N.E.3d277,288(Mass.2021)("The
+magnitude oftheprivacyinvasionofacellphonesearchutterlylackingintemporal limitscannot
+beoverstated.").
+1. TheAT&TWarrants
+WithregardtobothAT&Twarrants, Defendant assertstheyare"allencompassing,"
+duplicative" andtheironlylimitation isthat"theproperty berelatedtothehomicides inthis
+matter."TheStateresponds thatthewarrants aresufficiently particular, pointingoutthesubject
+matterandtemporal limitstherein.Itfurtherarguesthatanydeficiency inparticularity iscured
+byDetective Payne'ssearchwarrantaffidavits, whichtheStatecontends areincorporated into
+thewarrants.
+TheCourtfindstheAT&Twarrants, evenwithoutsupplementation bytheirrespective
+supporting affidavits, satisfytheparticularity requirement. Whilethewarrants coveredabroad
+arrayofdigitalinformation heldbyAT&T,theydidnotauthorize afishingexpedition for"any
+23andall"dataaswasthecaseinWilson.884S.E.2dat300.First,theywerebounded bysubject
+matterlimitations. Theywerelimitedtoasingleidentified cellphonenumberandcontained a
+residualclauselimitingtheevidence soughttothespecificcrime(andaddress) being
+investigated. Inaddition, thewarrants definedspecificcategories ofdatatosearchandseize,
+whichdidnotincludeallofthepossibledataAT&Tcouldhaveprovided. Farfroman"anyand
+all"typeofwarrant, thesewarrants prescribed carefullimitstoensuretherewasnoquestion asto
+whatelectronic datawassubjecttothesearch.
+Second,thewarrants weresubjecttosignificant temporal limitations. UnlikeinWheeler,
+whichwasdevoidofanytemporal limit,theinformation soughtinthefirstAT&Twarrantwas
+limitedtoa48-hourperiodimmediately beforeandafterthehomicides beinginvestigated. The
+secondAT&Twarrantwaslimitedtothepreceding sixmonths,whichwasintended tocapture
+information aboutwhetherDefendant stalkedorsurveilled thevictims.
+Collectively, thesesubjectmatterandtemporal limitations servedtonarrowthescopeof
+thesearchandguidethediscretion ofthesearchteam,thusavoidingunwarranted searches.
+Moreover, whileDefendant claimsthatlawenforcement was"capable ofgreaterspecificity" in
+thewarrants astowhatcouldbeseized,heprovides absolutely nosupportorexplanation forthis
+conclusory statement. Consequently, theCourtfindsthatstanding alonethewarrantsatisfies
+theTealtestandsuppression isnotwarranted.
+Moreover, totheextentthewarrants standing alone-suffer fromadeficiency in
+particularity, theCourtfindsDetective Payne'ssearchwarrantaffidavits weresufficiently
+incorporated therein.Asmentioned, forasearchwarrantaffidavittosupplement particularity,
+thewarrantmust"suitably" reference theaffidavitandtheaffidavitmust"accompany" the
+warrant. Adamcik, 163Idahoat124,408P.3dat484.TheAT&Twarrants reference theaffidavit
+bynoting:"BrettPayne,havinggivenmeproof,uponoath,thisdayshowingprobable cause..."
+Language verysimilartothishasbeenheldsufficient to"suitably reference" thesearchwarrant
+affidavit. See,UnitedStatesv.Vesikuru, 314F.3d1116,1120(9thCir.2002)(warrant stating
+"uponthesworncomplaint madebeforeme"adequately referenced thesearchwarrantaffidavit).
+Inaddition, thereturnsfromAT&Twereprovided byDetective PaynetoAgentBallance for
+analysis. AgentBallancebothaidedDetective PayneindraftinghisAT&Tsearchwarrants and
+hadaccesstothemduringhisanalysis. Thisissufficient forthesearchwarrantaffidavits to
+24"accompany" towarrants. Jd.SDIFutureHealth,Inc.,568F.3dat700(the"accompany"
+requirement metifsearchwarrantaffidavitisavailable tothesearchteamforreference).
+Inhissearchwarrantaffidavits, Detective Paynediscussed atlengththecircumstances of
+thecrime,theresultsoftheinvestigation todateandwhyDefendant wasasuspect.Heincluded
+adetailedexplanation aboutwhattypesofinformation acellularcarrierretains-specifically
+regarding thelocationofacellulardeviceandwhythatinformation couldprovidevaluable
+evidence intheinvestigation ofthecase.Thus,totheextenttheAT&Twarrants werelackingin
+specificities, thesearchwarrantaffidavits curedit.Suppression isnotwarranted.
+2.TheAppleWarrant
+WithregardtotheAppleWarrant, Defendant assertsitcasttoobroadanet,effectively
+allowingthesearchandseizureofalldatafromthetwoaccounts. TheStateresponds that,
+particularly whenconsidered withDetective Payne'ssupporting searchwarrantaffidavit, the
+AppleWarrantimposed subjectmatterandtemporal restrictions thatwereasnarrowascouldbe
+reasonably expected giventhenatureoftheinvestigation andtheobjectofthesearch,i.e.,
+electronic records.
+TheCourtfinds,standing alone,theAppleWarrantsatisfiestheparticularity requirement.
+Tothisend,theCourtfindstwocasestobeinstructive. ThefirstisUnitedStatesv.Pelayo,
+wheretheNinthCircuitrecentlyrejectedasimilarchallenge toawarrantauthorizing asearchof
+adefendant's iCloudaccount. 2023WL4858147, at*1(9thCir.July31,2023).Thewarrant
+identified theaccounts tobesearched byphonenumberandAppleID.Italsodescribed thedata
+tobedisclosed byAppleandtheevidence thatthegovernment couldsearchforandseize./d.
+Although thewarrantorderedAppletoproduce"theentiretyofPelayo'siCloudaccount," the
+searchandseizureoftheevidence waslimitedtotheidentified crimes(i.e.,drug-related crimes)
+andtwenty-one specifictypesofevidence thatthegovernment couldseize.Jd.Itwasalsolimited
+temporally toevidence afterJanuaryof2013.
+TheNinthCircuitfoundthewarrantwas"notageneralwarrant, becauseitdidnotallow
+theexecuting officertorummage throughPelayo'siCloudaccountwithoutdiscretion." /d.
+(citingAndresen v.Maryland, 427U.S.463,480(1976)).Further,thecourtrejectedthe
+defendant's argument thatthegovernment couldhavenarrowed thewarrantbyexcluding
+allegedly "unnecessary" information suchasiTunesoriGames./d.at*2.Itnotedtheseaccounts
+couldhavepossiblycontained evidence ofacrimebut,"eveniftheydidnot,thesearchand
+25seizureofdatathatwasobtained fromApplewaslimitedtoevidence ofthespecified crimes."
+Id.
+Conversely, inUnitedStatesv.Pilling,citedbyDefendant, Idaho'sfederaldistrictcourt
+foundawarrantauthorizing asearchofadefendant's Appleaccounts forthesameinformation
+soughtherewasoverbroad. 721F.Supp.3d 1113(2024).Theonlylimitation inPillingwasthat
+thesearchoftheaccountwaslimitedto"fruits,contraband, evidence, andinstrumentalities of
+violations" offivefederalstatutes: theCleanAirAct,conspiracy todefraudtheUnitedStates,
+falsestatements, obstruction ofagencyproceedings andwitnesstampering and
+destruction/alteration ofevidence. /d.at1119.Thecourtnotedthewarrantdidnotincludethe
+identityandnatureofitemstobeseizedanddidnotdescribe "theitemsonecommonly expects
+tofindonpremises usedforthecriminalactivities inquestion." Jd.at1126(citationomitted).
+Inaddition, thecourtfoundthewarrantcouldhavemorespecificby:1)ensuring thesearch
+warrantaffidavit whichprovided ampleparticularity-was incorporated intoandaccompanied
+thesearchwarrantwhenexecuted, and;2)describing thekindsofthingsauthorized tobeseized,
+suchasemailsandtextmessages relatedtothespecificcircumstances ofthecase.Jd.at1127.
+Although theApplewarranthereisnotaslimitedasthatinPelayo,itismorespecific
+thanthatinPilling.Tosatisfyparticularity, thewarrantmust"atleastminimally confine[] the
+executing officers'discretion byallowingthemtoseizeonlyevidence ofaparticular crime."
+UnitedStatesv.Dickerson, 166F.3d667,693(4"Cir.1999),rev'donothergrounds, 530U.S.
+428(2000).Dickerson distinguished between evidence ofa"particular crime"and"general
+criminalactivity"towit:
+Awarrantauthorizing asearchforevidence relatingto'abroadcriminalstatuteor
+generalcriminalactivity'suchas'wirefraud,''fraud,''conspiracy,' or'tax
+evasion,' isoverbroad becauseit'provides noreadilyascertainable guidelines for
+theexecuting officersastowhatitemstoseize'....Incontrast, awarrant
+authorizing asearchforevidence relatingto'aspecificillegalactivity,'suchas
+'narcotics,' or'theftoffurcoats'issufficiently particular.
+Id.at694.
+TheonlylimitingfactorinthePillingwarrantwasthatitwasspecifictoevidence related
+toaviolation offiveverybroadfederalstatutes. Falsestatements, obstruction, witnesstampering
+anddestruction ofevidence cancoverawidearrayofactivities thatdonotgenerate distinctive
+digitalevidence andcanexistvirtuallyanywhere. Bycontrast, thewarrantherewaslimitedto
+26information "relatedtotheinvestigation intoburglaryand/orhomicides as1122KingRoadin
+Moscow, IdahoonoraboutNovember 13,2022[.]"Murderandburglaryarespecificactivities,
+theplanning andcommission ofwhichcangenerate distinctevidence. Further,whilethewarrant
+wasnotsubjecttoatemporal limitation, theCourtdoesnotfindthisfataltoparticularity.
+Namely,thesubjectmatterofthewarrantwaslimitedtoevidence ofthe"burglary and/or
+homicides ...onoraboutNovember 13,2022."Thisnecessarily limitedthetimeframe
+concermed and,therefore, thediscretion ofthesearchers.
+Moreover, theAppleWarrantonlyauthorized thesearchofninespecificcategories of
+information fromtheAppleaccounts. Whilethesecategories coveredawidearrayof
+information, someofthebroadercategories weresubjecttomodifying provisions, suchas
+contents ofemails"inordertolocateanymaterials referencing theplanning orcommission of
+theaboveoffense"; contents storedoniCloud"inordertolocateanypotential sourcematerialor
+materialcreatedafterthecommission oftheaboveoffenses," and;allactivitylogsforthe
+accounts "inordertolocateanyadditional connectivity between thesuspectandthevictimsin
+thiscase."InPilling,bycontrast, therewasnoindication thatthesameninecategories of
+information weresimilarlyconstrained.
+Defendant assertslawenforcement couldhavebeenmorespecificastowhatcouldbe
+seizedandsearched, hedoesnotexplainhow.Asmanycourtshavecorrectly observed,
+electronic datacanbehiddeninnumerous andvariedformatstoconcealcriminalactivity.
+Consequently, itwouldbeundulyrestrictive torequirelawenforcement toidentifyfilenamesor
+craftkeywordsearches. "[I]theend,theremaybenopractical substitute foractuallylookingin
+many(perhaps all)foldersandsometimes atthedocuments contained withinthosefolders,and
+thatistruewhetherthesearchisofcomputer filesorphysicalfiles."UnitedStatesv.Burgess,
+576F.3d1078,1094(10thCir.2009).Thisisparticularly truehere,wherelawenforcement
+knewDefendant wasseekinganadvanced degreeincriminology atthetimeofthehomicides
+andhadstudiedcloud-based forensics priortothecrimes.Thus,hewasahighlysophisticated
+userandcouldandlikelywouldattempttocoverhisdigitaltracks.
+Moreover, totheextentthewarrant standing alonesuffersfromadeficiency in
+particularity, theCourtfindsDetective Payne'ssupporting searchwarrantaffidavitwas
+sufficiently incorporated therein.TheAppleWarrantreferences theaffidavitbynoting:
+"Corporal BrettPayne,havinggivenmeproof,uponoath,thisdayshowingprobable cause..."
+27Inaddition, thereturnfromApplewasprovided byDetective PaynetoDetective Moweryand
+AgentBallance forprocessing, bothofwhomhadaccesstoDetective Payne'ssearchwarrant
+affidavit. Thiswassufficient forthesearchwarrantaffidavitto"accompany" towarrant.
+Inhissearchwarrantaffidavit, Detective Paynediscussed atlengththecircumstances of
+thecrime,theresultsoftheinvestigation todateandwhyDefendant wasasuspect.Heincluded
+adetailedexplanation aboutwhattypesofinformation Applecaptures andmaintains fromusers
+ofAppleaccounts andwhyhebelievedtheinformation soughtintheApplewarrantwould
+"provide information concerning Kohberger's plans,thoughtprocess,research, locations, photos
+orotherpertinent information storedonhisAppleaccount, including hisiCloudaccount." He
+alsoidentified atemporal rangeforthesearchof"October 7,2016(datesaccounts werecreated)
+toDecember 30,2022(dateKohberger's arrest)."Thus,totheextenttheAppleWarrantwas
+lackinginspecificities, thesearchwarrantaffidavitcuredit.Suppression isnotwarranted.
+3.TheGoogleWarrants
+Defendant challenges theGooglewarrants asrepresenting "'anexhaustive listof
+everything thatisavailable inGoogleaccounts" withoutanyattempttonarrow,despitethefact
+thatheassertslawenforcement couldhavedoneso.Healsoargues inaconclusory fashion
+thatnotalloftheinformation soughtintheGooglewarrants wassupported byprobable cause.
+However, Defendant hasnotidentified anything specifically notsupported byprobable cause.
+TheStateresponds that,particularly whenconsidered withDetective Payne'ssearchwarrant
+affidavits, theGooglewarrants imposed subjectmatterandtemporal restrictions thatwereas
+narrowascouldbereasonably expected giventhenatureoftheinvestigation andtheobjectof
+thesearch,i.e.,electronic records.Further,itarguesthesearchwarrantaffidavitprovided
+sufficient probable causefortheinformation sought.
+a.Thesearchwarrantaffidavits provideprobable cause.
+Withregardtotheprobable causechallenge, itisthesearchwarrantaffidavitthatinforms
+theanalysis, regardless ofwhethertheywereproperly incorporated intothewarrants themselves.
+Hutton,169Idahoat759,503P.3dat975."Awarrantmaybeconsidered solackinginindiciaof
+probable causeiftheapplicant filesmerelyabarebonesaffidavit, onewhichcontains only
+whollyconclusory statements andpresents essentially noevidence outsideofsuchconclusory
+statements." Statev.Short,964N.W.2d272,313(Neb.2021).
+28Here,Detective Mowery's searchwarrantaffidavits insupportoftheGooglewarrants
+werefarfrom"barebones."Theyprovided anextensive explanation astohowDefendant was
+connected tothehomicides, howeachemailaccount, phonenumberandIME]atissueinthe
+warrants wasdiscovered, howtheywerelinkedtoDefendant, andwhytheGoogledata
+associated therewith couldproduceevidence ofthehomicide.'® IntheaffidavitforGoogle
+WarrantOne,Detective Mowerydiscussed howtheinvestigation ledtothediscovery ofthetwo
+phonenumbers, theIMEIandbryanchristopher1994@gmail.com. Def'sExh.AtoGoogle
+Motion,pp.26,28.Hethenoutlinedwhy,inhistrainingandexperience, hebelievedthevarious
+Googlerecordsforeachaccountcould"determine anytimeperiodsthatdevicesassociated with
+Kohberger wereinthevicinityoftheKingRoadResidence" and"identify otherdevicesthat
+Kohberger hasusedorisusingthatmaycontainevidence ofthedescribed offenseaswellasany
+GoogleaccountactivitythatwouldshowKohberger's activityasitrelatedtotheplanning,
+communications, execution, anddisposalofevidence relatedtothenamedoffense." Jd.,p.29.!7
+Intheaffidavitsupporting GoogleWarrantTwo,Detective Moweryexplained thathis
+reviewoftheinformation returned onGoogleWarrantOnerevealed a"recovery email"of
+yewsimeighm@gmail.com andshowedaloginhadoccurred onthataccountat4:49a.m.on
+November 13,2022soonafterthehomicide occurred throughwhatwaslikelyaVPNserver.
+Def'sExh.BtoGoogleMotion,p.41.Hestatedhisrequestforthewarrantwasto"establish
+BryanKohberger's previous contacts, locations, correspondence, purchases, andanyother
+information whichcouldaidtheinvestigation intothehomicides" ofthefourvictims./d.He
+againprovided adetailedexplained astohowtheinformation soughtinGoogleWarrantTwofor
+thisadditional emailaddresscouldrevealevidence relevanttothehomicides. /d.atpp.2-19.
+GoogleWarrantThreefurthersoughtGmailaccounts linkedby"recovery email,cookie,
+AndroidID,Creation IPorphonenumber" associated withtheidentifiers thatwerethesubjectof
+thepriortwoemails.'® Inhisaffidavit, Detective Moweryexplained thatGoogleusers"can
+©Thesoleexception istheemailaddress: bk5781(@desales.edu whichisthesubjectofGoogleWarrantThree.
+Thereisnoexplanation inthesearchwarrantaffidavitastohowlawenforcement identified thataccount. However,
+astheStatepointsout,nothingwasreturned onthataccountand,therefore, therewouldbenothingtosuppress if
+probable causewasnotfound.
+Detective Moweryprovided anevenmoredetaileddescription ofhoweachseparate Googleserviceworksand
+whyitcouldrevealevidence relevanttothehomicides. Def'sExh.A,pp.2-19.
+18
+GoogleWarrantThreealsoaddedbk5781@desales.edu but,asdiscussed, therewasnoreturnonthisaccount.
+29createmultipleGmailaccounts thatmaybeaccessed viawebbrowsers orotherdevices"andwas
+requesting thewarrant"[iJnanefforttosearchforanyandallotherGmailaccounts possible
+associated withKohberger[.]" Def'sExh.CtoGoogleMotion,p.30.Heagainprovided a
+detailedexplained astohowtheinformation soughtinGoogleWarrantThreeforlinkedGmail
+accounts couldrevealrelevantevidence. /d.atpp.1-20.
+BasedonDetective Mowery's extensive searchwarrantaffidavits, itwasreasonable for
+themagistrate toconclude thatrelevantevidence wouldlikelybefoundwithinthefiles
+associated withtheidentified accounts. Further,thewarrants' scopedidnotexceedtheir
+probable causeconfines. Indeed,otherthanarguinginaconclusory fashionthatthewarrants
+lackedprobable cause,Defendant hasnotarticulated inwhatspecificwaysprobable causeis
+lacking.
+b. TheGooglewarrants aresufficiently particular.
+TheCourtfurtherfindsthethreeGooglewarrants, evenwithoutreference totheir
+respective searchwarrantaffidavits, weresufficiently particular. Theyclearlyidentified theplace
+tobesearched, i.e.,theidentified accounts locatedatGoogle,andtheinformation tobeseized,
+i.e.,datafromthesixteenidentified Googleservices. Theywereeachsubjected asignificant
+temporal restriction fromJanuary1,2021toDecember 30,2022,whichcouldreasonably capture
+activityleadinguptotheNovember 13,2022homicides throughDefendant's arrest.Inaddition,
+thesearchprescribed wasfordata"relatedtotheinvestigations intothecrime(s)ofhomicide at
+1122KingRoad,Moscow, Idaho."Thiswasnot,asDefendant claims,anexhaustive searchof
+"everything available" onaGoogleaccount. Itwastailoredtotheprobable causeestablished by
+Detective Mowery.
+WhileDefendant claimsthatlawenforcement wascapableofgreaterspecificity, hedoes
+notexplainhow.AsDetective Moweryexplained inhissearchwarrantaffidavits, theevidence
+hewasseekingcouldbeinmultipleformatsandareas.Hewasnotlookingforaspecificfile;he
+waslookingforevidence ofaconnection between Defendant andthehomicides, whichcouldbe
+inanyofthesixteendifferent Googleservicesidentified inthewarrant. Underthese
+circumstances, itisunreasonable torequiremorenarrowing thanwhatwasalreadyprovided.
+See,e.g.,Bass,785F.3dat1050(warrant describing categories ofdatatobesearched incell
+phonewhereofficersdidnotknowwherespecificevidence ofthecrimewouldbelocatedorin
+whatformatwasreasonable).
+30TotheextenttheGooglewarrants arenotsufficiently particular standing alone,the
+searchwarrantaffidavits cureanydeficiencies. EachoftheGooglewarrants referenced its
+respective searchwarrantaffidavit (i.e.,"Lawrence Mowery, havinggivenmeproof,uponoath,
+thisdayshowingprobable cause..."). Additionally, thesearchteamprocessing thereturnshad
+accesstothesearchwarrantaffidavits. Thus,theaffidavits wereincorporated intotheGoogle
+warrants. Intheseaffidavits, Detective Mowerysetforthastatement describing indetailthe
+scopeandresultsoftheinvestigation todate,howtheaccounts andphonenumbers identified in
+eachwarrantwerediscovered andhowtheywereconnected toDefendant. Healsoincluded a
+detailedexplanation astohowGoogleworksandwhyeachofthesixteenitemslistedinthe
+warrants couldberelevanttotheinvestigation. Whenconsidered withtheGooglewarrants, there
+canbenodisputethatparticularity ismet.'?Suppression is,therefore, notwarranted.
+4.TheUSBWarrant
+WithregardtotheUSBWarrant, Defendant contends thatlawenforcement wascapable
+ofproviding greaterspecificity inthewarrant, yetinsteadsoughtandobtained permission fora
+limitlesssearchofthecontents ofhiscellphone.Henotesthatalthough the"datacompilation"
+category islimitedtoinformation "indicating, suggesting, orrelatedtoviolence, afight,or
+motive/hostility foranyofthesame,"thatlimitisrendered illusorybytheremaining categories
+ofdata.Thoseremaining categories, heargues,arenecessarily included inthe"data
+compilation" category, yettheyarenotsimilarly limited,effectively allowingasearchofallthe
+contents ofthecellphone.HefurthernotestheUSBwarrantfailstodelineate thetypeofdigital
+filesthatcanbesearched, insteadoptingforbroadcategories ofdata.TheStateresponds that,
+particularly whenconsidered withDetective Mowery's searchwarrantaffidavit, theUSB
+warrantimposed subjectmatterandtemporal restrictions thatwereasnarrowascouldbe
+reasonably expected giventhenatureoftheinvestigation andtheobjectofthesearch,i.e.,
+electronic records.Further,itarguesthesearchwarrantaffidavitprovided sufficient probable
+causefortheinformation sought.
+TheUSBWarrantnotaslimitlessasDefendant claims.First,whileitisnottemporally
+limited,theobjectofthesearchwasspecifically to"evidence regarding theinvestigation intothe
+crimesofhomicide ofMadison Mogen,KayleeGoncalves, XanaKernodle, andEthanChapinat
+9
+Indeed,Defendant hasnotarguedthatifthesearchwarrantaffidavits wereconsidered, particularity wouldstillnot
+bemet.
+311122KingRoad,Moscow, Idaho."Therefore, unlikeinWilson,wherethecourtrejecteda
+warrantfor"anyandall"dataontheseizedcellphonewithoutanyresidualclauselimitingitto
+theevidence ofthecrimeatissue,thewarrantherewasspecifically limitedtoevidence ofthe
+homicides offouridentified victimsataparticular location. Therefore, inperforming thesearch,
+theagents'discretion waslimitedtodatathatcouldestablish aconnection between Defendant
+andthesespecificvictimsandthespecificcrimeofhomicide committed onaspecificdate.
+Further,whenthepurposeofthesearchistolookforsomemotiveorconnection between a
+suspected murderer andhisvictims,imposing amorenarrowlimitlikelycouldhavethereal
+effectofexcluding relevantevidence.
+Defendant's claimthatlawenforcement couldhavebeenmorespecificastothecontent
+andcategory ofdigitalfilessoughtbutfailedtodosolikewiselacksmerit.Underthe
+circumstances, particularity didnotdemandsuchtechnical precision. Lawenforcement was
+lookingforevidence ofanyconnection between Defendant andthefourindividuals hewas
+suspected ofkilling,notaspecificitem.Withoutknowingprecisely whatevidence existed,law
+enforcement didnotknow,norcouldtheyhaveknown,thepreciselocationwithinDefendant's
+cellphonetheevidence wouldbefound.Insuchcases,listingcategories ofdataasopposed to
+specificdigitalfilesissufficient. Compare Bass,785F.3dat1050(warrant describing categories
+ofdatatobesearched incellphonewhereofficersdidnotknowwherespecificevidence ofthe
+crimewouldbelocatedorinwhatformatwasreasonable) andWinn,79F.Supp.3d at919-921
+(warrant describing category ofdataratherthanspecificitemsnotparticular enoughwhere
+policeknewpreciseidentityandcontentofevidence sought).
+Moreover, thecategories ofdatawerenotalaundrylistofeverything thatcanpossiblybe
+contained inacellphone.The"datacompilations" sectionwaslimitedtoinformation relatingto
+"violence, afight,ormotive/hostility foranyofthesame[.]"Thefollowing eightsectionsare
+specifictocommunications, storedcontacts, locationinformation, internetactivity,notesand
+indiciaofownership/possession ofthedata.Thus,areasonable effortwasmadetolimitthe
+searchandseizuretodigitalinformation contained inDefendant's cellphonethatwouldreveala
+connection between Defendant andthehomicides ofthefouridentified victims.
+Again,totheextenttheUSBwarrantaloneisdeficient, thesearchwarrantaffidavit
+supporting itcansupplement particularity giventhatwasreferenced withintheUSBwarrantand
+32available tomembers ofthesearchteamprocessing theinformation. Consequently, theCourt
+findsparticularity ismetandsuppression isnotwarranted.
+C.AnyDeficiency intheWarrants' Command toSearchisNotaBasisfor
+Suppression.
+Defendant's finalchallenge tothewarrants isthattheydonotproperly command asearch
+oftheinformation seized.TheCourtdoesnotfindthewarrants aredeficient inthisregardand,
+eveniftheyare,itisnotabasisforsuppression.
+Pursuant toICR41(d),awarrantmustidentifytheproperty tobesearched throughname
+ordescription, bedirectedtoanauthorized peaceofficer,andcommand theofficertosearch
+withinaspecificperiodoftime.Asobserved bytheIdahoCourtofAppeals, "[s]earch warrants
+arenotdeedsortaxnotices.Theyarenotsubjecttotechnical draftingrequirements. Theyshould
+beinterpreted in'acommonsense andrealisticfashion.'" Statev.Holman, 109Idaho382,388,
+707P.2d493,499(Ct.App.1985)(quoting, UnitedStatesv.Ventresca, 380U.S102,108
+(1965)).
+Defendant's challenge isbasedonanover-technical readingofthewarrants. TheApple
+warrantidentifies thetwoAppleaccounts tobesearched andthespecificinformation fromthose
+accounts tobeseized,allofwhichislocatedatApple,Inc.'spremises. Thecommand thenstates:
+"Youaretherefore commanded tosearchtheabove-described premises fortheproperty
+described above,toseizeitiffoundandbringitpromptly beforethecourtabovenamed."
+Likewise, theGooglewarrants identifytheaccounts tobesearched andthespecificinformation
+fromthoseaccounts tobeseized,allofwhichislocatedatGoogle's premises. Thesamesearch
+command asintheApplewarrantappearsintheGooglewarrants. Areasonable readingofthis
+command isthe"premises" ofAppleandGooglearetobesearched fortheaccounts identified
+andthespecificdataidentified withineachaccountistobeseized.Thereisnothingaboutthe
+command thatwouldcauseconfusion astotheproperty tobesearched andseized.
+TheUSBwarrant, however, appearstocommand asearchoftheMoscowPolice
+Department Forensics LabandseizureoftheUSB,notasearchoftheUSB.However, any
+confusion inthisregardwasclarifiedbythemagistrate's subsequent orderauthorizing theUSB
+tobe"delivered toanypersonorlaboratory orlaboratories forthepurposeofconducting or
+obtaining anytests,analysis, oridentification ofsaidproperty...." Further,itissimplynot
+33reasonable, whenconsidering theUSBwarrantasawhole,tointerpret itasauthorizing asearch
+oftheforensics labasopposed totheUSB.
+Moreimportantly, anydeficiencies inthecommands tosearcharenotofconstitutional
+dimension. First,itiswellsettledinthefederalarenathataviolation ofRule41,F.Crim.R.P.,?°
+alonedoesnotrequiresuppression ofevidence ifthesearchotherwise conforms toconstitutional
+standards. 3ASarahNWelling,FederalPractice&Procedure Crim.(Wright&Miller)§686(4
+ed)(June2024update). Rather,technical errorsinwarrants requiresuppression onlyifa
+defendant canshoweitherprejudice orthattherewasevidence of"deliberate disregard ofthe
+rule."UnitedStatesv.Manaku, 36F.4th1186,1190(9thCir.2022)(citationomitted). With
+regardspecifically toerroneous descriptions oftheplacetobesearched, Idaholookstowhether
+theplace"isdescribed withsufficient particularity astoenabletheexecuting officertolocateand
+identifythepremises withreasonable effort,andwhetherthereisanyreasonable probability that
+anotherpremisemightbemistakenly searched." Statev.Young,136Idaho711,715,39P.3d
+651,655(Ct.App.2002)(citingUnitedStatesv.Gitcho,601F.2d369,371(8thCir.1979))
+(emphasis inoriginal).
+Defendant hasnotshowneitherprejudice ordeliberate disregard ofICR41(d).Further,
+asnoted,theplacestobesearched arereasonably described soastoavoidanychancethata
+mistaken premises mightbesearched instead.Consequently, suppression isnotwarranted dueto
+allegedproblems withthesearchcommands.
+V.CONCLUSION
+Basedontheforegoing, theCourtDENIESthefollowing:
+eDefendant's MotiontoSuppress Re:AT&TFirstWarrant(Nov.14,2024);
+eDefendant's MotiontoSuppress Re:PenTrapandTraceDevice(Nov.14,2024);
+eDefendant's MotiontoSuppress Re:re:AppleAccountFederalGrandJurySubpoena
+andSearchWarrantDatedAugust1,2023(Nov.14,2024);
+eDefendant's MotiontoSuppress re:AmazonAccountFederalGrandJurySubpoena and
+SearchWarrants DatedApril26,2023andMay8,2023(Nov.14,2024);
+20Rule41(e)oftheFederalRulesofCriminal Procedure issubstantively thesameasICR41(d)and,therefore,
+instructive.
+34eDefendant's MotiontoSuppress re:GoogleWarrants Dated1/3/23,1/24/23, and2/24/23
+(Nov.14,2024),and;
+eDefendant's MotiontoSuppress re:MoscowPoliceForensicLabWarrantDatedJanuary
+9,2023(Nov.14,2024).
+ITISSOORDERED.
+DATEDthis 2025.
+_StévénHier
+DistrictJudge
+35CERTIFICATE OFMAILING
+|HEREBYCERTIFYthatonthis dayofFebruary, 2025,|causeda
+trueandcorrectcopyoftheaboveandforegoing instrument tobemailed,postage
+prepaid, orhand-delivered, to:
+WilliamW.Thompson, Jr.
+AshleyJennings
+LATAHCOUNTY PROSECUTING ATTORNEY
+paservice@latahcountyid.gov
+JefferyNye
+DEPUTYATTORNEY GENERAL
+Jeff.nye@aq.idaho.qov
+AnneTaylor
+ATTORNEY FORDEFENDANT
+info@annetaylorlaw.com
+ElisaC.Massoth
+ATTORNEY FORDEFENDANT
+emassoth@kmrs.net
+JayLogsdon
+KOOTENAI COUNTY PUBLICDEFENDER
+jay.loqasdon@spd.idaho.qov
+TRENTTRIPPREClerkofthéDistrigt
+By:
+DeputyCotrtClerk
+e
+3°
+"nwo
+ORDER

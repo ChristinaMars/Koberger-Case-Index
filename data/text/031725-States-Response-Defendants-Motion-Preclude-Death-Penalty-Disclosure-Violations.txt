@@ -1,0 +1,405 @@
+   
+ 
+ 
+STATE’S RESPONSE TO  DEFENDANT’S MOTION TO PRECLUDE THE DEATH PENALTY AND ADOPT 
+OTHER NECESSARY PROCEDURES RE: DISCLOSURE VIOLATIONS  1 
+  
+ LATAH COUNTY PROSECUTOR’S OFFICE    
+WILLIAM W. THOMPSON , JR., ISB 2613   
+PROSECUTING ATTORNEY  
+ASHLEY S. JENNINGS , ISB 8491   
+SENIOR DEPUTY PROSECUTING ATTORNEY  
+Latah County Courthouse  
+522 S. Adams Street, Ste. 211  
+Moscow, ID 83843   
+Phone: (208) 883 -2246   
+paservice@latahcountyid.gov  
+  
+ 
+ 
+ 
+ 
+IN THE DISTRICT COURT OF THE FOURTH  JUDICIAL DISTRICT OF THE   
+  
+STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA   
+ 
+ 
+  
+ 
+Case No. CR01 -24-31665  
+ 
+STATE’S RESPONSE  TO DEFENDANT’S 
+MOTION TO PRECLUDE THE DEATH 
+PENALTY AND ADOPT OTHER NECESSARY 
+PROCEDURES  
+ 
+RE: DISCLOSURE VIOLATIONS  
+  
+ 
+COMES NOW the State of Idaho, by and through the Latah County Prosecuting 
+Attorney, and hereby responds to “Defendant’s  Motion to Preclude the Death Penalty and Adopt 
+Other Necessary Procedures due to the State’s Numerous Disclosure Violations .” The State 
+incorporates “State’s Response to Defendant’s Motion in Limine #2 Re: Vague and Undisclosed 
+Expert Testimony” in this response.      
+STATE OF IDAHO,   
+                        Plaintiff,   
+  
+V.  
+  
+BRYAN C. KOHBERGER   
+                         Defendant.   
+  Electronically Filed
+3/17/2025 5:45 PM
+Fourth Judicial District, Ada County
+Trent Tripple, Clerk of the Court
+By: Jennifer Keyes, Deputy Clerk   
+ 
+ 
+STATE’S RESPONSE TO  DEFENDANT’S MOTION TO PRECLUDE THE DEATH PENALTY AND ADOPT 
+OTHER NECESSARY PROCEDURES RE: DISCLOSURE VIOLATIONS  2 
+  
+ ARGUMENT  
+I. The State has Complied with Idaho Criminal Rule 16  
+ 
+ The controlling authority for discovery is Idaho Criminal Rule 16 . I.C.R. 16(a)  which  
+states:  
+As soon as practicable after the filing of charges against the accused, the 
+prosecuting attorney must disclose to defendant or defendant’s counsel 
+any material or information in the prosecuting attorney’s posses sion or 
+control, or that later comes into the prosecuting attorney’s possession or 
+control, that tends to negate the guilt of the accused as to the offense 
+charged or that would tend to reduce the punishment for the offense.  
+ 
+ 
+I.C.R. 16(a). The rule goes on to discuss that this obligation extends to information in the 
+possession or control of others who have participated in the investigation and the prosecutor 
+must disclose 404(b) information.  
+ Under I .C.R. 16(b) , upon written reques t from the Defendant , the Prosecutor must 
+disclose (1) statements of defendant; (2) statements of co -defendants; (3) defendant’s prior 
+record; (4) documents and tangible objects; (5) reports of examinations or tests; (6) witnesses; 
+(7) expert witnesses; (8 ) police reports; (9) digital media recordings; (10) other additional 
+materials ordered by the Court. I .C.R. 16(b).  
+ Under Rule 16 t here is a continuing duty to disclose  which continues even through trial : 
+“If…a party discovers additional evidence or evid ence of an additional witness or witnesses, or 
+decides to use additional evidence, witness or witnesses, the evidence is automatically subject to 
+discovery and inspection.” I .C.R. 16(j).  In such a case,  the party must “immediately notify ” the 
+other party t o allow that party to make the appropriate request for additional discovery or 
+inspection. Id.     
+ 
+ 
+STATE’S RESPONSE TO  DEFENDANT’S MOTION TO PRECLUDE THE DEATH PENALTY AND ADOPT 
+OTHER NECESSARY PROCEDURES RE: DISCLOSURE VIOLATIONS  3 
+  
+  Upon written request from the defendant, the State must respond within fourteen  days of 
+service with one of the following: (1) the response has been complied w ith; (2) there is no 
+objection and the defense will be permitted discovery at a “time and place certain”; or (3) the 
+State objects to all or part of the information with grounds for the objection. I .C.R. Rule 16(f)(1). 
+Failure to respond within fourteen  days constitutes a waiver of any objections and is ground for 
+sanctions by the Court unless there is a showing of “good cause or excusable neglect.” I .C.R. 
+16(f)(2).  
+ Lastly, Rule 16 provides that if a pa rty fails to comply with a request for discovery , the 
+Court may: (1) order the party to permit discovery or inspection; (2) prohibit discovery; or (3) 
+enter such other order as it deems just in the circumstances. I.C.R. 16(k). The choice of an 
+appropriate sanction for failure to comply with a discovery request is within the discretion of the 
+trial court. State v. Mathews , 124 Idaho 806, 864 P.2d 644 (Ct. App. 1993).  
+ In the case at hand, the State has complied with Idaho Criminal Rule 16. Defense counsel 
+entered a notice of appearance on January 11, 2023. Starting on January 18, 2022 , the State 
+began providing  discovery pursuant to Rule 16(a) . Discovery was provided generally as follows: 
+documents including reports were bates stamped and sent as PDFs (Bates Pages 1 -15914) ; 
+photographs were bates stamped and sent as PDFs (originals of the photographs were sent on a 
+hard drive pursuant to a later d iscovery request)  (Photo Bates 1 -13832) ; and audio and/or video 
+files were assigned an “AV” file number and placed onto hard drives  (A V00001 -A V0000989) . 
+PDFs were sent automatically . Larger files including audio/video files  (which  could not be 
+emailed) were put on hard drive s. The hard drives  were routinely picked up by defense counse l 
+or her staff.      
+ 
+ 
+STATE’S RESPONSE TO  DEFENDANT’S MOTION TO PRECLUDE THE DEATH PENALTY AND ADOPT 
+OTHER NECESSARY PROCEDURES RE: DISCLOSURE VIOLATIONS  4 
+  
+  Early on the parties had to determine how to discover a massive amount (over 50 
+terabytes (TB) of data) which was stored at the MPD Forensics Lab. This includ ed data such as 
+surveillance videos, phone extractions, third party data, call details records, and computer 
+extractions. The amount of data recovered required the MPD, the State, and Defendant to acquire 
+large servers capable of storing this data. The Defendant acquired and provided a server to the 
+MPD and the information was copied, verified, and placed onto the Defendant’s server. This 
+process (acquiring, copying,  verifying, etc.) took several weeks. This was turned over to  the 
+Defendant around April 4, 2023  (almost two years ago).  
+ Discovery was provided continuously  as the State received it from various agencies and  it 
+was promptly turned over to Defendant in th e same fashion it was received . The State and 
+Defendant  are on the same playing field in this regard. Turning information over in the same way 
+it was received allowed : (1) the discovery to be sent promptly ; and (2) the State  to track what 
+was turned over ( the State learned early on if we moved or changed files then it  was much more 
+difficult to determine what had been discovered or to answer any questions from defense ).  
+ On January 10, 2023, the State received a written request for discovery pursuant to Ru le 
+16(b). This was followed by 22 supplemental requests throughout the course of the case (in 
+addition to six motions to compel) . The State replied to each request in accordance with Rule 
+16(4)(1) within the requisite fourteen  days. Further the State not only met the demands of 
+16(4)(1) but supplemented those requirements by  provid ing the Defendant with the location of 
+the requested discovery and the date discovered  within each of those initial responses.   
+ On September 4, 2024 , the State filed “State’s Response and Supplemental Responses to 
+Defendant’s Requests for Discovery.” This was accompanied by fifteen attachments 
+(approximately 3 20 pages) which detailed the location, the description , and the date the    
+ 
+ 
+STATE’S RESPONSE TO  DEFENDANT’S MOTION TO PRECLUDE THE DEATH PENALTY AND ADOPT 
+OTHER NECESSARY PROCEDURES RE: DISCLOSURE VIOLATIONS  5 
+  
+ discovery was provid ed to the Defendant . In essence , Defendant was provided 319 pages of  
+“index [es]” for each of their discovery requests. See State’s Response and Supplemental 
+Responses to Defendant’s Requests for Discovery  (because of its volume the State is not 
+attaching  this filing  to this response).  The State’s initial discovery deadline was September 6, 
+2024 (approximately eleven  months before trial is scheduled to start). As noted above, the  State 
+also has a continuing duty to disclose information until the completion o f trial. As such, the State 
+has continued to disclose information, which came to light after September 6, 2024 . 
+ The State  has complied with Idaho Criminal Rule 16. The Defendant has not provided 
+any basis for I .C.R. Rule 16 violations, much less sanctions.  
+II. The State has Complied with Brady v. Maryland  and its Progeny  
+ Defendant’s  argument rests on a misunderstanding of the State’s Brady obligations. 
+Under Brady , the prosecution has a duty to disclose evidence that is both favorable to the defense 
+and material to either guilt or punishment.  373 U.S. at 87 .  “There are three components of a true 
+Brady violation: The evidence at issue must be favorable to the accused, either because it’s 
+exculpatory, or because it is impeaching; that evidence must have been suppressed by the State, 
+either willfully or inadverte ntly; and prejudice must have ensued.” State v. Hall , 163 Idaho 744, 
+830, 419 P.3d 1042, 1128 (2018).   
+ “‘Prejudice’ and ‘materiality’ are used interchangeably in the context of Brady.” State v.  
+Campbell , 170 Idaho  232, 247 n.5, 509 P.3d  1161, 1176 n.5  (2022) . “When assessing materiality, 
+the question is whether the favorable evidence could reasonably be taken to put the whole case in 
+such a different light as to undermine confidence in the [outcome].” Id. at 247, 509 P.3d at 1176 
+(quoting Thumm v. Stat e, 165 Idaho 405, 423 -24, 447 P.3d 853, 871 -72 (2019) (brackets in 
+original)). “Such evidence is material ‘if there is a reasonable probability that, had the evidence    
+ 
+ 
+STATE’S RESPONSE TO  DEFENDANT’S MOTION TO PRECLUDE THE DEATH PENALTY AND ADOPT 
+OTHER NECESSARY PROCEDURES RE: DISCLOSURE VIOLATIONS  6 
+  
+ been disclosed to the defense, the result of the proceeding would have been different.’” Id. 
+(quoting Strickler v. Greene , 527 U.S. 263 (1999)).  When the Brady  issue is one of delayed 
+disclosure, the question is whether “‘earlier disclosure would have created a reasonable doubt of 
+guilt.’” Thumm , 165 Idaho at 423, 447 P.3d at 871 (quoting United States v. Burke , 571 F.3d 
+1048, 1054 (10th Cir. 2009).  
+ “Brady is an obligation of not just the individual prosecutor assigned to the case, but of 
+all the government agents having a significant role in investigating and prosecuting the offense.”  
+State v. Gardner , 126 Idaho 428, 433 (Ct. App. 1994); see also Kyles , 514 U.S. 419 at (“the 
+individual prosecutor has a duty to learn of any favorable evidence known to others acting on the 
+government’s behalf in the case, including the police”). However, “a pro secutor is not required to 
+disclose ‘evidence the prosecutor does not possess or evidence of which the prosecutor could not 
+reasonably be imputed to have knowledge or control.’” State v. Avelar , 132 Idaho 775, 781 
+(1999) (quoting United States v. MacFarlan e, 759 F.Supp.1163, 1168 (W.D. Pa. 1991)).  Even 
+“information held in the minds of government witnesses is generally not imputed to the 
+prosecution unless that information was discovered by police or prosecutors.” Avelar,  132 Idaho 
+at 781.   
+ In this case, t he State has provided a ll material information in its possession to the 
+Defendant , and will continue to provide any additional material information that may come to 
+light.1 As noted above, almost all discovery was provided within a timespan of thre e and a half 
+ 
+1 The Defendant states “Mr. Kohberger requested additional discovery, related to IGG.” The Defendant claims the 
+State has refused to provide this information. However, t his information is controlled by Judge Judge’s “Sealed 
+Order for Disclosure of IGG Infor mation and Protection Order”. Further this specific information is not material  -  it 
+has no bearing on the Defendant’s guilt or innocence . Any issues related to IGG are now moot in light of the 
+Defendant’s Motion in Limine  Regarding IGG Evidence and the State’s concurrence that no IGG evidence will be 
+offered at trial.     
+ 
+ 
+STATE’S RESPONSE TO  DEFENDANT’S MOTION TO PRECLUDE THE DEATH PENALTY AND ADOPT 
+OTHER NECESSARY PROCEDURES RE: DISCLOSURE VIOLATIONS  7 
+  
+ years prior to trial (first discovery sent January 18, 2023) up until 11 months prior to trial 
+(discovery deadline of September 6, 2024) . The State has requested information regarding the 
+Defendant’s possible defense so the State could make specific  inquiry for information that could 
+be material to the Defendant (i.e. exculpatory). To date, the State has not received any 
+information which would aid in the process of identifying possible exculpatory information.    
+ Defendant claims the State ha s violated Brady by failing to provide an index of all 
+discovery materials. But Brady  does not require “the prosecutor to make a complete and detailed 
+accounting to the defense of all police investigatory work on a case.” State v. Horn , 101 Idaho 
+192, 195 (1980) (quoting Moore v. Illinois , 408 U.S. 786, 795 (1972)).  Moreover, the  State has 
+provided approxim ately 320 pages of “indexes” in response to the Defendant’s 411 discovery 
+requests. In addition, the Defendant has been provided a searchable index for all FBI materials .2 
+The State has continuously facilitated the Defendant’s review of discovery material s. The State 
+also affirmatively sought exculpatory information, tasking investigators to pursue avenues of 
+potential Brady  material and documented such as supplemental reports that are readily 
+reviewable. The Defendant, at best, is making a bald -faced  assertion of improper conduct by the 
+State without pointing to any factual basis. In the end, the S tate is in no better position to identify 
+potentially exculpatory evidence than the Defendant.   
+ The State has and will continue to abide by the requiremen ts of I.C.R. 16 and Brady . Mr. 
+Kohberger’s due process rights have not been violated.3  
+ 
+2 On August 8, 2024, the Defendant was provided a copy of the FBI’s One Drive database related to this case. This 
+included a master list of items in an exce l format which was searchable.  
+3 The Defendant argues that the State not provided contents of various items it intends to rely upon at trial.  The State 
+notes the deadline for exhibit lists and witness lists are due April 21, 2025 . In addition, the State h as completed 
+initial and supplemental expert disclosures pursuant to the Court’s scheduling order  and January 23, 2025,  
+instructions.     
+ 
+ 
+STATE’S RESPONSE TO  DEFENDANT’S MOTION TO PRECLUDE THE DEATH PENALTY AND ADOPT 
+OTHER NECESSARY PROCEDURES RE: DISCLOSURE VIOLATIONS  8 
+  
+ III. There Are N o Grounds to Preclude the Death Penalty  
+ This Court should reject the Defendant’s request to strike the death penalty as a sanction 
+for a discovery violation that does not exist. See supra Part II. Even those courts that have 
+utilized that sanction recognized that it was extreme and only utilized  because no other remedy 
+was sufficient. For example, in Idaho v. Lori Vallow Daybell , the State failed to timely disclose 
+conversations between the Defendant and Co -Defendant.  See “YouTube: Judge grants Lori 
+Vallow’s motion to dismiss death penalty in her  case,” March 21, 2023, 4:45 mark.4 The State’s 
+discovery deadline was “prior to February 27, 202 3.” The State disclosed  discovery  on February 
+27, 2023 (which the Court noted was late). On this date, the State discovered jail house 
+recordings (phone calls and video visits). In addition, o n March 13, 2023, the State discovered 
+several more  hours of jail house recordings  (statements of  defendant and co -defendant) . Id. at 
+13:00. Over 100 hours of audio and video was disclosed after the discovery deadline. Id. The 
+Defendant submitted an affidavit from her mitigation expert detailing the prejudice due to the 
+late disclosures. Id. at 7:58. These disclosures were  two weeks before jury selection was set to 
+begin  on March 27, 2023.  Id. The Court noted the “problem here is a timing problem” Id. at 
+15:50. The Defendant’s trial was set  to begin April 3, 2023,  and Defendant had not waived her 
+right  to speedy trial. The Court noted that if the disclosures had been made prior to the discovery 
+deadline (February 27, 2023, or one day late) “it would be difficult for the Court to determine 
+that prejudice would arise.” Id. at 16:33.  
+  
+ 
+4 
+https://www.bing.com/videos/riverview/relatedvideo?q=Lori+Vallow+Boyce+Motion+to+Preclude+Death+Penalty
++hearing&&view=r iverview&mmscn=mtsc&mid=991D7E49A555DB0FEEBD991D7E49A555DB0FEEBD&&aps=285&
+mcid=D5B6718C2E674A81B8F41B948F41683C&FORM=VMSOVR     
+ 
+ 
+STATE’S RESPONSE TO  DEFENDANT’S MOTION TO PRECLUDE THE DEATH PENALTY AND ADOPT 
+OTHER NECESSARY PROCEDURES RE: DISCLOSURE VIOLATIONS  9 
+  
+  Presiding Judge, District Court Judge Steven W.  Boyce stated:  
+the Court must determine here that the Defense  has in fact demonstrated 
+material prejudice  resulting from late disclosures. The prejudice has 
+occurred because of the proximity of the trial, the volume of the discovery, 
+and the inability of the defense to adequately review that discovery before 
+trial begins.  
+ 
+Id. at 19:45. Further, “having deter mined that prejudice has resulted due to the late disclosed 
+discovery the Court must next consider what course of action , if any, is necessary.” Id. at 20:34. 
+Judge Boyce held : 
+because the Court has not found any willful conduct on the part of the 
+State, t he Court is not primarily concerned with any sort of sanction or 
+punishment, but what the Court must address is an appropriate remedy to 
+try to mitigate the prejudice that has been caused by the late disclosures. 
+Ordinarily, a logical remedy would exist he re and that would be a 
+continuance of this trial. This has been proposed by the State as one 
+solution , and the State has proposed to mirror a continuance in the 
+companion case of the Chad Daybell’s case  - 1623 case. However, here 
+that’s an option I can’t c onsider, because in this case the defendant has 
+unequivocally asserted her right to a speedy trial. In determining whether 
+speedy trial is violated, one of the major factors is the reason for the delay. 
+The reason for the delay here rests on the State and can’t be counted 
+against the defendant to justify a delay of her trial in this case. If I were to 
+delay this case based on an issue caused by the State, I believe that would 
+violate her fundamental and constitutional right to a speedy trial.  
+  
+Id. at 21:05.  
+ The Judge noted that jury selection was set to begin the following week. Id. at 
+23:09. The Court found that excluding witnesses or evidence was not reasonable or fair to 
+the State. Id. at 23:58. That left the Court with two options (1) striking the  death penalty; 
+or (2) dismissing the case. Id. at 24:08. The Court determined that dismissing the case 
+would be “too severe of a sanction here.” Id. at 24:16. Judge Boyce  determin ed this was a 
+ripe issue and not ed that all other options were considered be fore coming to his decision .     
+ 
+ 
+STATE’S RESPONSE TO  DEFENDANT’S MOTION TO PRECLUDE THE DEATH PENALTY AND ADOPT 
+OTHER NECESSARY PROCEDURES RE: DISCLOSURE VIOLATIONS  10 
+  
+ Judge Boyce held (noting a heightened scrutiny)  “as an appropriate discovery sanction 
+the State will be precluded from seeking the death penalty at trial and the State’s May 2, 
+2022 Notice of Intent to Seek the Death Penalty w ill be stricken.” Id. at 33:19.  The Court 
+reiterated this was not imposed to penalize the State but rather to ensure the constitutional 
+right of the defendant was protected.  Id. at 33:35.  
+ The facts before the Court in Kohberger’s case are nothing like the facts before the Court 
+in the  Vallow  case. Unlike in Vallow , where the defendant pointed to over 100 hours of late 
+disclosed jail calls  and visits  (that may or may not contain Brady material ), the Defendant has 
+not pointed to any particular evidence he believes the State has failed to disclose. Moreover, as 
+the court in Vallow  explained, the sanction in Vallow  resulted from the Court not having any 
+other choice because the defendant had not wa ived her right to a speedy trial . Here, Defendant 
+has waived his right to a speedy trial. Even if this Court finds the State violated its Brady 
+obligation for failing to provide unspecified evidence, the Court can fashion more appropriate 
+remedies in this case.  
+  In essence the Defendant is arguing that in cases that involve a large amount of discovery 
+such as this one, the death penalty cannot be pursued because there is so much information for 
+defense counsel to review prior to trial. That is absurd and such application would lead to absurd 
+results.  Despite his repeated assertions, Defendant has not demonstrated any actual prejudic e – 
+because there is none. Defendant’s request is without merit and should be denied.  
+ 
+ 
+ 
+    
+ 
+ 
+STATE’S RESPONSE TO  DEFENDANT’S MOTION TO PRECLUDE THE DEATH PENALTY AND ADOPT 
+OTHER NECESSARY PROCEDURES RE: DISCLOSURE VIOLATIONS  11 
+  
+ 
+CONCLUSION  
+ The State request s that the Court find that (1) the State has abided by the requirements of 
+ICR 16; (2) the State has not violated Brady v. Maryland , its progeny , or Mr. Kohberger’s due 
+process rights; therefore, (3) there is no basis to preclude the death penalty.  
+ RESPEC TFULLY SUBMITTED this  17th day of March  2025. 
+ 
+ 
+        ______________________________  
+        ASHLEY S. JENNINGS  
+        SENIOR DEPUTY PROSECUTO R 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+STATE’S RESPONSE TO  DEFENDANT’S MOTION TO PRECLUDE THE DEATH PENALTY AND ADOPT 
+OTHER NECESSARY PROCEDURES RE: DISCLOSURE VIOLATIONS  12 
+  
+ 
+CERTIFICATE OF DELIVERY  
+  
+ I hereby certify that true and correct copies of the STATE’S REPONSE TO DEFENDANT’S 
+MOTION TO PRECLUDE THE DEATH PENALTY AND ADOPT OTHER NECESSARY 
+PROCEDURES RE: DISCLOSURE VIOLATIONS were served on the following in the manner 
+indicated below:  
+ 
+Anne  Taylor  
+Attorney at Law  
+PO Box 2347  
+Coeur D Alene, ID 83816  
+info@annetaylorlaw.com  
+ ☒ Mailed  
+☒ E-filed & Served / E -mailed  
+☐ Faxed  
+☐ Hand Delivered  
+ 
+ Dated this 17th day of March  2025. 
+ 
+  
+ 
+ 
+ 
+ 

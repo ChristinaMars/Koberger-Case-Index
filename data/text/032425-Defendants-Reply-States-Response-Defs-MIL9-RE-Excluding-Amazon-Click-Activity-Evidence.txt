@@ -1,0 +1,290 @@
+DEFENDANT’S REPLY TO STATE’S RESPONSE TO DEFENDANT’S MOTION IN  
+LIMINE # 9 RE: EXCLUDING AMAZON CLICK ACTIVITY EVIDENCE AT TRIAL   Page 1 Anne Taylor Law, PLLC 
+Anne C. Taylor, Attorney at Law 
+PO Box 2347,  
+Coeur d’Alene, Idaho 83816 
+Phone: (208) 512-9611  
+iCourt E mail: info@annetaylorlaw.com  
+ 
+Elisa G. Massoth, PLLC 
+Attorney at Law  
+P.O. Box 1003 
+Payette, Idaho  83661 
+Phone: (208) 642-3797; Fax: (208) 642-3799 
+ 
+Bicka Barlow  
+Pro Hac Vice  
+2358 Market Street 
+San Francisco, CA 94114 
+Phone: (415) 553-4110  
+ 
+Assigned Attorneys: 
+Anne C. Taylor, Attorney at Law, Bar  Number: 5836 
+Elisa G. Massoth, Attorney at Law,  Bar Number: 5647 
+Bicka Barlow, Attorney at Law, CA Bar Number: 178723 
+Jay W. Logsdon, First District Public Defender , Bar  Number: 8759 
+ 
+IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE  
+STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA  
+ 
+ 
+CASE NUMBER CR01 -24-31665 
+ 
+ 
+REPLY TO STATE’S RESPONSE TO 
+DEFENDANT’S MOTION IN LIMINE # 9 
+ 
+RE: EX CLUDING AMAZON CLICK 
+ACTIVITY EVIDENCE AT TRIAL  
+ 
+ 
+ 
+ COMES NOW, Bryan C. Kohberger, by and through his attorneys of record, and hereby  
+replies to the State’s Response to Defendant’s Motion in Limine  # 9 Re: Excluding Amazon 
+Click Activity Evidence at Trial,  filed on March 17, 2025 (“State’s Response”) . This Reply is STATE OF IDAHO  
+ 
+                                   Plaintiff,  
+ 
+V. 
+ 
+BRYAN C. KOHBERGER,  
+ 
+                                   Defendant.  Electronically Filed
+3/24/2025 5:56 PM
+Fourth Judicial District, Ada County
+Trent Tripple, Clerk of the Court
+By: Jennifer Keyes, Deputy ClerkDEFENDANT’S REPLY TO STATE’S RESPONSE TO DEFENDANT’S MOTION IN  
+LIMINE # 9 RE: EXCLUDING AMAZON CLICK ACTIVITY EVIDENCE AT TRIAL   Page 2 supported with the Declaration of David Howell  (“Howell Dec.”) , as the Court issued an order 
+prohibiting expert testimony in support of this motion, absent a specific need identified by the 
+Court during the hearing (Order Denying Witness Testimony at April 9, 2025 Hearing, filed 
+3/18/2025.)   The Court has instructed Mr. Kohberger to have his expert available via video live -
+stream ( Id.) 
+ For the first time, on March 14, 2025, the S tate provided an expert disclosure of opinions 
+of Shane Cox and Federal Agent Michael Douglas regarding their opinions related to Amazon records . (See States’ Expert Disclosure March 14, 2025, E xhibits S -1 and S -2, under seal). This 
+is an example of abusive discovery tactics by the State . There is a pattern of failing to disclose 
+evidence and expert opinions  in compliance with the Court’s order  (Motion to Compel I.C.R. 
+16(b)(7) Material and for Sanctions, filed 12/27/2024) . The se prosecutors  blow  past deadlines 
+and respond after it is brought to the Court’s attention and after  they have the benefit of  having 
+Mr. Kohberger’s expert opinions . The State’s expert disclosure is three months past its deadline, 
+with trial looming in less than five months  (Redacted Order Governing Further Criminal 
+Proceedings and Notice of Trial Setting, filed 10/9/2024) . Mr. Kohberger  seeks to protect his 
+rights to due process, effective assistance of counsel and a fair trial guaranteed b y the 5
+th, 6th and 
+14th Amendments to the United States Constitution and Article I,  Section 13 of the Idaho 
+Constitution.  
+ARGUMENT  
+ The State seeks to use expert testimony to show that  a very narrow set of  Amazon records  
+of purchase and click history related to a Ka- Bar knife and sheath “makes it more probable  (than 
+it would be without the evidence) that the Ka -bar knife sheath found at the crime scene was 
+Bryan Kohberger’s” and that click activity after the homicides “makes it more probable  (than it DEFENDANT’S REPLY TO STATE’S RESPONSE TO DEFENDANT’S MOTION IN  
+LIMINE # 9 RE: EXCLUDING AMAZON CLICK ACTIVITY EVIDENCE AT TRIAL   Page 3 would be without the evidence) that Kohberger had a reason to search for Ka -Bar knife and 
+sheath after  the homicides”. ( State’s Response, p. 5)  Asserting that lay testimony would be 
+appropriate for these issues, the State claims that Mr. Cox1 is not needed as an expert because the 
+Amazon records speak for themselves  (State’s Response, pp. 2- 3.)  It claims the expert disclosure 
+is given in  an abundance  of caution on its part  (Id.). In a separate motion, the State seeks self -
+authentication of the Amazon records  (Sealed State’s Motion in Limine Re: Self- Authentication 
+of Records, etc., filed 2/24/2025, p. 3.)   As set forth in the Mr. Howell’s Declaration, Amazon 
+data is compl ex (Howell Dec., ¶ III (A)). There is nothing about its production, review, or 
+analysis, algorithm,  or machine learning that a lay witness could explain to a jury. Without 
+proper expert explanation, the data itself is misleading. ( Howell Dec., ¶ ¶ VIII(A)(1) -(4).) 
+Especially incomplete and cherry picked data, as is the case here.  
+Not only did t he State fail to properly disclose the evidence and expert opinions , but it 
+also advises  that it is “awaiting additional information from Amazon that the State understand s 
+will clarify that to the extent AI is incorporated into Amazon’s system, AI does not create a 
+user’s actual inquiry.”  (State’s Response, p. 3, fn. 1.)   Apparently, more late discovery  tied to 
+expert opinion is coming.  
+Of note, Mr. Kohberger sought to suppress the Amazon search warrants as overbroad  and 
+general warrants because of the extensive amount of records requested.  (Motion and 
+Memorandum to Suppress Re: Amazon, filed 11/14/2024.)   This Court denied that motion  
+(Orders on Defendants’ Motions to Suppress Re: A T&T, etc., filed  2/19/2025.)   Now that the 
+State has disclosed expert opinions , it is clearer that the State intends to use  incomplete data and 
+mislead the jury  (Howell Dec., ¶¶III(B ), IV(B),  V(B), VII(A), VIII(A)(1) -(4).) For example, the 
+ 
+1 The State also provided a late disclosure of Federal Agent Michael Douglass and Amazon data but  does not 
+reference him in its briefing.  DEFENDANT’S REPLY TO STATE’S RESPONSE TO DEFENDANT’S MOTION IN  
+LIMINE # 9 RE: EXCLUDING AMAZON CLICK ACTIVITY EVIDENCE AT TRIAL   Page 4 State ignores that the Amazon records reflect a household of users on the Amazon account at 
+issue and a long list of items purchased over a period of several months for a road trip or hiking, 
+to include:  a roadside repair kit, a tire inflator, a backpack , and bear spray.   
+The State argues that the rule of completeness does not apply  and therefore it is 
+appropriate that limited information about Amazon be placed in front of the jury (State’s 
+Response,  pp. 3 -5). This argument i gnores  and violates  Mr. Kohberger ’s right to present a 
+complete defense. As  Justice  Potter  Stewart  wrote,  “any  rule that impedes  the discovery of truth 
+in a court  of law  impedes  as well the doing of justice.”  Hawkins  v. United  States , 358 U.S. 74, 
+81, 79 S.Ct.  136, 140, 3 L.Ed.2d 125 (1958) (concurring) . Allowing the State to produce 
+limited data, without context and the methodology of how Amazon works is akin to t elling the 
+jury that it may  assess the product of an investigation, but that it may not analyze the quality of 
+the investigation that produced the product . This illogically removes from the jury potentially 
+relevant information, "[d]etails of the investigatory process potentially affected  [the 
+investigator's]  credibility  and, perhaps  more  importantly,  the weight  to be given to evidence  
+produced by his investigation." United  States  v. Sager , 227 F.3d 1138 (9th Cir. 2000) .  
+Mr. Howell explains the critical need for full data and an understanding of what it 
+means to click on Amazon. ( Howell Dec., ¶¶ III(B), IV(B), VII(A), VIII(A)(1 -3).)  Click data 
+sounds like a specific user action when in fact Amazon’s algorithm, machine learning, and 
+methods of paid advertisements force information to account users which fall under the definition of click data.  (Id., ¶ III(A). )  Features like, “customers also bought ,” “frequently 
+bought together ,” omni channel influence, and household accounts with multi users have a 
+significant impact on what is considered click data. ( Id., ¶¶ IV(A), V(A)(1 -4), VI(A). ) 
+Additionally, Amazon notifies users of items bought in the past as a reminder, which can be DEFENDANT’S REPLY TO STATE’S RESPONSE TO DEFENDANT’S MOTION IN  
+LIMINE # 9 RE: EXCLUDING AMAZON CLICK ACTIVITY EVIDENCE AT TRIAL   Page 5 
+interpreted as click data.  (Id., ¶ V(A)(3). )  Logs of this data are retained by Amazon because 
+Amazon bills its advertisers. ( Id., ¶ V(B). )   
+CONCLUSION 
+ For the reasons addressed above and in his initial brief , Motion in Limine  #2 to exclude 
+expert testimony, the details in the expert disclosure of Mr. Howell , Motion for Leave to call him 
+as a witness, and the Declaration of Mr. Howell, Mr. Kohberger respectfully requests this Court 
+grant his Motion in Limine to exclude any Amazon and Amazon Click Activity evidence . He 
+renews his request for live testimony by Mr. Howell on April 9 or 10th. Should the Court allow 
+the State to continue in its abuse of deadli nes and incomplete expert disclosures  by allowing this 
+evidence  Mr. Kohberger seeks to confront the Amazon evidence at trial with the testimony of 
+Mr. Howell.  
+DATED this  24th  day of March , 2025.  
+      BY:   
+ 
+ 
+ 
+_________________________ 
+       ELISA G. MASSOTH 
+       ELISA G. MASSOTH, PLLC ATTORNEY  
+ 
+CERTIFICATE OF DELIVERY 
+ 
+I hereby certify that a true and correct copy of the foregoing was personally served as 
+indicated below on the ___24____ day of March , 2025, addressed to:  
+ 
+ Latah County Prosecuting Attorney –via Email: paservice@latahcountyid.gov  
+Elisa Massoth – via Email: emassoth@kmrs.net   
+Jay Logsdon – via Email: Jay.Logsdon@spd.idaho.gov  
+Bicka Barlow, Attorney at Law – via Email: bickabarlow@sbcglobal.net   
+Jeffery Nye, Deputy Attorney General – via Email: Jeff.nye@ag.idaho.gov  
+ 
+      
+  DECLARATION OF DAVID HOWELL  IN SUPPORT OF DEFENDANT’S MOTION IN 
+LIMINE # 9 RE: EXCLUDING AMAZON CLICK ACTIVITY EVIDENCE AT TRIAL   Page 1 Anne Taylor Law, PLLC  
+Anne C. Taylor, Attorney at Law  
+PO Box 2347,  
+Coeur d’ Alene, Idaho 83816 
+Phone: ( 208) 512- 9611  
+iCourt  Email: info@annetaylorlaw.com  
+ Elisa G. Massoth, PLLC  
+Attorney at Law  
+P.O. Box 1003 Payette, Idaho 83661  
+Phone: (208) 642- 3797; Fax: (208) 642 -3799  
+ Bicka Barlow  
+Pro Hac  Vice  
+2358 Market Street  
+San Francisco, CA 94114 Phone: (415) 553- 4110  
+ Assigned Attorneys:  
+Anne C. Taylor, Attorney at Law, Bar  Number: 5836 
+Elisa G. Massoth, Attorney at Law, Bar Number: 5647 Bicka Barlow, Attorney at Law, CA Bar Number: 178723 Jay W. Logsdon, First District Public Defender , Bar  Number: 8759  
+ 
+IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE  
+STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA  
+ 
+ 
+CASE NUMBER CR01 -24-31665  
+  DECLARATION OF DAVID HOWELL IN SUPPORT OF DEFENDANT ’S 
+MOTION IN LIM INE #9  
+ RE: EXCLUDING AMAZON CLICK ACT IVITY EVIDENCE AT TRIAL  
+  
+ 
+ I, David Howell, hereby declare and state the foll owing:  STATE OF IDAHO  
+ 
+                                   Plaintiff,  
+ V. 
+ 
+BRYAN C. KOHBERGER,  
+ 
+                                   Defendant.  DECLARATION OF DAVID HOWELL  IN SUPPORT OF DEFENDANT’S MOTION IN 
+LIMINE # 9 RE: EXCLUDING AMAZON CLICK ACTIVITY EVIDENCE AT TRIAL   Page 2 I. Qualifications  
+A. I am the Founder and Principal of Howell & Associates, a firm specializing in 
+brand protection, e -commerce channel compliance, digital forensics, and online 
+marketplace analytics. I have more than 20 years of experience in the e -commerce 
+ecosystem, with a significant focus on Amazon’s marketplace. I have worked with 
+national and international brands in evaluating threats, fraud, and marketplace manipulation involving Amazon and other major platforms. B. My work includes investigating counterfeit activity, digital behavior, product 
+diversion, unauthorized sales, channel management violations, and identifying algorithmic manipulation across e -commerce platforms. I am regarded in the industry as 
+an expert in online marketplace data analysis and forensic evaluations of digital purchase behavior.  
+C. Artificial Intelligence (AI), for the purposes of this declaration , refers to systems 
+that simulate human intelligence by making predictions and decisions based on user data. Machine Learning (ML) refers to the subset of AI that enables these systems to improve over time through exposure to new data. Both AI and ML are core components of Amazon’s internal recommendation systems, search result algorithms, advertising delivery, and behavioral targeting tools. D. My firm regularly analyzes Amazon data to uncover fraud, track user behavior, 
+and interpret system -driven changes in product visibility and recommendations. Our 
+work is focused specifically on Amazon because it is the largest online retailer, and our clients face daily challenges with how their products are promoted, represented, or counterfeited through its ecosystem.  DECLARATION OF DAVID HOWELL  IN SUPPORT OF DEFENDANT’S MOTION IN 
+LIMINE # 9 RE: EXCLUDING AMAZON CLICK ACTIVITY EVIDENCE AT TRIAL   Page 3 II. Scope of Review  
+A. I have reviewed the materials produced by the State in this matter, including 
+Amazon clickstream and purchase records, as well as expert declarations and summaries 
+submitted by State -designated experts. I have also reviewed the Motion in Limine (MIL) 
+filings related to Amazon data . 
+III.  Clarifying "Click Data"  
+A. The State refers to a portion of the Amazon records as “Click Data.” While this 
+terminology may suggest a comprehensive behavioral log, it does not reflect the depth or complexity of how Amazon tracks user behavior. In reality, a click on a product listing is just one visible output of Amazon’s AI -driven and advertising- based system. These clicks 
+are influenced by recommendation algorithms, sponsored ads, cross -device history, 
+retargeting behavior, and account personalization—all of which shape what the user is shown before they click.  
+B. My expert opinion is that “click data,” as presented, is only a surface -level 
+snapshot. It must be understood as part of a broader ecosystem of behavioral inputs and algorithmic outputs. Without the accompanying data —such as recommendation logs, ad 
+exposure, keyword bidding records, and ranking logic —the click data is not forensically 
+complete or contextually sound. 
+IV. Omnichannel Tracking and Multi -Device Activity  
+A. Amazon  synchronizes user activity across multiple devices and platforms. 
+Activity from a phone, laptop, smart TV, tablet, or even third- party apps is integrated into 
+a single behavioral profile. This cross -device tracking influences what products are 
+shown, which ads are delivered, and how recommendations are prioritized.  DECLARATION OF DAVID HOWELL  IN SUPPORT OF DEFENDANT’S MOTION IN 
+LIMINE # 9 RE: EXCLUDING AMAZON CLICK ACTIVITY EVIDENCE AT TRIAL   Page 4 B. If the data provided does not include metadata or logs from multiple devices used 
+by the user —or distinguish between them —then the resulting dataset is necessarily 
+incomplete.  
+V. Sponsored Ads, AI Recommendations, and Clickstream Retargeting  
+A. Amazon’s search results and product recommendations are driven by:  
+1. Sponsored advertising paid for by brands and sellers  
+2. "Frequently Bought Together" and "Customers Also Bought" placements  
+3. AI-generated product suggestions based on past behavior and similarity 
+clustering  
+4. Retargeting campaigns based on prior engagement both on and off 
+Amazon  
+B. Amazon's ad platform operates on a pay -per-click (PPC) and commission basis. 
+This structure requires Amazon to retain click and ad attribution data for billing purposes. 
+If advertisers are billed for these interactions, logs of them must exist. The absence of this 
+data in the State’s production indicates it is incomplete.  
+C. It is not technically possible for Amazon to function as a PPC platform without 
+storing the data necessary to verify ad delivery and performance. Therefore, I assert that Amazon retains more data related to this user’s behavior than what has been disclosed. 
+VI. Shared Account Usage and Session Attribution  
+A. Amazon accounts are often used by multiple individuals in a household. Search, 
+click, and purchase histories are generated by numerous users across multiple devices. Without clear device IDs or session segmentation, it is not possible to attribute activity to a specific person with forensic certainty.  DECLARATION OF DAVID HOWELL  IN SUPPORT OF DEFENDANT’S MOTION IN 
+LIMINE # 9 RE: EXCLUDING AMAZON CLICK ACTIVITY EVIDENCE AT TRIAL   Page 5 VII. Historical Data and Narrowed Timeframe  
+A. The dataset produced appears to begin in March 2022 and end in November 2022. 
+Amazon's AI systems use historical behavior to inform present -day recommendations and 
+search results. Recommendations shown in November may have been shaped by user 
+activity months —or even years —prior. By cutting off earlier data, the system’s output 
+becomes decontextualized and misleading. 
+VIII.  Conclusion and Assertions Regarding Data Completeness  
+A. Based on Amazon’s own public -facing documentation, its advertising platform 
+structure, and my extensive professional experience, it is my expert opinion that:  
+1. The dataset produced in this case does not constitute the full extent of data 
+Amazon retains on this user.  
+2. Certifying this dataset as "complete" is misleading unless clearly limited 
+to a subse t. Amazon collects and retains far more.  
+3. No forensic opinion about intent or user behavior can be accurately 
+rendered from this incomplete dataset.  
+IX. Supporting Documentation and Citations  
+A. The following documentation confirms that Amazon collects, tracks, and retains 
+data far beyond basic user search and purchase logs:  
+1. Amazon Attribution Overview  – Explains how off -platform ads are 
+tracked and linked to Amazon conversions.  
+https://advertising.amazon.com/en- us/solutions/products/amazon- attribution  DECLARATION OF DAVID HOWELL  IN SUPPORT OF DEFENDANT’S MOTION IN 
+LIMINE # 9 RE: EXCLUDING AMAZON CLICK ACTIVITY EVIDENCE AT TRIAL   Page 6 2. Amazon Sponsored Products Overview  – Confirms ads appear in search 
+results and rely on click and conversion tracking.  
+https://advertising.amazon.com/en- us/products/sponsored- products  
+3. Amazon Personalization and AI Recommendations  – Demonstrates 
+Amazon’s use of AI to customize product visibility. 
+https://www.aboutamazon.com/news/innovation- at-amazon/how -amazon -
+personalizes -your-shopping- experience  
+4. Amazon Retargeting & Cross -Channel Behavior  – Details how Amazon 
+serves ads based on user activity across devices and platforms. https://advertising.amazon.com/en- us/library/guides/retargeting -guide  
+5. AWS Machine Learning Blog  – Technical breakdown of how Amazon 
+uses ML to rank search results and drive behavior. https://aws.amazon.com/blogs/machine -learning/  
+B. These sources  (listed in paragraph IX. A. 1 -5 above)  validate the statements made 
+in this declaration  regarding Amazon’s behavioral tracking, ad targeting, 
+recommendation systems, and retention practices.  
+I declare under penalty of perjury under the laws of the State of Idaho that the foregoing 
+is true and correct.  
+DATED this 23rd day of March  2025.  
+                                                                     
+   
+DAVID HOWELL  
+ 
+ 

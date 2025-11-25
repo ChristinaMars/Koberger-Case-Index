@@ -1,0 +1,631 @@
+Filed:04/14/2025 09:43:24
+FourthJudicialDistrict,AdaCounty
+TrentTripple,ClerkoftheCourt
+By:DeputyClerk-
+Waters,Renee
+INTRODUCTION
+TheStaterequests thattheCourtgivethejurytheinstructions listedbelowinSectionI.
+WheretheStateproposes language thatdeviatesfromthemodeljuryinstructions provided bythe
+IdahoSupreme CourtintheIdahoCriminal JuryInstructions ("ICJI'')orproposes aninstruction
+notpublished intheICJI,theStatesoindicates andprovides itsproposed textinSectionII.
+INSTRUCTIONS
+1. ListofProposed Instructions
+Preliminary Instruction
+1.ICJI001(asmodified; seeSectionII)
+RecessInstruction
+1.ICJI002(asmodified; seeSectionII)
+Pre-Proof Instructions
+1.ICJI101
+2.ICJI102(asmodified; seeSectionII)
+3.ICJI103
+4.ICJI104
+5.ICJI105
+6.ICJI106(asmodified; seeSectionII)
+7.ICJI107
+8.ICJI108(asmodified; seeSectionII)
+9.ICJI110(asmodified; seeSectionI)
+Post-Proof Instructions
+1.ICJI201
+2.ICJI202
+3.Instruction adoptedfromICJI104recircumstantial anddirectevidence (see
+SectionIT)
+4.ICJI204
+5.ICJI205
+6.ICJI206
+7.ICJI207
+8.Transition tochargesandelements (seeSectionII)
+9.ICJI511(asmodified; seeSectionII)
+10.ICJI515
+11.ICJI701(asmodified; seeSectionII)
+GIVEN
+REFUSED
+MODIFIED
+COVERED
+OTHER 
+GIVEN                       
+REFUSED                       
+MODIFIED                      
+COVERED                      
+OTHER                         12. ICJI 702  
+13. ICJI 70 4A (as modified; see Section II)  
+14. Instruction re motive not an element ( see Section II)  
+15. ICJI 340  
+16. ICJI 208  
+17. ICJI 700B (as modified; see Section II)  
+18. ICJI 700C (as modified; see Section II)  
+19. ICJI 301 (if applicable) 
+20. ICJI 303 (as modified; see  Section II)  
+21. ICJI 308  (if applicable)  
+22. ICJI 318  (if applicable)  
+23. ICJI 319  (if applicable)  
+24. ICJI 320 (if applicable) 
+25. ICJI 344 (if applicable) 
+26. ICJI 345  
+27. ICJI 221 (as modified; see  Section II)  
+ 
+Death Penalty Sentencing Instructions 
+1. ICJI 1701 (as modified; see Section II)  
+2. ICJI 1702 
+3. ICJI 1703 
+4. ICJI 1704 (as modified; see Section II)  
+5. ICJI 1705 
+6. ICJI 1706 
+7. ICJI 1707 
+8. ICJI 1708 (as modified; see Section II)  
+9. ICJI 1710 
+10. ICJI 1713 
+11. ICJI 1714 
+12. ICJI 1716 
+13. ICJI 1717 
+14. ICJI 171 8 
+15. ICJI 1719 (as modified; see Section II)  
+16. ICJI 1721 
+17. ICJI 1722 
+18. ICJI 1723 
+19. ICJI 1724 (as modified; see Section II)  
+ 
+Post- Verdict Instruction  
+1. ICJI 232  
+ 
+   
+GIVEN                       
+REFUSED                       
+MODIFIED                      
+COVERED                      
+OTHER                         II. Text of Proposed Instructions Modified or Added to ICJI  
+ 
+STATE’S REQUESTED  
+PRELIMINARY INSTRUCTION NO. 1  
+ 
+This is the case of State of Idaho v. Bryan C. Kohberger .  Are the parties ready to 
+proceed?  
+In a moment the Clerk will call the roll of the jury.  When your name is called you will 
+also be identified with a number.  Please remember your number as we will be using it later in 
+the jury selection process.  The Clerk will now call the roll of the jur y.  
+Ladies and Gentlemen, you have been summoned as prospective jurors in the lawsuit 
+now before us.  The first thing we do in a trial is to select 12 jurors and six (6)  alternate jurors 
+from among you.  I am Judge Steven Hippler, the judge in charge of the courtroom and this trial.  The deputy clerk of court, ____________, marks the trial exhibits and administers oaths to you jurors and to the witnesses.  The bailiff, __________, will assist me in maintaining courtroom 
+order and working with the jury.  The  Court reporter, _________, will keep a verbatim account 
+of all matters of record during the trial.   
+Each of you is qualified to serve as a juror of this court. This call upon your time does not 
+frequently come to you, but is part of your obligation for your citizenship in this state and country.  No one should avoid fulfilling this obligation except under the most pressing circumstances.  Service on a jury is a civic and patriotic obligation which all good citizens should perform.  Service on a jury affor ds you an opportunity to be a part of the judicial process, 
+by which the legal affairs and liberties of your fellow men and women are determined and protected under our form of government.  You are being asked to perform one of the highest  
+GIVEN                       
+REFUSED                       
+MODIFIED                      
+COVERED                      
+OTHER                         duties of citize nship, that is, to sit in judgment on facts which will determine the guilt or 
+innocence of a person charged with a crime.   
+To assist you with the process of selection of a jury, I will introduce you to the parties and 
+their lawyers and tell you in summary what this action is about.  When I introduce an individual 
+would you please stand and briefly face the jury panel and then retake your seat.  
+The State of Idaho is the plaintiff in this action.  The lawyers representing the state are:  
+• William Thompson, Jr., the elected prosecuting attorney for Latah County;  
+• Ashley Jennings, the Senior Deputy Prosecuting Attorney for Latah County; and 
+• Joshua Hurwit, a Special Deputy Prosecuting Attorney for Latah County. 
+The prosecuting attorneys will be assiste d by Brett Payne and Darren Gilbertson , who are law 
+enforcement officers.   The prosecution team will also be assisted by  Stacie Osterberg , Mallory 
+Streigle,  and Kim Workman, who are employees of the Latah County Prosecuting Attorney’s 
+Office and will assis t with evidence presentation and getting witnesses to court. 
+The defendant in this case Bryan C. Kohberger.  The lawyers representing the defendant  
+are: 
+• Anne Taylor;  
+• Elisa Massoth ; and  
+• Bicka Barlow.  
+The defendant’s attorneys will be assisted by Rich Bitoni  and Jen Jenquine , who are defense 
+investigators.   
+I will now read you the pertinent portion of the Indictment,  which sets forth the charges 
+against the  defendant.  The Indictment  is not to be considered as evidence but is a mere formal  
+GIVEN                       
+REFUSED                       
+MODIFIED                      
+COVERED                      
+OTHER                         charge against the defendant.   You must not consider it as evidence of guilt and you must not be 
+influenced by the fact that charges have been filed.  
+The Indictment  charges in Count I that Bryan C. Kohberger on or about November 13, 
+2022, in Latah County, State of Idaho, did unlawfully enter a residence, located at 1122 King 
+Road, Moscow, with the intent to commit the crime of murder .  
+The Indictment charges in Count II that Bryan C. Kohberger on or about November 13, 
+2022, in Latah County, State of Idaho, did wilfully, unl awfully, deliberately, with premeditation 
+and with malice aforethought, kill and murder Madison Mogen, a human being, by stabbing Madison Mogen, from which she died.  
+The Indictment charges in Count III that Bryan C. Kohberger on or about November 13, 
+2022, in Latah County, State of Idaho, did wilfully, unlawfully, deliberately, with premeditation and with malice aforethought, kill and murder Kaylee Goncalves, a human being, by stabbing Kaylee Goncalves, from which she died.  
+The Indictment charges in Count I V that Bryan C. Kohberger on or about November 13, 
+2022, in Latah County, State of Idaho, did wilfully, unlawfully, deliberately, with premeditation and with malice aforethought, kill and murder Xana Kernodle, a human being, by stabbing Xana Kernodle, from  which she died.  
+The Indictment charges in Count V that Bryan C. Kohberger on or about November 13, 
+2022, in Latah County, State of Idaho, did wilfully, unlawfully, deliberately, with premeditation and with malice aforethought, kill and murder Ethan Chapin, a human being, by stabbing Ethan Chapin, from which she died.  
+GIVEN                       
+REFUSED                       
+MODIFIED                      
+COVERED                      
+OTHER                         To these charges Mr. Kohberger  has ple aded not guilty.  Under our law and system of 
+justice, every defendant is presumed to be innocent.  This means two things.  First, the S tate has 
+the burden of proving the defendant guilty.  The State has that burden throughout the trial.  The 
+defendant is never required to prove his  innocence, nor does the defendant ever have to produce 
+any evidence at all.  Second, the S tate must prove the alleged crime beyond a reasonable doubt. 
+Proof beyond a reasonable doubt is proof that leaves you firmly convinced the State has 
+establi shed the defendant’s guilty.  It is not required that the State prove guilt beyond all possible 
+doubt. 
+A reasonable doubt is a doubt based upon reason and common sense and is not based 
+purely on speculation.  It may arise from a careful and impartial consi deration of all the 
+evidence, or from lack of evidence.  
+If after careful and impartial consideration of all the evidence, you are not convinced 
+beyond a reasonable doubt that the defendant is guilty of a charged crime, it is your duty to find 
+that the crime has not been proven.  On the other hand, if after careful and impartial consideration of all the evidence, you are convinced beyond a reasonable doubt that the defendant is guilty of a charged crime, it is your duty to find that the crime has been proven.  
+As the judge in charge of this courtroom, it is my duty, at various times during the course 
+of this trial, to instruct you as to the law that applies to this case.  The duty of the jury is to 
+determine the facts; to apply the law set forth in the instruc tions to those facts, and in this way to 
+decide the case.  In applying the Court ’s instructions as to the controlling law, you must follow 
+those instructions regardless of your opinion of what the law is or what the law should be, or what any lawyer may st ate the law to be.    
+GIVEN                       
+REFUSED                       
+MODIFIED                      
+COVERED                      
+OTHER                         During the course of this trial, including the jury selection process, you are instructed that 
+you are not to discuss this case among yourselves or with anyone else, nor to form any opinion 
+as to the merits of the case until after the case has been submitted to you for your determination.  
+We will now call an initial selection of __ jurors.  As your name is called please take a 
+seat as directed by the bailiff.  The clerk will please draw the initial jurors' names.  
+* * ** The clerk call s the jurors * * **  
+In this part of the jury selection, you will be asked questions touching on your 
+qualifications to serve as jurors in this particular case.  This part of the case is known as the voir 
+dire examination.  V oir dire examination is for the  purpose of determining if your decision in this 
+case would in any way be influenced by opinions which you now hold or by some personal experience or special knowledge which you may have concerning the subject matter to be tried.  The object is to obtain t welve persons who will impartially try the issues of this case upon the 
+evidence presented in this courtroom without being influenced by any other factors.  Please 
+understand that this questioning is not for the purpose of prying into your affairs for pers onal 
+reasons but is only for the purpose of obtaining an impartial jury.   
+Each question has an important bearing upon your qualifications as a juror and each 
+question is based upon a requirement of the law with respect to such qualifications.  Each questi on is asked each of you, as though each of you were being questioned separately.  If your 
+answer to any question is yes, please raise your hand.  You will then be asked to identify yourself 
+both by name and juror number. 
+At this time I would instruct both sides to avoid repeating any question during this voir 
+dire process which has already been asked.  I would ask counsel to note, however, that you  
+GIVEN                       
+REFUSED                       
+MODIFIED                      
+COVERED                      
+OTHER                         certainly have the right to ask follow-up questions of any individual juror based upon that juror's 
+response to any previous question.   
+The jury should be aware that during and following the voir dire examination one or 
+more of you may be challenged.  Each side has a certain number of “peremptory challenges,” by which I mean each side can challenge a juror and ask that he or she be excused without giving a reason therefor.  In addition each side has challenges “ for cause, ” by which I mean that each side 
+can ask that a juror be excused for a specific reason.  If you are excused by either side please do not feel offended or feel that your honesty or integrity is being questioned.  It is not.  
+The clerk will now swear the entire jury panel for the voir dire examination.  
+ 
+Source :   Idaho Criminal Jury Instructions (“ICJI”) 001, Opening Comments and V oir Dire 
+(Struck Jury) ( insert ing names of trial participants and  charges  and replaced ICJI 
+001’s discussion of reasonable doubt with ICJI 1703’s discussion of reasonable 
+doubt) 
+   
+GIVEN                       
+REFUSED                       
+MODIFIED                      
+COVERED                      
+OTHER                         STATE’S REQUESTED  
+RECESS INSTRUCTION NO. 1  
+ 
+During the course of this trial, including the jury selection process, you are instructed that 
+you are not to discuss this case among yourselves or with anyone else, including any use of 
+email, text messaging, social media, tweeting, blo gging, electronic bulletin boards, or any other 
+form of communication, electronic or otherwise.  Do not conduct any personal investigation or look up any information from any source, including the Internet.  Do not form an opinion as to the merits of the c ase until after the case has been submitted to you for your determination. 
+ 
+Source :   ICJI 002 , Recess Instruction  (adding “social media”) 
+ 
+   
+GIVEN                       
+REFUSED                       
+MODIFIED                      
+COVERED                      
+OTHER                          
+STATE’S REQUESTED  
+PRE -PROOF INSTRUCTION NO. 2 
+ 
+This criminal case has been brought by the State of Idaho. I will sometimes refer to the 
+State as the prosecution.  The state is represented at this trial by the prosecuting attorneys, 
+William Thompson, Jr., Ashley Jennings, and Josh Hurwit.  
+The defendant, Bryan C. Kohberger, is represented by his lawyers Anne Taylor, Elisa 
+Massoth, and Bicka Barlow.  
+The defendant is charged by the State of Idaho with violations of law.  The charges 
+against the defendant is contained in the Indictment.  The clerk shall re ad the  
+Indictment and state the defendant’s plea.  
+The Indictment is simply a description of the charge; it is not  
+evidence.  
+ 
+Source :   ICJI 102 , The Charge  (adding attorney and defendant names) 
+   
+GIVEN                       
+REFUSED                       
+MODIFIED                      
+COVERED                      
+OTHER                         STATE’S REQUESTED  
+PRE -PROOF INSTRUCTION NO. 6  
+ 
+The State is seeking the death penalty in this case.  If the defendant is convicted of 
+murder in the first degree, there will then be a separate sentencing phase of the trial.  At that 
+sentencing phase, additional evidence may be presented and you will be given additional instructions.  If you find a statutory aggravating circumstance, but find that death would be unjust, I will sentence the defendant to a term of fixed life imprisonment.  If you do not find a statutory aggravating circumstance, I must then sentence the defendant to life in prison, and the I must set a fixed period of imprisonment of anywhere from ten years up to life, during which the defendant will not be eligible for parole.  
+Source :   ICJI 700B, Punishment a Concern, Capital Case (replacing “the jury” with “you” and 
+“the judge” with “I”)  
+   
+GIVEN                       
+REFUSED                       
+MODIFIED                      
+COVERED                      
+OTHER                         STATE’S REQUESTED  
+PRE -PROOF INSTRUCTION NO. 8  
+ 
+It is important that as jurors and officers of this court you obey the following instructions 
+at any time you leave the jury box, whether it be for recesses of the court during the day or when 
+you leave the courtroom to go home at night.  
+Do not discuss this case during the trial with anyone, including any of the attorneys, 
+parties, witnesses, your friends, or members of your family.  “No discussion” also means no emailing, text messaging, social media, tweeting, blogging, posting to electronic bulletin boards, 
+and any other form of communication, electronic or otherwise.  
+Do not discuss this case with other jurors until you begin your deliberations at  the end of 
+the trial.  Do not attempt to decide the case until you begin your deliberations.  
+I will give you some form of this instruction every time we take a break.  I do that not to 
+insult you or because I don't think you are paying attention, but bec ause experience has shown 
+this is one of the hardest instructions for jurors to follow.  I know of no other situation in our 
+culture where we ask strangers to sit together watching and listening to something, then go into a 
+little room together and not talk about the one thing they have in common: what they just 
+watched together.  
+There are at least two reasons for this rule.  The first is to help you keep an open mind.  
+When you talk about things, you start to make decisions about them and it is extremely important that you not make any decisions about this case until you have heard all the evidence and all the 
+rules for making your decisions, and you won't have that until the very end of the trial.  The 
+second reason for the rule is that we want all of you working together on this decision when you  
+GIVEN                       
+REFUSED                       
+MODIFIED                      
+COVERED                      
+OTHER                         deliberate.  If you have conversations in groups of two or three during the trial, you won't 
+remember to repeat all of your thoughts and observations for the rest of your fellow jurors when you deliberate at the end of the trial.  
+Ignore any attempted improper communication.  If any person tries to talk to you about 
+this case, tell that person that you cannot discuss the case because you are a juror.  If that person persists, simply walk away and report the incide nt to the bailiff.  
+Do not make any independent personal investigations into any facts or locations 
+connected with this case.  Do not look up any information from any source, including social media or the Internet.  Do not communicate any private or specia l knowledge about any of the 
+facts of this case to your fellow jurors.  Do not read or listen to any news reports about this case or about anyone involved in this case, whether those reports are in newspapers or the Internet, or on radio or television.  
+In our daily lives we may be used to looking for information on- line and to "Google" 
+something as a matter of routine.  Also, in a trial it can be very tempting for jurors to do their own research to make sure they are making the correct decision.  You must resist that temptation for our system of justice to work as it should.  
+I specifically instruct that you must decide the case only on the evidence received here in 
+court.  If you communicate with anyone about the case or do outside research during the tria l it 
+could cause us to have to start the trial over with new jurors and you could be held in contempt of court.   
+GIVEN                       
+REFUSED                       
+MODIFIED                      
+COVERED                      
+OTHER                         While you are actually deliberating in the jury room, the bailiff will confiscate all cell 
+phones and other means of electronic communications.  Should you need to communicate with 
+me or anyone else during the deliberations, please notify the bailiff.  
+Source :   ICJI 108, Conduct of Jurors ( adding “social media”) 
+   
+GIVEN                       
+REFUSED                       
+MODIFIED                      
+COVERED                      
+OTHER                         STATE’S REQUESTED  
+PRE -PROOF INSTRUCTION NO. 9  
+ 
+Each count charges a separate and distinct offense.  You must decide each count 
+separately on the evidence and the law that applies to it, uninfluenced by your decision as to any 
+other count.  The defendant may be found guilty or not guilty on any of the offenses charged. 
+ 
+Source:   ICJI 110, (replacing “on either or both of the offenses” with “on any of the offenses”) 
+ 
+   
+GIVEN                       
+REFUSED                       
+MODIFIED                      
+COVERED                      
+OTHER                         STATE’S REQUESTED  
+POST -PROOF INSTRUCTION NO. 3  
+ 
+You may have heard the terms “circumstantial evidence” and  “direct evidence.”  Do not 
+be concerned with these terms.  You are to consider all the evidence admitted in this trial. 
+ 
+Source :   Adopted from ICJI 104 
+   
+GIVEN                       
+REFUSED                       
+MODIFIED                      
+COVERED                      
+OTHER                         STATE’S REQUESTED  
+POST -PROOF INSTRUCTION NO. 8 
+ 
+I will now instruct you as to the elements of the charged crimes and th e governing law 
+that you must follow in evaluating the evidence.  
+   
+GIVEN                       
+REFUSED                       
+MODIFIED                      
+COVERED                      
+OTHER                         STATE’S REQUESTED  
+POST -PROOF INSTRUCTION NO. 9 
+ 
+In Count I, the defendant is charged with burglary.  In order for the defendant to be guilty 
+of burglary, the State must prove each of the following: 
+1.  On or about November 13, 2022; 
+2. in the State of Idaho; 3.  the defendant Bryan C. Kohberger entered a residence at 1122 King Road in 
+Moscow; and 
+4.  at the time entry was made, the defendant had the specific intent to commit 
+murder. 
+If any  of the above has not been proven beyond a reasonable doubt, you must find the 
+defendant not guilty.  If each of the above has been proven beyond a reasonable doubt, then you 
+must find the defendant guilty. 
+ 
+Source :   ICJI 511 —Burglary (including allegations from Indictment)  
+   
+GIVEN                       
+REFUSED                       
+MODIFIED                      
+COVERED                      
+OTHER                         STATE’S REQUESTED  
+POST -PROOF INSTRUCTION NO. 11  
+ 
+In Counts II through V , the defendant is charged with murder in the first degree .  Murder 
+is the killing of a human being with malice aforethought.  
+ 
+Source :   ICJI 701, Murder—Defined  (referencing  counts charged in Indictment) 
+   
+GIVEN                       
+REFUSED                       
+MODIFIED                      
+COVERED                      
+OTHER                         STATE’S REQUESTED  
+POST -PROOF INSTRUCTION NO. 13 
+ 
+With respect to Count II, in order for the defendant to be guilty of first degree murder 
+with malice aforethought, the State must prove e ach of the following:  
+1.  On or about November 13, 2022;  
+2.  in the state of Idaho;  
+3.  the defendant, Bryan C. Kohberger, engaged in conduct which caused the death of 
+Madison Mogen;  
+4.  the defendant acted without justification or excuse ;  
+5.  with malice aforethought ; and  
+6. the murder was a willful, deliberate, and premeditated killing.  
+Premeditation means to consider beforehand whether to kill or not to kill, and then to 
+decide to kill.  There does not have to be any appreciable period of time du ring which the 
+decision to kill was considered, as long as it was reflected upon before the decision was made.  A 
+mere unconsidered and rash impulse, even though it includes an intent to kill, is not 
+premeditation.  
+If you find that the State has failed to prove beyond a reasonable doubt any of elements 
+one (1) through six  (6) above, you must find the defendant not guilty of f irst degree m urder.  If 
+you find that elements one (1) through six  (6) above , you must find the defendant guilty of first  
+degree murder.   
+This same instruction also applies to your considerations of:   
+• Count III, in which the defendant is charged with first degree murder for causing the 
+death of Kaylee Goncalves;   
+GIVEN                       
+REFUSED                       
+MODIFIED                      
+COVERED                      
+OTHER                         • Count IV , in which the defendant is charged with first degree murder for causing the 
+death of Xana Kernodle; and 
+• Count V , in which the defendant is charged with first degree murder for causing the death of Ethan Chapin. 
+ 
+Source :   ICJI 70 4A, First Degree Murder —Malice Aforethought  (including allegations in 
+Indictment)  
+  
+ 
+   
+GIVEN                       
+REFUSED                       
+MODIFIED                      
+COVERED                      
+OTHER                         STATE’S REQUESTED  
+POST -PROOF INSTRUCTION NO. 1 4 
+ 
+The State need not prove that the defendant had a motive that caused him to commit any 
+of the crimes charged.  
+ 
+Source :   State v. Abdullah, 348 P.3d 1, 58 (Idaho 2015)   
+GIVEN                       
+REFUSED                       
+MODIFIED                      
+COVERED                      
+OTHER                         STATE’S REQUESTED  
+POST -PROOF INSTRUCTION NO. 1 7 
+ 
+The State is seeking the death penalty in this case.  If the defendant is convicted of 
+murder in the first degree, there will then be a separate sentencing phase of the trial.  At that  
+sentencing phase, additional evidence may be presented and you will be given additional 
+instructions.  If you find a statutory aggravating circumstance, but find that death would be unjust, I will sentence the defendant to a term of fixed life imprisonment.  If you do not find a statutory aggravating circumstance, I must then sentence the defendant to life in prison, and then I must set a fixed period of imprisonment of anywhere from ten years up to life, during which the defendant will not be eligible for parole.  
+Source :   ICJI 700B, Punishment a Concern, Capital Case (replacing “the jury” with “you” and 
+“the judge” with “I”)  
+ 
+   
+GIVEN                       
+REFUSED                       
+MODIFIED                      
+COVERED                      
+OTHER                         STATE’S REQUESTED  
+POST -PROOF INSTRUCTION NO. 1 8 
+ 
+After closing arguments, you will decide whether the State has proved the defendant 
+guilty beyond a reasonable doubt.  Do not concern yourself with the subject of penalty or 
+punishment.  That subject must not in any way affect your verdict.  
+Source :   ICJI 700C, Jury Must Not Consider Penalty in Guilt Phase of Capital Case (replacing 
+“At the conclusion of trial” with “After closing argument”)  
+   
+GIVEN                       
+REFUSED                       
+MODIFIED                      
+COVERED                      
+OTHER                         STATE’S REQUESTED  
+POST -PROOF INSTRUCTION NO. 20 
+ 
+Evidence has been introduced for the purpose of showing that the defendant committed 
+acts other than that for which the defendant is on trial.  Specifically, the State presented evidence 
+that the defendant was stopped by law enforcement for traffic violations. 
+Such evidence, if believed, is not to be considered by you to prove the defendant’ s 
+character or that the defendant has a disposition to commit crimes.  
+Such evidence may be considered by you only for the limited purpose of proving the 
+defendant’s identity through his address, vehicle, and telephone number.  
+Source :   ICJI 303, Evidence of Other Crimes (adding description of specific other acts/ crime)  
+   
+GIVEN                       
+REFUSED                       
+MODIFIED                      
+COVERED                      
+OTHER                         STATE’S REQUESTED  
+POST -PROOF INSTRUCTION NO. 2 7 
+ 
+It is for you, the jury, to determine from all the evidence in this case, applying the law as  
+given in these instructions, whether defendant is guilty or not guilty of the offenses charged or  
+of any included offense.  
+With respect to the facts alleged in Count I of the Indictment, the offense of burglary, i t is 
+possible for you to return on Count I one, but only one, of the following verdicts:  
+GUILTY of burglary;  
+NOT GUILTY of burglary.  
+With respect to the facts alleged in Count II of the Indictment, the offense of  
+first degree murder , it is possible for you to return on Count II any one, but only one, of the 
+follo wing verdicts:  
+GUILTY of first degree murder;  
+NOT GUILTY of Count II.  
+With respect to the facts alleged in Count III of the Indictment, the offense of  
+first degree murder, it is possible for you to return on Count III any one, but only one, of the 
+following verdicts:  
+GUILTY of first degree murder;  
+NOT GUILTY of Count III.  
+With respect to the facts alleged in Count IV of the Indictment, the offense of  
+first degree murder, it is possible for you to return on Count IV any one, but only one, of the following verdicts:   
+GIVEN                       
+REFUSED                       
+MODIFIED                      
+COVERED                      
+OTHER                         GUILTY of first degree murder;  
+NOT GUILTY of Count IV .  
+With respect to the facts alleged in Count V of the Indictment, the offense of 
+first degree murder, it is possible for you to return on Count V any one, but only one, of the 
+following verdicts:  
+GUILTY of first degree murder;  
+NOT GUILTY of Count IV .  
+ 
+Source :   ICJI 221, Instruction on Using Verdict Form—Multiple Counts and Special 
+Circumstance ( completing model instruction  to cover charges in the Indictment)  
+ 
+      
+ 
+   
+GIVEN                       
+REFUSED                       
+MODIFIED                      
+COVERED                      
+OTHER                         STATE’S REQUESTED  
+DEATH PENALTY SENTENCING INSTRUCTION NO. 1  
+ 
+The defendant in this case has been convicted of ___ counts of the crime of first degree  
+murder.  We will now have a sentencing phase of the trial regarding that[those] offense [s]. 
+Additional evidence may be presented during the sentencing phase.  You may also 
+consider the evidence presented during the trial. 
+Before the death penalty can be considered, the State must prove at least one statutory 
+aggravating circumstance beyond a reasonable doubt.  If you  unanimously decide that the State 
+has so proven one or more statutory aggravating circumstances, then you must decide whether 
+the imposition of the death penalty would be unjust by weighing all mitigating circumstances against each statutory aggravating c ircumstance that has been proven.  
+[At a separate proceeding, the court will sentence the defendant for the other offense of 
+burglary for which you found him guilty. ] 
+ 
+Source: ICJI 1701, Nature of Hearing ( referencing  potential burglary sentencing) 
+   
+GIVEN                       
+REFUSED                       
+MODIFIED                      
+COVERED                      
+OTHER                         STATE’S REQUESTED  
+DEATH PENALTY SENTENCING INSTRUCTION NO. 4  
+ 
+Victims and the immediate family members of deceased victims have the right to 
+personally address you by making a victim impact statement, which is a statement concerning 
+the victim’s personal characteristics and the emotional impact of the murder or murders.  A victim impact statement is not made under oath and is not subject to cross -examination.  A victim 
+or the immediate family members of deceased victims may  not make any statements that are 
+characterizations or opinions about the crimes, the defendant, or the appropriate sentence, and you should disregard any such comments.  You may otherwise consider victim impact statements in your deliberations. 
+ 
+Source: ICJI 1704, Victim Impact Statement (add ing “and  the immediate family members of 
+deceased victims”) 
+   
+GIVEN                       
+REFUSED                       
+MODIFIED                      
+COVERED                      
+OTHER                         STATE’S REQUESTED  
+DEATH PENALTY SENTENCING INSTRUCTION NO. 8  
+ 
+The statutory aggravating circumstances are simply allegations; they are not evidence.   
+You should not be influenced or prejudiced for or against the defendant because the State is 
+seeking the death penalty.  
+The State has alleged the following statutory aggravating circumstance[s]:  
+[a] At the time the murder was committed, the defe ndant also committed another murder.  
+[b] The murder was especially heinous, atrocious, or cruel, manifesting exceptional 
+depravity. 
+[c] By the murder, or circumstances surrounding its commission, the defendant exhibited 
+utter disregard for human life. 
+[d] The defendant, by his  conduct, whether such conduct was before, during or after the 
+commission of the murder at hand, has exhibited a propensity to commit murder 
+which  will probably constitute a continuing threat to society. 
+If, after considering all the e vidence, you unanimously find that one or more of the  
+aggravating circumstances exist s beyond a reasonable doubt, you must indicate on the special 
+verdict form by specifically stating what aggravating circumstance or circumstances exist. 
+If, after considering all the evidence, you unanimously find that there is a reasonable 
+doubt about the existence of a statutory aggravating circumstance, or you cannot unanimously 
+agree on the existence of a statutory aggravating circumstance, you must in dicate on the special 
+verdict form that the State has not proven the aggravating circumstance.  You must indicate this 
+finding by checking the appropriate line next to such aggravating circumstance or circumstances 
+on the verdict form.  
+Your presiding juror  must sign the verdict form.  
+  
+GIVEN                       
+REFUSED                       
+MODIFIED                      
+COVERED                      
+OTHER                         Source:  ICJI 1708, Aggravating Circumstance s (including specific aggravating circumstances 
+alleged)  
+   
+GIVEN                       
+REFUSED                       
+MODIFIED                      
+COVERED                      
+OTHER                          
+STATE’S REQUESTED  
+DEATH PENALTY SENTENCING INSTRUCTION NO. 1 5 
+ 
+ A life sentence without possibility of parole under Idaho law means that a person must 
+spend the rest of his or her natural life in prison.  
+Source: ICJI 1719, Life and Death Sentence (modifying to remove method of inflicting death 
+penalty ) 
+   
+GIVEN                       
+REFUSED                       
+MODIFIED                      
+COVERED                      
+OTHER                         STATE’S REQUESTED  
+DEATH PENALTY SENTENCING INSTRUCTION NO. 1 9 
+ 
+It is for you, the jury, to determine from all the evidence in this case, applying the law as 
+given in these instructions, whether the State has proven beyond a reasonable doubt the alleged 
+statutory aggravating circumstances. 
+For each alleged statutory ag gravating circumstance, you must unanimously decide 
+whether the aggravating circumstance has been proven.  If you decide “no,” you do not need to answer any other questions with respect to that aggravating circumstance.  If you decide “yes,” you will need to unanimously find one of three options: 
+1. First, when weighed against the applicable aggravating circumstance, all mitigating circumstances are sufficiently compelling that the death penalty would be unjust; 
+2. Second, when weighed against the applicable aggravating circumstance, all mitigating circumstances are not sufficiently compelling to make imposition of the death penalty unjust; or 
+3. Third, you are unable to unanimously decide whether or not all mitigating circumstances are sufficiently compelling t hat the death penalty would be unjust. 
+ 
+Source :   ICJI 1724, Verdict Form (adopting language of the form as an instruction) 
+ 
+ 
+ 

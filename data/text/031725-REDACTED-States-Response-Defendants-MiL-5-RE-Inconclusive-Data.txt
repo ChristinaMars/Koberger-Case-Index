@@ -1,0 +1,139 @@
+ 
+ 
+STATE’S RESPONSE TO DEFENDANT’S MOTION IN LIMINE #5  
+RE: INCONCLUSIVE DATA    1 
+ LATAH COUNTY PROSECUTOR’S OFFICE   
+WILLIAM  W. THOMPSON, JR., ISB No . 2613 
+PROSECUTING ATTORNEY 
+JEFF NYE , ISB 9238  
+SPECIAL ASSISTANT ATTORNEY GENERAL  
+Latah County Courthouse 
+522 S. Adams Street, Ste. 211 
+Moscow, ID 83843 
+Phone: (208) 883-2246 
+paservice@latah countyid.gov  
+ 
+ 
+ 
+ 
+IN THE DISTRICT COURT  OF THE FOURTH JUDICIAL DISTRICT OF THE  
+ 
+STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA  
+ 
+ 
+ 
+STATE OF IDAHO,  Case No. CR 01-24-31665  
+                        Plaintiff,   
+ 
+V. STATE’S RESPONSE TO 
+DEFENDANT’S MOTION IN 
+LIMINE # 5  
+ 
+RE: INCONCLUSIVE DATA  
+BRYAN C. KOHBERGER ,  
+                         Defendant.  
+ 
+ 
+ COMES NOW  the State of Idaho, by and through the Latah County Prosecuting Attorney, 
+and responds to Defendant’s Motion in Limine regarding inconclusive data related to Item Q13.1. 
+Defendant asks this Court to exclude an ISP lab analyst’s finding that Defendant could not be 
+excluded as a contributor from Q13.1 because that statement does not provide sufficient context 
+and because the defense’s expert came to a different conclusion. Neither rationale supports 
+excluding the testimony, and this Court should deny the motion. 
+   Electronically Filed
+3/17/2025 5:25 PM
+Fourth Judicial District, Ada County
+Trent Tripple, Clerk of the Court
+By: Jennifer Keyes, Deputy ClerkFACTS
+Item13.1isaswabofleftfingemail clippings fromMadison Mogen.JadeMiller,an
+analystwiththeIdahoStatePolicelab,analyzed theDNAprofileobtained fromItem13.1.She
+foundtheDNAprofile"indicates amixtureofDNAwithamajorprofile,whichisconsistent with
+havingcomefromMadison Mogen." (Def.Ex.1,p.3.)Forheranalysis, Ms.Millerasstrmed a
+three-person mixtureandcompared theDNAprofiletotheDNAofseveralotherindividuals
+relatedtothecase.Seeid.Hercomparisons provided likelihood ratioresultstoshowthelikelihood
+thateachpersoncompared contributed totheDNAprofile.Seeid.Ms.Millerthendetermined for
+eachlikelihood ratioresultwhetheritsupported inclusion orexclusion orwhetherthelikelihood
+rationresultwasinconclusive. Seeid.
+AsMs.Millerexplained tothegrandjury,
+367,15
+(GJ.Te,p.367,Ls6-5)
+JTr.,0367,1513-17) TheserangesareJ
+consistent withtheIdahoStatePolicelab'sanalytical methods ineffectatthetimeoftheanalysis.'
+Applying thoserangestoherlikelihood ratioresults("LR"),Ms.Millerconcluded thatit
+isinconclusive whetherthefollowing personsarepotential contributors toItem13.1:JackDucoeur
+(LR0.399),ColeBarenberg (LR0.485),EthanChapin(LR3.33),XanaKernodle (LR0.201),and
+1
+AtthetimeofMs.Miller'sanalysis, Revision 12oftheBiology/DNA Casework Analytical
+Methods wasineffect.Themanualispubliclyavailable online:https://www.idaho.gov/wp-
+content/uploads/Forensics/archivedAMs/since/BiologyDNA/Biology DNA%20Casework%%20A
+nalytical®o20Methods-rev 12.pdf.
+STATE'SRESPONSE TODEFENDANT'S MOTION INLIMINE#5
+RE:INCONCLUSIVE DATA 2 
+ 
+STATE’S RESPONSE TO DEFENDANT’S MOTION IN LIMINE #5  
+RE: INCONCLUSIVE DATA    3 
+ Bethany Funke (LR 0.0233). (See Def. Ex. 1, p.3.) She also determined  it is inconclusive whether 
+Bryan Kohberger (LR 0.0469) is a potential contributor to Item 13.1. ( See Def. Ex. 2, p.2.) 
+ The defense has disclosed Jennifer Bracamontes, a case work manager at Cybergenetics, 
+as an expert witness in this case.  (See Defendant’s Supplemental Response to Request for 
+Discovery Regarding Expert Witnesses, Ex. D10 -A, filed 1/23/25.)  Ms. Bracamontes utilized a 
+different program than ISP to analyze the DNA profile obtained from Item Q13.1. She determined 
+that Bryan Kohberger could be excluded from the DNA profile obtained from Q13.1. ( See 
+Defendant’s Supplemental Response to Request for Discovery Regarding Expert Witnesses, Ex. 
+D10-B, p.2, filed 1/23/25.)   
+ARGUMENT  
+ T his Court should deny Defendant’s attempt to exclude Ms. Miller’s inconclusive result as 
+to Defendant. Defendant claims the result is unfairly prejudicial if used out of context and excludable because his expert came to a different conclusion. Neither basi s supports exclusion. 
+ Defendant’s claim that he would be unfairly prejudiced by the State eliciting from Ms. 
+Miller only the inconclusive result as to Defendant fails to account for cross examination. See State 
+v. Fordyce , 151 Idaho 868, 870- 71, 264 P.3d 975, 977- 78 (Ct. App. 2011) (“An accused may not 
+construct unfair prejudice merely by conceiving of an incorrect inference that possibly could be drawn from the State's evidence and then declining to dispel that incorrect inference through appropriate cros s-examination. ”). Even if the State chose that strategy, Defendant could elicit 
+during cross -examination the inconclusive results as to the other individuals involved. All those 
+conclusions are in Ms. Miller’s report. ( See Def. Ex. 1, p.3.)  
+ Moreover, the  mere fact the defense found an expert with a different opinion than Ms. 
+Miller’s does not make Ms. Miller’s opinion excludable. See, e.g., State v. Merwin , 131 Idaho 642,  
+ 
+STATE’S RESPONSE TO DEFENDANT’S MOTION IN LIMINE #5  
+RE: INCONCLUSIVE DATA    4 
+ 
+646, 962 P.2d 1026, 1030 (1998) (“The question under the evidence rule is simply whe ther the 
+expert ’s knowledge will assist the trier of fact; not whether the information upon which the expert's 
+opinion is based is commonly agreed upon.”). Ms. Miller’s opinion is that she is  
+ 
+ (G.J. Tr., p.366, Ls.20- 22, p.367, 
+Ls.13- 17.) Ms. Bracamontes’s differing view that Defendant can be excluded as a potential 
+contributor does not make Ms. Miller’s opinion excludable. 
+CONCLUSION 
+ For the reasons stated above, this Court should deny Defendant’s motion.   RESPECTFULLY SUBMITTED this  17
+th day of March  2025.     
+  
+___________________________________   _______________________________  
+William W. Thompson, Jr.     Jeff Nye  
+Prosecuting Attorney      Special Assistant Attorney  General   
+   
+  
+ 
+ 
+STATE’S RESPONSE TO DEFENDANT’S MOTION IN LIMINE #5  
+RE: INCONCLUSIVE DATA    5 
+ 
+CERTIFICATE OF DELIVERY  
+ 
+I hereby certify that true and correct copies of the STATE’ S RESPONSE TO 
+DEFENDANT’S MOTION IN LIMINE #5 RE: INCONCLUSIVE DATA w ere served on the 
+following in the manner indicated below: 
+Anne  Taylor  
+Attorney at Law  
+PO Box 2347 
+Coeur D Alene, ID 83816 
+ ☐  Mailed  
+☒  E- filed & Served / E -mailed  
+☐  Faxed  
+☐  Hand Delivered  
+ 
+ Dated this  17th day of March  2025. 
+ 
+ 
+__________________________________________ 
+ 
+ 

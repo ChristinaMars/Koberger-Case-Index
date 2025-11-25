@@ -1,0 +1,481 @@
+Filed:04/18/2025 10:25:44
+FourthJudicialDistrict,AdaCounty
+TrentTripple,ClerkoftheCourt
+By:DeputyClerk-
+Waters,Renee
+INTHEDISTRICT COURTOFTHEFOURTHJUDICIAL DISTRICT OF
+THESTATEOFIDAHO,INANDFORTHECOUNTYOFADA
+AdaCountyCaseNo.CR01-24-31665
+ORDERONDEFENDANT?'S MOTION IN
+LIMINERE:RYLENENOWLIN AND
+'TOUCH'AND'CONTACT? DNASTATEOFIDAHO,
+Plaintiff,
+BRYANC.KOHBERGER,
+Defendant.
+I.INTRODUCTION
+Defendant movesinliminetoexcludethetestimony ofRyleneNowlin,theLabManager
+withtheIdahoStatePoliceForensicServicesLaboratory whowasdisclosed bytheStateto
+testifyabout"touch"DNAandthetransferofDNAgenerally and,morespecifically, thatthe
+DNAlocatedontheknifesheathwasmorelikelytheresultofadirecttransfer. Defendant
+arguesthatMs.Nowlin'stestimony, aswellasanyothertestimony referencing theterms"touch"
+or"contact" DNAand/orpurporting tobeanopinionaboutthemeansormechanism howthe
+DNAendedupontheknifesheath,isirrelevant orimpermissible underIRE403andfailsto
+satisfyIRE703.
+Oralargument onthemotionwasheldonApril9,2025,afterwhichtheCourttookthe
+matterunderadvisement. TheCourtdoesnotfindexclusion ofMs.Nowlin's opinions is
+warranted. However, theCourtrequests thatthepartiesinstructtheirwitnesses toavoiduseof
+terms"touchDNA","contactDNA"and"traceDNA."
+Hl.STANDARDS
+Theadmissibility ofexpertopiniontestimony isdiscretionary. Statev.Almaraz, 154
+Idaho584,590,301P.3d242,248(2013).Likewise, whethertoexcludeevidence underIRE403
+isdiscretionary. Statev.Rambo,173Idaho272,281,540P.3d974,983(2023).Onthese
+discretionary matters,thetrialcourtmust:1)correctly perceivetheissueasoneofdiscretion; 2)
+actwithintheboundaries ofsuchdiscretion; 3)actconsistently withanylegalstandards
+applicable tothespecificchoicesbeforeit,and;4)reachitsdecisionbyanexerciseofreason.Id.
+1FACTS
+Aknifesheathwasrecovered fromthecrimesceneinthismatterandswabbed forDNA.
+AsampleofDNA,identified asQ1.1,wasextracted fromtheswabbytheIdahoStatePolice
+Forensics Lab("ISPLab").TheDNAconcentration was0.168mg/uL.Itwassubsequently tested
+usingstandard DNASTR(ShortTandemRepeat)methods. TheSTRprofiledeveloped revealed
+thattheDNAcamefromasinglesourcemaleprofile.
+TheStatedisclosed RyleneNowlin,theLabManager fortheISPLabtotestifytothe
+operations ofaforensiclaboratory, thestructure oftheISPLabandthetypesofevidence it
+processes. Herdisclosure furtherstates:Ill.
+Ms.NowlinwillalsotestifytotouchDNAandtransferofDNA.Specifically,
+Nowlinwilltestifytothecharacteristics andnatureoftouchDNA,including how
+itisdeposited andtransferred toanitemofevidence; themethods usedtocollect
+andpreserve touchDNAsamplesfromitemsofevidence; theprocedures and
+protocols usedbyforensicscientists toextractandanalyzetouchDNA;the
+mannerinwhichresultsfromtouchDNAsamplesareinterpreted; andthe
+reliability oftouchDNAanalysisanditsacceptability inthefieldofforensic
+science.Nowlinwillalsotestifytothepotential forDNAtotransferbetween an
+individual andanobject(s), including thedistinction between primaryand
+secondary transferandthefactorsinfluencing thelikelihood oftransfer.
+State'sExhibitS-21(NowlinInitialDiscl.)!
+OnFebruary 17,2025,theStatesubmitted itsrebuttaldisclosures including onefromMs.
+Nowlin.Thefocusoftheseconddisclosure istouch/contact DNAanddirectversusindirect
+transfer, including factorsthatcaninfluence thetransferandpersistence ofDNAonanitem.The
+finalparagraph ofherrebuttaldisclosure states:
+Manycomplicated factorscaninfluence thelikelihood oftransferofDNAandthe
+persistence ofthetransferred DNAafterdeposition. CurrentDNAtechnology
+cannotconclusively answerthequestion ofwhenDNAwasdeposited onanitem
+orbywhatmechanism (i.e.directorindirecttransfer). ItispossibletheDNA
+detected onM2022-4843 Item1.1resultedfromsecondary transfer; however,
+basedonNowlin'strainingandexperience itisheropiniongiventhequantityof
+DNAdetected onM2022-4843 Item1.1(0.168ng/l) andgiventheDNAprofile
+obtained issinglesourceitismorelikelytheresultofadirecttransfer.
+State'sExhibitS-11(NowlinRebuttalDiscl.).
+!TheStatefiledan"Amended Supplemental Disclosure" forMs.NowlinonMarch3,2025("ExhibitS-7")butit
+didnotchangetheforegoing paragraph.
+2IV.ANALYSIS
+Defendant's argument isthree-fold. First,heseekstoexcludeanytestimony byMs.
+Nowlinregarding whenandhowtheDNAfoundontheknifesheathwastransferred there,
+arguingitconflictswiththecurrentconsensus withintheforensicsciencecommunity, isoutside
+herexpertise andisspeculative. Second,hearguesgenerally thatuseoftheterms"touch"and
+"contact" DNAshouldbeprohibited attrialasmisleading, confusing andunfairlyprejudicial.
+Finally,hearguesthatMs.Nowlin's rebuttalopinions mustbestrickenasimproper rebuttal.
+Eachwillbeaddressed inturn.
+A.Ms.NowlinMayOfferDisclosed Testimony aboutDNATransfer.
+Ifscientific, technical, orotherspecialized knowledge willassistthetrieroffactto
+understand theevidence ortodetermine afactinissue,awitnessqualified asanexpertby
+knowledge, skill,experience, training,oreducation, maytestifytheretointheformofanopinion
+orotherwise. IRE702.Todetermine whetherexperttestimony isadmissible, thedistrictcourt
+mustconsider twofactors.Statev.Caliz-Bautista, 162Idaho833,835,405P.3d618,620(Ct.
+App.2017).First,togiveexpertopiniontestimony, awitnessmustbequalified asanexperton
+thematterathand.Jd.Second,oncethewitnessisqualified asanexpert,thetrialcourtmust
+determine whethertheexpert'sopiniontestimony willassistthetrieroffactinunderstanding the
+evidence. /d.;IRE702.Expertopinionwhichisspeculative, conclusory, orunsubstantiated by
+factsintherecordisofnoassistance tothejuryinrendering itsverdictand,therefore, is
+inadmissible asevidence. Weeksv.E.IdahoHealthServs.,143Idaho834,838,153P.3d1180,
+1184(2007).
+1. Ms.Nowlinissufficiently qualified.
+Whether awitnessissufficiently qualified asanexpertisamatterlargelywithinthe
+discretion ofthetrialcourt./d.InarguingMs.Nowlinisnotqualified torenderanopinionon
+DNAtransfer, Defendant contends thatwithintheforensiccommunity, thereisaconsensus that
+onlyexpertsspecially trainedinDNAtransferarequalified torendersuchanopinion.Heasserts
+that,asalabanalyst,Ms.Nowlindoesnothavetheexpertise toprofferanopinioninthiscaseas
+tohowtheDNAwastransferred tothesheath.
+Toestablish this"consensus," Defendant reliesontwoforensicsciencepublications
+regarding DNAtransfer, bothofwhichrecommend thatDNAanalystsshouldavoidrendering
+opinions regarding DNAtransferabsentspecialized training. Thefirstarticle,authored byfive
+3forensicscientists in2019,discusses "whatweknowaboutDNAtransferandtheassociated
+elements ofDNApersistence, prevalence andrecovery, sometimes referredtoasDNA-TPPR."
+R.vanOorschot, et.al.,DNAtransferinforensicscience:Areview,ForensicScience
+International: Genetics, Volume38,pp.140-166[p.2](Jan.2019)."Theexpresspurposeofthe
+articleisto"assistcasework investigations ofcriminalactivities" andtheinformation therein
+"shouldbeusedwhererelevant." /d.,p.2.Itfurtherstates:
+Appropriately trainedforensicpractitioners arebestplacedtoprovideopinionand
+guidance ontheinterpretation ofprofilesattheactivitylevel.However, those
+requested toprovideexpertopiniononDNA-related activitylevel*issuesare
+ofteninsufficiently trainedtodoso.Weadvocate recognition ofDNAactivity
+associated expertise tobedistinctfromexpertise associated withtheidentification
+ofindividuals. Thisistobesupported bydedicated training,competency testing,
+authorisation, andregularfitforpurposeproficiency testing.
+Td.
+Notably,thejournalinwhichthearticleappears-Forensic ScienceInternational:
+Genetics isaninternational oneandeachofthefivescientists arefromoutsidetheUnited
+States.Id.,p.1.
+Thesecondarticleisareportpublished inMayof2024byagroupofindividuals referred
+toasthe"ExpertWorkingGroup(EWG)onHumanFactorsinForensicDNA."MelissaTaylor,
+etal,Forensic DNAInterpretation andHumanFactors:Improving thePracticeThrougha
+SystemsApproach, NISTInteragency/Internal Report-
+8503(May6,2024).Theexpress
+purposeforthereport-which wassponsored bytheU.S.Department ofCommerce's National
+Institute ofJusticeOfficeofInvestigative andForensicSciences wasto"conduct ascientific
+assessment oftheeffectsofhumanfactorsonforensicDNAinterpretation withthegoalor
+?Defendant didnotprovidethisarticletotheCourt.TheCourtobtained a19-pageportionofthearticlefromthe
+web,including theabstractwhichcontained thequoterelieduponbyDefendant. Thewebversiondoesnotreference
+thepagenumbers ofthepublished article(i.e.,pp.140-166), butispaginated aspp.1-19.Thecitations hereinareto
+thewebversion.https://www.sciencedirect.com/science/article/abs/pii/S872497318#preview-section-cited-
+by
+3
+By"activitylevel,"theauthorsmean"thegenerally accepted hierarchy ofpropositions forevaluation ofevidence
+inforensicscience." R.vanOorschot, p.3
+4Available at:https://www.nist.gov/publications/forensic-dna-interpretation-and-human-factors-improving-practice-
+through-systems.
+Therewereapproximately 25individuals intheEWG.Theyincluded aninternational groupofforensicscience
+expertsinDNAinterpretation, academics inforensicscienceandlaw,statisticians, cognitive scientists, and
+representatives ofprofessional organizations andstandards-developing organizations.
+4recommending strategies forimproving theproduction, evaluation, andcommunication ofDNA
+results."Taylor,etal.,p.1.Section7ofthereportisdedicated toDNAtransfer; specifically, the
+"howandwhen"questions. Withregardtoexperttestimony regarding thetransferofDNA,the
+reportexplainsthat"[e]xcept inground-truth-known experiments, whereanindividual is
+observed tohavebeenincontactwithasurface/location, itisnotpossibletoknowwhetherthe
+transferwasdirectorindirect." /d.,p.172.Itfurtherstatesthatproviding opinions aboutthe
+probability orpossibility ofdirectorindirecttransferis"problematic" stating:
+Evaluations considering factorssuchastransfer, persistence, andbackground
+requireandevaluation ofthebiological resultsgivenpropositions thataddressnot
+thesourceoftheDNA,buttheactivities thatmayhavetakenplace.Thisinturn
+requirestheuseofdata,knowledge, andexpertise onDNAtransfer, persistence,
+prevalence, andrecovery (DNA-TPPR) []ratherthanknowledge ofDNAprofile
+characteristics, probabilistic genotyping software (PGS),andpopulation
+frequencies. Inthisregard,DNA-TPPR, andassessments givenactivity-level
+propositions, areaseparate skill,distinctfrom'standard' DNAprofilingand
+interpretation [].ItmaybeafunctionlimitedtoonlyaportionofDNAanalysts
+withtherequired expertise. Atpresent,therearenotadequate educational
+opportunities toinformthesetypesofissueswithintheUnitedStates.
+Id.,pp.173-74.
+Thereportgoesontonotethat"[a]nexpertrarely(ifever)hasalltheinformation needed
+toperformarobust,balanced, andtransparent evaluation ofbiological resultsregarding transfer
+orspecificactivities onthewitnessstand."/d.,p.175.Consequently, thereportadvanced the
+following recommendation:
+Recommendation 7.1:DNAanalystsshouldnotopineaboutthepossibility or
+probability ofdirectorindirecttransferhavingoccurred inacase.
+Id.,p.177.
+Basedonthesetwoarticles,Defendant positsthatMs.Nowlin,asa"typicallabanalyst,"
+isnotqualified tosubstitute herjudgment inthefaceofthe"weightoftheforensiccommunity's
+agreement thatthescienceandliterature doesnotsupportanyanalysttestifying aboutthewhen
+andhowoftransfer." Mtn.,p.8.
+TheStateresponds thatDefendant's argument isbothlegallyandfactually flawed.The
+legalflawisthatitmisapprehends theappropriate standard todetermine admissibility ofan
+expertopinion.TheStateassertsthestandard isnotthe"consensus ofthescientific community"
+butonwhetherherknowledge willassistthetrieroffact.ThefactualflawisDefendant's failure
+5tomentionthelackofconsensus intheEWGreportregarding Recommendation 7.1.Footnote
+455ofthearticlenotesthattwoEWGmembers dissented fromtherecommendation, stating:
+While[thedissenters] acknowledge thatanalystsareoftenaskedtorespondto
+'how'and'when'questions incriminalcasesandagreethattestimony onthis
+subjectcanbemisleading orotherwise problematic, theybelievethatthebroad
+prohibition inRecommendation 7.1putstheproverbial 'cartbeforethehorse'by
+notfirstrequiring anassessment ofthetypeoutlinedinRecommendation 7.3.°
+Moreover, theyworrythatsupporting 7.1wouldimplytheneedforanalyststo
+shifttoanewparadigm thathasnotyetbeensufficiently vettedwithinthe
+specificcontextoftheU.S.Courtsystem.
+Id.,p.177,n.455.
+TheCourtfindsMs.Nowlintobesufficiently qualified torenderheropiniononDNA
+transfer, despiteherlackofspecialization inDNA-TPPR. Thetestfordetermining whethera
+witnessisqualified asanexpertunderIRE702is"notrigid."Weeks,143Idahoat837,153P.3d
+at1183.Aqualified expertisonewhopossesses "knowledge, skill,experience, training,or
+education." IRE702.Thislanguage "isintended toprovidewidelatitudeinhowawitnessmay
+qualifyasanexpert.6CliffordS.Fishman&AnneToomeyMcKenna, JonesonEvidence §
+43:4(7thed.)(Dec.2024update). Insituations whereawitnesshas"generalexpertise inabroad
+subjectbutisnotaspecialist inthespecificaspectofthatsubjectthatispertinent inthecase[,]
+[mJostcourtsconclude thatgeneralknowledge canbesufficient toqualifythewitnessasan
+expert."29FederalPractice&Procedure (Evid.)(Wright&Miller)§6264.2(2ded.)(June2024
+update). "ThisisbecausetheissueunderRule702issimplywhetherthetestimony ofawitness
+withonlyageneralbackground isreasonably likelytohelpthetrieroffact,notwhethera
+specialist wouldbepreferable." /d."Differences inexpertise bearchieflyontheweighttobe
+assigned tothetestimony bythetrieroffact,notitsadmissibility." Hussv.Gayden,571F.3d
+442,455(5thCir.2009).°
+According toheraffidavit, Ms.Nowlinis"currently qualified andproficiency testedasa
+DNAanalyst"andhasbeensoqualified fortwentyyears.Aff.Nowlin,14.HerC.V.revealsthat
+5Recommendation 7.3acknowledges thelackofDNA-TPPR educational opportunities withintheUnitedStatesand
+recommends thatthefederalgovernment "fundcollaborative effortstoreviewthefoundations andprinciples of
+evaluating biological resultswhenconsidering allegedactivities" and,depending onthefindings, makesfunds
+available "toeducateandguideDNAandlegalcommunities onthereview,research, selection andvalidation of
+appropriate methods toaccountfor[DNA-TPPR] whenassessing biological results."/d.,p.182
+6GivenatIRE702issubstantively similartoitsfederalcounterpart, federalauthorities interpreting FRE702are
+instructive. Martinv.Hoblit,133Idaho372,376n.3,987P.2d284,288n.3(1999).
+6sheworkedasaforensicscientistinBiology/DNA attheIdahoStatePoliceForensicServices
+Laboratory forelevenyearsbeforebecoming itsManager. SheiscertifiedbytheAmerican
+BoardofCriminalistics andisaMolecular BiologyFellow.Sheisraamember offourprofessional
+organizations intheforensics field.Shehastaughtcoursestolawenforcement andmedical
+personnel onDNAintheforensics contextandhaspublished scholarly articlesonthesubject.
+Basedonherprofessional experience intheforensicDNAfield,Ms.Nowlin atthevery
+leastpossesses thegeneralexpertise toopinetomattersofDNAtransfer. Givenhergeneral
+expertise, anylackofspecialized DNA-TPPR trainingasadvocated byDefendant's authorities
+goestotheweightofhertestimony, notitsadmissibility. Further,inchallenging her
+qualifications, Defendant isseekingtoholdMs.Nowlintoanaspirational standard ofexpertise
+intheforensicfieldthatis,fornow,isnothingmorethanarecommendation andadisputed one
+atthat-within asegment oftheforensicsciencecommunity.' NotonlydoDefendant's articles
+failtoestablish anyestablished standard ofqualification, Ms.Nowlindisputesthatthereisa
+"consensus" intheforensicDNAcommunity thatDNAlabanalystsshouldnotopineasto
+DNA-TPPR. /d.,15.Shepointsoutthatnotonlyweretheredissenters totheEWG's
+Recommendation 7.1,thereis"adivideinforforensicDNAcommunity onthistopic."Jd.,{6.
+Sheexplains:
+Onesidesupports the[EWG's]recommendation. Theothersidebelievesthatnot
+offeringanopinionbasedonknowledge ofmolecular biology/DNA whenitmay
+aidthetrieroffactisunethical. AtthemostrecentAmerican Academy of
+Forensic Sciences meetingheldinBaltimore inFebruary of2025,therewere
+presentations supporting bothsidesofthisargument, demonstrating thecurrent
+divideinthecommunity.
+Id.
+Moreimportantly, Idahohasnotadoptedthestandard foradmissibility setforthin
+Daubertv.MerrellDowPharm.,Inc.,509U.S.579(1993),whichconsiders, interalia,whether
+theexpert'stheoryis"commonly agreeduponorgenerally accepted." Weeks,143Idahoat838,
+153P.3dat1184(notingthattheexpert'sopinionneednotbebasedoninformation thatis
+"commonly agreedupon"or"universally accepted."). Therefore, whetherthereisageneral
+consensus supporting Ms.Nowlin'sopinionornotisirrelevant toitsadmissibility.
+7Defendant hasnotestablished ascientific consensus intheUnitedStatesoutsideoftheEWGgroup,whichis
+comprised ononly25individuals, onlysomeofwhichareforensicscientists.
+7Notablyabsentfromeitherparty'sbriefingarecourtcasesdiscussing theissueof
+whetherDNAanalystsarequalified totestifytoDNAtransfer. Areviewofcaselawrevealsthat
+suchopinions areofferedby"DNAexperts"withoutdisputes overqualifications.* Itappears
+onlyonecourt(amilitarycourt)hassquarely addressed theissueanddeclined tofindtheDNA
+analystwasunqualified torendertestimony. UnitedStatesv.Hill,63M.J.718,722(A.F.Ct.
+Crim.App.2006).Indoingso,thecourtrejectedthenotionthatDNAtransference wasa
+"separate science"fromDNAextraction andanalysisand,therefore, the"expertinDNA"was
+qualified totestifytotransfer. Id."
+Insum,giventheliberalstandard forqualifying awitness,Ms.Nowlin'sexperience and
+trainingintheareaofforensicanalysisofDNAgenerally, thecurrentdivideintheforensic
+community regarding whetherlabanalystsarequalified totestifytoDNAtransfer, andthelack
+ofjurisprudence onthematter,theCourtdeclinestofindthatMs.Nowlinlacksthequalifications
+necessary toprovideanopiniononDNAtransferinthiscase.Defendant's challenges toher
+qualifications affectsimplytheweighttobeafforded hertestimony.
+2.Ms.Nowlin'stestimony willassistthetrieroffact.
+Havingdetermined Ms.Nowlinisqualified asanexpert,theCourtmustdetermine
+whetherhertestimony willassistthetrieroffactinunderstanding theevidence. Thiscondition
+goesprimarily torelevance. Caliz-Bautista, 162Idahoat836,405P.3dat621(citingDaubert,
+509U.S.at591).Oneaspectofrelevancy iswhethertheproffered experttestimony is
+sufficiently tiedtothefactsofthecasesuchthatthetestimony willaidthejuryinresolving a
+factualdispute.Jd.(citingDaubert, supra).Anexpert'sopinionthatisspeculative or
+unsubstantiated byfactsintherecordisinadmissible becauseitwouldnotassistthetrieroffact.
+Id.(citationomitted). Iftheexpert'stestimony iscompetent andrelevant, itmaybeadmissible;
+theweightgiventothetestimony islefttothetrieroffact.Jd.(citationomitted).
+8See,&.g.,Statev.Castro,206So.3d1059,1063(La.App.2016)(DNAanalysttestifiedthat"alowerlevelof
+DNAwouldbefoundthroughsecondary transfer, andthat,considering thehighconcentration of[thedefendant's]
+DNAfoundon[thevictim's]rightbreast,itwashighlyunlikelythattherightbreastswabwouldhavecontained
+transferred DNA"),writdenied,227So.3d285(La.2017);Statev.Shine,113N.E.3d160,172(OhioApp.2018)
+(forensic scientistfromregionallaboratory testifiedthatdefendant wasmajorcontributor toDNAfoundonshell
+casingsandopinedthatdefendant's DNAwaspresentthroughprimarytransfer).
+°Whilemilitarycourtsaregoverned byseparate evidentiary rules,therulegoverning experttestimony (MRE702)
+isthesameasFRE702andsubstantively similartoIRE702.
+8Defendant arguesMs.Nowlin'srebuttalopinionthattheDNAdetected onQ1.1"ismore
+likelytheresultofadirecttransfer" isspeculative becauseitoffers"possibilities" thatarenot
+basedon"substantive scientific principles." TheStateresponds thatMs.Nowlin's rebuttal
+disclosure sufficiently explainsthescientific principles underpinning heropinionandthereasons
+forheropinion.Inaddition, thefactthatMs.Nowlincannottestify"conclusively" astowhen
+andhowtheDNAarrivedontheknifesheathdoesnot,according totheState,renderheropinion
+speculative orotherwise unhelpful tothejury.
+TheCourtfindsMs.Nowlinhasidentified anadequate scientific basisforheropinion.
+Herrebuttaldisclosure revealsthatshewilldiscussthedifference between singlesourceDNA
+profilesandmixtures, concepts pertaining todirectandsecondary transfers ofDNA,andthe
+variables thatcaninfluence thetransfer, persistence andrecovery ofDNA.'°Infact,this
+discussion closelymirrorstheTPPR-DNA principles advocated inthearticlescitedby
+Defendant. WhileDefendant maynotthinkMs.Nowlinisadequately qualified toofferan
+opiniononDNA-TPPR, thedoesnotrenderheropiniondevoidofscientific principles.
+Inaddition, although Ms.Nowlinadmittedly cannottestifyconclusively astowhetherthe
+DNAwastransferred tothesheathbydirectcontactratherthanindirect,thisdoesnotrenderher
+opinionspeculative. "Testimony isspeculative whenittheorizes aboutamatterastowhich
+evidence isnotsufficient forcertainknowledge." Adamsv.State,158Idaho530,538,348P.3d
+145,153(2015).Anopinionthatisspeculative suggests onlypossibilities andmaybeproperly
+excluded sincetheopinionwouldnotassistthetrieroffact.Slackv.Kelleher, 140Idaho916,
+923,104P.3d958,965(2004).
+Ms.Nowlin's opiniondoesmorethansuggestpossibilities; shestatesthatwhileitis
+"possible" theDNAontheknifesheathwasfromsecondary transfer, itis"morelikely"the
+resultofdirecttransfergiventhat:1)theDNAwasa
+singlesourceprofile,and;2)therewasa
+.0168ngofDNAdetected onthesheath.AstheStatepointsout,anexpertmaytestifytoa
+"likely"opinion,particularly wheretheexpertacknowledges thelimitation ofsuchopinion.In
+Statev.Hall,forexample, theforensicpathologist testifiedthat,basedonthelividitypatterns
+observed onthevictim'sbody,hebelievedthevictimwas"mostlikely"hogtiedafterherdeath.
+'°Thevariables citedinMs.Nowlin's rebuttaldisclosure includewhethertheDNAprofilewassinglesourceor
+mixed,whetherthetransferwasthroughbodyfluid,thedepositor's biological factors(i.e.,shedderstatus,personal
+hygiene,rateofperspiration), thecomposition ofthesurface,thelengthofcontact,thenatureofcontact,
+environmental conditions andtheactivities ofthedepositor, amongothers.
+9163Idaho744,779-80,419P.3d1042,1077-78(2018).Infindingtheopinionproperly
+supported, theIdahoSupreme Courtfoundthistestimony wasnot"baseduponmere
+'speculation' or'possibilities,' butwasbaseduponthelividitypatterns[.]" Jd.Inaddition, the
+Courtnotedthattheexpertadmitted thelimitations ofhisopinion.Jd.
+Ms.Nowlin's opinionisnodifferent. Shewilltestifythat,basedonscientific principles
+regarding DNAtransferandherobservations ofthequantityofDNAandtypeofprofilefound
+ontheknifesheath,itwas"morelikely"adirecttransferratherthanasecondary transfer.
+Further,thefactthatsheadmittedly cannotrendera"conclusive" opinionabouthowtheDNA
+arrivedontheknifesheathandthatitis"possible" itwasthroughsecondary transferdoesnot
+renderheropinioninadmissible; itissimplyanacknowledged limittoheropinion.
+Neitherpartyhascitedtocaselawdiscussing theadmissibility ofexpertopinions on
+DNAtransfer; however, thecasesreviewed bytheCourtindicatethatMs.Nowlin's opinionis
+acceptable despiteherinabilitytoreachadefinitive conclusion. InUnitedStatesv.Perez,the
+government's DNAexperttestifiedabouttheDNAtransferwithregardtoamixedDNAprofile
+foundonagun,85%ofwhichwasattributable tothedefendant. 2021WL5999261, at*3(D.
+Conn.Dec.20,2021).Hediscussed thedifferences between directandsecondary DNAtransfer
+andvariables thatcanaffectDNAtransfer. /d.at*3.Hefurthertestifiedthat:
+[T]heamountofDNAfoundfromasecondary transferor whencompared toa
+directtransferor isexpectingly less,specifically stating'Ihaven'tseenanexample
+wheretheprimarytoucherhaslessDNAthanthesecondary person'and
+'[t]ypically ...theinitialtouching isgoingtogivemoreDNA.'Hedidtestifythat
+itwaspossible, but'ingeneral,[he]wouldthinkthedirecttouching isgoingto
+transfermoreofthatindividual's DNA.'
+Id.(internal citations omitted).
+Basedonthistestimony andthefactthat85%oftheDNAwasattributable tothe
+defendant, thecourtconcluded thatajurycouldreasonably inferthatthedefendant's DNAwas
+deposited bydirecttransfer. Jd.at*6.
+InStatev.Glass,thecourtfound,basedonthelackofexperttestimony regarding DNA
+transfer, therewasinsufficient evidence toupholdhisconviction. 279A.3d203(2022).Inthat
+case,DNAwasrecovered fromalatexgloveatthesceneofthecrime.Analysisrevealed a
+mixedprofile,theresultsofwhichwereconsistent withthedefendant beingthemajorDNA
+profile.Jd.at209.Theexpertstatedshecouldnot,however, determine fromhertestingwhether
+thetransferwasprimaryversussecondary. /d.at210.Thecourtfoundthefactthatthedefendant
+10wasa"majorcontributor" was,alone,notsufficient toestablish thedefendant's identityasthe
+perpetrator. Jd.at214-15.Itnoted:
+DNAexpertstestifying inboththeUnitedStatesDistrictCourtfortheDistrictof
+Connecticut andcourtsinotherjurisdictions, however, haveofferedthe
+evidentiary basislackinginthepresentcasethatis,thecorrelation between the
+amountofDNAdeposited onanitemandthelikelihood thatsuchDNAwas
+deposited viaprimarytransferasopposed tosecondary transfer.
+Id.at220(collecting cases)(emphasis inoriginal).
+AmongthecasescitedbytheGlasscourtwasPerez,supra.Asconcluded inPerez,the
+Glasscourtfoundthattestimony correlating theamountofDNAonanitemwiththelikelihood
+thatitwastransferred viadirectorindirecttransfer"canprovideajurywithanevidentiary basis
+fromwhichitreasonably caninferthatadefendant's havingbeendesignated asamajor
+contributor toamixtureofDNAmakesitmorelikelythatthedefendant's DNAwasdeposited
+viaprimarytransfer." Jd.|!
+Thesecasesdemonstrate thatitisnotoutsidethepermissible boundsofexperttestimony
+toopineastothelikelihood ofDNAtransferand,infact,suchopinioncanbecrucialtoputting
+theDNAevidence intocontext.Indeed,Ms.NowlinisofferingtheveryopinionthattheGlass
+courtfoundlacking;i.e.,thecorrelation between theamountofDNAdeposited andthe
+likelihood itwastransferred bydirectorindirectcontact.Thiswillaidthejuryinunderstanding
+theevidence. Consequently, heropinions willnotbeexcluded.
+B.Misleading DNALabelsAreToBeAvoided.
+Defendant nextarguesthattheterm"touch"or"contact" DNAshouldbeexcluded under
+IRE403becauseitcouldmisleadthejuryintoinferring thatthedepositor ofDNAactually
+touchedtheobjectonwhichitwasfound.TheStateonlyaddresses theterm"touch"DNAand
+arguesitshouldbeallowedbecauseitiscommon termwithinthefield.Further,theState
+11
+Seealso,UnitedStatesv.Brooks,678F.App'x755,757(10thCir.2017)(experttestifiedthatthereisnowayto
+confirmsecondary transferonbasisofforensictestingbutalsotestifiedthatsecondary transferwas"highly
+unlikely" onbasisthatdefendant wasmajorcontributor ofDNA.);Castro,206So.3dat1063(experttestifiedthat
+basedonthehighconcentration ofDNAfoundonvictim'sbreast,itwasunlikelytransferred DNA);Shine,113
+N.E.3dat172(experttestifiedthatbecausedefendant wasfoundtobeamajorcontributor toDNAfoundonshell
+casingsandtheminorcontributor's DNAwaspresentata"verylowlevel,"defendant's DNAwaspresentthrough
+primarytransfer).
+11pointsoutthatitwillbecleartothejuryfromMs.Nowlin's testimony that"touch"DNAisa
+termusedonlytodistinguish thattypeofDNAfromotherkindsofDNA.'*
+Relevant evidence maybeexcluded "ifitsprobative valueissubstantially outweighed by
+thedangerofunfairprejudice, confusion oftheissues,ormisleading thejury,orby
+considerations ofunduedelay,wasteoftime,orneedless presentation ofcumulative evidence."
+LR.E.403.Theissuehereiswhethertheword"touch"isprejudicial asitimpliesthattheDNA
+wastransferred viatouch.
+TouchDNAisashorthand reference totheepithelial orskincellsthatmaybeleftbehind
+onanobjectwhenitistouchedorcomesintocontactwiththeskin.VictoriaKawecki, Can't
+TouchThis?MakingAPlaceforTouchDNAinPost-Conviction DNATestingStatutes, 62Cath.
+U.L.Rev.821,828(2013).Itissometimes referredtoas"traceDNA."Statev.Phillips,430
+S.C.319,331-32,844S.E.2d651,657(2020).Itisacommon termintheDNAforensics field.
+Aff.Nowlin,§7.Indeed,scientific andlegalliterature aswellascaselawisrepletewith
+references to"touch"DNA,including thetwoarticlesrelieduponbyDefendant.!? Infact,
+Defendant's ownexpert,Dr.RuthBallard,references touch"DNAinherreport.
+However, asoneofDefendant's articlesobserves, theterm"touch""canbemisleading,
+asitimpliesaspecificmodeofactionand,tosomedegree,alsoatypeofbiological source."R.
+vanOorschot, et.al,p.11.Instead,theauthorssuggestusingtheterm"trace"DNA,whichis
+"lessdescriptive." Jd.Ms.Nowlin,however, disagrees that"trace"DNAisabetterterm,stating:
+Theterm"TraceDNA"impliesamount. Thewordtraceisdefinedasaverysmall
+amountandisusedinthescientific literature whendescribing evidence samples
+withlowamounts ofDNAthatdonotyieldaprofileoronlyapartialprofile.I
+wouldnotbewillingtousethattermanditwouldbeinappropriate toapplythat
+termtotheDNAontheknifesheathbecauseatraceamountisnotwhatIdetected
+onItem1.1,andreferring toitastraceDNAwouldbemisleading tothetrierof
+fact.
+Aff.Nowlin,§8.
+Giventheubiquitousness oftheterm"touchDNA"innotonlytheforensicDNAfield,
+butinthelegalandscientific fieldaswell,theCourtisunwilling toprohibittheterm.Thereis
+2Ms.Nowlin's disclosure statesshewilldiscussthe"characteristics andnature"oftouchDNA.See,S-21.
+13
+Atleastonewell-known treatiseonevidence hasanentiresectiondedicated to"touch"DNA.See,e.g.,7Joneson
+Evidence at§60:9;seealso,McGiboney v.State,160Idaho232,236,370P.3d747,751(Ct.App.2016)
+(discussing theadventof"touch"DNAtestinginIdaho).
+12toogreatariskthatawitnessorcounselwillinadvertently refertothetermoutofhabit,
+potentially givingrisetoamotionforamistrialforviolation ofacourtorder.Moreover, the
+Courtisnotconcerned thatthejurywillbemisledgiventhatbothpartieshaveDNAexpertswho
+caneasilydisabuse thejuryofanymistakeincorrelating "touchDNA"withactualtouching.
+Thatsaid,theCourtasksthatcounselavoidtheuseoftheterms!'asmuchaspossibleso
+thatanypotential confusion canbebypassed. Tothisend,thepartiesareinstructed tosubmita
+mutually agreeable instruction toprovidetothejuryincasethetermsareinadvertently used.Ifa
+witnessusestheterm,opposing counselcanexamine thewitnessaboutthebroadermeaning of
+thetermwithintheforensiccommunity, andtheinstruction maybegivenatthattime.
+C.Ms.Nowlin's RebuttalOpinions areProper.
+Defendant's finalargument isthatMs.Nowlin's anticipated rebuttaltestimony is
+improper becauseitdoesnotrespondtoanyopinionbyDefendant's ownexpertregarding the
+DNAtransfer. TheCourtdoesnotagree.
+"Rebuttal evidence isevidence thatexplains, repels,counteracts, ordisproves evidence
+whichhasbeenintroduced byoronbehalfoftheadverseparty."VanBruntv.Stoddard, 136
+Idaho681,685-86,39P.3d621,625~26(2001).AstheStatenotes,Defendant's DNAexpert,
+RuthBallad,acknowledges "[tJhereisgoodsupportthatMr.Kohberger's DNAwasfoundon
+Item1.1,aswabfromtheknifesheath."Exh.D1-B,p.19.However, herreportindicates shewill
+informthejurythatDNAonanitemcouldbetheresultof"indirect transfer" from"skincell
+DNA."/d.,p.18.Thedisclosure impliesthejuryshouldgivelittleweighttoDefendant's DNA
+atthecrimescenebecauseitcouldjustmeanDefendant's DNAwasnothingmorethan
+"nnocuously shedskincells/DNA" priortothecrimeandtheknifesheathcould"bepickedup
+andtransported toacrimescenebysomeone elsewhoshedsnoDNAontoit."Jd.Shealso
+opinesthattheDNAwasfoundinalocationthatsuggests itwouldpersistforalongtime
+becauseitwasprotected. /d.,p.19.
+GivenDr.Ballad'santicipated testimony, Ms.Nowlin's rebuttalisproper.Shewill
+discusstheprocessofprimaryandsecondary transfer, thevariables affecting transferand
+persistence andwhysheisoftheopinionthattheDNAontheknifesheathwasmorelikelythe
+resultofadirecttransfer. Ofcourse,ifDr.Ballardlimitshertestimony onthestand,theCourt
+14Thislimitation includestheterms"touchDNA"and"contactDNA,"aswasrequested inthemotion.Inaddition,
+basedonMs.Nowlin's concernovertheterm"traceDNA,"theCourtwilladviseagainstitsuseaswell.
+13canreconsider thescopeofMs.Nowlin's rebuttal. However, basedonDr.Ballard's report,Ms.
+Nowlin's anticipated rebuttalisappropriate.
+V.ORDER
+Basedontheforegoing, Defendant's MotioninLiminere:RyleneNowlinandReference
+to"Touch"and"Contact" DNAisGRANTED, inpart,andDENIED,inpart.
+ITISSOORDERED.
+DATED 2025. ofApril,
+evenHipp!
+DistrictJudge
+14CERTIFICATE OFSERVICE
+herebycertifythaton4/18/2025servedatrueandcorrectcopyoftheORDERON
+DEFENDANT'S MOTION INLIMINERE:RYLENENOWLIN AND'TOUCH'AND'CONTACT' DNA
+LATAHCOUNTYPROSECUTING ATTORNEY'S OFFICE
+WILLIAM W.THOMPSON, JR.
+PROSECUTING ATTORNEY
+VIAEMAIL:paservice@latahcountyid.qov
+ASHLEYJENNINGS
+SENIORDEPUTYPROSECUTING ATTORNEY
+VIAEMAIL:paservice@latahcountvid.qov
+JOSHUAD.HURWIT
+SPECIALDEPUTYPROSECUTING ATTORNEY
+VIAEMAIL:paservice@latahcountvid.qov
+JEFFERYD.NYE
+SPECIALASSISTANT ATTORNEY GENERAL
+VIAEMAIL:jeff.nye@ag.idaho.gov
+MADISON ALLEN
+SPECIALASSISTANT ATTORNEY GENERAL
+VIAEMAIL:Madison.allen@aa.idaho.gov
+ANNETAYLORLAW,PLLC
+ANNEC.TAYLOR
+VIAEMAIL:info@annetaylorlaw.com
+ELISAG.MASSOTH, PLLC
+ELISAG.MASSOTH
+VIAEMAIL:emassoth@kmrs.net
+IDAHOSTATEPUBLICDEFENDER'S OFFICE
+FIRSTDISTRICT PUBLICDEFENDER
+JAYW.LOGSDON
+VIAEMAIL:jay.logsdon@spd.idaho.qov
+BICKABARLOW
+ProHacVice
+VIAEMAIL:bickabarlow@sbcqlobal.net
+TRENTTRIPPLE
+ClerkoftheCourt
+By:
+DeputyClerk4/8/2025 10:26:10am
+CERTIFICATE OFSERVICE

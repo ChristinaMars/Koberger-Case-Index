@@ -1,0 +1,150 @@
+Anne Taylor Law, PLLC 
+Anne C. Taylor, Attorney at Law 
+PO Box 2347 
+Coeur d’Alene, Idaho 83816 
+Phone: (208) 512-9611 
+iCourt Email: info@annetaylorlaw.com 
+El
+isa G. Massoth, PLLC 
+Attorney at Law  
+P.O. Box 1003 
+Payette, Idaho 83661 
+Phone: (208) 642-3797; Fax: (208)642-3799 
+Bi
+cka Barlow  
+Pro Hac Vice  
+2358 Market Street 
+San Francisco, CA 94114 
+Phone: (415) 553-4110 
+As
+signed Attorney:  
+Anne C. Taylor, Attorney at Law, Bar Number: 5836 
+Elisa G. Massoth, Attorney at Law, Bar Number: 5647 
+Bicka Barlow, Attorney at Law, CA Bar Number: 178723 
+Jay W. Logsdon, First District Public Defender, Bar Number: 8759 
+IN T
+HE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE 
+STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA  
+CASE NUMBER CR01-24-31665 
+AMENDED NOTICE OF FILING 
+DECLARATION I N SUPPORT  OF 
+DEFENDANT’S OBJECTION TO 
+THE STATE’S MOTION IN LIMINE 
+RE: T EXT M ESSAGES AND 
+TESTIMONY 
+COMES NOW, Bryan C. Kohberger, by and through his attorneys of record, and hereby 
+files the accompanying Declaration
+ of Josiah Roloff in support of their Objection to the State’s 
+AMENDED NOTICE OF FILING DECLARATION I N SUPPORT  OF 
+DE
+FENDANT’S OBJECTION  T O THE STATE’S MOTION IN LIMINE 
+RE: TEXT MESSAGES AND TESTIMONY       Page 1 STATE OF IDAHO  
+P
+laintiff,  
+V. 
+BRYAN C.
+ KOHBERGER,  
+D
+efendant.  Electronically Filed
+3/31/2025 2:08 PM
+Fourth Judicial District, Ada County
+Trent Tripple, Clerk of the Court
+By: Jennifer Keyes, Deputy ClerkAMENDED NOTICE OF FILING DECLARATION I N SUPPORT OF 
+DEFENDANT’S OBJECTION  T O THE STATE’S MOTION IN LIMINE 
+RE: TEXT MESSAGES AND TESTIMONY       Page 2 Motion in Limine RE Text Messages and Testimony filed with the Court on March 17, 2025. 
+DATED this ___31___ day of March, 2025. 
+_________________________________
+ 
+ANNE C TAYLOR  
+ANNE TAYLOR LAW, PLLC  
+CERTIFICATE O F DE LIVERY 
+I hereby certify that a true and correct copy of the foregoing was personally served 
+as indicated below on the __31____ day of March, 2025 addressed to: 
+L
+atah County Prosecuting Attorney –via Email: paservice@latahcountyid.gov 
+Elisa Massoth – via Email: legalassistant@kmrs.net  
+Jay Logsdon – via Email: Jay.Logsdon@spd.idaho.gov 
+Bicka Barlow, Attorney at Law – via Email: bickabarlow@sbcglobal.net  
+Jeffery Nye, Deputy Attorney General – via Email: Jeff.nye@ag.idaho.gov    
+Page 1 of 2 I, Josiah Roloff, declare as follows:  
+1.I am over the age of 18 and competent to testify in this matter.
+2.I am currently the President and Senior Digital Forensics Examiner at Roloff Digital
+Forensics LLC, a private digital forensics firm headquartered in Spokane, Washington. My
+firm provides digital forensic services and consulting in legal matters involving electronic
+evidence, including evidence derived from computers, mobile phones, memory cards, other
+electronic devices,  and datasets from third -party electronic service providers.
+3.My background in digital forensics includes a professional certificate in computer forensics
+from Oregon State University and New Technologies, Inc. (NTI); the Certified Computer
+Examiner (CCE) credential from the International Society of Forensic Computer
+Examiners; the EnCase Certified Examiner (EnCE) certification from Guidance Software;
+and multiple certifications from Cellebrite, including the Cellebrite Certified Logical
+Operator (CCLO), Cellebrite Certified Physical Analyst (CCPA), and Cellebrite Cer tified
+Mobile Examiner (CCME). I also hold an associate degree in applied science in network
+engineering from Spokane Community College and a bachelor's degree in liberal studies
+with an emphasis in program management from Whitworth University. A summary o f my
+qualifications is included in my attached Curriculum Vitae.
+4.I have worked exclusively in the field of digital forensics since 2003. During this time, I
+have conducted examinations on thousands of digital evidence items, including hard
+drives, CDs, DVDs, floppy diskettes, thumb drives, flash cards, magnetic tapes, t ablet
+devices, cellular phones, SIM cards, PDAs, smartphones, feature phones, and data
+obtained from internet service providers, cloud storage providers, and cellular service
+providers. I have worked on over 1,500 digital forensics cases involving these ty pes of
+media.
+5.In addition to my work as a digital forensics examiner, I regularly lecture on topics related
+to general and mobile digital forensics and their application in legal proceedings. In 2015,
+I co-authored the mobile forensics chapter in the Chapman and Hall/CR C publication
+Mobile Devices: Tools and Technologies . I have been recognized as a computer, digital, and
+mobile forensics expert in numerous United States District Courts, military courts, and
+state courts nationwide. I have been retained or appointed as a n expert consultant and
+expert witness in both criminal and civil matters, on behalf of both prosecution and
+defense. I have never failed to qualify as an expert in any civilian or military court.
+6.My firm’s clients include the United States Navy, Marine Corps, Army, Air Force, and
+Coast Guard; numerous federal and state public defender offices; and private attorneys
+throughout the United States, Europe, and Asia. I have examined digital evidence in cases
+involving allegations of homicide, sexual exploitation, solicitation, sexual assault,
+unauthorized system access, voyeurism, insider trading, espionage, kidnapping, arson,
+threats against government officials, and robbery, among other charges. 
+Page 2 of 2 
+ 7. As President of Roloff Digital Forensics, I lead a team of digital forensics examiners and 
+support staff who specialize in investigating alleged internet -related crimes and digital 
+evidence obtained from electronic sources. Since founding the firm, we have examined 
+thousands of computer hard drives, mobile devices, and electronic datasets. We regularly 
+advise attorneys on our findings and compare t hose findings against law enforcement and 
+third -party forensic reports.  
+ 
+8. I’ve been retained as a Digital Forensic Examiner (DFE) to assist Ms. Anne Taylor, Esq. 
+and the defense team in the Idaho vs. Br yan Kohberger  case. 
+ 
+9. I have reviewed the documents titled “DM 11.13 Bubble Format”  and “BM 11.13 Bubble 
+Format” , which contain data extracted from mobile devices used by individuals identified as 
+“DM” and “BM,” respectively. These documents reflect periods of activity on the mobile 
+devices  that would require user interaction with the device for them to occur , specifically 
+for the date of  November 13, 2022.  
+ 
+10. The documents include artifacts and content demonstrating a variety of user interactions, 
+including:  
+• Incoming and outgoing native text messages  
+• Incoming and outgoing Snapchat message  artifacts , indicated by the application 
+identifier “com.toyopagroup.picaboo”  
+• Voice and video calls conducted via Snapchat and the native phone dialer  
+• Creation, modification, and deletion of multimedia files such as images and videos  
+• Application usage logs showing when specific apps were opened and closed  
+• Internet browsing artifacts and “cookie” data showing access to particular websites or 
+internet -based services  
+ 
+I declare under penalty of perjury that the foregoing is true and correct to the best of my 
+knowledge, skill, and belief.  
+ 
+ 
+ 
+ 
+ 
+___________________________________________            ___________________  
+Josiah P. Roloff, EnCE, CCE, CCLO,  CCPA,  CCME  Date  
+President, Roloff Digital Forensics,  LLC  
+ 
+ 
+  
+ 
+ 
+3/26/2025

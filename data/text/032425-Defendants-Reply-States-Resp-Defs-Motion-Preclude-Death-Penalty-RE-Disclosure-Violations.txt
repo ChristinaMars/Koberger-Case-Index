@@ -1,0 +1,1130 @@
+REPLY TO STATE’S RESPONSE TO DEFENDANT’S MOTION TO  
+PRECLUDE THE DEATH PENALTY AND ADOPT OTHER NECESSARY  
+PROCEDURES RE: DISCLOSURE VIOLATIONS       Page 1   
+Anne Taylor Law, PLLC 
+Anne C. Taylor, Attorney at Law 
+PO Box 2347 
+Coeur d’Alene, Idaho 83816 
+Phone: (208) 512-9611 
+iCourt Email: info@annetaylorlaw.com 
+  
+Elisa G. Massoth, PLLC 
+Attorney at Law  
+P.O. Box 1003 
+Payette, Idaho 83661 
+Phone: (208) 642-3797; Fax: (208)642-3799 
+  
+Bicka Barlow  
+Pro Hac Vice  
+2358 Market Street 
+San Francisco, CA 94114 
+Phone: (415) 553-4110 
+  
+Assigned Attorney:  
+Anne C. Taylor, Attorney at Law, Bar Number: 5836 
+Elisa G. Massoth, Attorney at Law, Bar Number: 5647 
+Bicka Barlow, Attorney at Law, CA Bar Number: 178723 
+Jay W. Logsdon, First District Public Defender, Bar Number: 8759 
+ 
+ 
+IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE  
+STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA  
+ 
+ 
+CASE NUMBER CR01 -24-31665 
+ 
+ 
+REPLY TO STATE’S RESPONSE TO 
+DEFENDANT’S MOTION TO 
+PRECLUDE THE DEATH PENALTY 
+AND ADOPT OTHER NECESSARY 
+PROCEDURES  
+ 
+RE: DISCLOSURE VIOLATIONS  
+ 
+COMES NOW, Bryan C. Kohberger, by and through his attorneys  o f record , and hereby 
+replies to the State’s Response to his Motion to Preclude the Death Penalty and Adopt Other 
+Necessary Procedures RE: Disclosure Violations .   STATE OF IDAHO  
+ 
+                                   Plaintiff,  
+ 
+V. 
+ 
+BRYAN C. KOHBERGER,  
+ 
+                                   Defendant.  Electronically Filed
+3/24/2025 5:56 PM
+Fourth Judicial District, Ada County
+Trent Tripple, Clerk of the Court
+By: Jennifer Keyes, Deputy ClerkREPLY TO STATE’S RESPONSE TO DEFENDANT’S MOTION TO  
+PRECLUDE THE DEATH PENALTY AND ADOPT OTHER NECESSARY  
+PROCEDURES RE: DISCLOSURE VIOLATIONS       Page 2  The volume of discovery in this case is exceptional. One of the last highly publicized death 
+penalty case in Idaho involved three victims killed in separate incidents and a months -long 
+investigation spanning multiple states. The discovery in that case tota led less than five terabytes. 
+See Declaration of Mary Goody at 7, State v. Lori Vallow Daybell  (filed March 14, 2023) (attached 
+as Exhibit 1) (stating that discovery in the case exceeds four terabytes in a declaration filed two 
+weeks prior to trial). The discovery provided in this case, more than 68 terabytes, dwarfs that number. It is not only an extreme outlier in Idaho, but in the entire country—courts often refer to cases involving less than 5 terabytes of data as containing a very significant volume of  discovery. 
+See, e.g., United States v. Salyer, No. CR. S -10-0061- LKK, 2011 WL 1466887, at *1 (E.D. Cal. 
+Apr. 18, 2011)  (“It is probably no exaggeration to state that 1–2 terabytes of information are 
+involved… Of course, when one considers the terabytes of  information in this case are comprised 
+of thousands and thousands of individual records, the mass of documentation acquired in the investigation and turned over in discovery is extreme.”); United States v. Puckett , No. 3:15- CR-
+42, 2015 WL 1815728, at *2 (E.D. Tenn. Apr. 22, 2015) (“[D]iscovery in this case is voluminous, involving half a terabyte of information”); United States v. Valdez -Morales , No. 3:15- CR-56, 2016 
+WL 919029, at *9 (E.D. Tenn. Mar. 4, 2016) (“Mr. Roskind stated that the four terabytes of  
+discovery, the equivalent of about ten million files or documents, was the largest amount of discovery of any criminal case in which he had been involved.”); United States v. Hofstetter , No. 
+3:15- CR-27-TAV- CCS, 2018 WL 813254, at *14 (E.D. Tenn. Feb. 9, 2018) (“discovery in this 
+case is massively voluminous, consisting of well over a terabyte of data, approximately fifty compact discs containing audio and video recordings, and numerous i maged computer hard 
+drives”); United States v. Conley , No. 2:22CR147, 2023 WL 5807835, at *2 (E.D. Va. Sept. 7, 
+2023) (granting continuance in criminal case where the discovery totaled five terabytes, even where prosecution had “diligently assisted defense counsel in navigating the voluminous discovery materials”).  REPLY TO STATE’S RESPONSE TO DEFENDANT’S MOTION TO  
+PRECLUDE THE DEATH PENALTY AND ADOPT OTHER NECESSARY  
+PROCEDURES RE: DISCLOSURE VIOLATIONS       Page 3  To put this into perspective, it would take hundreds of reviewers several years to review 
+the discovery in this case:  
+One terabyte is generally estimated to contain 75 million pages, [and 
+therefore] a one- terabyte case could amount to 18,750,000 
+documents, assuming an average of four pages per document. Further assuming that a lawyer or paralegal can review 50 documents per hour (a very fast review rate), it would take 375,000 hours to complete the review. In other words, it would take more than 185 reviewers working 2,000 hours each per year to complete the review within a year [for a one terabyte data case].”  
+ 
+Jenia I. Turner , Managing Digital Discovery in Criminal Cases , 109 J. of Crim. L. and 
+Criminology 237 (2019) at 249 n.70 (citations omitted). For video files, 1 TB is estimated to hold 
+around 1,000 hours or about 40 days of video files. Id.  Extrapolating to this case, even assuming 
+for the sake of simplicity that all 68 terabytes consisted of video files, which take up significantly more space than documents and audio files, it would require 2,560 days or more than seven years to review all of the footage.  
+Contrary to the State’s assertion, the prosecution and defense are not “on the same playing 
+field.” State’s Response at 4. The prosecution has had the assistance of hundreds of investigators, law enforcement officers, prosecutors, and administrative staff from several different state and federal agencies working on this case and collecting, reviewing, and analyzing evidence. In addition to sheer manpower, the prosecution is using expensive, technologically powerful case management software that the defense does not have access to. According to its website, their case management system “Prosecutor by Karpel” allows for prosecutors to tag individuals in the case and pull up all documents related to them —both within a case and across cases; has a global search 
+function to search all discovery and case documents at one time and even generate reports from such searches; and allows external individuals and agencies read -only access to the case and the 
+ability to upload documents directly into the case system. See Prosecutor by Karpel, PbK: Case 
+Management Software with Efficiency Enhancing Features , Person Centric  (“Comprehensive 
+search and organization of data by person… Every time you update information on this person, REPLY TO STATE’S RESPONSE TO DEFENDANT’S MOTION TO  
+PRECLUDE THE DEATH PENALTY AND ADOPT OTHER NECESSARY  
+PROCEDURES RE: DISCLOSURE VIOLATIONS       Page 4  the system automatically aligns the previous information”)1; id. at Information Management 
+Features Enable Your Prosecutors to Do More in Less Time  (“Sifting through search results and 
+going through mountains of paperwork just to find one piece of information saps valuable time 
+that could be spent on more important tasks. PROSECUTORbyKarpel provides a wealth of 
+features designed to not only find what  you are looking for fast, but also to easily generate a report 
+and share it with relevant parties.”)2; id. (“PROSECUTORbyKarpel has a powerful relational 
+database that features broad search capabilities, so you can find your case information quickly and 
+easily.”); id. at PbK Intergrates with the Court, Law Enforcement, Software, and More, External 
+Agency Portal (“PROSECUTORbyKarpel‘s External Agency Portal allows your justice partners 
+“view only” privileges to basic case information and the ability to attach and submit supplemental 
+media/documents to the Prosecutor’s Office electronically.”).3  
+The system also has the capacity to integrate with advanced evidence -management 
+software including Axon Justice’s Evidence.com, which has artificial intelligence capabilities 
+including automatic transcriptions of audio and video files.4 See, e.g ., “Axon Evidence User and 
+Administrator Reference Guide,” Axon Auto- Transcribe a p.174 (“No more having to watch every 
+ 
+1 Available at https://www.prosecutorbykarpel.com/efficiency (last visited March 22, 2025), saved 
+at 
+https://web.archive.org/web/20250322141834/https://www.prosecutorbykarpel.com/efficiency/.  
+2 Available at https://www.prosecutorbykarpel.com/information- management/ (last visited March 
+22, 2025), saved at 
+https://web.archive.org/web/20250322142619/https://www.prosecutorbykarpel.com/information
+-management/.  
+3 Available at https://www.prosecutorbykarpel.com/integrations/#services (last visited March 22, 
+2025), saved at 
+https://web.archive.org/web/20250322143312/https://www.prosecutorbykarpel.com/integrations
+/#services.  
+4 The defense does not know the extent to which prosecutors and LEOs at different agencies 
+working on this case have access to such software, but they are widely available to the government 
+and to law enforcement agencies. For example, the Latah County Sher iff’s Office recently 
+contracted with a similar technologically advanced evidence management software called “POLARIS by Utility.” See  https://www.utility.com/news/2024/04/19/latah -county -sheriffs -office -to-
+purchase -a-new-state-of-the-art-digital- evidence -system/.  REPLY TO STATE’S RESPONSE TO DEFENDANT’S MOTION TO  
+PRECLUDE THE DEATH PENALTY AND ADOPT OTHER NECESSARY  
+PROCEDURES RE: DISCLOSURE VIOLATIONS       Page 5  moment of digital evidence. Instead, users can simply scan the auto- transcript to quickly survey 
+what happened and jump to the significant section by clicking on the spoken words.”).5 
+Despite access to sophisticated technology, the prosecution has not organized the discovery 
+in a way that facilitates review. PDF files are provided without names that correspond to their 
+contents. Individual PDF files contain several documents grouped together into one file. For 
+example, a single pdf file might contain 17 different documents and be labelled “Kohberger 
+Unredacted 550- 750.”  Thus, the defense must manually scroll through each PDF file to discern 
+the number and type of documents it contains. Because the State protects each pdf with a password, 
+it is extremely cumbersome to then separate the combined PDF into individual documents, which would allow the defense to rename and organize the documents individually. The State has refused 
+to either pr ovide the password or cease password- protecting the pdfs despite several requests.  
+While redacted documents are sent through the case management system’s integrated email 
+system, the State provides hard drives containing audio and video files (without transcriptions) 
+and unredacted reports that the defense must pick up in person. They must then be manually loaded 
+into a shared storage file for defense team access. The subfolders of video and audio files must be 
+recreated in the defense system one by one and the files then uploaded into each. Because 
+transcripts were not routinely provided, even once these video or audio files are uploaded into the 
+defense system, they are not searchable.  
+Without the sophisticated technology that the prosecution has access to, the defense cannot 
+conduct global searches of the documents turned over, nor “tag” individuals or topics in order to 
+catalogue or group relevant documents together. It is necessary to individually open up a PDF in 
+ 
+5 Available at 
+https://public.evidence.com/help/pdfs/latest/EVIDENCE.com+Administrator+Reference+Guid
+e.pdf , saved at 
+https://web.archive.org/web/20250310170651/https://public.evidence.com/help/pdfs/latest/EV
+IDENCE.com+Administrator+Reference+Guide.pdf.  REPLY TO STATE’S RESPONSE TO DEFENDANT’S MOTION TO  
+PRECLUDE THE DEATH PENALTY AND ADOPT OTHER NECESSARY  
+PROCEDURES RE: DISCLOSURE VIOLATIONS       Page 6  order to use text search, and therefore the defense team cannot search the discovery unless it knows 
+that something already exists and approximately where to find it.  
+The State’s assertion that it has provided an index of the discovery is misleading. The 
+“index” is really an accounting of hard drives and groups of files and the dates they were turned over; it does not address the overarching problems regarding lack of o rganization, labels, and 
+clarity about what is actually being discovered. For example, within the discovery response the State likens to an index, there is a chart that identifies almost the full range of videos provided in this case—nearly 1,000 —in which the only descriptions are “audio/video files.” See State’s 
+Response and Supplemental Responses to Defendant’s Discovery Requests for Discovery (Sept 4, 2024) at 25. The same exists for large numbers of documents; for example, nearly 16,000 pages of Bates Stamped documents” is described as “documents and r eports,” and a “Hard Drive” given 
+on a specific date contains “FBI One Drive – Production [number redacted].” Id.  at 3. There are 
+also several places in which the State asserts it has provided something rel ated to a specific topic 
+and then provides examples, specifically stating that the relevant documents and video/audio files “include but are not limited to” those listed, making it impossible to know whether other relevant documents exist with the 68 terabytes of discovery.  While there are some entries that provide more detail and can accurately be likened to an “index,” such as a list of reports by name beginning on page 7, this accounts for an extremely small fraction of the discovery provided in the cas e.  
+Nor has the State facilitated defense review of the discovery in any other manner, such as 
+by providing a list of “hot documents” or by outlining the evidence they intend to use in a presentation to the defense. These types of efforts are common in large c ases, even when those 
+cases contain multitudes less discovery than here. See, e.g., United States v. Bussey , No. 5:21- CR-
+9, 2024 WL 4879865, at *3 (S.D. Ga. Nov. 25, 2024) (in case involving 15 terabytes of data, the government took several steps to facili tate review including (1) providing an inventory of 
+discovery; (2) organizing the discovery by seizing and producing agency, by category or type of REPLY TO STATE’S RESPONSE TO DEFENDANT’S MOTION TO  
+PRECLUDE THE DEATH PENALTY AND ADOPT OTHER NECESSARY  
+PROCEDURES RE: DISCLOSURE VIOLATIONS       Page 7  evidence, by individuals, and by H -2A petitions, (3) offering assistance to defense counsel in 
+reviewing discovery, explaining what was produced, and explaining how the productions were 
+organized; and (4) meeting with defense counsel to present a PowerPoint outlining the evidence against the client); United States v. Skilling , 554 F.3d 529 (5th Cir. 2009) (the government provided 
+a searchable electronic file, produced an index of “hot documents” indicating the documents that were important to its case as well as to documents that included potentially exculpatory evidence, and created a number of other databases to assist the defense’s review of the evidence); United States v. Perraud, No. 09- 60129- CR, 2010 WL 228013, at *11 (S.D. Fla. Jan. 14, 2010) (“the 
+Government has separately directed Defendants to the materials it deems to be most relevant to this case, and it has given Defendants an index to the remaining searchable database to enable 
+Defendants to focus their review efforts on those documents most likely to be relevant to Defendants' defense. Moreover, the United States has provided Defendants with the same search capabilities upon which the Government must rely in reviewing the materials in the database.”); 
+cf. Salyer , 2011 WL 1466887, at *5 (“When the amount of information in a criminal case reaches 
+the hundreds of gigabytes/terabyte stage, the government should consider whether everyone is better served if this information is placed in a common data base.”) (citation s omitted); id . at 6 (“It 
+is also clear that the defense team does not have access to the number of support staff available to the government. Even with a searchable data base, either from multiple sources or a common data base, culling the pertinent information with a degree of accuracy w ill take time.”); 
+The volume and format of discovery—which has been a constant issue in this case—is the 
+backdrop to the present circumstances requiring relief. The State wants to paint away the problem by reducing it entirely to the size of the case. See State’s Response at 10 (“in essence the Defendant 
+is arguing that in cases that involve a large amount of discovery such as this one, the death penalty cannot be pursued because there is so much information for defense counsel to review prior to trial”). B ut the death penal ty must be precluded because whether by design or inattention, the REPLY TO STATE’S RESPONSE TO DEFENDANT’S MOTION TO  
+PRECLUDE THE DEATH PENALTY AND ADOPT OTHER NECESSARY  
+PROCEDURES RE: DISCLOSURE VIOLATIONS       Page 8  defense continues to be inundated with late discovery and late expert disclosures mere months 
+prior to trial, creating an untenable situation. This Court set a discovery deadline in September 2024 and an expert disclosure deadline of January 2025. Pursuant  to that scheduling order, the 
+defense would have had 10 months to engage with the discovery and determine priorities in preparation for trial, and more than six months to be aided in that review by completed expert disclosures largely laying out the State ’s case. But the State has not abided by these deadlines; for 
+example, the State just turned over discovery that the defense specifically asked for more than one year ago. Among the documents are things dated November 2023—things that existed long before the State’s discovery deadline and could have been turned over more than a year ago. And the late 
+expert disclosures continue to roll in, even after the Motions in Limine deadline.   
+As one court explained, each disclosure creates a cascading set of responsibilities for 
+defense counsel; in addition to reviewing its contents, defense counsel must also file any relevant pretrial motions, the court must hold hearing on those motions and i ssue an order, and then the 
+defense must integrate the information and “prepare for trial in light of those rulings.” United States v. Covington, No. 3:15- CR-23, 2015 WL 3883522, at *2 (E.D. Tenn. June 24, 2015) 
+(granting continuance in criminal case invol ving four terabytes of data, described by the 
+government as “an immense universe of discovery”). Thus, each and every late disclosure requires attention to be turned to the new disclosure, and to the attendant follow -up investigation, rebuttal, 
+and/or litigation, and away from preparing for trial in a streamlined manner. There is truth to the assertion that “the facts before the Court in Kohberger's case are nothing like the facts before the Court in the Vallow case.” State’s Response at 10. They are signif icantly worse because of the 
+State’s discovery abuses.     As the State correctly points out, the judge precluded the death penalty in the Vallow 
+Daybell case after the State turned over 100 hours of jail calls one (1) day after the discovery deadline and two weeks before trial. Though it would technically be pos sible to listen to all 100 REPLY TO STATE’S RESPONSE TO DEFENDANT’S MOTION TO  
+PRECLUDE THE DEATH PENALTY AND ADOPT OTHER NECESSARY  
+PROCEDURES RE: DISCLOSURE VIOLATIONS       Page 9  hours of recordings in two weeks, the Court recognized that the size and complexity of the case 
+mattered. The Court concluded that the “problem here is a timing problem” and that “prejudice has occurred because of the proximity to trial, the volume of disc overy, and the inability of the 
+defense to adequately review that discovery before trial begins.”  State’s Response at 8- 9 (quoting 
+video proceedings of hearing). The mitigation specialists’ declaration, see State’s Response at 8, 
+explains the prejudice of  late disclosures in a case already involving four terabytes of discovery:  
+Sifting through such a huge number of investigative documents, 
+audio and video files, and metadata and other scientific evidence, and determining how each piece of information applies to either the fact or mitigation (or both) sides of the defense case is a very time -
+consuming job. There is absolutely no time to begin investigating new information after determining how it relates to the mitigation case.  
+ 
+Declaration of Mary Goody, Exhibit A, at 7. The Court determined that precluding the death 
+penalty was less severe than excluding some of the State’s witnesses or evidence, and that precluding the death penalty under the circumstances was consistent with t he heightened scrutiny 
+and due process guaranteed to defendants in capital cases. See id. at 9 -10.   
+Here, the discovery problems have existed throughout this case, requiring near -constant 
+litigation and significant time. The volume of discovery is an extreme outlier even in other cases involving massive amounts of data. The State has not complied with this Court’s deadlines and thus has derailed counsel’s review of the State’s case and evidence in the months before trial. Like in the Vallow Daybell case—but in a much more extreme fashion—“prejudice has occurred because of the proximity to trial, the volum e of the discovery, and the inability of the defense to 
+adequately review that discovery before trial begins.” Id . at 9.  
+The Due Process Clause requires a “balance of forces” between the accused and his 
+accuser. See Wardius v. Oregon, 412 U.S. 470, 474 (1973). The Eighth Amendment requires a 
+heightened standard to be applied to capital cases —and therefore lesser prejudice is required to 
+preclude the death penalty in an effort to “balance the forces” of due process. See, e.g.,  United REPLY TO STATE’S RESPONSE TO DEFENDANT’S MOTION TO  
+PRECLUDE THE DEATH PENALTY AND ADOPT OTHER NECESSARY  
+PROCEDURES RE: DISCLOSURE VIOLATIONS       Page 10  States v. Lopez -Matias , 522 F.3d 150, 154 n.9 (1st Cir. 2008) (“[In a capital case] when the stakes 
+are so high, a smaller quantum of prejudice may justify a sanction. And, as discussed above, 
+striking the Notice is not quite as serious as dismissing the indictment altogether, and so perhaps still less prejudice is required.”). If this proceeds as a non -capital case, heightened due process is 
+not required, nor will heightened scrutiny be applied on appeal if a conviction results, and thus all parties are mo re likely to obtain a final outcome at trial. Thus, the prejudice to the prosecution in 
+precluding death is relatively small—they can still seek a death -in-prison sentence. On the other 
+hand, the prejudice to Mr. Kohberger in proceeding to a capital trial under such circumstances is unconstitutionally grave. While the prosecution seemingly suggests, (without having the fortitude to make the outright request) a continuance as a remedy, State’s Response at 9- 10, that is not a fair 
+nor a sufficient remedy. Mr. Kohberger is being held without bond; it is patently unfair to restrict 
+his freedom for months or years to come in order to fix a problem that has been and continues to be within the government’s control.  
+Moreover, the Sixth Amendment right to a speedy trial belongs not only to a criminal 
+defendant, but to the public. There is a “societal interest in providing a speedy trial which exists separate from…the interests of the accused.” Barker v. Wingo , 407 U.S. 514, 519 (1972). This 
+Court has been clear that trial will proceed on schedule and the State has long been aware of this date. Precluding the death penalty is the only way a 2025 trial can be accomplished in accordance with the state and federal  constitutions. 
+DATED this ___ 24____ day of March , 2025. 
+         
+      BY:  _____________________________ 
+        ANNE C. TAYLOR  
+        ANNE TAYLOR LAW, PLLC  
+ 
+REPLY TO STATE’S RESPONSE TO DEFENDANT’S MOTION TO  
+PRECLUDE THE DEATH PENALTY AND ADOPT OTHER NECESSARY  
+PROCEDURES RE: DISCLOSURE VIOLATIONS       Page 11   
+ 
+CERTIFICATE OF DELIVERY 
+ 
+I hereby certify that a true and correct copy of the foregoing was personally served as 
+indicated below on the ___24___ day of March , 2025 addressed to: 
+ Latah County Prosecuting Attorney –via Email: paservice@latahcountyid.gov
+ 
+Elisa Massoth – via Email: legalassistant@kmrs.net  
+Jay Logsdon – via Email: Jay.Logsdon@spd.idaho.gov  
+Bicka Barlow, Attorney at Law – via Email: bickabarlow@sbcglobal.net  
+Jeffery Nye, Deputy Attorney General – via Email: Jeff.nye@ag.idaho.gov   
+        
+      
+ 
+ 
+1
+CR01-24-31665
+3/24/25DECLARATION OFMARYC.GOODY
+STATEOFWASHINGTON
+ss.
+CountyofCLARK
+COMESNOW,MartyC.Goody,afterbeingdulysworn,doesherebystate
+asfollows:
+J.CREDENTIALS
+I.Iamamitigation specialist inprivatepracticelocatedat26605NE
+96'"Court,BattleGround,Washington, 98604.Ihavebeeninprivate
+practicesinceOctoberof1991.Myresumeisattached tothisAffidavitas
+(Attachment 1).Ihaveworkedasamitigation specialist ondeathpenalty
+casessinceJulyof1985.
+2.Iamtheretainedmitigation specialist inStateofIdahov.LoriVallow
+Daybell.
+3.Since1985Ihaveworkedonover120capitalmurdercasesonwhichI
+haveconducted preliminary andextensive socialhistoryinvestigations,
+prepared socialhistoryandchronological reports,assisting attorneys inthe
+preparation ofapenaltyphasecaseatatrial;orathearinginapost-
+conviction proceeding. Ihaveworkedoncapitalcasesatthestatelevelin
+Oregon,Colorado, Missouri, Kansas,Washington, Idaho,Wyoming,
+California, Utah,andArizona.Ihaveworkedon16Federaldeathpenalty
+triallevelcasesinthestatesofMexico,RhodeIsland,Michigan,
+Kansas,Utah,Iowa,NorthDakota,Arizona,andMissouri.
+4.[haveparticipated incontinuing education sinceIbeganworkingasa
+mitigation specialist. [haveattended localandnationaldeathpenalty
+seminars beginning in1985inOregon.Averystrongemphasis hasalways
+beenplacedonfullyinvestigating everyaspectoftheclient'slife.The
+overriding themeofthesetrainings isthatamitigation specialist must
+exhaustively investigate thecasewithspecialemphasis placedontheeffects
+thatfamilyhistory,trauma,mentalhealth,andmultipleotherfactors
+é
+DEFENDANT'S
+EXHIBITNO.
+IDENTIFICATION EVIDENCE
+CASENO.
+DATE:1togetherplayaroleinunderstanding theactionsoftheclient.Counsel, fact
+investigators, andothermembers oftheteamshouldworktogetherwiththe
+mitigation specialist toimmerse themselves intheclient'slifehistory,in
+orderthatadocumented storycanbepresentedtothetrieroffactinaneffort
+toavoidadeathsentence.
+5.Myspecialized trainingincludesseminars putonbytheOregon
+CriminalDefenseLawyersAssociation, California Attorneys forCriminal
+Justice,National LegalAidandDefender Association, HabeasCorpus
+Resource Center,FederalResource CounselStrategySessions, ARC,and
+othersonayearlybasis.Afocusofthetrainingistoemphasize thatattorneys
+representing deatheligibledefendants mustformteamsofqualified persons
+toworkontheircases,andthatthehighestqualitybackground
+investigations mustbeperformed bymitigation specialists toensurethata
+lifesaving defensebedeveloped fortheclient.
+6.'Thedescription oftheroleofamitigation specialist thatIgivebelow
+represents theprevailing professional normsforpracticeofmitigation
+specialists workingintheUnitedStatesatthestateandfederalTevelatthe
+presenttime.
+7.'Theroleofamitigation specialist inacapitalcaseistoassistthe
+attorneys representing adeatheligibleclientininvestigating andpreparing a
+socialhistorythatfullyfocuseshisorhereffortstowardsunderstanding the
+broaderenvironment thathasaffectedtheclientduringhislife,andthrough
+thisunderstanding, buildthelifehistoryoftheclient.Thepurposeofthe
+investigation istogatherpersonal andbackground information aboutthe
+clientthatwillnotonlyhumanize theclient,butalsofullyrebutthe
+ageravation evidence theStateintendstoofferinsupportoftheirrequestfor
+adeathsentence. 'hemitigation specialist andothermembers oftheteam
+mustcreateamitigation themebasedupontheclient'slifehistory. rhe
+themeexplainstheconductofthedefendant overalifetime.Thecoreteam,
+throughthecombined effortsofatleasttwocounsels, themitigation
+specialist, factinvestigators, andotherexpertsasneeded,shouldutilizethat
+themethroughout theentiretyofthecase,frommotionhearings, to
+negotiations, totrialpreparation, voirdire,themerits,andpenaltyphase
+portionsofthecase.'hemitigation themeis,therefore, thefoundation for
+otherworkinthecasethatmayleadtoasentence otherthandeath.
+28.Amitigation investigation producesawealthofinformation aboutthe
+clientthatactsasawindowintothelifeofadefendant onthedayhe/she
+committed themurder.Theinvestigation beginswithlittle,ornothing
+knownabouttheindividual exceptwhatiscontained inthediscovery and
+theknowledge thatacrimehasbeencommitted. 'Thecoreteamisformedas
+soonaspossibleaftertheappointment ofcounselandbeginsmeetingwith
+theclient,explainingthelifehistoryinvestigation process,answering
+questions, andearnestly workingtoestablish atrustingrelationship with
+him/her. Theclientmustunderstand whythecoreteamneedstounderstand
+theenvironment inwhichtheclienthaslivedhis/herlifesoalltheaspects
+thatformedthatperson'slifetrajectory canbeexplained toajuryinthe
+varioustrialphasesthroughwitnesses, andexhibits. "Themitigation
+specialist willbeginaseriesofmeetings withtheclientforextended periods
+oftimethroughout thelifeofthecasetolearnabouttheprogression of
+his/herlife,andhowhe/shehasperceived thoselifeevents.Extensive notes
+mustbemadeoftheseconversations, topreserve asmanynamesaspossible
+ofpeopletouching thelifeofthedefendant, andplaceswherebackground
+documents canbeobtained. Themitigation specialist willbegintogather
+documents spanning thelifeofthedefendant. Asinformation isgathered
+andpeopleareinterviewed, themitigation specialist returnstodiscussthe
+newinformation withtheclient,makingsurehe/shehasampletimetoreflect
+andrespond.
+9.Itisimportant tofullyinterview thedefendant's family,discussing the
+eventsofhoweachofthemhasfaredthroughout theirlives.Inquirymustbe
+madefromthedefendant andhis/herfamilymembers abouttheplaceswhere
+theclientlived,hismedical,mentalhealth,marital,religious, military,and
+educational history.4
+amilymembers mustbeaskedabouttheirown
+education, medical,mentalhealth,andotherhistories. Othertopicstobe
+discussed includetraumatic events,addiction history,previous arrests,
+incarcerations, orjuvenileincarcerations ortreatment, tonameafewareasof
+questioning. Itisimportant todiscusswiththeclienthis/herexperiences in
+allthesefacilitiesandsituations andcontinually askfornamesofothers
+whomwemightinterview abouttheclient.Listsofmaterials andwitnesses
+arecompiled andthesepersonsarelocatedandinterviewed. Oftenthese
+contactsarecontinuing throughout thepreparation ofthecasebecausemore
+leadstodocuments andwitnesses comefrominterviews andreviewing
+3collected documents. Meticulous requests aremadeforallrecords
+associated withtheclientorhisfamilysuchasbirthcertificates, birth
+records,school,medical,counseling, military,socialsecurity,and
+incarceration. Itisalwaysnecessary toinvestigate theenvironments or
+neighborhoods thattheclientwasraisedinasindividuals otherthanfamily
+members areoftenmoreawareofthepsychosocial stressorsaffecting the
+well-being ofthedefendant ortheneighborhood.
+io.Asdocuments andinformation arecollected, theymustbescrutinized
+forimportant facts.Schoolandjuvenileinstitutional recordsoftencontain
+thenamesoffosterparents,orguardians notreadilyremembered bythe
+client.Educational recordscontaininformation regarding earlyintelligence
+testscoresandabsences fromschool.Draftsshouldbestartedofvarious
+kindsofcompilations ofinformation suchasachronology ofsignificant
+events,listsofdocuments requested, listofaddresses wheretheclienthas
+lived,listsofwitnesses tobeinterviewed andhowtheyfitintotheschemeof
+theclient'slife,listsofdocuments thathavebeendestroyed. Careful
+documentation ofeffortstocollectinformation canleadtomotionstoask
+thatdeathnotbeconsidered asapenaltyastoomanyvitalpiecesof
+background information aredestroyed. "hecoreteammustmeetoftento
+discusstheprogress oftheinvestigation, andtheimportant aspectsthatare
+emerging. 'Theteamthenconsultswithvariousexpertstodetermine what
+kindofevaluations willbestassisttheminexplaining theclienttoa
+sentencing body.Oftentheresultsofthelifehistoryinvestigation, combined
+withtheevaluations oftheexpertsproduces anopportunity forcounselto
+negotiate withtheprosecution.
+"Themitigation investigation iscriticaltotheinformation offered
+aboutthedefendant attrial.Thejurymusthaveacomplete understanding of
+howthedefendant hasbeenaproductofhis/herenvironment, his/hermental
+healthfunctioning, andhis/herfamilialnurturing, orthelackthereof.This
+information explainstheclient.Theteammustpersonally interview the
+witnesses exploring anddocumenting thestoriesthewitnesses tell.Often
+theclientdoesnotfullyremember criticaleventsfromhis/herpast,or
+becauseofamentalhealthillnesswillminimize theimportance offormative
+experiences. Themitigation specialist mustthenfurtherdelveintothese
+factsandlocatewitnesses whocancorroborate theseimportant events.
+412.Themitigation investigationmustcoverallaspectsofthedefendant's
+lifeandisnotcomplete withoutacontinuous flowofbackground
+information frombeforethebirthofthedefendant tothepresenttimeof
+his/herlife.Theinvestigation seekstolookbackintothelifehistoryforat
+leastthreegenerations. 'hegoaloftheinvestigation istohelpthejury
+understand thedefendant aswellasiftheyhadreadabiography ofhis/her
+life.Tomakeaninformed choiceaboutwhatexistingbackground factorsare
+mostsuitedtoaparticular defense, allinvestigative leadsmustbevigorously
+pursued. Itisnotuncommon thatfamilymembers orothercloseassociates
+ofthedefendant areunableorunwilling torecallre-traumatizing, painful
+memories andthemitigation specialist mustbesensitive tothese
+impairments andproceedtofollowinvestigative leadswithcareandconcern
+forthosebeinginterviewed. Themitigation specialist needsthetimeto
+makeathoughtful andrelentless searchforwitnesses whoremember the
+clientandhis/herfamily-
+thetimetoestablish arapportwiththosewitnesses
+touncoverthecruciallifehistoryinformation sovitaltoapenaltyphase
+presentation.
+13.TheUnitedStatesSupreme Courthasrepeatedly statedthat"Death
+isdifferent" fromanyotherpenalty,andthustheinformation neededbya
+sentencing bodytomakethesentencing decisionmustbeverifiedand
+reliable. Woodson v.NorthCarolina, 428U.S.280,305(1976.))TheCourt
+aslongagoas1978,statedthatthesentencer shouldbeallowedtoconsider
+"asamitigating factor,anyaspectofadefendant's character orrecord...that
+thedefendant proffersasabasisforasentence lessthandeath."(Lockettv.
+Ohio,438U.S.586,604(1978.)LockettWasoneofthefirstcasesto
+emphasize thattherecanbemanydifferent facetstothemitigation
+investigation andultimatepresentation.
+14.In2003,theAmerican BarAssociation adoptedtheRevisedABA
+standards pertaining tocapitaldefenseworkandincorporated thepreviously
+adopted1989Guidelines andprovided thatasentencing phases/ould
+comprise effortstodiscoverallreasonably available mitigation evidence and
+evidence torebutanyaggravating evidence thatmaybeintroduced bythe
+prosecutor. Guideline #11.4.1(C.) ABAGuidelines fortheAppointment
+andPerformance ofCounselinDeathpenaltyCases©(1989).These
+Guidelines weredeveloped toprovideguidance tothosepeoplerepresenting
+deatheligibleclientsandtoestablish prevailing professional normsfor
+5practice. IntheIntroduction tothe1989Guidelines, itexpressly statesthat,
+theyenumerate theminimalresources andpractices necessary toprovide
+effectiveassistance ofcounsel.VheGuidelinesfurtherstateinthe
+Commentary that."Chelawyeralsohasasubstantial andimportant roleto
+performinraisingmitigating factorsbothtotheprosecutor initiallyandto
+thecourtatsentencing. Investigation isessential tofulfillment ofthese
+functions". Commentary, pg.4-55.In2008,theSupplementary Guidelines
+fortheMitigation Function ofDefenseTeamsinDeathPenaltyCaseswere
+published (36HofstraL.Rev.677) toclarifytheroleofthemitigation
+specialist asanintegralmemberoftheteam.Lawyersaregenerallyoe
+unprepared andillequipped todiscovermitigating evidence without
+expertassistance. "Chespecialskillsandabilitiesnecessary toobtainsensitive
+andsometimes embarrassing evidence aboutaclient'slifeexperiences from
+familymembers andothersourcesareoftenbeyondtheabilitiesofeventhe
+mostskilledcourtroom lawyer."GEEABAGuidelines, note1atGuideline
+4.1.)TheABAandtheSupplementary Guidelines fortheMitigation
+Function ofDefense'TeamsinDeathPenaltyCases,HofstraLawReview,
+Vol.36,Issue3,Article5."-
+attached asAttachment 2.)
+15.InadditiontotheGuidelines, inmyworkIrefertosignificant legal
+decisions thatspecifically addresstheimportance ofacomprehensive
+mitigation history,suchasWoodson v.SouthCarolina, 428U.S.280,304
+(1976),Lockettv.Ohio,438U.S.586andothermorerecentcases,suchas
+Williamsv.Taylor529U.S.362(2000),Wigginsv.Smith,539U.S.510
+(2003)andRompilla v.Beard545U.S.374(2004.)Thesedecisions provide
+guidance toattorneys andthoseinvolvedinmitigation investigations, asthey
+emphasize theneedforthedevelopment andpresentation ofadetailed
+pictureofthedefendant's lifehistorybackground; hischaracter; hismental
+healthhistory,presenting causeandeffectofhislifehistoryuponhismental
+health;andlifeexperiences whichimpacted him.InWiggins,applyingthe
+Guidelines, theSupreme Courttellsusthattrialcounselmust"undertake to
+discoverallreasonably available mitigation evidence andevidence torebut
+anyaggravating evidence thatmaybeintroduced bytheprosecutor."
+Wigginsv.Smith,539U.S.510,524(2003)(underline inoriginal).
+16."TheWigginscaseisespecially meaningful asitdiscusses thedifficulties
+posedwhenonlyhalf-heartedly investigating amitigation case."Inassessing
+thereasonableness ofanattorney's investigation, however, acourtmust
+6consider notonlythequantum ofevidence alreadyknowntocounsel,but
+alsowhethertheknownevidence wouldleadareasonableattorneyto
+investigate further." Wigginsv.Smith,539U.S.510,525(2003).
+17.
+NoreneVallowDaybell,totheextentpossible, giventhetimeconstraints, in
+accordance withmydutiesasamitigation specialist inthiscase.have
+determined thatasignificantamountofimportant information bothinthe
+formofdocuments andwitnesses exist.Inadditiontotheavailable
+information areleadsofunknown originthatwouldundoubtedly comeupas
+theteampursuestheinformation wehaveuncovered orlearnedofthrough
+thediscovery alreadyprovided tousinthiscase.Ihaveconducted amitigation investigation ofthebackground ofLori
+18.Thediscovery inthiscase(atmylastinformation) exceedsfourterabytes.
+Thisisanincredible amountofinformation, someofwhichhasonlyrecently
+beengiventotheDaybelldefenseteamjustpriortothediscovery cutoff,and
+afterwards. TheState,alongwiththeircadreoflawenforcement officials,
+hashadthisinformation possiblyforthreeyearspriortothedefenseteam
+beginning theirworkinthelatespringof2022.Siftingthroughsuchahuge
+numberofinvestigative documents, audioandvideofiles,andmetadata and
+otherscientific evidence, anddetermining howeachpieceofinformation
+appliestoeitherthefactormitigation (orboth)sidesofthedefensecaseisa
+verytime-consuming job.hereisabsolutely notimetobegininvestigating
+newinformation afterdetermining howitrelatestothemitigation case.I
+mustadmitthat,becauseoftheclient'sinsistence onmaintaining herspeedy
+trialrights,Ihavenotbeenabletocompletely reviewthediscovery we
+alreadyhave.Therecentdisclosures makereviewing thecomplete discovery
+information frankly,impossible. 'Therecentadditionofnumerous witnesses,
+listedwithoutidentifying information, orasummary ofwhattheirtestimony
+wouldbeatthislatedateconstitutes agrossmiscarriage ofjusticeaseven
+theStatemustadmitthatthedefensecannotbegintoinvestigate thisnew
+information ontheeveoftrial.
+19.Addingnewwitnesses suchastheStatehasproposed furtherhampers
+defenseinvestigators whohaveattempted tocontactnumerous witnesses
+endorsed bytheStatebuthavebeenunabletointerview thesewitnesses
+becausetheyhaveavoidedreturning phonecalls,textsmessages andignored
+business cardsleftattheirknownaddresses. Manyoftheseindividuals have
+7beenparticipants inmultimedia presentations orinterviews. Witnesses who
+havebeeninterviewed bythedefense,whohavealsobeenthesubjectof
+prime-time mediapresentations reportthatwhiletheywereinterviewed for
+substantial periodsoftime,theamountofmaterialpresented intheepisode
+theywerefeatured in,didnotaccurately portrayalltheinformation provided
+tonetwork, ornewsorganizations. Information giventonewsorganizations,
+butneverairedwouldverylikelycontaininformation criticaltodeveloping a
+mitigation case,especially forapersonsuchasMs.Daybell,whosuffers
+fromamentalillness.'heStatehasneverprovided thedefensewithallthe
+statements madebytheirwitnesses abouttheircontactswiththenews
+media.
+20.ItisafactthattheStateofIdahoisseekingthedeathpenaltyagainstMs.
+Daybellwhosuffersfromamentalillnesswithmultiplediagnoses, and
+conditions whichwereidentified bytheIdahoStateHospitalNorthbutnot
+ruledout.hesedetailsarewellknowntothepartiesandtheCourt.Based
+uponherfragilementalhealth,timeconstraints inthecase,andthe
+complexities indealingwiththevoluminous existingamountofdiscovery,
+shouldthisadditional discovery beallowed,Iwouldbefurtherprecluded
+fromconducting mycustomary andreasonable mitigation investigation in
+LoriVallowDaybell's case.AllowinginanyoftheState'snewdiscovery after
+thediscovery cutoffdateprevents mefromconducting thetypeofmitigation
+investigation whichadherestotheprevailing professional normsofpractice
+indeathpenaltycases.
+MaryC.Marya
+Date:3/14/23
+8Resume
+MaryC.GoodyMitigation Specialists
+MaryC.Goody
+26605NE96thCourt
+BattleGround,WA98604
+(307)690-5563; fax(360)666-9132
+email:marygoody65@gmail.com
+PSID34002;WALIC#3044
+PROFESSIONAL EXPERIENCE
+MITIGATION SPECIALIST, October1990topresent.Consultant
+specializing indevelopment andpreparation ofmitigation investigations, expert
+witnesscoordination, andtrialassistance fordefendants facingthedeathpenalty.
+Experience instateandfederaltrialsandpostconviction cases.Emphasis on
+investigation anddevelopment ofmentalhealthissuesforpresentation attrial,
+competency andpostconviction proceedings. Caseload hasincluded casesin
+Washington, Oregon,Idaho,Utah,Wyoming, Arizona,California, Illinois,
+Missouri andColorado.
+DEFENSE INITIATED VICTIMOUTREACH services. June2007to
+present.Washington andLeeUniversity; FederalResource CounselProject.
+LEGAL/TRIAL ASSISTANT, Stoel,Rives,Boley,JonesandGrey,Portland,
+Oregon.Defensefirm,employment litigation. July1991toJune1992.
+MITIGATION COORDINATION, DEATHPENALTY UNIT,Officeofthe
+StatePublicDefender, Columbia, Missouri. January1987-October 1990.
+Responsible fortrackingcasesstatewide attriallevel,andpostconviction death
+penaltycases.Assistedinthecoordination ofissues,counsel,andcases;servedas
+mitigation specialist, trialassistant, andassistant totheStatewide Directorofthe
+CapitalLitigation Division.
+LEGALASSISTANT, JacksonCountyPublicDefender, Inc.,Medford,
+Oregon.November 1985toNovember 1986.Stafflegalassistant insevenattorney
+officeholdingcontractforindigentdefenseservicesinJacksonCounty,Oregon.
+Prepared mitigation incounty'sfirstdeathpenaltycasesincehiatus.
+LEGALASSISTANT, PleasantValleyResearch, Merlin,Oregon.January
+1981toSeptember 1985.Freelance legalassistant. Prepared complex findingsof
+factinlandusemattersforJosephine CountyBoardofCountyCommissioners.
+Provided planning servicestotheCityofCaveJunction.LEGALASSISTANT, LawOfficeofErnestE.Cutting.1979-1980. Stafflegal
+assistant.
+EDUCATION
+DefenseInitiatedVictimOutreach Training, Washington andLeeSchoolof
+Law,June2007
+Stephens College,Columbia, Missouri, B.A.Philosophy andLaw,1995
+(Graduation Speaker-
+ClassRepresentative)
+University ofMinnesota, Minneapolis, Minnesota, LegalAssistant
+TrainingProgram, 1980.
+Numerous professional seminars including LifeintheBalance,California
+Attorneys forCriminalJustice-
+nationaltrainingseminars fordeathpenalty
+relatedcasework. JattendyearlytraininginOregonandCalifornia.
+PROFESSIONAL AFFILIATIONS
+StateofOregon,Mitigation Specialist/ PrivateInvestigator License#34002
+StateofWashington, Licensed PrivateInvestigator #3044
+Washington Association ofCriminalDefenseLawyers
+OregonCriminalDefenseLawyersAssociation
+California Attorneys forCriminalJusticeHofstraLawReview
+Volume36Issue3 Article§
+2008
+TheABAandtheSupplementaryGuidelines for
+theMitigationFunction ofDefenseTeamsin
+DeathPenaltyCases
+RobinM.Maher
+Followthisandadditional worksat:http://scholarlycommons.law.hofstra.edu/hlr
+&PartoftheLawCommons
+Recommended Citation
+Maher,RobinM.(2008)"TheABAandtheSupplementary Guidelines fortheMitigation Function ofDefenseTeamsinDeath
+PenaltyCases,"HofstraLawReview:Vol.36:Iss.3,ArticleS.
+Available at:http://scholarlycommons.lawhofstraedu/hly/vol36/iss3/5
+Thisdocument isbroughttoyouforfreeandopenaccessbyScholarly Commons atHofstraLaw.Ithasbeenaccepted forinclusion inHofstraLaw
+Reviewbyanauthorized administrator ofScholarly Commons atHofstraLaw.Formoreinformation, pleasecontactlawels@hotstra.cdu.
+BCHAG 2Maher:TheABAandtheSupplementaryGuidelines fortheMitigation Funct
+THEABAANDTHESUPPLEMENTARY
+GUIDELINES FORTHEMITIGATION FUNCTION
+OFDEFENSE TEAMSINDEATHPENALTY CASES
+RobinM.Maher*
+OnFebruary 10,2003,theAmerican BarAssociation Houseof
+Delegates overwhelmingly approved therevisedABAGuidelines forthe
+Appointment andPerformance ofDefense Counsel inDeathPenalty
+Cases("ABAGuidelines").' Indoingso,theABArenewed theserious
+concerns ithasvoicedfordecades aboutthefairnessandreliability of
+thedeathpenalty. Alljurisdictions wereurgedtoadopttheABA
+Guidelines toensurethatcapitaltrialanddeathrowdefendants had
+accesstoqualified, competent counsel andtheexpertassistance and
+fundingthatmakecapitallegalrepresentation meaningful."
+Forthenation's largestorganization oflawyers, thequalityand
+availability ofcounsel forthosefacingexecution isofparamount
+concern. Although theABAdoesnottakeaposition onthedeath
+penaltyitself,ithaslongrecognized that"[a]systemthatwouldtakelife
+mustfirstgivejustice"? TheeffortsoftheABAthrough policy
+statements,' amicusbriefs,'taskforces,°andprojectssuchastheDeath
+*RobinM.Maher,Esq.istheDirectoroftheABADeathPenaltyRepresentation Projectin
+Washington, D.C.Theopinions expressed inthisArticlearestrictlyherownandnotthoseofthe
+American BarAssociation.
+1.ABAGUIDELINES FORTHEAPPOINTMENT ANDPERFORMANCE OFDEFENSE COUNSEL IN
+DEATHPENALTY CASES,Introduction (rev.ed.2003),in31HOFSTRA L.REV.913(2003)
+[hereinafter ABAGUIDELINES]. TheABAGUIDELINES arealsoavailable onlineat
+http://www.abanet.org/deathpenalty/resources/docs/2003Guidelines.pdf.
+2,Id.atGuideline 1.1(A).
+3.ViolentCrimeControlActof1991:HearingonS.618andS.635BeforetheS.Comm.on
+theJudiciary, 102dCong.334(1992)(statement ofJohnC.CurtinJr.,President, American Bar
+Association).
+4.See,eg.,ABA,REPORT SUBMITTED WITHRECOMMENDATION ONDEATHPENALTY
+MORATORIUM (1997),available athttp://www.abanet.org/irr/rec107.htm! (calling"uponeach
+jurisdiction thatimposes capitalpunishment nottocarryoutthedeathpenaltyuntilthejurisdiction
+implements policiesandprocedures," including interalia"{i)mplementing ABA'Guidelines forthe
+Appointment andPerformance ofCounsel inDeathPenaltyCases'...andAssociation policies
+763
+Published byScholarly Commons atHofstraLaw,2008 1HofstraLawReview,Vol.36,Iss.3[2008],Art.5
+764 HOFSTRA LAWREVIEW (Vol.36:763
+intended toencourage competency ofcounselincapitalcases,"'toensurethatdeathpenalty
+casesareadministered fairlyandimpartially, inaccordance withdueprocess, and...minimize the
+riskthatinnocent personsmaybeexecuted"); ABA,REPORTSUBMITTED WITHRECOMMENDATION
+ONACCESSTOCOUNSEL INTHEMILITARY FORPOST-CONVICTION HABEAS CORPUS DEATH
+PENALTY CASES(1996),available athttp://www.abanet.org/legalservices/downloads/sclaid/
+101b.pdf (urging"thatmilitarycapitalprisoners beprovided withthesameopportunity forthe
+assistance ofcounselinseekingfederalpost-conviction habeascorpusreliefasisnowprovided by
+federallawforpersonssentenced todeathintheciviliancourts"); ABA,REPORTSUBMITTED WITH
+RECOMMENDATION ONCOMPETENT COUNSEL INDEATHPENALTY CASES(1990),available at
+http://www.abanet.org/irr/feb90.htm! ("[S]tate andfederalgovernments shouldbeobligated to
+provide competent and adequately compensated counsel forcapital
+defendants/appellants/petitioners, aswellastoprovidesufficient resources forinvestigation, expert
+witnesses, andotherservices, atallstagesofcapitalpunishment litigation. TheAmerican Bar
+Association Guidelines fortheAppointment andPerformance ofCounsel inDeathPenaltyCases
+shouldgoverntheappointment andcompensation ofcounsel."); ABA,REPORTSUBMITTED WITH
+RECOMMENDATION ONGUIDELINES FORCOUNSEL INDEATHCASES(1989)(adopting theABA
+GUIDELINES FORTHEAPPOINTMENT ANDPERFORMANCE OFDEFENSE COUNSEL INDEATH
+PENALTY CASES(1998)[hereinafter 1989GUIDELINES] andurgingtheadoption oftheofthe
+Guidelines byanyentityproviding counsel incapitalcases);ABA,REPORTSUBMITTED WITH
+RECOMMENDATION ONREPRESENTATION PLANFORHABEASCORPUS INDEATHPENALTY CASES
+(1987), available athttp://www.abanet.org/legalservices/downloads/sclaid/125.pdf ("[T]he
+American BarAssociation urgeseachfederaldistrictandcircuitcourttoadoptandeachfederal
+circuitjudicialcounciltoapproveaplanforproviding representation infederalhabeascorpusdeath
+penaltyproceedings whichincludes," amongotherthings:(1)"appointment andcompensation of
+counsel, andofexpertlegalconsultants ifrequested bycounsel, ineveryfederalhabeascorpus
+deathpenaltycasewhether ornotthepetitionwasprepared, orcounselpreviously appeared, pro
+bono;"(2)"theappointment forfederalhabeascorpusproceedings ofeligibleattorneys who
+provided representation inthestatepost-conviction proceedings forthesamecase,unlessthe
+petitioner objectsforcogentreasons, thereisevidence ofaconflict,orothergoodcauseappearsfor
+appointing newcounsel;" (3)"theappointment oftwoattorneys ineveryfederalhabeascorpus
+deathpenaltycaseascounselofrecord;"(4)"pre-assignment screening ofattorneys considered for
+appointment tosuchcasestoassurethatonlytrainedandexperienced attorneys areappointed;" and
+(5)"support forcreation ofstateandregional centerstoprovideexpertadviceandassistance to
+appointed counsel infederalhabeascorpusdeathpenaltylitigation." TheABAalsourgedthe
+federalcourts"toensurethemaximum extentofcoordination andconsistency concerning the
+standards andprocedures governing appointment ofcounselinstateandfederalpost-conviction
+procecdings involving deathpenaltycases."); ABA,REPORTSUBMITTED WITHRECOMMENDATION
+ONAPPOINTMENT OFTWOATTORNEYS INDEATHPENALTY CASES(1985),available at
+http://www.abanet.org/legalservices/downloads/sclaid/109.pdf (recommending that"twoattorneys
+shallbeappointed astrialcounsel torepresent thedefendant" inadeathpenaltycase);ABA,
+REPORTSUBMITTED WITHRECOMMENDATION ONRIGHTTOCOUNSEL INPOST-CONVICTION DEATH
+CASES(1979),available athttp://www.abanet.org/legalservices/downloads/sclaid/102b.pdf ("[T1he
+American BarAssociation recommends thattheUnitedStatesSupreme Courtadoptaruleproviding
+forappointment ofcounseltopreparepetitions fordiscretionary reviewofstatecourtconvictions,
+including appropriate postconviction orclemency petitions ifnecessary, indeathpenaltycases
+wherethedefendant cannotaffordtohirecounsel," "offertoassist...inidentifying qualified
+attorneys whoarewillingtoacceptappointment," and"recommend toCongress thattheCriminal
+JusticeAct...beamended toprovideforthepayment ofadequate compensation tocounsel... in
+statedeathpenaltycases."').
+5,See,e.g.,BriefoftheABAasAmicusCuriaeinSupportofPetitioner at1-2,Medellin v.
+Texas,2008U.S.LEXIS2912(U.S.Mar.25,2008)(No.06-984);BriefAmicusCuriaeoftheABA
+inSupportofRespondent at1-3,Schrirov.Landrigan, 127S.Ct.1933(2007)(No.05-1575), Brief
+http://scholarlycommons.law.hofstra.edu/hlr/vol36/iss3/5 2Maher:TheABAandtheSupplementaryGuidelines fortheMitigation Funct
+2008] THEABAANDTHESUPPLEMENTARY GUIDELINES 765
+Penalty Representation Project'-~have beendirected atidentifying
+problems andworkingtoimprove thesystems thatprovidecounselto
+indigentdefendants. Asstatedinits1990TaskForceReport:
+TheAmerican BarAssociation ispersuaded thattheprincipal failings
+ofthecapitalpunishment reviewprocesstodayaretheinadequacy and
+inadequate compensation ofcounselattrialandtheunavailability of
+counselinstatepost-conviction proceedings. Theabsenceofadequate
+representation notonlydeprives capitaldefendants anddeath-
+sentenced prisoners ofameaningful defenseandofmeaningful access
+tostatepost-conviction remedies, butalsogreatlyaggravates and
+protracts thedeathpenaltyreviewprocess. Specifically, thelackand
+inadequacy ofcounsel instatecapitalproceedings forcesstateand
+federalpost-conviction judgesto:adjudicate casesonthebasisof
+incomplete andoftenincomprehensible records; resolvemanifold
+colorable claimsofineffective assistance ofcounsel; disposeofmyriad
+procedural questions including exhaustion ofstateremedies,
+procedural default,andsuccessive petition issuesarisingfromthe
+failureofcounseltonoticeandassertmeritorious claimsforrelief;and
+oftheABAasAmicusCuriaeinSupportofPetitioner at1,Bustillov.Johnson, 548U.S.331
+(2006)(No.05-51);BriefoftheABAasAmicusCuriaeinSupportofPetitioner at1-2,Medellin v.
+Dretke,544U.S,660(2005)(No.04-5928); BriefAmicusCuriaeoftheABAinSupport of
+Petitioner at1-4,Rompilla v.Beard,545U.S.374(2005)(No.04-5462); BriefAmicusCuriaeof
+theABAinSupportoftheRespondent at1-2,Roperv.Simmons, 543U.S.551(2005)(No.03-
+633);BriefAmicusCuriaeoftheABAinSupportofthePetitioner at1-4,Banksv.Cockrell, No.
+02-8286(U.S.July11,2003);BriefAmicusCuriaeoftheABAinSupportofPetitioner at2-5,
+Wigginsv.Smith,539U.S.510(2003)(No.02-311); BriefAmicusCuriaeoftheABAinSupport
+ofPetitioner at1,McCarver v.NorthCarolina, cert.dismissed, 533U.S.975(2001)(No.00-8727),
+considered inAtkinsv.Virginia,536U.S.304,306(2002),MotionoftheABAtoFileBriefas
+AmicusCuriaeandBriefofAmicusCuriaeinSupport ofPetitioner at2,Gibsonv.Head,cert.
+denied,528U.S.946(1999)(No.99-77);BriefofAmicusCuriaeABAinSupportofPetitioner at
+2,Williams v.Taylor,529U.S.362(2000)(No.98-8384).
+6.The1990ReportoftheABATaskForceonDeathPenaltyHabeasCorpusinvolved an
+intensive, national studyofcasesinwhichdefendants hadbeensentenced todeaththatincluded an
+investigation of"theentiresystemofpost-conviction reviewofcapitalconvictions andsentences."
+fraP.Robbins, ABA,TowardaMoreustandEffective SystemofReviewinStateDeathPenalty
+Cases,40Am.U.L.Rev.I,13(1990).Thereportconcluded that"(c]ompetent andadequately
+compensated counsel fromtrialthrough collateral reviewisthusthesinequanonofajust,
+effective, andefficientdeathpenaltysystem." /d.at17.
+7.TheDeathPenaltyRepresentation Projectwascreatedin1986.ABA,DeathPenalty
+Representation Project,http://www.abanet.org/deathpenalty (lastvisitedMay11,2008).Itsgoals
+include "rais[ing}] awareness aboutthelackofrepresentation available todeathrow
+inmates,,..address[ing] thisurgent needbyrecruiting competent volunteer attorneys
+and...offer[ing] thesevolunteers trainingandassistance, ..[and]work[ing] forsystemic changes
+inthecriminaljusticesystemthatwouldassurethosefacingdeatharerepresented atallstagesof
+theproceedings fromtrialthroughclemency byqualified, adequately compensated counsel." /d.
+Published byScholarly Commons atHofstraLaw,2008 3HofstraLawReview,Vol.36,Iss.3[2008],Art.5
+766 HOFSTRA LAWREVIEW [Vol.36:763
+grantconstitutionally mandated reliefandcostlyretrialsinnumerous
+cases.
+Sincetheirapproval in2003,therevisedABAGuidelines have
+beenrecognized asnational standards regarding theobligations of
+jurisdictions anddefensecounselincapitalcases.Theyhaveprovided
+important guidance tojudgesanddefense counsel regarding the
+minimum requirements ofcompetent andeffective legalrepresentation.
+Courtshaveincreasingly turnedtotheABAGuidelines whendeciding
+whether defense counsel's performance mettherequirements ofthe
+SixthAmendment anddelivered the"highquality"legalrepresentation
+thateachcapitaldefendant anddeath-sentenced prisonerdeserves.'°
+TherevisededitionoftheABAGuidelines greatlyexpanded and
+updated anearliersetthathadbeenpublished in1989.''Inaddition to
+takingintoaccountintervening legalandcaselawdevelopments,'" the
+ABAAdvisory Committee'? alsoidentified areasoflegalpracticethat
+hadprovedparticularly problematic andsoughttoprovide specific
+guidance toremedysomeofthemostseriousmistakes madebycounsel
+andotheractorsinthecriminaljusticesystem.
+Oneoftheseerrorswasthefrequent failureofdefensecounselto
+investigate andpresentmitigation evidence duringthepenaltyphaseofa
+capitaltrial.Thiswastruedespitethefactthattheimportance of
+mitigation evidence wasnotanewconcept. Ithaslongbeenheldthat
+8.Robbins, supranote6,at16(footnote omitted).
+9."Theobjective oftheseGuidelines istosetforthanational standard ofpracticeforthe
+defenseofcapitalcasesinordertoensurehighqualitylegalrepresentation forallpersonsfacingthe
+possibleimposition orexecution ofadeathsentence byanyjurisdiction." ABAGUIDELINES, supra
+note1,atGuideline 1.1(A).
+10.Morethaneightystateandfederaldeathpenaltycases,including casesdecidedbythe
+UnitedStatesSupreme Court,citetheABAGuidelines asauthority incasesinwhichthe
+performance andobligations ofdefensecounselareconsidered. SeeABA,CasesthatCitetothe
+ABAGuidelines fortheAppointment andPerformance ofDefenseCounselinDeathPenaltyCases,
+http://www.abanet.org/deathpenalty/resources/docs/List_ofCases_thatcite toGLMAR
+2008.doc (lastvisitedMay11,2008).
+11.SeeABAGUIDELINES, supranote1,atIntroduction; seegenerally 1989GUIDELINES,
+supranote4,
+12.Amongthesewasthepassage oftheAnti-Terrorism andEffective DeathPenaltyAct
+(AEDPA)in1996which,interalia,established strictdeadlines forthefilingoffederalhabeas
+petitions, limitedthescopeofreviewofstatecourtdecisions, severely restricted theabilityof
+prisoners tofilesuccessive petitions, andgenerally limitedtheavailability offederalhabeasforstate
+prisoners. SeeABAGUIDELINES, supranote1.atGuideline 1.1,commentary n.34.
+13.Members oftheABAAdvisory Committee included experienced capitaldefenders,
+volunteer deathpenaltylawyers, lawschoolprofessors, representatives fromnational defender
+organizations andmembers ofmanyABASections, including theCriminal JusticeSection.Fora
+complete listofAdvisory Committee Members, seeid.atAcknowledgements.
+http://scholarlycommons.law.hofstra.edu/hlr/vol36/iss3/5 4Maher:TheABAandtheSupplementary Guidelines fortheMitigation Funct
+2008) THEABAANDTHESUPPLEMENTARY GUIDELINES 767
+"(florthedetermination ofsentences, justicegenerally requires ...that
+therebetakenintoaccountthecircumstances oftheoffensetogether
+withthecharacter andpropensities oftheoffender."'* Mitigation
+evidence tookonamoreurgentimportance aftertheSupreme Court
+reinstated thedeathpenaltyin1976.InGreggv.Georgia,'* theUnited
+StatesSupreme Courtbelieved itcouldeliminate concern aboutthe
+arbitrariness ofthedeathpenaltywithabifurcated trialprocedure.'® The
+Courtsoughttoguideandnarrowajury'sdiscretion inadiscretepenalty
+phaseandpermitittoconsider specific information aboutthe
+appropriateness ofsentencing aparticular defendant todeath:
+Sincethemembers ofajurywillhavehadlittle,ifany,previous
+experience insentencing, theyareunlikelytobeskilledindealingwith
+theinformation theyaregiven....To theextentthatthisproblem is
+inherent injurysentencing, itmaynotbetotallycorrectable. Itseems
+clear,however, thattheproblem willbealleviated ifthejuryisgiven
+guidance regarding thefactorsaboutthecrimeandthedefendant that
+theState,representingorganizedsociety,deemsparticularly relevant
+tothesentencing decision.
+TheCourtwentontoexplain:
+[T]hejury'sattention isfocusedonthecharacteristics oftheperson
+whocommitted thecrime:Doeshehavearecordofpriorconvictions
+forcapitaloffenses? Arethereanyspecialfactsaboutthisdefendant
+thatmitigateagainstimposing capitalpunishment (e.g.,hisyouth,the
+extentofhiscooperation withthepolice,hisemotional stateatthetime
+ofthecrime).'*
+Toachievetheobjective of"individualizing sentencing"'? incapital
+cases,therefore, itwasclearthatdefense counselhadtodevelopand
+presentadetailedpictureofthedefendant's background, character, and
+14,Pennsylvania exre/.Sullivanvy.Ashe,302U.S.51,55(1937);seealsoWilliams v.
+Oklahoma, 358U.S.576,$85(1959);Williams v.NewYork,337U.S,241,247(1949).Otherwise,
+"thesystemcannotfunction inaconsistent andarationalmanner." ABAPROJECT ONSTANDARDS
+FORCRIMINAL JUSTICE,STANDARDS RELATING TO:SENTENCING ALTERNATIVES ANDPROCEDURES
+201(Approved Draft1968);seePRESIDENT'S COMM'N ONLAWENFORCEMENT ANDADMIN.OF
+JUSTICE,THECHALLENGE OFCRIMEINAFREESOCIETY 14(1967);MODELPENALCODE§7.07
+cmt.1(Tentative DraftNo.2,1954).
+15.428U.S,153(1976).
+16.Id,at195,
+17.fd.at192(citation omitted); seealsoABAPROJECT ONSTANDARDS FORCRIMINAL
+JUSTICE,supranote14,at46-47,PRESIDENT'S COMM'N ONLAWENFORCEMENT ANDADMIN,OF
+JUSTICE,supranote14,at145.
+18.Gregg,428U.S.at197.
+19,SeeWoodson v.NorthCarolina, 428U.S,280,304(1976).
+Published byScholarly Commons atHofstraLaw,2008 5HofstraLawReview,Vol.36,Iss.3[2008],Art.5
+768 HOFSTRA LAWREVIEW [Vol.36:763
+lifeexperiences tothejury.Topresentacomplete portrait, however,
+counselhadtomovewellbeyondthelimitedstatutory factorsthatmost
+capitalsentencing statutes identified."" Experience taughtthemthatthe
+bestmitigation evidence wasfoundonfrontporches inconversations
+withfamilymembers, andindiscussions withschoolteachers who
+remembered theneglected andabusedchildren fromtheirclassesyears
+earlier.Therewasnoblueprint forthemitigation investigation thathad
+tooccurforaclient'slifetobesaved.Butthesecompelling detailshad
+thepotential totransform theprosecution's "monsters" and"cold-
+blooded killers"intotragicfiguresforwhomjuriescouldfindmercy."!
+Mitigation evidence tookcenterstageindeathpenalty casesas
+potentially theonlywaydefensecounselcouldhumanize theirclientand
+savehislife.
+Itwassurprising, therefore, thatnotwithstanding itsliterallifeand
+deathsignificance, theABAAdvisory Committee foundmanycases
+whereathorough andindependent investigation andpresentation of
+mitigation evidence hadnotoccurred." Worse,appellate decisions left
+nodoubtthattheresultwouldhavebeendifferent ifthejuryhadheard
+themitigation evidence attrial."?Giventhegeneralunavailability of
+20.Statutory mitigating factorsgenerally trackthelanguage proposed bytheModelPenal
+Code.MODELPENALCODE§210.6(3)-(4) (Proposed OfficialDraft1962),quotedwithapproval in
+Gregg,428U.S.at193n.44.Forexamples ofstatutesthattrackthemitigating factorsoftheModel
+PenalCode,see18U.S.C.§3592(a)(2000);ALA.CODE§13A-5-51 to-52(2006);ARIZ.REV.
+STAT.ANN.§13-703(G) (2007);ARK.CODEANN.§5-4-605(2006);CAL.PENALCopE§190.3
+(West1999);COLO.REV.STAT.ANN.§18.1.3-1201(4) (West2007);FLA.STAT.ANN.§921.141(6)
+(West2006);720ILL.Comp.STAT.ANN.§5/9-1(c)(WestSupp.2007);IND.CODEANN.§35-50-
+2-9(c)(West2004&Supp.2007);KAN.CRIM.CODEANN.§21-4626(WestSupp.2007);Ky.REV.
+STAT.ANN.§532.025(2)(b) (LexisNexis 1999&Supp.2007);LA.CODECRIM.PROC.ANN.art.
+905.5(1997);MD.CODE.ANN.,CRIM.LAW§2-303(h)(2) (LexisNexis 2002&Supp.2007);Miss.
+CODEANN.§99-19-101(6) (West2006);Mo.ANN.STAT.§565.032(3) (West1999);MONT.CODE
+ANN.§46-18-304 (2007);NEB.REV.STAT.ANN.§29-2523(2) (LexisNexis 2003);NEV.REV.
+STAT.ANN.§200.035(West2000);N.H.REV.STAT.ANN.§630.5(VI) (2007);N.M.STAT,ANN.
+§31-20A-6 (West2003);N.Y.CRIMProc.LAw§400.27(9) (McKinney 2005);N.C.GEN.STAT.
+§1SA-2000() (2007);OHIOREV.CODEANN.§2929.04(B) (West2006);42Pa.CONS.STAT.ANN.
+§9711(e)(West2007);S.C.CODEANN.§16-3-20(C)(b) (2003);TENN.CODEANN.§39-13-204(j)
+(2006);UTAHCopeANN.§76-3-207(4) (2003);VA.CODEANN.§19,2-264.4(B) (2004);WASH.
+REV.CODEANN.§J0.95.070 (West2002);Wyo,STAT.ANN.§6-2-102(j) (2007);OKLA.UNIFORM
+JURYINSTRUCTIONS: CRIMINAL OUJI-CR4-79(Vernon's 2ded,2007).
+21.SeeGaryGoodpaster, TheTrialforLife:EffectiveAssistance ofCounselinDeathPenalty
+Cases,58N.Y.U.L.REV.299,300-03(1983).
+22.SeeABAGUIDELINES, supranote1,atGuideline 10.7,commentary n.205.
+23.Seeid;seealsoSeanD.O'Brien, WhenLifeDepends OnIt:Supplementary Guidelines
+fortheMitigation Function ofDefense TeamsinDeathPenaltyCases,36HOFSTRA L.REV.693,
+716-17(2008)(quoting Williams v.Taylor,529U.S.362,395,398(2000));MarkE.Olive&
+RussellStetler,UsingtheSupplementary Guidelines fortheMitigation Function ofDefense Teams
+tnDeathPenaltyCasestoChangethePictureinPost-Conviction, 36HOFSTRA L.REV.1067,1069-
+http://scholarlycommons.law.hofstra.edu/hlr/vol36/iss3/s 6Maher:TheABAandtheSupplementary Guidelines fortheMitigation Funct
+2008] THEABAANDTHESUPPLEMENTARY GUIDELINES 769
+competent counsel inpost-conviction proceedings," thenumber of
+defendants affectedbythefailuretofindandpresentmitigation evidence
+attrialwasincalculable.
+Itbecame apparent thatthereasonforthisfailurewasnotthat
+lawyersdidnotunderstand thatthedevelopment ofmitigation evidence
+wascritical.Itwasthatmostofthemjustdidnotknowhowtodoit
+properly. Lawyersaregenerally unprepared andill-equipped todiscover
+mitigation evidence withoutexpertassistance. Thespecialskillsand
+abilitiesnecessary toobtainthesensitive andsometimes embarrassing
+evidence aboutaclient'slifeexperiences fromfamilymembers and
+othersourcesareoftenbeyondtheabilitiesofeventhemostskilled
+courtroom lawyer."* Whilethereisnoquestion thatobtaining mitigation
+evidence andpresenting itattrialandinpost-conviction proceedings
+remainstheultimate responsibility ofdefensecounsel, itisequallyclear
+thattheassistance ofamitigation specialist isnecessary toachievethat
+objective.
+73(2008)(discussing Rompilla v.Beard,545U.S.374(2004);Wigginsv.Smith,539U.S.510
+(2003);Williams, 529U.S.at362).
+24.SeeEricM.Freedman, Giarratano JsaScarecrow: TheRighttoCounselinStateCapital
+Postconviction Proceedings, 91CORNELL L.REV.1079,1086-88(2006).
+25.SeeABAGUIDELINES, supranote1,atGuideline 4.1,commentary ("Mitigation
+specialists possessclinicalandinformation-gathering skillsandtrainingthatmostlawyerssimply
+donothave.Theyhavethetimeandtheabilitytoelicitsensitive, embarrassing andoften
+humiliating evidence (e.g.,familysexualabuse)thatthedefendant mayhaveneverdisclosed.");
+SUPPLEMENTARY GUIDELINES FORTHEMITIGATION FUNCTION OFDEFENSE TEAMSINDEATH
+PENALTY CASES,Guideline 5.1(C)-(D), in36HorsTRA L.REV.677(2008)[hereinafter
+SUPPLEMENTARY GUIDELINES]. Asoutlined intheSupplementary Guidelines:
+Mitigation specialists mustbeabletoidentify,locateandinterview relevantpersonsina
+culturally competent manner thatproduces confidential, relevant andreliable
+information. Theymustbeskilledinterviewers whocanrecognize andelicitinformation
+aboutmentalhealthsignsandsymptoms, bothprodroma! andacute,thatmaymanifest
+overtheclient'slifetime. Theymustbeabletoestablish rapportwithwitnesses, the
+client,theclient'sfamilyandsignificant othersthatwillbesufficient toovercome
+barriersthoseindividuals mayhaveagainstthedisclosure ofsensitive information andto
+assisttheclientwiththeemotional impactofsuchdisclosures. Theymusthavethe
+abilitytoadvisecounsel onappropriate mental health andotherexpert
+assistance. ..Themitigation specialist mustbeabletofurnishinformation inaform
+usefultocounsel andanyexpertsthrough methods including, butnotlimitedto:
+genealogies, chronologies, socialhistories, andstudiesofthecultural, socioeconomic,
+environmental, political, historical, racialandreligious influences ontheclientinorder
+toaidcounselindeveloping anaffirmative caseforsparingthedefendant's life.
+Id.
+Published byScholarly Commons atHofstraLaw,2008 7HofstraLawReview,Vol.36,Iss,3[2008],Art.5
+770 HOFSTRA LAWREVIEW [Vol.36:763
+TheABAaddressed thisproblem intherevisedABAGuidelines
+withtheconceptofthe"defense team.""° Itmadecleartheabsolute
+requirement thatcapitaldefenders retaintheassistance ofamitigation
+specialist asanessential member ofanydefense team."'TheABA
+Guidelines alsorequirejurisdictions toprovidethenecessary fundingto
+thedefense tohireamitigation specialist.' TheABA'sstrong
+endorsement ofthevalueandimportance ofmitigation specialists in
+capitalcasesandpost-conviction proceedings helpedcementtheirrolein
+capitalcases.
+TheSupplementary Guidelines fortheMitigation Function of
+Defense TeamsinDeathPenaltyCases("Supplementary Guidelines")""
+areanaturalandcomplementary extension oftheABAGuidelines. They
+spelloutimportant features oftheexistingstandards ofpracticethat
+enablemitigation specialists anddefenseattorneys toworktogether to
+uncover anddevelop evidence thathumanizes theclient.*° Most
+importantly, theSupplementary Guidelines willhelpdefense counsel
+understand howtosupervise thedevelopment ofmitigation evidence and
+directakeymember ofthedefense team.Thisguidance isurgently
+needed.InmyroleasDirectoroftheABADeathPenaltyRepresentation
+Project,Ioftenreceiveinquiries fromjudgesandlawyersaboutwhat
+trainingandexperience amitigation specialist shouldhavebeforebeing
+appointed andwhathisorherresponsibilities inacapitalcaseshouldbe.
+Ialsoreceivecallsfrommitigation specialists themselves, frustrated
+because defensecounseldoesnotunderstand theirroleandwhatthey
+needbywayofsupportanddirection. TheSupplementary Guidelines
+willprovideanswers tomanyofthosequestions, continuing whatthe
+26.ABAGUIDELINES, supranoteI,atGuideline 4.1.The"defense team"shouldcomprise a
+minimum oftwoattorneys, oneinvestigator, andonemitigation specialist. fdatGuideline
+4.1(A)(1).
+27.Id.atGuideline 4.1.
+28,Id.atGuideline 9.1.
+29,SUPPLEMENTARY GUIDELINES, supranote25.
+30.Seeid,atGuideline 4.1(A)-(B). TheSupplementary Guidelines describe thedutiesofthe
+mitigation specialist,
+Inperforming themitigation investigation, counselhasthedutytoobtainservicesof
+personsindependent ofthegovernment andtherighttoselectoneormoresuchpersons
+whosequalifications fittheindividual needsoftheclientandthecase...Counselhasa
+dutytohire,assignorhaveappointed competent teammembers; toinvestigate the
+background, trainingandskillsofteammembers todetermine thattheyarecompetent;
+andtosupervise anddirecttheworkofallteammembers. Counselmusttakewhatever
+stepsarenecessary toconductsuchinvestigation ofthebackground, trainingandskills
+oftheteammembers todetermine thattheyarecompetent andtoensureonanongoing
+basisthattheirworkisofhighprofessional quality.
+Id.
+http://scholarlycommons.law.hofstra.edu/hlr/vol36/iss3/5 8Maher:TheABAandtheSupplementary Guidelines fortheMitigation Funct
+2008} THEABAANDTHESUPPLEMENTARY GUIDELINES 771
+ABAGuidelines beganwhentheyfirstdescribed theuniqueroleand
+responsibilities ofmitigation specialists."'
+Forvolunteer attorneys recruited bythisProject"andothercounsel
+inexperienced incapitallitigation, thedepthandscopeofan
+investigation thatmeetsthedemands oftheABAGuidelines and
+Supplementary Guidelines canprovedaunting.' Thistaskismade
+harderwiththerealization thatthevastmajorityofthemenandwomen
+whoarechargedwithorconvicted ofcapitalcrimeshavebackgrounds
+ofviolence, abuse,andneglect.Asanessential partofanycapitalcase
+investigation, familiesthathavecarefully hiddenshameful secretsof
+incest,abuse,alcoholism, andmentalillnessforgenerations mustnow
+bepersuaded todisclosethesedetails.Itisadifficultandintimidating
+process, Thesearenotsecretsthatwillberevealed tostrangers onthe
+firstvisit,orevenperhaps thethirdorfourth.Yetthedamaging and
+destructive natureofthesesecretsistheveryevidence thatmight
+convince ajurytospareaclient'slife.
+Thecrisisofcounselthatexistsinthedeathpenaltysystemmeans
+thatwemustrelyonthegoodwillandassistance ofmembers ofthe
+privatebartorepresent deathrowprisoners withoutcounsel.** Manyof
+thevolunteer lawyersthatIrecruithaveneverhandled adeathpenalty
+casebefore.** Developing mitigation evidence andmakingacaseforthe
+lifeoftheirclientisoneofthemostimportant tasksdefense lawyers
+31.ABAGUIDELINES, supranote1.atGuideline 4.1(B),commentary.
+32.Foralistofvolunteer firmsrecruited bytheABADeathPenaltyRepresentation Project
+since1998,seeABA,Volunteer LawFirmsDeathPenalty Representation Project,
+http://www.abanet.org/deathpenalty/participatingfirms/home.shtml (lastvisitedMay11,2008).
+33.Daniel$.Brennan isavolunteer lawyerfromDLAPiperwhowasrecruited bytheProject
+torepresent adeath-sentenced manwithoutcounselinasouthern jurisdiction. "Wereallywere
+grasping forwheretostart,"saidBrennan aboutbeginning themitigation investigation withoutthe
+assistance ofaskilledandexperienced mitigation specialist. Afteramitigation specialist joinedthe
+defenseteam,theyfoundevidence tosupporttheclaimthattheirclientwasmentally retarded and
+succeeded inobtaining anevidentiary hearingonthequestion oftheclient'seligibility foradeath
+sentence. "Wehadtolearntokeepanopenmind,"saidBrennan.
+Wedidn'talwaysknowwheretolookandwhatweshouldbelookingfor.Our
+immediate reactiontosomeevidence wasthatitmightnotbeuseful;butthenshe'dtum
+itaroundandhelpusunderstand howitwouldhelpourcase.Oftenitwouldleadtoother
+evidence thatwasuseful.Shehelpedusmapoutastrategyandunderstand thecasewe
+neededtomakeforourclient.1knowwewouldnothavebeensavvyenoughto
+understand thatwithoutherassistance.
+E-mailfromDanielS.Brennan, Partner, DLAPiperUSLLP,toRobinM.Maher,Director, ABA
+DeathPenaltyRepresentation Project(Mar.4,2008,18:07)(onfilewithauthor).
+34,SeeRobinM.Maher,Volunteer LawyersandTheirExtraordinary RoleintheDeliveryof
+JusticetoDeathRowPrisoners, 35U.TOL.L.REV,519(2004).
+35.However, whilemanyvolunteer lawyershavenotpreviously handled adeathpenalty
+case,itisnonetheless possiblefortheselawyerstoprovideadequate representation. Seeid.at521.
+Published byScholarly Commons atHofstraLaw,2008 9HofstraLawReview,Vol.36,Iss.3[2008],Art.5
+772 HOFSTRA LAWREVIEW (Vol.36:763
+musthandle.Butunlikethelawofcapitalpunishment, whichtheywill
+eventually learnandmaster,developing mitigation evidence thatmay
+resultinadifferent sentence fortheirclientisnoteasyforvolunteer
+lawyers,evenwhentheyareamongthecountry's toplitigators. Forout-
+of-statelawyerswhovolunteer farfromhome,eventhelocalaccentsare
+sometimes hardtounderstand. Asamatterofsurvival, manyfamilies
+andcommunities havelearned toconceal information aboutillegal
+activityandharmful behavior fromstrangers. Thiscompelling and
+potentially life-saving evidence isofteninvisibletotheuntrained eye.
+Itisinthiswaythatmitigation specialists-skilled ininterviewing
+techniques, experienced indeveloping socialhistories, knowledgeable
+aboutculturalandracialdifferences, expertinrecognizing thesignsof
+mentaldisorders andimpairments-do whatmostlawyersaresimply
+unabletodo.Theevidence thatacompetent mitigation expertgathers
+willprovidedefense counselwiththetoolsthatcansaveherclient's
+life-counsel's ultimate responsibility. Without thisevidence, itis
+impossible fordefensecounseltorepresent herclienteffectively."®
+TheSupplementary Guidelines assistdefensecounselinchoosing
+andsupervising theworkofmitigation specialists throughout thecourse
+oftheinvestigation. Forinexperienced counsel, thisguidance willbe
+indispensable. Hiringamitigation specialist whodoesnothave
+appropriate training,skills,andexperience isasdisastrous asnothiringa
+mitigation specialist atall.Ineithercase,theevidence isunavailable.
+Theresultsofanymitigation investigation areonlyasgoodasthe
+personseekingtheevidence. Mitigation specialists mustknowwhereto
+look,whototalkto,andhowtoanalyzetheinformation properly. The
+Supplementary Guidelines provideimportant information todefense
+counsel aboutwhotheyshouldhireandwhatmitigation specialists
+shoulddoduringthecourseofaninvestigation.*"
+Likeotherprofessionals, mitigation specialists mustbegiventhe
+necessary toolstoperform competently. Judgeswhousethe
+Supplementary Guidelines willunderstand whytheymustensure
+adequate fundingandavoidplacingunreasonable limitsontheabilityof
+mitigation specialists tointerview witnesses andtravelforin-person
+interviews.*® Appellate judgeswillbetterunderstand themitigation
+36.See,e.g.,Wigginsv.Smith,539U.S,510(2003)(holdingthatdefensecounsel's failureto
+presentexistingmitigation evidence fellshortofprofessional standards); seealsosupranote22-23
+andaccompanying text.
+37.SUPPLEMENTARY GUIDELINES, supranote25,atGuidelines 5.1,10.11.
+38.SeeHelenG.Berrigan, TheIndispensable RoleoftheMitigation Specialist inaCapital
+Case,36HOFSTRA L.REV.819,823-27(2008).
+http://scholarlycommons.law.hofstra.edu/hlr/vol36/iss3/510Maher:TheABAandtheSupplementary Guidelines fortheMitigation Funct
+2008) THEABAANDTHESUPPLEMENTARY GUIDELINES 773
+function andwhatshouldhavehappened attrial.°?TheSupplementary
+Guidelines provideadetaileddescription ofthescopeandbreadthofa
+mitigation investigation, aprocessthatmayspanmultiplejurisdictions
+andinvolveseveralgenerations ofafamily."Mitigation investigations
+mustbeginimmediately andoftenrequiremonthsofintenseeffortto
+gatherthenecessary information."' Restrictions thatlimittheabilityof
+mitigation specialists tomeettherequirements ofindependence and
+thoroughness mayultimately provefataltotheclient.
+Unsurprisingly, anincreased understanding ofthevalueprovided
+bymitigation specialists hasresulted inanunmetdemand forthe
+servicesoftheseskilledprofessionals. Inmanyjurisdictions, thereisa
+desperate needfortrainedandexperienced mitigation specialists tobe
+available todefensecounsel. Ioftenreceivecallsaskingforreferrals to
+mitigation specialists, andthevolunteer lawyersIrecruitrelyonmeto
+findthenecessary experts.ToooftenImusttellthemthattherearenot
+enoughtrainedandexperienced mitigation specialists forallthosewho
+needthem.
+TheSupplementary Guidelines canbeusedtocreatetraining
+programs andtorecruitgiftedandinterested individuals toenterthis
+professional field.Thisdevelopment shouldbeapriorityforthecriminal
+justicecommunity. Itisonlywiththeassistance ofskilledmitigation
+specialists thatwecanfinallydeliveronthepromise ofcompetent legal
+representation forallcapitaldefendants.
+Inaprevious articlefortheHofstraLawReview,1wroteaboutthe
+importance ofthe"guidinghandofcounsel" indeathpenaltycasesand
+theurgentneedforreformofthesystems thatprovide counsel to
+indigentdefendants." Themosteffective waytoincrease accuracy and
+reducethenumberofwrongful convictions" istoachievethisreform.
+39.SeeWilliamM.Bowen,Jr.,41FormerAlabama Appellate JudgesPerspective onthe
+Mitigation Function inCapitalCases,36HOFSTRA L.REV.805(2008)(describing aretired
+appellate judge'sexperiences with,andappreciation of,defenseteamsincapitalcases).
+40.SeeSUPPLEMENTARY GUIDELINES, supranote25,atGuideline 10.11.
+41,SeeO'Brien,supranote23,at747n.257;Olive&Stetler,supranote23,at1078-80.
+42.SeeRobinM.Maher,'TheGuidingHandofCounsel' andtheABAGuidelines forthe
+Appointment andPerformance ofDefense CounselinDeathPenaltyCases,31HOFSTRA L.REV
+1091,1091-95(2003).
+43.AsofFebruary 2008,127peoplein26stateshavebeenreleased fromdeathrowsince
+1973withevidence oftheirinnocence. DeathPenaltyInformation Center,TheInnocence List,
+http://www.deathpenaltyinfo.org/article.php?scid=6&did=1 10(lastvisitedMay11,2008).
+PublishedbyScholarly Commons atHofstraLaw,2008 11HofstraLawReview,Vol.36,Iss.3[2008],Art.5
+774 HOFSTRA LAWREVIEW {Vol.36:763
+Theunwillingness oftoomanydeathpenaltyjurisdictions todoso
+remainsoneofthemostshameful andprofound failuresofourcriminal
+justicesystem.AstheABATaskForcestatedin1990:
+([Cjapital litigation intheUnitedStatestodaytoooftenbeginswith
+poorlegalrepresentation. Thereafter, thepetitioner, thestate,and
+societypaythepriceaseachsuccessive stageofthecasebecomes
+morecomplicated, moreprotracted, andmorecostly.Poor
+representation afterthetrialisalsonotuncommon, andit,too,imposes
+costs-intermsofbothefficiency andfairness ateachsuccessive
+stageofthelitigation. Thegoalsofbetter,moreefficient, andmore
+orderlyjusticecanbeachieved whenthe
+qualityoflegalrepresentation
+atallstagesofcapitalcasesisimproved.
+Ourexperience indeathpenaltycaseshastaughtusagreatdeal
+overtheyears.Wenowunderstand thateffective legalrepresentation
+requires theworkandcommitment ofadefense teamofskilled
+professionals, including amitigation specialist. Weknowthatapoolof
+expertise andskillisneededtocompetently performthehigh-wire actof
+defending ahumanbeingontrialforhislife.Andweappreciate the
+significant difference thateffective legalrepresentation makesin
+determining anoutcome oflifeordeath.
+TheSupplementary Guidelines jointheABAGuidelines as
+important toolsforallthosewhoseektoensurejusticeforthemenand
+womenondeathrow.Theywillenhance theworkofcapitaldefenders
+andmitigation specialists. Theywillinformjurisdictions thatmustmake
+decisions abouttheresources andassistance thatdefenseteamsrequire.
+Theywilleducatejudgeswhohavequestions aboutmitigation evidence
+andtheprofessionals whodevelop it.Whileweremainfarfromour
+objective ofensuring justiceandfairness forallthosefacingpossible
+execution, theSupplementary Guidelines furtherourprogress toward
+reaching thatgoal.
+44.Robbins, supranote6,at27.
+http://scholarlycommons.law.hofstra.edu/hlr/vol36/iss3/512

@@ -1,0 +1,392 @@
+DEFENDANT’S OBJECTION  TO STATE’S MOTION  
+IN LIMINE  RE: SELF -AUTH ENTICATI ON OF RECORDS  Page 1 Anne Taylor Law, PLLC 
+Anne C. Taylor, Attorney at Law 
+PO Box 2347 
+Coeur d’Alene, Idaho 83816 
+Phone: (208) 512-9611 
+iCourt Email: info@annetaylorlaw.com 
+  
+Elisa G. Massoth, PLLC 
+Attorney at Law  
+P.O. Box 1003 
+Payette, Idaho 83661 
+Phone: (208) 642-3797; Fax: (208)642-3799 
+  
+Bicka Barlow  
+Pro Hac Vice  
+2358 Market Street 
+San Francisco, CA 94114 
+Phone: (415) 553-4110 
+  
+Assigned Attorney:  
+Anne C. Taylor, Attorney at Law, Bar Number: 5836 
+Elisa G. Massoth, Attorney at Law, Bar Number: 5647 
+Bicka Barlow, Attorney at Law, CA Bar Number: 178723 
+Jay W. Logsdon, First District Public Defender, Bar Number: 8759 
+ 
+IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE  
+STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA  
+ 
+ 
+CASE NUMBER CR01 -24-31665 
+DEFENDANT’S OBJECTION TO 
+STATE’S MOTION IN LIMINE  
+ 
+RE: SELF -AUTHENTICATI ON OF 
+RECORDS  
+ 
+ 
+COMES NOW, Bryan C. Kohberger, by and through his attorneys of record, and hereby 
+objects to the State’s Motion in Limine to admit self-authenticating  records.  The State provided a 
+list containing terabytes of discovery in its motion for admission at trial based on an exception to the 
+rule against hearsay. This is an example of the discovery practices the State engages in which violate STATE OF IDAHO,  
+                                   Plaintiff,  
+V. 
+BRYAN C. KOHBERGER,  
+                                   Defendant.  Electronically Filed
+3/17/2025 2:48 PM
+Fourth Judicial District, Ada County
+Trent Tripple, Clerk of the Court
+By: Jennifer Keyes, Deputy ClerkDEFENDANT’S OBJECTION  TO STATE’S MOTION  
+IN LIMINE  RE: SELF -AUTH ENTICATI ON OF RECORDS  Page 2  Mr. Kohberger’s right to due process and a fair trial.   Mr. Kohberger grounds his objection in the 
+United States Constitution,  5th 6th and 14th Amendment and the Idaho Constitution Article I section 
+13.  The State has not provided a specific record with a certificate and affidavit.  The State has 
+promised certification in the future but has failed to properly identify the record and how it falls within 803(6)  and/or (8) .  The Idaho Court of Appeals has said, “Rule 803(6), the business record 
+exception to t he hearsay rule, allows admission of a record or report if it was made and kept in the 
+course of a regularly conducted business activity and if it was the regular practice of that business to make the report or record.”  State v. Hill 140 Idaho 625, 97 P.3d 1014 (2004) .  The provided list 
+is not easily identifiable  as to which  records  the State is referring to .  Many of the records require 
+foundation because the State has not supplied information to guarantee completeness and authenticity of the record.  Aside from issues of authenticity, the State provides no basis upon which any of these records are relevant and meet Idaho Rules of Evidence 401, 402, and 403. Before any of these records are admitted, they must first be relevant. Only then does the determination of 
+whether an exception to the hearsay rules even matters.  
+In support of his objection, Mr. Kohberger describe s the size and complexity of each item  for 
+which  the S tate requests admission  with a promised certificat e as follows:  
+ 
+1.  1320 Linda Lane surveillance footage for November 13, 2022 (Hard drive provided on  
+4/5/22, AV000147)  
+2.  1330 Linda Lane surveillance footage for November 13, 2022 (Hard drive provided on  
+4/5/22, AV000147)  
+These surveillance videos contained in the folder AV000147 are two videos from the same 
+viewpoint.  They are each a one -hour time block.  Counsel has located in discovery video 
+footage from the two cameras that are between 8 -9 GB of data.  This data runs in numerous 
+clips of varying length with an approximate total of 12 ½ hours. The State has not provided any specifics related to what it intends to rely on or use as evidence nor a certificate that the videos were was made and kept in the course of a regula rly conducted business activity. and if 
+it was the regular practice of that business to make the report or record, No certification for 
+this footage establishing the criteria required exists.  
+ 3.Albertson's (Clarkston, WA)videosurveillance andbusiness recordsforNovember 13,2022
+(Harddriveprovided on4/5/23)
+Thisisasurveillance recording thatisabout3GBinsize.Thefilecontains multiple views
+thatcoveraboutatwo-hour timeblock.TheStatehasnotprovided anyspecifics relatedto
+whatitintendstorelyonoruseasevidence noracertificate thatthevideoswerewasmade
+andkeptinthecourseofaregularly conducted business activity.andifitwastheregular
+practice ofthatbusiness tomakethereportorrecord. Nocertification forthisfootage
+establishing thecriteriarequired exists.
+4.Amazon financial anduserrecordsforBryanKohberger (Harddriveprovided on4/5/23;
+AV000236, AV000243, AV000398; AV000832)
+AV236Contains anexcelspreadsheet withinformation andcategories forsubscription
+information andorderhistoryforanAmazonaccountMr.Kohberger andhisfamilymembers.
+AV243Contains Mr.Kohberger's fatheraccountrecordsandpurchase history.Theserecords
+listpurchases fortheentirefamily.
+AV398Contains Subscription history,clickactivityandsigninhistoryfortheAmazon
+AccountforMr.Kohberger andhisfamily
+AV832Contains apolicereportfromMichaelDouglas.
+Mr.Kohberger objectsspecifically toAV832asitisapolicereportandtheprosecution must
+haveawitnesstotestifyaboutthecontents ofapolicereport.IRE803(8)(A)(ii)(b). Heobjects
+totherestoftherequested documents becausetherecordsarenotacomplete record.TheCourt
+shouldconsider Mr.Kohberger's motiontoexcludeallAmazonrecordsandexperttestimony
+inconjunction withthisStaterequest.OnMarch12,2025theStatefiledexpertopinions related
+toAmazonrecords,somethreemonthsafteritsexpertdisclosure deadline.
+5.AT&TphonerecordsforMr.Kohberger, M.M.,X.K.(AV000228)
+AV000228 Mr.Kohberger notesthattheserecordsareonecopyofseveralcopiesobtained
+duringthecourseofthecase.Thisfolderalsocontainsrecordsrelatingtosomeone else.The
+Statehasnotprovided anyspecificsrelatedtowhatitintendstorelyonoruseasevidence nor
+acertificate thattherecordswerewasmadeandkeptinthecourseofaregularly conducted
+business activity.andifitwastheregularpracticeofthatbusiness tomakethereportorrecord.
+Mr.Kohberger seeksexclusion oftheserecordsbasedontheState'sincomplete expert
+dislcosures. Thisshouldnotbeanallowedmethodofcircumventing thosefailures.
+6.BagelShopvideosurveillance videoforNovember 13,2022.Thissurveillance videoisover
+7.5GBinsize.Noinformation hasbeensubmitted explaining howthisvideoiscertifiedorwhat
+portions theStateintendstouse.
+7.BankofAmericabankrecordsforB-F. andX.K.(AV000133; AV000254)
+TheTwofolderscontaindifferent setsofinformation. AV000133 Contains Bankof
+AmericaRecordsforBFandXK.Thereisanadditional recordlistedthatappearstobeto
+anotherperson.Additionally, sectionsoftherecordareredacted blockingoutinformation.
+AV254Contains BankofAmericaRecordsforBFandXK.Theserecordsaredifferent
+thanthoseinAV133.
+DEFENDANT'S OBJECTION TOSTATE'SMOTION
+INLIMINERE:SELF-AUTHENTICATION OFRECORDS Page3DEFENDANT’S OBJECTION  TO STATE’S MOTION  
+IN LIMINE  RE: SELF -AUTH ENTICATI ON OF RECORDS  Page 4   
+8.   Banner Bank banking records for E . C. (Hard drive provided on 4/5/23;  AV000255) .  
+ 
+The State has not provided any specifics related to what it intends to rely on or use as evidence nor a certificate that the records were was made and kept in the course of a regularly conducted business activity. and if it was the regular practice of that  business to make the report or record.  
+ AV000255 contains Banner Bank records for both E .C. and his mother. The State has not 
+provided any specifics related to what it intends to rely on or use as evidence nor a certificate that the records were was made and kept in the course of a regularly conducted business activity. and if it was the regular practice of tha t business to make the report or record.  
+ 
+9.    Café Artista video surveillance video for November 13, 2022   This disclosure contains still 
+photos as well as multiple files of recordings.  The total amount of video footage available is around 2 hours.  The State has not disclosed what portion of this video it intends to use, whether it was made and kept in the course of a regularly conducted business activity, and if it was the regular practice of that business to make the report or record  
+ 10.  Corner Club video surveillance video for November 12- 13, 2022 (AV000076 and AV000143)  
+These two files may be duplicate disclosures.  The video surveillance is from 14 different cameras with multiple hours of video footage.   There is no disclosure containing what sections 
+of this discovery intends to use at trial or how this record is a regularly collected and maintained record for this business.    
+ 11.   Corner Club financial transaction receipts of sale for November 13, 2022 (Bates Pages  
+342-480) This record is 138 pages of receipts from the Corner Club bar.  There is no disclosure 
+regarding what pages the State intends to admit as evidence or how these records are a regularly collected and maintained document of this business.  
+ 12. Costco (Clarkston, WA) surveillance video for November 13, 2022 (AV000229).  This surveillance is from up to ten cameras and runs for approximately an hour. The State provides 
+no disclosure of what segments of these videos it intends to use or how they comply with  
+  13.  DeSales student records regarding Bryan Kohberger (AV000291) . This disclosure is thousands 
+of pages of documents that are not organized in any fashion.  This disclosure involves 
+information related to Mr. Kohberger’s  calendar, course work drafts, final drafts, testing, 
+emails, and syllabi for classes while he was a student at DeSales.  The State has not specified what out of this extensive and disorganized information it intends to use, how records contained in Mr. Kohberger’s personal school Google ac count are a business record kept in 
+the ordinary course by DeSales, how these privacy protected education records are admissible in court.  
+ 14.   Dick’s Sporting Goods record of sale for Bryan Kohberger (AV000270)  The disclosure 
+contains a copy of a sales record from June of 2022. The State has not specified what records 
+it intends to admit as evidence, how  it was made and kept in the course of a regularly conducted 
+business activity and if it was the regular practice of that business to make the report or record  
+ 15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.Discover financial recordsforK.G.(AV000256). Thisrecordcontains a
+certification for33pagesofrecords. TheStatehassupplied 17pagesincluding compliance
+formsandemails.Thisrecordisincomplete.
+DoorDashrecordsforX.K.andE.C.(AV000265; 4/5/23Drive)
+AV000265 Contains EC'sDoorDashrecordsbutdoesNOTcontainrecordsforXK.
+The4/5/23disclosure isaDoorDashSearchwarrantreturns. Thewarrantreturnscontain
+photographs, alistofdeliveries to1122KingRoadandspanasfarbackas2019anda
+spreadsheet ofcommunication between thepersonordering thefoodandthedoordasher.The
+Statehasnotspecified whichoftheserecordsitintendstouseattrial,howtheyweremade
+andkeptinthecourseofaregularly conducted business activityandifitwastheregular
+practiceofthatbusiness tomakethereportorrecord.
+EarlyWarning Records(AV000213) Thisdisclosure contains somecertificate butnorecord
+withcontent.Mr.Kohberger doesnotknowwhattheStateintendstorelyonoradmit.
+ElanFinancial recordsforK.G.(Harddriveprovided on4/5/23)
+Therecordscontained inthisfolderrelatetoaPIFCUaccountforK.G.'srelative. TheState
+hasnotspecified whichoftheserecordsitintendstouseattrial,howtheyweremadeandkept
+inthecourseofaregularly conducted business activityandifitwastheregularpracticeofthat
+business tomakethereportorrecord.
+ENSServices(1300JohnsonAve.,Pullman, WA)surveillance videoforNovember 13,2022
+(Harddriveprovided on4/5/23)Thisdisclosure contains2datesofsurveillance eachwith125
+entries.TheStatehasnotprovided anyspecifics relatedtowhatitintendstorelyonoruseas
+evidence noracertificate thattherecords/videos werewasmadeandkeptinthecourseofa
+regularly conducted business activity.andifitwastheregularpracticeofthatbusiness tomake
+thereportorrecord.
+Farmer's Insurance surveillance videoforNovember 13,2022(Harddriveprovided on4/5/23)
+Thisdisclosure contains twofiles;onehas641separate videosandtheotherhas175videos.
+TheStatehasnotprovided anyspecificsrelatedtowhatitintendstorelyonoruseasevidence
+noracertificate thattherecords/videos werewasmadeandkeptinthecourseofaregularly
+conducted business activity.andifitwastheregularpracticeofthatbusiness tomakethereport
+orrecord
+Floyd'sCannabis Cosurveillance videoforNovember 13,2022(Harddriveprovided on
+4/5/23)Thesurveillance inthisdisclosure comesfromtwoseparate cameras andhasmultiple
+views.TheStatehasnotprovided anyspecifics relatedtowhatitintendstorelyonoruseas
+evidence noracertificate thattherecords/videos werewasmadeandkeptinthecourseofa
+regularly conducted business activity.andifitwastheregularpracticeofthatbusiness tomake
+thereportorrecord
+ForisDax (Crypto.com) financial recordsforBryanKohberger (AV000863) Thisdisclosure
+contains recordsthatshowpurchase historyandincludethetimebutnotthedate;account
+activityandautomated chatsrelatingtoaccountupdates. TheStatehasnotprovided any
+specifics relatedtowhatitintendstorelyonoruseasevidence noracertificate thatthe
+records/videos werewasmadeandkeptinthecourseofaregularly conducted business
+DEFENDANT'S OBJECTION TOSTATE'SMOTION
+INLIMINERE:SELF-AUTHENTICATION OFRECORDS Page5DEFENDANT’S OBJECTION  TO STATE’S MOTION  
+IN LIMINE  RE: SELF -AUTH ENTICATI ON OF RECORDS  Page 6  activity. and if it was the regular practice of that business to make the report or record. On 
+March 13, 2025, for the first time, the State disclosed that its expert Michael Douglass intends to rely on this  record in his summary. No opinion regarding these records has been disclosed.  
+ 23.   Grub Truck video surveillance video for November 13, 2022 (Hard drive provided on 4/5/23)  This disclosure contains a 4 ½  hours of video. The State has not provided any specifics related 
+to what portion of the video it intends to rely on or use as evidence nor a certificate that the records/videos were was made and kept in the course of a regularly conducted business activity. and if it was the regular practice of that business to make the report or record.  
+ .  24. Harbor Freight business and surveillance records (Hard drive provided on 4/5/23; AV000350)  
+This disclosure contains surveillance video, receipts and a product manual.  Most of the purchase receipts belong to people other than Mr. Kohberger. The State has not provided any specifics related to what it intends to rely on or use as evidence nor a certificate that the records/videos were was made and kept in the course of a regularly conducted business activity. and if it was the regular practice of that business to make the report or record.  
+ .  25. Idaho Central Credit Union (ICCU) bank records for M .M. (Hard drive provided on 4/5/23; 
+AV000257) . The State has not provided any specifics related to what it intends to rely on or 
+use as evidence nor a certificate that the records/videos were was made and kept in the course of a regularly conducted business activity. and if it was the regular practic e of that business to 
+make the report or record.  
+  26.    Indian Mountain Lake surveillance and records (AV000427) This disclosure does not contain 
+video surveillance.  It does contain records of entry and a visitors log.  The time frame exceeds 
+the date Mr. Kohberger was arrested. The State has not provided any specifics related to what it intends to rely on or use as evidence nor a certificate that the records/videos were was made and kept in the course of a regularly conducted business activity. and if it was the regular practice of that business to make  the report or record.  
+  27.  Joann Fabrics financial records (AV000868).  This disclosure contains purchase information and a receipt.   The State has not provided any specifics related to what it intends to rely on or use as evidence nor a certificate that the records/videos were was made and kept in the course of a regularly conducted business activity. and if it was the regular practice of that business to make the report or record.  
+ 28.  Latah County Sheriff’s Office Deputy Darren Duke body camera video on August 21, 2022 (AV000100).  This disclosure cannot be presented by the State of Idaho pursuant to IRE 803(8)(A)(ii)(b).  This is not a business record.  
+ 29.  Latah County Sheriff’s Office citation issued on August 21, 2022 (Bates Number 13012-13013).  This disclosure cannot be presented by the State of Idaho pursuant t o IRE 
+803(8)(A)(ii)(b).  This is not a business record.    
+ 30. Marshall’s financial records for Mr. Kohberger (AV000269, AV000350, AV0000861)  
+ AV000269 This disclosure contains Marshall’s receipts.   DEFENDANT’S OBJECTION  TO STATE’S MOTION  
+IN LIMINE  RE: SELF -AUTH ENTICATI ON OF RECORDS  Page 7  AV000350 Contains a variety of documents that include police reports, photos, interview, 
+hand- written notes, consent forms, victimology questionnaires, receipts, copies of messages 
+and other documents most of which are not related to Mr. Kohberger.  The st ate has not 
+supplied a certification of any record within this file.    AV000861 Contains a single page document listing purchases from multiple businesses. This file contains nothing to identify what it is or who it is about.  No certification accompanies this document  stating who generated this document or who it relates to. The State has not provided 
+any specifics related to what it intends to rely on or use as evidence nor a certificate that the records/videos were was made and kept in the course of a regularly conducted business activity. and if it was the regular practice  of that business to make the report or record  
+ 31. National Weather Service records for November 12 and 13, 2022. (Bates Pages 15720- 15738)  
+The State has not provided certification in compliance with caselaw and rule.  
+ 32.   Numerica Bank records for K .G. (Hard drive provided on 4/5/23, AV000258, AV000828 and 
+AV000849)  
+   
+The Hard drive contains account information produced pursuant to a search warrant.   
+  AV000258 contains a sheet with sign- in information  
+  AV000828 contains information produced pursuant to a search warrant.  
+ AV000849 contains multiple files of unrelated records as well as a duplicate of AV000828 
+ Only one file has a purported certification.  The State has not provided any specifics related to what it intends to rely on or use as evidence nor a certificate that the records/videos were was made and kept in the course of a regularly conducted business activity. and if it was the regular 
+practice of that business to make the report or record  
+ 
+.   
+ 33. PayPal/Venmo financial records (Hard drive provided on 4/5/23; AV000215, AV000260, AV000793)  
+  AV000215 This disclosure contains Venmo record for Mr. Kohberger.  This record does not have any sort of compliance with caselaw or statute  AV000260 This disclosure contains records from Synchrony for Mr. Kohberger’s PayPal.  The State has included a purported certification of these records is included  
+ AV000793 This disclosure contains records from Paypal. These records are different from those contained in AV000260.  The State has not supplied Certification. 
+The State has not provided any specifics related to what it intends to rely on or use as evidence nor a certificate that the records/videos were was made and kept in the course of a regularly conducted business activity. and if it was the regular practice of that business to make the report or record  
+ 34.  PNC Bank records for Mr.Kohberger (AV000862) This record contains Mr. Kohberger’s 
+account information with transactions from June 2022. The State has not provided any specifics related to what it intends to rely on or use as evidence.  
+   DEFENDANT’S OBJECTION  TO STATE’S MOTION  
+IN LIMINE  RE: SELF -AUTH ENTICATI ON OF RECORDS  Page 8   35. PenTele Data records  (AV000241; AV000866)  
+ 
+AV000241 Contains PenTele Data Account information for M.K. and M.A.K .   
+ AV000866 contains copies of the same information. The State has not provided any specifics related to what it intends to rely on or use as evidence nor a certificate that the records/videos were was made and kept in the course of a regularly conducted business activity. and if it was the regular practice of that business to make the report or record  
+ 36. Pennsylvania State Employees Credit Union (PSECU) for Mr.  Kohberger (AV000226;  
+AV000242; AV000259)   
+ AV000226 Does contain PSECU records for Mr. Kohberger.  A purported certification is included however is lists disclosure of 23 pages, the State provided 26 pages and an excel spreadsheet.   AV000242 Contains PSECU Records of M .K. and M.A.K.  
+ AV000259 contains different or additional PSECU records for Mr. Kohberger.  There is no certification for these records.  The State has not provided any specifics related to what it intends to rely on or use as evidence.  
+ 
+37.  PetCo financial records for K .G.(AV000867)  
+AV000867 Contains Petco records from purchases made with cards associated with KG and or her rewards card. There is a purported certification for these records. The State has not 
+provided any specifics related to what it intends to rely on or use as evidence  
+ 38. RiteAid financial records (AV000871)  
+AV000871 Contains an email stating they do not have any video footage, and no transactions for BF.  The disclosure consists of 3 pages of records are provided but nothing to identify who they relate to. The State provides no certification for these records .  
+ 39.  Ross financial records (AV000861)   
+AV000861 is a single page disclosure that lists purchases (not from Ross Stores) and has no identifying information. The State has not provided a certification for these records.  
+ 40. Sunset Mart (1311 S. Main St., Moscow, ID) surveillance video for November 13, 2022 (Hard drive provided on 4/5/23)   This disclosure contains surveillance video from several cameras.  There are 11 separate folders containing subfolders of footage. The recordings provide hours and hours of surveillance footage. The State has not provided any specifics related to what it intends to rely on or use as evidence nor a certificate that the records/videos were was made and kept in the course of a regularly conducted business activity. and if it was the regular practice of that business to make the report or record  
+ 
+41. Sunset Mart (1455 SE   Bishop Blvd., Pullman, WA) surveillance video for November 13, 2022 (Hard drive provided on 4/5/23)   DEFENDANT’S OBJECTION  TO STATE’S MOTION  
+IN LIMINE  RE: SELF -AUTH ENTICATI ON OF RECORDS  Page 9  This disclosure contains surveillance video from several cameras.  There are 3 folders 
+containing subfolder that contain recordings.  The recordings provide hours and hours of surveillance footage. The State has not provided any specifics related to what it intends to rely on or use as evidence nor a certificate that the records/videos were was made and kept in the course of a regularly conducted business activity. and if it was the regular practice of that business to make the report or record  
+ 
+42.  Target financial records (AV000253; AV000263; AV000861; AV000864)  
+ AV000253 This disclosure is 51 pages of  receipts from Target.  The State has not provided certification for these records.   AV000263 This disclosure contains an email trail regarding a gift card issued in 2014.  A certification is disclosed but no records are attached.   AV000861 This disclosure is the same single page disclosure listed for Ross in number 39 above.   
+ AV000864 This disclosure contains a letter to Agent Douglas stating they are providing the records for DM and BF from Target.  The disclosure provides a certification stating 5 pages of documents are provided; the State has disclosed 6 pages of documents. The State has not 
+provided any specifics related to what it intends to rely on or use as evidence nor a certificate that the records/videos were was made and kept in the course of a regularly conducted business activity. and if it was the regular practice  of that business to make the report or record  
+ 43.  TikTok user records for X .K.  (Hard drive provided on 4/5/23)  
+  This record contains user history including use, messaging and videos.  The State has not 
+provided any specifics related to what it intends to rely on or use as evidence nor a certificate that the records/videos were was made and kept in the course of a regularly conducted business activity. and if it was the regular practice of that business to make the report or record.  
+ 44.  TJX financial records for D .M. (AV000865)  
+   This disclosure contains email communication relating to the disclosure and a single record of purchase by DM on 10/18/22. The State has not provided any specifics related to what it 
+intends to rely on or use as evidence nor a certificate that the records/videos were was made and kept in the course of a regularly conducted business activity. and if it was the regular practice of that business to make the report or record. Simply because this items is single 
+purchase does not explain how it is a self -authent icated business record relevant to this case.   
+ 
+   
+45.  T-Mobile phone records for K .G. and D.M.  (AV000345)  
+AV000345 This disclosure contains call detail and subscriber records for KG and DM from 6/23/22- 8/1/22. The State has not provided any specifics related to what it intends to rely on 
+or use as evidence from these records.  
+ 
+ 46. Umpqua bank records for D .M. (Hard drive provided on 4/5/23; AV000261)  
+  DEFENDANT’S OBJECTION  TO STATE’S MOTION  
+IN LIMINE  RE: SELF -AUTH ENTICATI ON OF RECORDS  Page 10  AV000261 This disclosure contains DM banking records.  This disclosure also contains 
+records produced from another financial institution for MM.  Additionally, this disclosure 
+contains a copy of a Grand Jury Subpoena and a letter of instruction.1 The State has not 
+provided any specifics related to what it intends to rely on or use as evidence nor a certificate that the records/videos were was made and kept in the course of a regularly conducted business activity. and if it was the regular practice of that business to make the report or record.  
+ 
+   
+ 47.   Under Armor transaction records for Bryan Kohberger (AV000271)  
+ 
+AV000271 This disclosure contains a letter responding to the record request and a record of a 
+single purchase Mr. Kohberger made in PA 6/24/22. The State has not provided any specifics 
+related to what it intends to rely on or use as evidence nor a certificate that the records/videos 
+were was made and kept in the course of a regularly conducted business activity. and if it was the regular practice of that business to make the report or record.   
+ 48. US Chef Store (Clarkston, WA)  video surveillance for November 13, 2022 (Hard drive 
+provided on 4/5/23)  
+  
+This disclosure contains a surveillance video lasting approximately 25 minutes.  The State has 
+not provided any specifics related to what it intends to rely on or use as evidence nor a 
+certificate that the records/videos were was made and kept in the course of a regularly conducted business activity. and if it was the regular practice of that business to make the report 
+or record.  The State has not disclosed certification for this video.   
+ 
+50.  Ulta financial records (AV000869)  
+ 
+AV000869 This disclosure contains purchase records for KG, MM and a person identified only by a member ID number. The disclosure contains a letter from the business. The State has not provided any specifics related to what it intends to rely on or use as evidence nor a certificate that the records were was made and kept in the course of a regularly conducted business activity. and if it was the regular practice of that business to make the report or record  
+ 
+    
+ 51. Verizon phone records for E .C, B.F., and J.D. (AV000303; hard drive provided on 4/5/23)  
+Hard Drive -  This disclosure contains phone downloads for each of the named persons.  These 
+records are captured by more than one tool for download.  Each record contains a huge amount 
+of data.   
+ 
+AV000303 This disclosure contains records for EC and BF.  There are no records for JD in 
+this disclosure.  The State has not provided any specifics related to what it intends to rely on 
+or use as evidence nor a certificate that the records were was made and kept in the course of a 
+regularly conducted business activity. and if it was the regular practice of that  business to make 
+the report or record.   The State has not provided certification for these records.  
+ 
+ 
+1 Exhibit “Objection to State’s motion ___  federal grand jury subpoena.  DEFENDANT’S OBJECTION  TO STATE’S MOTION  
+IN LIMINE  RE: SELF -AUTH ENTICATI ON OF RECORDS  Page 11  52. Walmart surveillance and financial transaction records for Bryan Kohberger (AV000252; 
+AV000384)  
+ AV000252 This disclosure contains purchase history for Mr. Kohberger.  
+ 
+AV000384 This disclosure is one of several containing surveillance videos from Walmart. In this particular folder there are multiple cameras and surveillance videos.  These would not open and were provided in a converted format.  Not every video from this folder was provided in the converted format. The State has not provided any specifics related to what it intends to rely on or use as evidence nor a certificate that the records/videos were was made and kept in the course of a regularly conducted business activity. and if it was the regular practice of that business to make the report or record. The State has not provided certifications for any of the surveillance footage.   
+ 53.  Washington Department of Motor Vehicles surveillance video for November 18, 2022 (AV000140; AV000830)   AV000140 This disclosure contains surveillance footage.  The State has not provided certification for this video.    AV000830 This disclosures contains surveillance footage and is noted as converted.  Both disclosures have several videos .  These videos contain sound.  No certification was provided.  
+ 54. Washington Department of Motor Vehicles registration documents for Mr.  Kohberger 
+(AV000140) .  
+AV000140 This disclosure contains registration and title documents.   
+ 55. Washington Trust Bank records for Mr.  Kohberger (AV000227)  
+ 
+AV000227   This disclosure contains WA trust bank records for Mr. Kohberger.  There is an excel spreadsheet of transactions and PDG documents of images of Mr. Kohberger in his car at the ATM on the morning on 11/13/22. The State has not provided any specifics related to 
+what it intends to rely on or use as evidence nor a certificate that the records/videos were was made and kept in the course of a regularly conducted business activity. and if it was the regular practice of that business to make the report or record.  
+ 56.  Wells Fargo bank records for M .M. (Hard drive provided on 4/5/23, AV000155, AV000261, 
+AV000262(a))  
+ AV000155 This disclosure contains Wells Fargo Records for MM.  These records were obtained pursuant to a Search Warrant.  
+ AV000261 This disclosure contains Umpqua Records for DM and Wells Fargo Records for MM.  This record contains the Grand Jury packet and letter.  These records are not the same as the record contained in AV000155.   AV000262 This disclosure contains Wells Fargo records for MM.  They are the same records contained in AV000155 and AV000261.  
+ DEFENDANT’S OBJECTION  TO STATE’S MOTION  
+IN LIMINE  RE: SELF -AUTH ENTICATI ON OF RECORDS  Page 12  AV000262a This disclosure provides the same record again but with another document that 
+had not been provided with any other related disclosure.  The State has not provided any specifics related to what it intends to rely on or use as evidence nor a certificate that the records/videos were was made and kept in the course of a regularly conducted business activity. and if it was the regular practice of that business to make the report or record  
+ 57. Winco financial records for Mr.  Kohberger (AV000861)   
+ AV000861  This is the same single page document referenced in numbers 39 Ross and 42 Target above.  The disclosure does not contain Mr. Kohberger’s financial records relating to Winco.  The State has not provided a certification for this record.   
+ 58. Winco financial records and video surveillance for  B.F., D.M., K.G., M.M. and X.K.  
+(AV000860; Hard drive for 4/5/23)   AV000860 This disclosure contains transactions for those listed above. The purported certification reads: “winco food receipts” only.  This disclosure contains surveillance video from several camer as at Winco. The State has not 
+provided any specifics related to what it intends to rely on or use as evidence nor a certificate that the records/videos were was made and kept in the course of a regularly conducted business activity. and if it was the regular practice of that business to make the report or record.  
+  59.  Washington State University (WSU) video surveillance for November 13, 2022 (Hard drive provided on 4/5/23)  
+  
+Drive - This disclosure contains surveillance video from a variety of cameras and multiple 
+separate videos  of surveillance footage at WSU.   The State has not provided any specifics 
+related to what it intends to rely on or use as evidence nor a certificate that the records/videos were was made and kept in the course of a regularly conducted business activity. and if it was the regular practice of that business to make the report or record.  
+ 
+60. WSU parking records (AV000375, AV000394, AV000430)  
+ AV000375 This disclosure is record from WSU containing a vast  amount of information about 
+vehicles, parking and campus related information.    AV000394 This disclosure contains content appearing to duplicate of AV000375.  AV000430   This disclosure contains a huge amount of data covering U of I and WSU parking permits, parking tickets, searches for vehicles through different entities, vehicle spread sheets; specific files seeking 2011- 2013 Elantra and 2019- 2022 Nissan Sentr a.  There are two WSU 
+related folders.  One contains some of the same information in AV000375 and AV000394 but also contains additional information.  The second WSU related file contains spreadsheets for various vehicles queried through traffic tickets.  T he State has not provided any specifics 
+related to what it intends to rely on or use as evidence nor a certificate that the records/videos were was made and kept in the course of a regularly conducted business activity. and if it was the regular practice o f that business to make the report or record  
+ 
+  DEFENDANT’S OBJECTION  TO STATE’S MOTION  
+IN LIMINE  RE: SELF -AUTH ENTICATI ON OF RECORDS  Page 13   
+The State is seeking broad authority to provide, in the future, a certification for records 
+listed above.  These records are extensive; they contain several terabytes of video  and thousands 
+of pages.  The State has obtained these records in a variety of ways; some came through police 
+work  doing video canvasing, others came with search warrant service, and many came through 
+Federal Grand Jury Subpoena.     
+Mr. Kohberger provides as and exhibit a copy of the Federal Grand Jury Subpoena he was 
+provided inadvertently.  He sought all Grand Jury Subpoenas through Discovery and Motion to Compel.  He was not provided copies, other than this inadvertently produced c opy.  Of interest, 
+and in support of his objection to the State’s motion is that records were dual produced by search warrant and by subpoena.  The copy of records is not identical in every production.  This exhibit depicts a letter from FBI agent Douglass  directing the keeper of business records to contact him 
+prior to fulfilling the subpoena.  In the packet in the exhibit there is an affidavit of compliance which specifies what documents are responsive to the subpoena and specify what is supplied.  As 
+has been pointed out within the list discovery items above, when the affidavit has been produced 
+in relation to the FBI Grand Jury Subpoena there is usually a discrepancy.  Mr. Kohberger urges the Court to first require the State to explain how  each of  these records are relevant because the 
+mass production without specificity makes it impossible for Mr. Kohberger to effectively confront this evidence. The Court must require verification of the record s and videos  produced along with 
+any certification.   
+Mr. Kohberger’s objection to the State’s broad request is summed up with reliance on his 
+rights and protections under the United States Constitution and the State of Idaho Constitution.  Mr. Kohberger has protections of a fair trial, effective assistance o f counsel and confronting evidence 
+produced against him.   DEFENDANT’S OBJECTION  TO STATE’S MOTION  
+IN LIMINE  RE: SELF -AUTH ENTICATI ON OF RECORDS  Page 14     Idaho Rules of Evidence govern evidence admissibility in trial.  Mr. Kohberger objects to 
+the State ’s request that is a large sweep with an a free pass for admissibility.  The State’s request is 
+premature, excessively broad and must be denied until the request can be disclosed specifically and 
+properly litigated.   
+DATED this __ 17____ day of March, 2025.  
+ 
+                
+       _____________________________ 
+      ANNE C. TAYLOR  
+      ANNE TAYLOR LAW, PLLC  
+ 
+ 
+   
+CERTIFICATE OF DELIVERY 
+ 
+I hereby certify that a true and correct copy of the foregoing was personally served as 
+indicated below on the ___17____ day of March, 2025 addressed to:  
+ Latah County Prosecuting Attorney –via Email: paservice@latahcountyid.gov 
+Elisa Massoth – via Email: legalassistant@kmrs.net 
+Jay Logsdon – via Email: Jay.Logsdon@spd.idaho.gov 
+Bicka Barlow, Attorney at Law – via Email: bickabarlow@sbcglobal.net  
+Jeffery Nye, Deputy Attorney General – via Email: Jeff.nye@ag.idaho.gov  
+        
+        

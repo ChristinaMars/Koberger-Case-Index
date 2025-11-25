@@ -1,0 +1,147 @@
+Filed:2/24/2025 11:41:45
+FourthJudicialDistrict,AdaCounty
+TrentTripple,ClerkoftheCourt
+By:DeputyClerk-
+Waters,ReneeAnneTaylorLaw,PLLC
+AnneC.Taylor,Attorney atLaw
+POBox2347
+Coeurd'Alene,Idaho83816
+Phone:(208)512-9611
+iCourtEmail:info@annetaylorlaw.com
+ElisaG.Massoth, PLLC
+Attorney atLaw
+P.O.Box1003
+Payette,Idaho83661
+Phone:(208)642-3797; Fax:(208)642-3799
+BickaBarlow
+ProHacVice
+2358MarketStreet
+SanFrancisco, CA94114
+Phone:(415)553-4110
+Assigned Attorney:
+AnneC.Taylor,Attorney atLaw,BarNumber: 5836
+ElisaG.Massoth, Attorney atLaw,BarNumber: 5647
+BickaBarlow,Attorney atLaw,CABarNumber: 178723
+JayW.Logsdon, FirstDistrictPublicDefender, BarNumber: 8759
+INTHEDISTRICT COURTOFTHEFOURTHJUDICIAL DISTRICT OFTHE
+STATEOFIDAHO,INANDFORTHECOUNTYOFADA
+CASENUMBER CR01-24-31665
+MOTION INLIMINE#5
+RE:INCONCLUSIVE DATASTATEOFIDAHO,
+Plaintiff,
+BRYANC.KOHBERGER,
+Defendant.
+COMESNOW,BryanC.Kohberger, byandthroughhisattorneys ofrecords,andhereby
+movestheCourtforanOrderlimitingtestimony aboutthestatistical analysisofItemQ13.1,
+fingernail scrapings.
+Allowingsuchtestimony wouldviolateMr.Kohberger's FederalandStateConstitutional
+rightstodueprocess, afairtrial,effective assistance ofcounsel, andconfrontation ofwitnesses.
+ThismotionisbasedontheSth,6thand14thAmendments totheUnitedStatesConstitution, Idaho
+MOTION INLIMINE#5RE:INCONCLUSIVE DATA Page1Constitution Article.]ISection13,andIdahoCriminalRule16andIdahoRulesofEvidence 102,
+104,701,702,and703.Therequestedlimitsaremadeto"securefairnessinadministration. ..to
+theendthetruthmaybeascertained andproceedings justlydetermined. SeeR.E.102.Further,
+theabove-requestedmattersarempeforconsideration bytheCourtpursuant toLR.E.104based
+ontheexistence ofissuesthatinvolvepreliminary questions ofadmissibility.
+STATEMENT OFFACTS
+Ingrandjurytestimony, JadeMillertestifiedastotheresultsoftestingdoneonItemQ13.1,
+aswaboftheleftfingernail clippings fromMadison Mogen(M.M.).Thedataconsisted ofthree
+personmixture. Thestatistic,thelikelihood ratio(LR),wascalculated assuming thatM.M.wasa
+contributor toherownfingemails. MillertestifiedthatM.M.asfollowed:
+Thedatafromthatsamplewas astoMr.Kohberger. GJTranscript at365,
+366.Millertestifiedthatinconclusive meansthatananalystis
+GJTranscript at366.Millerwent
+ontoexplainthatthelikelihood ratioforMr.Kohberger
+GJTranscript at367.
+ARGUMENT
+Theuseofmisleading language confuses andmisleads thefinderoffactandisbarredby
+theRules402,403,aswellasdueprocessinthattheevidence isoverlyprejudicial. Theerroneous
+admission ofirrelevant andprejudicial evidence willoffenddueprocesswhenitrendersatrial
+fundamentally unfair(Estellev.McGuire(1991)502U.S.62,70).
+Here,expanding beyondthelanguage ofthereportwouldprejudice Mr.Kohberger inthat
+itmightallowthejurytoinferthattheinconclusive datawouldmeanthathemightbeincluded.
+LR'saredifferent fromtraditional statistics thatcourtsandjuriesareusedtoseeingandhearing.
+MOTION INLIMINE#5RE:INCONCLUSIVE DATA Page2TheLRisacomparison ofhypotheses, itisnotastatement ofidentityorprobability ofidentity.
+Itsimplyasksthequestion: giventhedata,whichhypotheses testedismorelikely.ForItem
+Q13.1,bothhypotheses testedforeachindividual assumed thatM.M.'sDNAwaspresent. So
+whenthelabgenerated anLR,laidoutabove,thehypotheses testedwere:
+M.M.,K.G.,andoneunknown unrelated person
+Versus
+M.M.andtwounrelated persons
+Thiscomparison wasdoneforalloftheindividuals listedinreport#7andforMr.
+Kohberger inReport#26.!AttheISPlab,anynumbergreaterthan100,isconsidered aconclusive
+resultindicating inclusion. Anynumberlessthan0.01isconsidered aconclusive resultindicating
+exclusion. ThusifanLRfallswithintherangeof0.01to100,thelabcannotdrawanyconclusions
+andthedataisreported asinconclusive.
+Inhertestimony Millerdidnotprovideafullcontexttotheanalysis. Thelabreported a
+seriesofLR'sforItem13.1including anLRof0.399for 0.485for
+0.20,for 0.0233for LabReport#7,at3.Alloftheseindividuals3 3
+sitinthesameshoesasMr.Kohberger, namelythattheLRisexclusionary butfallsintherange
+ofinconclusive.
+OfinterestisthatwhenanLRwascalculated for .Thus,
+Mr.Kohberger's inconclusive LRissimilartoalmosteveryotherpersonforwhomanLRwas
+generated andfocusing onhis"inconclusive" LRwouldmisleadthejury.Inthatinimpliesthat
+theLRmeansthatMr.Kohberger's DNAmightbepresentinthesample.
+TheCourtshouldexcludetestimony suchas
+MotioninLimine#5Exhibit1ISPLabReports7and26
+MOTION INLIMINE#5RE:INCONCLUSIVE DATA Page31MOTION IN LIMINE #5  RE:  INCONCLUSIVE DATA     Page 4 
+  More importantly, Mr. Kohberger has disc losed that through fu rther independent 
+laboratory testing, he is eliminat ed as a contributor to Item 13.1.  When Mr. Kohberger sought to 
+overturn the grand jury indictment, he argued that Miller’s testim ony was inadmissible and 
+misleading. The state argued that the testimony was presented to the grand jury as exculpatory, 
+and an effort to elicit favorable evidence fo r Mr. Kohberger.  The independent lab testing 
+conducted by the defense related to Item 13.1 is in deed exculpatory. Mr. Kohberger is excluded, 
+and the state should be precluded from misleading the jury in any way.  
+CONCLUSION  
+A fair trial is mandated by Mr. Kohberger’s Federal and State Constitutional rights to due 
+process, a fair trial, effective assistance of counsel, and confrontat ion of witnesses.  U.S. Const. 
+amends. V, VI, and XIV; Idaho C onst. art. I Sections 8 and 13.  Expert testimony, improperly 
+elicited must be excluded.   
+DATED this ___24____ day of February, 2025. 
+          
+        
+      B Y :   _____________________________ 
+       B I C K A  BARLOW 
+       A T T O R N E Y  AT LAW 
+ 
+ 
+CERTIFICATE OF DELIVERY 
+ 
+I hereby certify that a true and correct copy of the foregoing was personally served as 
+indicated below on the ___24____ day of February, 2025 addressed to: 
+ 
+Latah County Prosecuting Attorney –via Email: paservice@latahcountyid.gov  
+Elisa Massoth – via Email: legalassistant@kmrs.net 
+Jay Logsdon – via Email: Jay.Logsdon@spd.idaho.gov 
+Bicka Barlow, Attorney at Law – via Email: bickabarlow@sbcglobal.net  
+Jeffery Nye, Deputy Attorney General – via Email: Jeff.nye@ag.idaho.gov  
+      
+       
+    
+ 
+CERTIFICATE OFSERVICE
+Iherebycertifythaton ,Iservedatrueandcorrectcopyofthe3/4/2025
+LATAHCOUNTYPROSECUTING ATTORNEY'S OFFICE
+WILLIAM W.THOMPSON, JR.
+PROSECUTING ATTORNEY
+JEFFERYD.NYE
+SPECIALASSISTANT ATTORNEY GENERAL
+VIAEMAIL:Jeff.Nve(@ag.idaho.gov
+ASHLEYJENNINGS
+DEPUTYPROSECUTING ATTORNEY
+VIAEMAIL:paservice(@latahcountyid.gzov
+ANNETAYLORLAW,PLLC
+ANNEC.TAYLOR
+VIAEMAIL:info@annetaylorlaw.com
+ELISAG.MASSOTH, PLLC
+ELISAG.MASSOTH
+VIAEMAIL:emassoth@kmrs.net
+IDAHOSTATEPUBLICDEFENDER'S OFFICE
+JAYW.LOGSDON
+FIRSTDISTRICT PUBLICDEFENDER
+VIAEMAIL:Jay.Logsdon@spd.idaho.gov
+BICKABARLOW
+ProHacVice
+bickabarlow@sbcglobal.net
+TRENTTRIPPLE
+ClerkoftheCourt
+By:FuriDeputyClerk3142025 11:42:21 am

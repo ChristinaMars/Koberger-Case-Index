@@ -1,0 +1,632 @@
+ MOTION TO STRIKE DEATH PENALTY RE:  AUTISM SPECTRUM DISORDER  Page 1 
+ Anne Taylor Law, PLLC 
+Anne C. Taylor, Attorney at Law 
+PO Box 2347 
+Coeur d’Alene, Idaho 83816 
+Phone: (208) 512-9611 
+iCourt Email: info@annetaylorlaw.com 
+  
+Elisa G. Massoth, PLLC 
+Attorney at Law  
+P.O. Box 1003 
+Payette, Idaho 83661 
+Phone: (208) 642-3797; Fax: (208)642-3799 
+  
+Bicka Barlow  
+Pro Hac Vice  
+2358 Market Street 
+San Francisco, CA 94114 
+Phone: (415) 553-4110 
+  
+Assigned Attorney:  
+Anne C. Taylor, Attorney at Law, Bar Number: 5836 
+Elisa G. Massoth, Attorney at Law, Bar Number: 5647 
+Bicka Barlow, Attorney at Law, CA Bar Number: 178723 
+Jay W. Logsdon, First District Public Defender, Bar Number: 8759 
+ 
+IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE  
+STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA  
+ 
+ 
+ 
+CASE NUMBER CR01-24-31665 
+ 
+MOTION TO STRIKE DEATH 
+PENALTY  
+ 
+RE: AUTISM SPECTRUM DISORDER  
+ 
+ 
+ 
+COMES NOW, Bryan C. Kohberger, by and through his attorneys of record, and hereby 
+moves this Court to strike the death penalty as a sentencing option in his case because Mr. 
+Kohberger’s autism spectrum disorder (ASD) reduces his culpability, negates the retributive and 
+deterrent purposes of capital punishment, and exposes him to the una cceptable risk that he will be 
+wrongfully convicted and sentenced to deat h. In making this motion, Mr. Kohberger relies on his STATE OF IDAHO  
+ 
+                                   Plaintiff,  
+ 
+V. 
+ 
+BRYAN C. KOHBERGER,  
+ 
+                                   Defendant.  Electronically Filed
+2/24/2025 5:30 PM
+Fourth Judicial District, Ada County
+Trent Tripple, Clerk of the Court
+By: Jennifer Keyes, Deputy Clerk MOTION TO STRIKE DEATH PENALTY RE:  AUTISM SPECTRUM DISORDER  Page 2 
+ right to be free from cruel and unusual punishment, his right to due process, his right to a fair trial, 
+his right to counsel, his right to present a defense, his right to a reliable sentencing determination, and other rights safeguarded by the Fifth, Sixth, Eighth, and Fourteenth Amendments to the United States Constitution, and Article I, Sections 1, 2, 6, 7, and 13 of the Idaho State Constitution. 
+Mr. Kohberger is aware of the deadline previously imposed by the court’s scheduling order 
+but has good cause for filing this motion at this time.  Good cause is laid out in an Affidavit, attached but filed under seal. (See Exhibit 1, Affidavit of Dr. Cecil Reynolds – A notarized signed 
+copy will be provided once received from Dr. Reynolds) 
+TABLE OF CONTENTS  
+INTRODUCTION  ..........................................................................................................................3 
+ARGUMENT  ...................................................................................................................................5 
+I. Due to Impairments in Communication, Reasoning, Social Skills, and Impulse 
+Control, People with ASD Are Insufficiently Culpable to Be Executed.  .....................5 
+II. The Deterrent and Retributive Aims of the Death Penalty Are Not Met by Executing 
+People with ASD. ..........................................................................................................9 
+III. As Awareness of ASD Becomes More Widespread, Evolving Standards of Decency 
+Condemn Execution of People with ASD.  ................................................................. 11 
+IV. Death Sentences for People with ASD are Inherently Unreliable Because Defendants with ASD Cannot Present Mitigation Evidence that Will Be Meaningfully Considered 
+by the Jury. ...................................................................................................................15 
+a. Defendants with ASD Are Less Able to Meaningfully Assist their Counsel. ....18 
+b. The Demeanor of a Defendant with ASD Will Likely Create an Unwarranted 
+Impression of Lack of Remorse for their Crimes.  .............................................20 
+c. People with ASD Make Poor Witnesses. ............................................................23 
+d. Evidence of a Defendant’s ASD Will Likely Be Perceived by the Jury as Aggravating Instead of Mitigating. .....................................................................24 
+V. Even if this Court Rejects a Categorical Approach, it Should Remove the Death Penalty 
+Because Case- Specific Factors Create an Unacceptable Risk that a Death Sentence Will 
+Be Imposed In Spite of Factors Requiring a Lesser Sentence, Including a Pervasive  MOTION TO STRIKE DEATH PENALTY RE:  AUTISM SPECTRUM DISORDER  Page 3 
+ Media Narrative that Assigns Sinister Meaning to Symptoms of Mr. Kohberger’s 
+Disability.  ....................................................................................................................27 
+CONCLUSION  ..............................................................................................................................30 
+INTRODUCTION 
+The United States Supreme Court has repeatedly emphasized the exceptional and 
+irrevocable nature of the death penalty:  
+Death, in its finality, differs more from life imprisonment than a 100 -
+year prison term differs from one of only a year or two. Because of 
+that qualitative difference, there is a corresponding difference in the need for reliability in the determination that death is the appropriate punishment in a specific case.  
+Woodson v. North Carolina, 428 U.S. 280, 305 (1976). This heightened standard of reliability is 
+“a natural consequence of the knowledge that execution is the most irremediable and unfathomable of penalties; that death is different.” Ford v. Wainwright , 477 U.S. 399, 411 (1986); see also,  
+Lockett v. Ohio , 438 U.S. 586, 605 (1978) (“Given that the imposition of death by public authority 
+is so profoundly different from all other penalties, we cannot avoid the conclusion that an individualized decision is essential in capital cases”).  
+Because “death is different,” when the State announces its intention to seek the death 
+penalty in a case, it imposes an extraordinary burden upon the Court, the State , and defense counsel 
+to ensure the fairness, accuracy, and reliability of the trial and any subsequent sentencing proceeding.  
+When a defendant’s life is at stake, a court must be “particularly sensitive to ensure that 
+every safeguard is observed,” Gregg v. Georgia, 428 U.S. 153, 187 (1976), and must take “extraordinary measures” to guarantee that a death sentence is not “imposed out of whim, passion, 
+prejudice, or mistake.”  Eddings v. Oklahoma, 455 U.S. 104, 118 (1982) (O’Connor, J., concurring) (emphasis added) . These “extraordinary measures” must apply at both the merits phase 
+and the sentencing phase of a capital trial. Beck v . Alabama, 447 U.S. 625, 638 (1980); see also ,  MOTION TO STRIKE DEATH PENALTY RE:  AUTISM SPECTRUM DISORDER  Page 4 
+ Lockett v. Ohio , 438 U.S. 586, 604 (1978); Gardner v. Florida, 430 U.S. 349, 357-58 (1977).  
+In addition to imposing a heightened standard of reliability in cases where the State is 
+seeking death, the United States Supreme Court has firmly held that capital punishment is only 
+constitutional under the Eighth Amendment if it is reserved for those few offenders deemed 
+extraordinarily culpable, and therefore uniquely deserving of execution . Zant v. Stephens , 462 U.S. 
+862, 877 (1983). While every murder is appalling, only the most  extreme qualify for the death 
+penalty. See Atkins v. Virginia, 536 U.S. 304, 319 (2002) (“[T]he average murderer” is 
+insufficiently culpable to “justify the most extreme sanction available to the State.”); Roper v. Simmons , 543 U.S. 551, 568 (2005) (a case may only be appropriately capital when it falls into a 
+very “narrow category of the most serious crimes,” and also involves a defendant “whose extreme 
+culpability makes them the most deserving of execution”). In laymen’s terms, amongst the entire class of murderers, the death penalty must be reserved for “the worst of the worst.” Kansas v. Marsh , 548 U.S. 163, 206 (2006) (Souter, J., dissenting) ( citing Roper , 543 U.S. at 568).  
+Holding true to these constitutional principles  of reliability and proportionality, the Court 
+has categorically prohibited the imposition of the death penalty whe re a particular characteristic 
+of the defendant renders hi m less culpable, negates the retributive and  deterrent aims of capital 
+punishment, or creates a risk of an erroneous death sentence. See Atkins , 536 U.S. at 320- 21 
+(prohibiting the execution of the intellectually disabled); Roper , 543 U.S. at 572 (prohibiting the 
+execution of juvenile offenders). This reasoning applies with equal force to defendants who, like Mr. Kohberger, have autism spectrum disorder (“ASD”). ASD is “a neurological and 
+developmental disorder that affects how people interact with others, communicate, learn, and behave.” Nat’l Inst. Mental Health, Autism Spectrum Disorder , 
+https://www.nimh.nih.gov/health/topics/autism- spectrum -disorders- asd
+ (last visited Feb. 10, 
+2025). People with ASD, including Mr. Kohberger, exhibit deficits in nearly all the same areas 
+cited by the Court in concluding that it is unconstitutional for people with intellectual disabilities to be sentenced to death because such sentences are not proportional and cannot be reliably  MOTION TO STRIKE DEATH PENALTY RE:  AUTISM SPECTRUM DISORDER  Page 5 
+ imposed. Indeed, the pervasive media coverage emphasizing symptoms of Mr. Kohberger’s 
+disability demonstrates that the very risks recognized by the Court are already being realized to 
+his prejudice. Accordingly, this Court must strike death as a sentencing option in this case.  
+ARGUMENT  
+I. Due to Impairments in Communication, Reasoning, Social Skills, and Impulse 
+Control, People with ASD Are Insufficiently Culpable to Be Executed.  
+The death penalty is only appropriately sought in a case when it falls into a very “narrow 
+category of the most serious crimes” and involves a defendant “whose extreme culpability makes 
+them the most deserving of execution.” Roper , 543 U.S. at  568; see also Godfrey v. Georgia , 446 
+U.S. 420, 433 (1980) (the Eighth Amendment limits the death penalty to those offenders with “a consciousness materially more depraved” than that of the typical murderer); Kennedy v. Louisiana, 
+554 U.S. 407, 420 (2008) (the death penalty “must be limited to those offenders . . . whose extreme culpability makes them the most deserving of execution”).  
+In prohibiting execution of people with intellectual disabilities, the U.S. Supreme Court 
+identified several characteristics that make such defendants “categorically less culpable than the average criminal.” Atkins , 543 U.S. at 316.   
+Because of their impairments, however, by definition they have 
+diminished capacities to understand and process information, to 
+communicate, to abstract from mistakes and learn from 
+experience, to engage in logical reasoning, to control impulses, 
+and to understand the reactions of others .  
+ 
+Id. at 318 (emphasis added) . 
+ 
+People with ASD exhibit impairments in nearly all of these areas. The re are two primary 
+diagnostic criteria for ASD. First, a person must display persistent deficits in social communication and interaction across multiple contexts, as manifested by deficits in all three of the following 
+areas: (1) social -emotional reciprocity, (2) nonverbal communicative behaviors used for social 
+interaction, and (3) developing, maintaining, and understanding relationships. U.S. Ctr. Disease Control & Prevention, Clinical Testing and Diagnosis for Autism Spectrum Disorder ,  MOTION TO STRIKE DEATH PENALTY RE:  AUTISM SPECTRUM DISORDER  Page 6  
+ https://www.cdc.gov/autism/hcp/diagnosis/index.html (last visited Feb. 10, 2025) (citing Am. 
+Psych. Ass’n, Diagnostic and Statistical Manual  (5th ed. 2013))  [hereinafter CDC]. Second, a 
+person must display restrictive, repetitive patterns of behavior, interests, or activities, as manifested by at least two of the following: (1) stereotyped or repetitive motor movements, use of objects, or speech, (2) insistence on sameness, infl exible adherence to routines, or ritualized 
+patterns of verbal or nonverbal behavior, (3) highly restricted, fixated interests that are abnormal in intensity or focus, and (4) hyper - or hyporeactivity to sensory input or unusual interests in 
+sensory aspect s of the environment. Id . As a result of these deficits, “Offenders with autism 
+spectrum disorder tend to lack theory of mind (especially empathy and the ability to see from other perspectives), the ability to appreciate the whole context, executive functioning required for planning and organization, appreciation for the consequences of one ’s actions, and the ability to 
+generalize learning from one situation to another.” Astrid Birgden, Enabling the Disabled: A Proposed Framework to Reduce Discrimination Against Forensic Disability Clients Requiring Access to Programs in Prison , 42 M
+ITCHELL HAMLINE L. REV. 637, 655 (2016). A comprehensive 
+neuropsychological evaluation of Mr. Kohberger conducted by Dr. Rachel Orr, PsyD, ABPP -CN, 
+found that Mr. Kohberger “continues to exhibit all the core diagnostic features of ASD  currently, 
+with significant impact on his daily life.” See Exhibit 2 (Report by Dr. Orr ) at 17 (emphasis added). 
+ Social deficits (including a diminished ability “ to understand the reactions of others ,” 
+Atkins, 543 U.S. at 318) are perhaps the most widely recognized characteristics of ASD. People 
+with ASD often have “difficulty identifying the emotional or mental states (e.g., fear, anxiety) of 
+others, and how to respond appropriately[.]” Colleen M. Berryessa, Defendants with Autism 
+Spectrum Disorder in Criminal Court: A Judge’s Toolkit , 13 D REXEL L. REV. 841, 847 (2021) 
+[hereinafter Berryessa 2021];  see also  Jerrod Brown et al., Autism Spectrum Disorder (ASD) in the 
+Criminal Justice System  in FORENSIC MENTAL HEALTH : A SOURCE GUIDE FOR PROFESSIONALS , 
+21, 24, 27 (Jerrod Brown & Erv Weinkauf ed., 2018). Accordingly, it is difficult for people with 
+ASD to interpret and respond to social cues, particularly when those cues are nonverbal. B erryessa  MOTION TO STRIKE DEATH PENALTY RE:  AUTISM SPECTRUM DISORDER  Page 7  
+ 2021, supra, at 847; Brown, supra, at 24.  As it relates to this case, Dr. Orr confirmed that Mr. 
+Kohberger has displayed lifelong deficits in social -emotional reciprocity, including “limited 
+perspective -taking” and “limited sharing of affect/emotions of others.” Ex. A at 16.  
+Along with difficulty recognizing the emotions of others, people with ASD often struggle 
+to recognize and regulate their own emotions. This can manifest as  diminished capacity “ to control 
+impulses, ” Atkins, 543 U.S. at 318. See Brown , supra, at 27. Dr. Orr observed Mr. Kohberger’s 
+impulsive tendencies throughout her evaluation, which were also reported by his family. Ex. A at 
+9, 13, 14, 17. Additionally, a need to engage in repetitive behaviors or interests is one of the of diagnostic domains of ASD. CDC, supra.  For many people with ASD, this manifests in 
+compulsive behavior that cannot easily be controlled by rational thinking.  See Berryessa 2021, 
+supra, at 849. Since childhood, Mr. Kohberger has exhibited compulsions around hand- washing 
+and other cleaning behaviors. Ex. A at 18.  
+Diminished ability “ to communicate ,” Atkins, 543 U.S. at 318,  is another a hallmark of 
+ASD. Language deficits are common among people with ASD, ranging from complete lack of 
+verbal language skills to difficulty recognizing and understanding abstract language, sarcasm, and irony. Brown , supra, at 24. People with ASD “universally struggle with pragmatics, or the 
+appropriate use of language for the situation at hand.” Id.  These language deficits can become even 
+more pronounced in stressful and anxiety- inducing situations. Id.  Although Mr. Kohberger has 
+strong verbal abilities, he failed to recognize multiple idioms during Dr. Orr’s evaluation, Ex. A at 11, and Dr. Orr noted that his language was often overinclusive, disorganized, highly repetitive, and overly formal, id. at 9.   
+ Like people with intellectual disabilities, people with autism also have diminished 
+capacities “to understand and process information”  and “to abstract from mistakes and learn 
+from experience,” Atkins, 543 U.S. at 318. Studies show that ASD is characterized by deficits in 
+complex cognitive processing. Diane L. Williams et al., Associations Between Conceptual Reasoning, Problem Solving, and Adaptive Ability in High- functioning Autism , 44 J.
+ AUTISM &  MOTION TO STRIKE DEATH PENALTY RE:  AUTISM SPECTRUM DISORDER  Page 8  
+ DEVELOPMENTAL DISORDERS  2908 (2014), https://pmc.ncbi.nlm.nih.gov/articles/PMC6067678/ . 
+In particular, people  with ASD are generally able to identify concepts and learn established rules, 
+but struggle “with concept formation or the ability to develop new concepts based upon 
+experience.” Id. In other words, people with ASD may be able to comprehend information, but, 
+like people with intellectual disabilities, they have difficulty extrapolating that information and applying it to a new domain. These deficits in conceptual reasoning and problem solving are 
+apparent even among people with ASD who have average or above -average general intelligence. 
+Id. Indeed, despite his high baseline intelligence, Mr. Kohberger exhibits slow verbal processing 
+and weaknesses in certain areas of executive functioning, including cognitive flexibility and 
+organizational approach. Ex. A at 11. Dr. Orr observed that Mr. Kohberger “tended to perceive 
+information in a more piece -meal manner,” id., and was highly distractable, id. at 9.    
+ As a result of these impairments, people with ASD show diminished adaptive 
+functioning—much like people with intellectual disabilities. “Adaptive functioning encompasses 
+those skills essential for real- world, everyday functioning that generally fall withi n the broad areas 
+of daily living skills (e.g., self -care), socialization (e.g., interpersonal skills), and communication 
+(e.g., the ability to convey your wants and needs).”  Goldie A. McQuaid et al., The Gap between 
+IQ and Adaptive Functioning in Autism Spectrum Disorder: Disentangling Diagnostic and Sex 
+Differences , 25 A
+UTISM  1565 (2021), https://pmc.ncbi.nlm.nih.gov/articles/PMC8324508/ . 
+Notably, people with ASD exhibit adaptive functioning that falls far below what would be expected given their cognitive ability . Id.; see also  Williams et al., supra . In its post -Atkins  
+jurisprudence, the Court has repeatedly emphasized that adaptive functioning is a key consideration in determining whether a person is intellectually disabled, and thus excluded from execution. Hall v. Florida , 572 U.S. 701, 723 (2014)  (courts must permit defendants to present 
+evidence of adaptive functioning to demonstrate intellectual disability where IQ score falls within margin of error); Moore v. Texas , 581 U.S. 1, 15- 16 (2017) (same, and directing courts to focus 
+adaptive -functioning inquiry on adapt ive deficits  rather than strengths). It follows that people with  MOTION TO STRIKE DEATH PENALTY RE:  AUTISM SPECTRUM DISORDER  Page 9  
+ ASD, who are similarly impaired in this area, should not be sentenced to death.  
+ 
+II. The Deterrent and Retributive Aims of the Death Penalty Are Not Met by 
+Executing People with ASD.  
+In order for a death sentence to meet the Eighth Amendment’s proportionality requirement, 
+it must satisfy the two penological goals of capital punishment. 
+[In] Gregg v. Georgia,  [this Court] identified “retribution and 
+deterrence of capital crimes by prospective offenders” as the social 
+purposes served by the death penalty. Unless the imposition of the death penalty on a [] person “measurably contributes to one or both of these g oals, it ‘is nothing more than the purposeless and needless 
+imposition of pain and suffering,’ and hence an unconstitutional punishment.”  
+Atkins , 536 U.S. at 319 (citing Gregg , 428 U.S. at  183; see also  Kennedy,  554 U.S. at 441 (The 
+death penalty “is excessive when it is grossly out of proportion to the crime or it does not fulfill 
+the two distinct social purposes served by the death penalty: retribution and deterrence of capital crimes.”); Coker v. Georgia, 433 U.S. 584, 592 (1977) (plurality opinion) (“A punishment might 
+fail the test on either ground.”).  
+The Atkins Court  concluded that neither aim was met by executing intellectually disabled 
+defendants. Discussing retribution, the Court reasoned,  
+If the culpability of the average murderer is insufficient to justify the 
+most extreme sanction available to the State, the lesser culpability of the mentally retarded offender surely does not merit that form of retribution. Thus, pursuant to our narrowing  jurisprudence, which 
+seeks to ensure that only the most deserving of execution are put to death, an exclusion for the mentally retarded is appropriate.  
+Atkins , 536 U.S. at 319. As discussed in Part I, supra, the Court’s conclusions regarding the 
+diminished culpability of people with intellectual disabilities are equally applicable to people with 
+ASD. Accordingly, if the retributive aim of the death penalty is not satisfied by executing people with intellectu al disabilities, it is not met by executing people with ASD .  
+Turning to deterrence, the Atkins Court again relied on deficits that are shared by people 
+with intellectual disabilities and people with ASD . 
+The theory of deterrence in capital sentencing is predicated upon the  MOTION TO STRIKE DEATH PENALTY RE:  AUTISM SPECTRUM DISORDER  Page 10  
+ notion that the increased severity of the punishment will inhibit 
+criminal actors from carrying out murderous conduct. Yet it is the same cognitive and behavioral impairments that make these defendants less morally culpable —for example, the diminished 
+ability to understand and process information, to learn from experience, to engage in logical reasoning, or to control impulses —that also make it less likely that they can process the 
+information of the possibility of execution as a penalty and, as a result, c ontrol their conduct based upon that information. 
+Atkins , 536 U.S. at 320 (emphasis added).  
+The characteristics of ASD make deterrence even less salient as an aim of punishment. The 
+repetitive behaviors and fixations that are key diagnostic criteria of ASD mean that, for many 
+defendants with ASD, their offending behavior is compulsive and cannot be curbed by a rational cost-benefit analysis. See  Berryessa 2021, supra, at 849. Additionally, because people with ASD 
+have difficulty with abstract thinking and extrapolating from one scenario to another, they may not easily connect their present actions  to a potential future outcome.  
+Executing people with ASD does not meaningfully satisfy the penological aims of 
+retribution or deterrence. Accordingly, sentencing people with ASD to death violates the Eighth Amendment.  
+III. As Awareness of ASD Becomes More Widespread, Evolving Standards of Decency 
+Condemn Execution of People with ASD.  
+The Eighth Amendment prohibits excessive punishments. Whether a punishment is 
+excessive must be judged by current prevailing standards of decency. Trop v. Dulles , 356 U.S. 86, 
+101 (1958) (“The [Eighth] Amendment must draw its meaning from the evolving standards of 
+decency that mark the progress of a maturing society”); see also  Kennedy , 554 U.S. at  419 (“[the 
+Eighth Amendment’s] applicability must change as the basic mores of society change”) (quoting Furman v. Georgia, 408 U.S. 238, 382 (1972)) . In affirming its holding that people with 
+intellectual disabilities cannot be sentenced to death, the Court observed,  
+The Eighth Amendment is not fastened to the obsolete but may 
+acquire meaning as public opinion becomes enlightened by a humane justice.  To enforce the Constitution’s protection of human 
+dignity, this Court looks to the evolving standards of decency that mark the progress of a maturing society. The Eighth Amendment’s  MOTION TO STRIKE DEATH PENALTY RE:  AUTISM SPECTRUM DISORDER  Page 11  
+ protection of dignity reflects the Nation we have been, the Nation 
+we are, and the Nation we aspire to be. This is to affirm that the Nation’s constant, unyielding purpose must be to transmit the Constitution so that its precepts and guarantees retain thei r meaning 
+and force.  
+Hall, 572 U.S. at  708 (internal citations and quotations omitted). 
+ The past four decades have seen a significant evolution in the understanding of ASD. 
+Although infantile autism was first described by psychiatrist Leo Kanner in 1943, it was not 
+included in the Diagnostic and Statistical Manual (“DSM”) as one of several P ervasive 
+Developmental Disorders until 1980. Nicole E. Rosen at al., The Diagnosis of  Autism: From 
+Kanner to DSM -III to  DSM -5 and Beyond, 51 J.
+ AUTISM & DEVELOPMENTAL DISORDERS  4253, 
+4253, 4255. When the DSM was revised seven years later, published as “DSM -III-R,” the 
+condition was renamed from “infantile autism” to “autism disorder” to encompass all ages and developmental levels. Id.  at 4255. The DSM -III-R established new diagnostic criteria for autism 
+disorder, based on three domains of impairment: (1) qualitative impairment in reciprocal social interaction, (2) qualitative impairment in communication, and (3) restricted interests an d activities 
+and repetitive movements. Id.  The fourth edition of the DSM (“DSM -IV”), published in 1994, 
+recognized Asperger’s Syndrome and autistic disorder as separate diagnoses within the broad category of Pervasive Developmental Disorders. Id. at 4256.   The current version of the DSM, published in 2013 as  DSM -5, reflects a major shift in the 
+understanding of autism. DSM -5 established a comprehensive diagnosis of autism spectrum 
+disorder (“ASD”), which replaces Asperger’s Syndrome and autistic disorder. Id. at 4256- 57. The 
+current ASD diagnosis recognizes autism as a spectrum of conditions . See CDC, supra. DSM -5 
+also consolidated the diagnostic criteria of impairments in social interaction and communication into a single domain, removed language impairment as a specific diagnostic criterion, and added unusual sensory sensitivity as a manifestation of the res trictive/repetitive behavior domain. Rosen 
+et al., supra, at 4259, 4260.  
+As the psychological community’s understanding of ASD has evolved, so has awareness  MOTION TO STRIKE DEATH PENALTY RE:  AUTISM SPECTRUM DISORDER  Page 12  
+ of the condition. ASD is now the fastest -growing developmental disability in the United States . 
+Brown , supra, at 22. From 2011 to 2022, ASD diagnosis increased by 175% . Luke P. Grosvenor  
+et al., Autism Diagnosis Among US Children and Adults, 2011- 2022, JAMA  NETWORK OPEN (Oct. 
+30, 2024), https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825472.  
+The increase in awareness of ASD has coincided with greater efforts by the criminal legal 
+system to account for the role that intellectual disabilities, developmental disorders, and mental 
+health conditions play in offending behavior. For example, as of De cember 31, 2023, there were 
+655 mental health courts in the United States, across  42 states and the District of Columbia. Nat’l 
+Treatment Court Resource Ctr., Treatment Courts Across US States/Territories (2023) , 
+https://ntcrc.org/wp-content/uploads/2024/06/2023_NTCRC_TreatmentCourt_Count_Table.pdf  (last 
+visited Feb. 10, 2025) . Two states have enacted legislation barring people with serious mental 
+illness from being sentenced to death. See  Ohio Rev. Code Ann. § 2929.025 (West); Ky. Rev. Stat. 
+Ann. § 532.140 (West).  
+ASD specifically has been deemed relevant to defendants’ interactions with law 
+enforcement and ability to formulate criminal intent. See, e.g., U.S. v. Cottrell , 333 F. App’ x 213, 
+216 (9th Cir. 2009)  (evidence of defendant’s ASD relevant to jury’s determination of whether he 
+possessed specific intent required for aiding and abetting); State v. Suber , No. A06 -2438, 2008 
+WL 942622, 10 (Minn. Ct. App. Apr. 8, 2008) (unpublished opinion) (reversing defendant’s 
+conviction for driving under the influence where physical impairment interpreted by law 
+enforcement as intoxication could also have been explained by defendant’s Asperger’s Syndrome). In State v. Burr , 921 A.2d 1135 (N.J. Super. Ct. App. Div. 2007) , an appellate court reversed a 
+defendant’s convictions of sexual assault and endangering the welfare of a child because the trial 
+court erred in excluding evidence of the defendant’s Asperger’s Syndrome. The defendant 
+proffered the evidence “to assist  the jury in understanding why he might act in a way that appears 
+socially unacceptable to others.” Id.  at 1149. In holding that the trial court abused its discretion by 
+disallowing the evidence, the appellate court noted, “[t] he trial would have been a more fair and  MOTION TO STRIKE DEATH PENALTY RE:  AUTISM SPECTRUM DISORDER  Page 13  
+ complete adversarial process if, in evaluating the evidence and the inferences urged by the State, 
+jurors were aware that defendant ’s mental disability prevents him from viewing the world as others 
+do in terms of acceptable social interactions. ” Id. at 115. 
+ The intersection between ASD and the death penalty has gained recent attention with the 
+case of Robert Roberson, an autistic man sentenced to death in Texas for the alleged murder of his daughter. In addition to challenging the scientific flaws  underpinning his daughter’s diagnosis of 
+shaken baby syndrome, Mr. Roberson argue s that his ASD contributed to his wrongful conviction  
+because law enforcement misinterpreted his flat affect during the tragedy as evidence of guilt. See Petition for Commutation of Dea th Sentence to a Lesser Penalty, or, in the Alternative, a 180- Day 
+Reprieve, and Request for an Interview and Hearing on the Matter, at 39 -49, In re Robert Leslie 
+Roberson III, https://drive.google.com/file/d/10tRZmfosl__j47r1Xn9QJuUvDeZ_LrYs/view  (last 
+visited Feb. 10, 2024) [hereinafter Petition for Commutation of Death Sentence]. Mr. Roberson’s plight —including his argument about ASD —has attracted widespread media attention. See, e.g., 
+J. David Goodman, In Texas, Execution Looms Despite Questions in Shak en Baby Case , N.Y. 
+Times (Oct. 14, 2024), https://www.nytimes.com/2024/10/14/us/texas -execution- robert -roberson -
+shaken -baby.html; John Grisham, Texas May Execute a Man Based on a Scrapped Medical 
+Theory , Wall St. J. (Sept. 7, 2023), https://www.wsj.com/articles/texas -may-execute- a-man-
+based -on-a-scrapped -medical -theory- death -row-autism- prison- b3c44493; Maurice Chammah, 
+Robert Roberson’s Death Penalty Case Shows How Justice System Fails People with Autism , The 
+Marshall Project (Sept. 18, 2024), https://www.themarshallproject.org/2024/09/18/texas -autism-
+death -penalty -roberson. Mr. Roberson has also garnered support from a broad coalition, ranging 
+from the lead detective who investigated his case to judges, psychologists, and advocates. Petition for Commutation of Death Sentence, supra, at 10 -16. Even the Texas legislature has rallied behind 
+Mr. Roberson; a bipartisan group of 84 state lawmakers wrote in support of his clemency petition. Id. at 12 -13. 
+It has now been over two decades since the United States Supreme Court held that evolving  MOTION TO STRIKE DEATH PENALTY RE:  AUTISM SPECTRUM DISORDER  Page 14  
+ standards of decency mandate a categorical bar on the execution of people with intellectual 
+disabilities. As detailed in Part I, supra, people with ASD exhibit many of the very same impairments as people with intellectual disabilities. The overlap is apparent in Idaho’s own intellectual disability statute, which, in addition to a showing of significantly subaverage intellectual functioning, requires a showing of  “significant limitations in adaptive functioning in 
+at least two (2) of the following skill area s: communication, self -care, home living, social or 
+interpersonal skills, use of community resources, self -direction, functional academic skills, 
+work, leisure, health and safety .” I.C. § 19- 2515A (emphasis added). If evolving standards of 
+decency twenty years ago condemned the execution of people with intellectual disabilities due to the impairments associated with their condition, it follows that execution of people with ASD, who share nearly identical deficits, i s equally deplorable.   
+IV. Death Sentences for People with ASD are Inherently Unreliable Because 
+Defendants with ASD Cannot Present Mitigation Evidence that Will Be Meaningfully Considered by the Jury .   
+The United States Supreme Court has long held that the “qualitative difference between 
+death and other penalties calls for a greater degree of reliability when the death sentence is 
+imposed.” Lockett v. Ohio , 438 U.S. 586, 604 (1978). In Lockett , the Court held that this heightened 
+need for reliability required the consideration of mitigation evidence because the sentencer’s “‘possession of the fullest information possible concerning the defendant’s life and characteristics’ is ‘[h]ighly relevant —if not ess ential —[to the] selection of an appropriate sentence.’” Id . at 603, 
+quoting Williams v. New York , 337 U.S. 241, 247 (1949) (emphasis in original). Therefore,  
+a statute that prevents the sentencer in all capital cases from giving 
+independent mitigating weight to aspects of the defendant’s character and record and to circumstances of the offense proffered in mitigation creates the risk that the death penalty will be imposed 
+in spite of factors which may call for a less severe penalty. When the choice is between life and death, that risk is unacceptable and incompatible with the commands of the Eighth and Fourteenth Amendments. 
+Id. at 605.  
+Critically, the heightened need for reliability is not satisfied by the mere presentation of  MOTION TO STRIKE DEATH PENALTY RE:  AUTISM SPECTRUM DISORDER  Page 15  
+ mitigating evidence. Lockett and its progeny not only established a defendant’s right to present 
+mitigating evidence to the sentencing judge or jury, but it also required that the sentencer give that 
+mitigating evidence effect. See, e.g., id.; Eddings v. Oklahoma, 455 U.S. 104 (1982); Penry v. 
+Lynaugh, 492 U.S. 302 (1989). In Eddings , the defendant presented mitigating evidence regarding 
+his troubled childhood at trial, but the judge disregarded it, commenting that he did not believe that the law permitted him to consider it in mitigation. Id . at 109. The Court reversed Eddings’ 
+death sentence, holding that the judge committed constitutional error by refusing to consider the mitigating evidence. The Court held, “ [j]ust as the State may not by statute preclude the sentencer 
+from considering any mitigating factor, neither may the sentencer refuse to consider, as a matter of law , any relevant mitigating evidence.” Id . at 113- 14 (emphasis in original) . While the sentencer 
+and reviewing courts may determine what r elative weight to assign to the mitigation, “they may 
+not give it no weight by excluding such evidence from their consideration.” Id . at 115. In her 
+concurring opinion, Justice O’Connor reiterated that the concern for reliability embodied in Lockett motivated  the Court’s holding:  
+Because sentences of death are “qualitatively different” from prison 
+sentences, this Court has gone to extraordinary measures to ensure that the prisoner sentenced to be executed is afforded process that will guarantee, as much as is humanly possible, that  the sentence 
+was not imposed out of whim, passion, prejudice, or mistake.   
+Id. at 117- 18 (O’Connor, J., concurring) (internal citations omitted). The trial judge’s belief that 
+he was not permitted to consider  Eddings’ troubled youth undermined the reliability of the 
+sentencing determination and revealed an impermissible risk that the death penalty was 
+erroneously imposed on an insufficiently culpable defendant. Id. at 119.    
+In Penry v. Lynaugh, supra, the Court again examined the crucial role of mitigating 
+evidence in reliable determinations about culpability.  Penry challenged the constitutionality of the Texas sentencing statute because it did not permit the jury to fully consider and give effect to the 
+mitigating evidence of his intellectual disability  and childhood abuse  in its capital sentencing 
+determination. Id. at 315. In evaluating Penry’s claim, the Court reviewed the link between the  MOTION TO STRIKE DEATH PENALTY RE:  AUTISM SPECTRUM DISORDER  Page 16  
+ sentencer’s consideration of mitigating evidence and reliable capital sentencing:  
+Underlying Lockett  and Eddings  is the principle that punishment 
+should be directly related to the personal culpability of the criminal 
+defendant. If the sentencer is to make an individualized assessment of the appropriateness of the death penalty, “evidence about the 
+defendant ’s background and character is relevant because of the 
+belief, long held by this society, that defendants who commit criminal acts that are attributable to a disadvantaged background, or to emotional and mental problems, may be less cu lpable than 
+defendants who have no such excuse.” Moreover, Eddings  makes 
+clear that it is not enough simply to allow the defendant to present mitigating evidence to the sentencer. The sentencer must also be able to consider and give effect to that evidence in imposing sentence.  Only then can we be sure that the sentencer  has treated the 
+defendant as a “ uniquely individual human bein[g],”  and has made 
+a reliable determination that death is the appropriate sentence.  
+Id. at 319 (internal citations omitted) . The Court agreed that, because the Texas sentencing scheme 
+did not permit the jury to give evidence of Penry’s intellectual disability and background 
+mitigating effect such that a reliable determination about his moral culpability could be made, it violated the Eighth and Fourteenth Amendment s. Id. at 322- 28.   
+In line with its  commitment to ensuring the reliability of capital proceedings, the Atkins 
+and Roper Courts articulated a rationale for excluding juveniles and intellectually disabled 
+defendants from the death penalty that is independent from the proportionality analysis discussed 
+in Parts I -III, supra: the characteristics of youth and intellectual disability create an unacceptable 
+risk of wrongful execution because they hamper the defendant’s ability to present mitigation 
+evidence. The Court acknowledged t hat defendants with intellectual disabilities are unable to 
+“make a persuasive showing of mitigation in the face of prosecutorial evidence of one or more aggravating factors” where: (1) they are “less able to give meaningful assistance to their counsel ,” Atkins , 536 U.S. at 320, (2) “ their demeanor may create an unwarranted impression 
+of lack of remorse for their crimes ,” id. at 321, (3) they are “ typically poor witnesses ,” id., and 
+(4) the mitigation presented “ can be a two -edged sword that may enhance the  likelihood that 
+the aggravating factor of future dangerousness will be found by the jury ,” id. (emphasis 
+added) ; see also Roper , 543 U.S. at 573 (“a defendant’s youth may even be counted against him”) .  MOTION TO STRIKE DEATH PENALTY RE:  AUTISM SPECTRUM DISORDER  Page 17  
+ Because these concerns apply with at least equal force to someone with ASD, the Eighth and 
+Fourteenth Amendment s also prohibit the imposition of the death penalty in this case . 
+a.   Defendants with ASD Are L ess A ble to Meaningful ly Assist their Counsel.   
+The key diagnostic criteria for ASD (social deficits and repetitive behaviors and interests) 
+significantly hamper an autistic defendant’s ability to meaningfully assist counsel, particularly in the unique context of capital defense. The first and most critical step in adequate capital representation is establishing rapport with the client. “Establishing a relationship of trust with the client is essential both to overcome the client’s natural resistance to disclosing the often persona l 
+and painful facts nec essary to present an effective penalty phase defense, and to ensure that the 
+client will listen to counsel’s advice on important matters such as whether to testify and the advisability of a plea.”  The American Bar Association Guidelines for the Appointment and 
+Performance of Defense Counsel in Death Penalty Cases, 31 H
+OFSTRA L. REV. 913, 1008 (Rev. 
+ed. 2003) . The social and communication deficits associated with ASD, discussed in Part I, supra, 
+pose a major barrier to developing the necessary rapport between counsel and client for effective capital representation. For example, people often convey warmth through nonverbal cues, such as posture, facial expression, and tone, which clients with ASD  will not be able to recognize or 
+interpret.  
+ The second diagnostic criterion—repetitive behaviors and interests —often manifests as 
+hyper -focus on a particular topic at the exclusion of all others. Brown , supra , at 24. Capital cases 
+involve an enormous volume of information across different subjects. In this case, the State has provided 68 terabytes of discovery. To make informed decisions, a capital client must be able to 
+comprehend the full landscape of his case. For defendants with ASD, their fixation on a single theory or piece of evidence will im pair their ability to see the case in its entirety and make reasoned 
+decisions about its direction.   
+Relatedly, people with ASD tend to be rigid in their thinking and struggle with decision-
+making. Brown , supra, at 25; CDC, supra (listing “extreme distress at small changes, difficulties  MOTION TO STRIKE DEATH PENALTY RE:  AUTISM SPECTRUM DISORDER  Page 18  
+ with transitions, rigid thinking patterns” as examples of behavior that meet diagnostic criteria for 
+ASD).  A complex capital case will rarely follow a linear trajectory. As the investigation and 
+evidence evolve, so will the defense’s strategy, and the client must be able to adapt. For capital 
+defendants, the ability to pivot from a defense focused on innocence to one that is devoted to mitigation, or the ability to decide whether to accept a plea or risk a trial, or whether to suspend the short -term goal of  proceeding to trial in order to achieve the long -term goal of fair and reliable 
+adversarial proceedings, is literally a matter of life or death. Particularly under the enormous and unparalleled pressure of a capital prosecution, a defendant with ASD is li kely to exhibit extreme 
+inflexibility even in the face of necessity or become overwhelmed to the point of decision paralysis.  
+These impairments cannot simply be overcome by a client who wants to be cooperative. 
+Mr. Kohberger displays extremely rigid thinking, perseverates on specific topics, processes information on a piece -meal basis, struggles to plan ahead, and demonstrates little insight into his 
+own behaviors and emotions. Ex. A at 10, 11, 12, 14, 17. E ven assuming Mr. Kohberger aims to 
+be as helpful as possible in preparing the case, these mental deficiencies will invade every detail 
+of that aid, from client relationship to fact investigation to mitigation investigation to pretrial motions to trial stra tegy. No matter how helpful Mr. Kohberger may wish to be, it is simply not 
+possible for him to aid counsel in a way that someone without the deficits accompanying ASD would be able to. This lack of ability is the precise concern articulated in Atkins . 
+b. The Demeanor of a D efendant with ASD Will Likely  Create an U nwarranted 
+Impression of L ack of Remorse.  
+“At all stages of the proceedings, the defendant’s behavior, manner, facial expressions, and 
+emotional responses, or their absence, combine to make an overall impression on the trier of fact, an impression that can have a powerful influence on the outcome of the trial.” Riggins v. Nevada, 504 U.S. 127, 142 (1992)  (Kennedy, J., concurring). Concerns about jurors ’ impressions of a 
+defendant’s remorse —or lack thereof —apply with equal force to persons afflicted with ASD as 
+they do to those with intellectual dis ability. See Atkins , 536 U.S. at 321.    MOTION TO STRIKE DEATH PENALTY RE:  AUTISM SPECTRUM DISORDER  Page 19  
+ Demeanor is particularly important in capital trials when the defendan t’s life is at stake. 
+“Serious prejudice could result” if the “defendant’s capacity to react and respond to the 
+proceedings and to demonstrate remorse or compassion” is inhibited:  
+The prejudice can be acute during the sentencing phase of the 
+proceedings, when the sentencer must attempt to know the heart and mind of the offender and judge his character, his contrition or its absence, and his future dangerousness. In a capital sentencing proceeding, assessments of character and remorse may carry great weight and, perhaps, be determinative of whether t he offender lives 
+or dies. 
+Riggins , 504 U.S. at  143-144 ( Kennedy, J., concurring). Indeed, substantial social science research 
+bears Justice Kennedy’ s observations out. Many scholars have determined that, alongside the 
+possibility of a defendant’s future dangerousness, a defendant’s perceived remorselessness is 
+perhaps the best predictor of whether a jury will sentence a person to death. See, e.g., Scott E. 
+Sundby, The Capital Jury and Absolution: The Intersection of Trial Strategy, Remorse, and the 
+Death Penalty , 83 C
+ORNELL L. REV. 1557, 1560 (1998) (finding that 69% of jurors within the 
+study who voted for death cited remorselessness as a reason, and that many indicated it was the 
+“most compelling reason” for their vote ); Stephen P. Garvey, Aggravation and Mitigation in 
+Capital Cases: What do Jurors Think?, 98 COLUM . L. REV. 1538, 1560- 61 (1998) (almost 40% of 
+jurors surveyed cited lack of remorse as the reason they voted for death). Therefore, as with the intellectually disabled, there is a substantial risk that the demeanor of a defendant with ASD “may 
+create an unwarranted impression of lack of  remorse for their crimes.” Atkins , 536 U.S. at 321.  
+ Due to the physical manifestations of their disability, people with ASD are particularly 
+vulnerable to bias on account of their courtroom demeanor. The diagnostic criteria for ASD list 
+repetitive motor movements, echolalia, and excessive smelling or touching of objects as symptoms of ASD. CDC, supra.  People with ASD often engage in repetitive self -stimulating behavior, which 
+can include hand -flapping, finger -snapping, and body rocking. See  Brown, supra, at 28. A juror 
+seeing the defendant engage in any one of these behaviors, while sitting at counsel table during a murder trial, would perceive the defendant as strange, out -of-control, and even disrespectful of  MOTION TO STRIKE DEATH PENALTY RE:  AUTISM SPECTRUM DISORDER  Page 20  
+ such a solemn proceeding. 
+Subtler indicators of ASD can be just as damning for capital defendants, if not more so. 
+Inability to make and maintain eye contact is a common symptom of ASD, which can be 
+mistakenly interpreted as guilt or shame.  Berryessa 2021, supra, at 850- 51. Due to their difficulty 
+recognizing the emotions of others, people with ASD may make facial expressions that are awkward and incongruent with the tone of the proceedings. Id. at 850;  Christine N. Cea, Autism 
+and the Criminal Defendant , 88 S
+T. JOHN’S L. REV. 495, 519 (2014). Most concerningly for capital 
+defendants, people with ASD often display a flat affect even in the face of highly emotional evidence, which can be interpreted as coldness or a lack of remorse.  Berryessa 2021, supra, at 852.   
+Mr. Kohberger’s ASD manifests in many of these highly prejudicial, but completely 
+involuntary, mannerisms. Dr. Orr observed that he subtly rocks his upper torso, especially while engaged in a cognitive task or listening to someone else —both of which are al most certain to occur 
+during his trial. Ex. A at 7. His range of facial expression is limited, his baseline affect is stoic, and his expressions are sometimes incongruent with what is happening around him. Id. Mr. 
+Kohberger also exhibits atypical eye conta ct, including an intense gaze. Id.  at 9, 16. As discussed 
+below in Part V, infra , Mr. Kohberger’s facial expressions —including his lack of affect and 
+concentrated stare—are already being assigned sinister meaning by observers.  
+Jurors begin assessing a  case from the moment they step into the courtroom. In this case,  
+where jurors will be  forced to determine whether Mr. Kohberger  will live or die, Mr. Kohberger 
+himself is essentially a piece of evidence to be examined and evaluated; every movement and expression is subject to analysis. Due to his  ASD, Mr. Kohberger  simply cannot comport himself 
+in a manner that aligns with societal expectations of normalcy. This creates an unconscionable risk that he  will be executed because of his disability rather than his  culpability.    
+c. People with ASD  Make Poor Witnesses.   
+Concerns about the demeanor of a defendant with ASD apply with greater force when he 
+chooses to take the stand in his own defense. Both verbal and nonverbal communication with the  MOTION TO STRIKE DEATH PENALTY RE:  AUTISM SPECTRUM DISORDER  Page 21  
+ jury is impeded by the deficits experienced by someone with ASD, perhaps to an even greater 
+degree than someone with intellectual disability, who may not experience the same level of social impairment. A person with ASD will struggle on the witness stand i n myriad ways:  
+Aside from atypical social behaviors, individuals with ASD may 
+exhibit uncommon verbal or speaking patterns. Sometimes their phrasing is unusual, nonsensical, and exceedingly formal. They may 
+take a long time to answer questions, which may appear evasive. 
+They may also let out “sudden and unexpected verbal utterances,” which might come across as rude. They may also misinterpret or nit -
+pick questions asked of them during questioning or cross -
+examination. For instance, defendants may fail to pick up on cues 
+which signal the end of a line of questioning, or attempt to shift the 
+conversation to a topic of their interest. Such behavior may be 
+misunderstood as the defendant being “cagey,” or unwilling to discuss a particular area or answer questions. As another ex ample, 
+when questioned in his jury trial, a defendant with ASD instigated 
+“arguments with the prosecutor over comparatively trivial detail, 
+while failing, unless re -directed, to confront the underlying and 
+critical question.”  
+Berryessa 2021, supra, at 851 (internal citations omitted).  
+Due to the deficits associated with ASD, a defendant like Mr. Kohberger is just as likely 
+as someone with intellectual disability to make a poor witness.  Mr. Kohberger’s speech is 
+awkward, both in its content and delivery. As Dr. Orr observed, his tone and cadence are abnormal, 
+his interactions lack fluidity, and his language is often overinclusive, disorganized, highly repetitive, and oddly formal. Id.  at 8-9, 16, 17. He is highly distracted by sounds or activity 
+occurring around him, and he frequently looks f rom side -to-side to monitor his periphery. Id.  at 9. 
+As a result of his high distractibility, he often needs questions or instructions repeated. Id.  He 
+frequently shifts the topic back to himself even when it is inappropriate. Id.  He uses abrupt, matter -
+of-fact phrases that would be considered rude. Id. He carries on about topics in a circular manner 
+and perseverates about specific, non- essential details . Id. These symptoms of Mr. Kohberger’s 
+ASD will alienate him from the jury and significantly hamper his ability to make a persuasive showing of innocence or of mitigation. Atkins, 536 U.S. at 320- 21.   MOTION TO STRIKE DEATH PENALTY RE:  AUTISM SPECTRUM DISORDER  Page 22  
+ d. Evidence of a Defendant’s ASD Will Likely Be Perceived by the Jury as 
+Aggravating Instead of Mitigating.   
+It is well- recognized by courts and scholars alike that evidence of ASD, like intellectual 
+disability and youth, is a “two- edged sword,”  id.; see also Roper , 543 U.S. at 573, that increases 
+the likelihood that a defendant will be seen as dangerous and, as a result, sentenced to death. See, 
+e.g., Neuhard v. United States , 119 F.4th 1064, 1070 (6th Cir. 2024) (trial counsel not ineffective 
+for failing to present evidence of defendant’s ASD due to “the risk that the jury would perceive him as a mentally ill ‘monster’ who could not control his impulses to sexually abuse chil dren”); 
+United States v. Morais , 670 F.3d 889, 897 (8th Cir. 2012) (testimony at sentencing about 
+defendant’s autism and compulsive nature gave court reason “to be concerned about 
+incorrigibility”); Mammone v. Jenkins , No. 5:16CV900, 2019 WL 5067866, at *49 (N.D. Ohio 
+Oct. 9, 2019), aff ’d, 49 F.4th 1026 (6th Cir. 2022) (capital defendant’s insistence that he did the 
+“right thing” by killing his children—a belief  which post -conviction counsel attributed to his 
+ASD— “perhaps ma[de] the case for death even stronger”). In one study, several trial judges who were interviewed regarding the impact of ASD on sentencing bel ieved ASD would be an 
+aggravating factor, “as an individual’s inability to control his behavior may be an inherent danger and threat to himself, others, and public safety.” Colleen M. Berryessa, Brief Report:  Judicial 
+Attitudes Regarding the Sentencing of Offenders with High Functioning Autism , 46 J.
+ AUTISM & 
+DEVELOPMENTAL DISORDERS  2770 (2016), https://pmc.ncbi.nlm.nih.gov/articles/PMC4939110/ .  
+The risk that the jury’s fear about the defendant’s future dangerousness will overshadow 
+the mitigating force of defense evidence is especially pronounced in cases of ASD. ASD is beyond the comprehension of most jurors, and it is chronic, permanent, and untreatable. Research has 
+found that neurotypical adults demonstrate negative implicit bias against adults with ASD. See Cheryl L. Dickter et al., Implicit and Explicit Attitudes Toward Autistic Adults , 2 A
+UTISM IN 
+ADULTHOOD  144, 145, 148 (2020). Moreover, and particularly relevant to Mr. Kohberger’s  case 
+and the media frenzy surrounding it, “ [h]eightened media attention on ASD -associated crimes has  MOTION TO STRIKE DEATH PENALTY RE:  AUTISM SPECTRUM DISORDER  Page 23  
+ raised public alarm over the possible link between an autism diagnosis and violent behavior.”  
+Brown, supra, at 26.  
+Although there is little research on juror receptivity to ASD as mitigation evidence, studies 
+have repeatedly found that jurors view evidence of serious mental illness as aggravating rather 
+than mitigating. Several analyses demonstrate that, although juror s believe in the abstract that 
+mental health evidence will make them less likely impose death, in reality that evidence is often “presented and discounted, presented and ignored, or presented, rejected and treated as an aggravator.” Marla Sandys et al., Ca pital Jurors, Mental Illness, and the Unreliability Principle: 
+Can Capital Jurors Comprehend and Account for Evidence of Mental Illness , 36 J.
+ BEHAV . SCI. & 
+L. 470, 477 (2018) (citing studies). One study of capital jurors who voted for death in cases where 
+mental illness was a factor found that  nearly half of jurors either treated it as an aggravating factor 
+or reported that it had no impact on their decision at all. Id.  at 479. The same study also revealed 
+that evidence of mental illness became irrelevant to some jurors if the facts of the crime were particularly brutal; that jurors often expressed concern about mentally- ill defendants’ future 
+dangerousness, e specially where there appeared to be less potential for rehabilitation; that jurors 
+often perceived a defendant’s lack of emotion at trial as a lack of remorse, rather than a symptom of mental illness; and that jurors were highly skeptical of defendants’ c laims of mental illness, 
+often believing the defendant was malingering to manipulate the system and escape punishment. Id. at 479- 83.  
+That real capital juries are routinely transmogrifying mitigating evidence into evidence 
+warranting execution demonstrates the inability to address this problem through jury selection or instructions. A capital sentencer “must be able to give meaningful consideration and effect to all 
+mitigating evidence that might provide a basis for refusing to impose the death penalty on a particular individual, notwithstanding the severity of his crime or his potential to commit similar offenses in the future.” Abdul -Kabir v. Quarterman, 550 U.S. 233, 246 (2007) ; see also Penry, 
+492 U.S. at 326  (acknowledging that the prosecutor’s argument improperly led jurors to believe  MOTION TO STRIKE DEATH PENALTY RE:  AUTISM SPECTRUM DISORDER  Page 24  
+ that evidence of intellectual disability should be considered aggravating in sentencing). However, 
+experience shows that reality is different: despite their impairments, these defendants  are more  
+likely  to be sentenced to death. Cf., Atkins , 536 U.S. at 320 (holding that defendants with cognitive 
+and behavioral impairments  of intellectual disability are less morally culpable); Penry, 490 U.S. 
+at 321 (“defendants who commit criminal acts that are attributable to . . . emotional and mental 
+problems may be less culpable than defendants who have no such excuse” ).  
+This Court addressed the reality that evidence of mental illness is often a “double -edged 
+sword” in its November 20, 2024, Memorandum Decision and Order on Death Penalty Motions [hereinafter Order on Death Penalty Motions]. Citing Penry, 492 U.S. at 319, the Court denied Mr. 
+Kohberger’s motion to strike the propensity aggravator on the grounds that “double -edged 
+evidence is dealt with through instructions on the mitigation side, not through striking an aggravator.” Order on Death Penalty Motions at  19. Howe ver, the United States Supreme Court 
+overruled Penry in Atkins  and explicitly held that the double -edged nature of intellectual disability 
+evidence is one reason why defendants with intellectual disabilities cannot be sentenced to death 
+in accordance with the Eighth and Fourteenth Amendments’ reliability requirement.  Atkins, 536 
+U.S. at 320- 21. The Supreme Court reiterated this principle when it categorically barred execution 
+of juvenile offenders in Roper , 543 U.S. at 573. Noting that the prosecution had argued that the 
+defendant’s youth was aggravating rather than mitigating, the Court specifically rejected anything less than a categorical exclusion to address the problem: “ While this sort of overreaching could be 
+corrected by a particular rule to ensure that the mitigating force of youth is not overlooked, that would not address our larger conc erns. ” Id. Thus, the Supreme Court has clearly established that 
+where mitigating disability evidence may be mutated into an aggravator, the remedy is not a mere jury instruction, but exclusion of death as a sentencing outcome . 
+V. Even if this Court Rejects a Categorical Approach, it Should Remove the Death 
+Penalty Because Case- Specific Factors Create an Unacceptable Risk that a Death 
+Sentence Will Be Imposed In Spite of Factors Requiring a Lesser Sentence, Including a Pervasive Med ia Narrative that Assigns Sinister Meaning to 
+Symptoms of Mr. Kohberger’s Disability.    MOTION TO STRIKE DEATH PENALTY RE:  AUTISM SPECTRUM DISORDER  Page 25 
+ Even if the Court does not find that a categorical exclusion is warranted, the lack of 
+reliability inherent to any death sentence imposed upon on Mr. Kohberger provides independent 
+grounds to strike death in this case. There is no need to speculate about what impact Mr. Kohberger’s ASD might have on his ability to present a meaningful defense; the prejudice is already clear. In its decision transferring venue of Mr. Kohberger’s case, the Latah County Court 
+acknowledged the extraordinary media attention received by this case. Much of that attention focuses on Mr. Kohberger himself—in particular, on his disability.   
+Outlets ranging from The New York Times  to true crime video bloggers  have assigned 
+nefarious meaning to symptoms of Mr. Kohberger’s ASD. Multiple news sources have, for 
+example, focused on Mr. Kohberger’s social deficits, particularly as they relate to his interactions with women. NBC News accused Mr. Kohberger of making “creepy” comments to female staff at a brewery . Minyvonne Burke & Deon J. Hampton, Suspect in Idaho Killings Had Made ‘Creepy’ 
+Comments to Brewery Staff, Customers, Owner Says , NBC News, De c. 31. 2022, 
+https://www.nbcnews.com/news/us- news/suspect -idaho- killings -made- creepy -comments -
+brewery -staff-customers-ow-rcna63847. The New York Times  ran an article alleging that Mr. 
+Kohberger made female students at Washington State University feel “uncomfortable” (though an investigation by the university cleared Mr. Kohberger of any wrongdoing), and described how he lost his job as a teaching assistant due to his “failure to meet the ‘norms of professional behavior’ in his interactions with the faculty.” Mike Baker & Nicholas Bogel -Burroughs, University 
+Investigated Idaho Murder Suspect’s Behavior Around Time of Killings , N.Y. Times, Feb. 10, 
+2023,  https://www.nytimes.com/2023/02/10/us/idaho- murders -kohberger- fired -wsu.html. If true, 
+these allegations can easily be explained by Mr. Kohberger’s ASD: given their difficulty interpreting social cues, people with ASD may misconstrue social niceties as romantic interest. Berryessa 2021, supra, at 848-49. It is also no surprise that Mr. Kohberger came across as socially 
+awkward or that he struggled to adapt to professional norms; these impairments are hallmarks of 
+his disability.   MOTION TO STRIKE DEATH PENALTY RE:  AUTISM SPECTRUM DISORDER  Page 26 
+ Lack of facial expressions and abnormalities in eye contact and body language are so 
+emblematic of ASD that they are explicitly listed in the diagnostic criteria for the disorder. CDC, 
+supra. But to the online commentators  who have developed a cottage industry devoted to parsing 
+Mr. Kohberger’s every movement, these symptoms of his disability are sure signs of his guilt. One video “analyzing” Mr. Kohberger’s body language —which has received over one million 
+views —infers guilt from his “deadpan look” and “robot- like walk,” positing that his facial 
+expressions and body language prove he is a murderous “incel.” LiveNOW from FOX, Idaho Murders: What Suspect Bryan Kohberger’s Body Language Tells Us , Y
+OUTUBE (Jan. 4, 2023), 
+https://www.youtube.com/watch?v=Uk5j1nmk6lo&t=13s. A similar video, viewed over 350 
+thousand times, lambasts Mr. Kohberger for his “glare” and “blank empty stare,” his “cold iciness,” his “intense expression,” and his lack of facial affect.  Law&Crime Network,  ‘Cold 
+Iciness’: Bryan Kohberger’s Body Language Before and After Arrest for Idaho Murders Analyzed, Y
+OUTUBE  (May 23, 2023) , https://www.youtube.com/watch?v=J3QRDUPA58w&t=6s. Noting 
+the rigidity of his posture and his apparent lack of emotion, The New York Post  described Mr. 
+Kohberger as showing “a level of calm most comparable to infamous assassin Lee Harvey Oswald .” Stephanie Pagones, Accused Idaho Killer Bryan Kohberger’s Body Language Compared 
+to Lee Harvey Oswald , N.Y. Post, May 23, 2023, https://nypost.com/2023/05/23/accused-idaho-
+killer -bryan-kohbergers-body-language- akin-to-oswald -s/. A headline from The U.S. Sun says it 
+all: “ LOOK OF A ‘ KILLER ’ Idaho suspect Bryan Kohberger’s ‘psychopathic stare’ entering court 
+hides chilling emotions, says body language expert.” G.P. Rodriguez, The U.S. Sun, Jan. 3, 2023, https://www.the -sun.com/news/7045055/idaho- suspect -bryan -kohbergers-psychopathic- stare/ . 
+These widely viewed and highly prejudicial media reports, draped in the language of 
+“expertise” and “analysis,” demonize Mr. Kohberger for his disability.  In an environment so 
+tainted by rampant  and vitriolic  conjecture, it is impossible for Mr. Kohberger to receive the 
+individualized sentencing determination—including full and careful consideration of mitigation evidence—that the constitution demands whenever the State seeks to extinguish a human life.   MOTION TO STRIKE DEATH PENALTY RE:  AUTISM SPECTRUM DISORDER  Page 27 
+ The sustained national media attention on this case also repeatedly emphasizes that the 
+alleged crime is brutal and shocking in nature. These types of cases were of particular concern to 
+the U.S. Supreme Court and underpinned the categorical approach in Atkins  and Roper : “An 
+unacceptable likelihood exists that the brutality or cold- blooded nature of any particular crime 
+would overpower mitigating arguments based on youth as a matter of course, even where the juvenile offender’s objective immaturity, vulnerability, and lack of true depravity should require a sentence less severe than death.” Roper , 543 U.S. at 573; see also Atkins , 536 U.S. at 320-21. 
+Likewise, a jury in this case will be emotionally overwhelmed by the factual allegations, and simultaneously looking at a defendant who appears to be emotionally uninvested and unmoved and who cannot persuasively testify in his own de fense. There is little doubt that this reality will 
+overpower any mitigating arguments based on ASD as a matter of course, amounting to an unconstitutional risk that Mr. Kohberger —on account of his disability—will be unreliably 
+convicted and sentenced to death.    
+CONCLUSION 
+ For all of the reasons set forth above, Mr. Kohberger’s  ASD prevents him from being 
+sentenced to death in a manner that accords with the constitutional requirements of proportionality and reliability. Like juveniles and people with disabilities, he is insufficiently culpable to be sentenced to death, the aims of deterrence and retribution will not be satisfied by his execution, and he faces an unacceptable risk “that the death penalty will be imposed in spite of factors which may call for a less severe penalty.” Lockett , 438 U.S. at 605. As such, the death pena lty must be 
+struck as a possible penalty in this case. 
+DATED this ___ 24____ day of February , 2025. 
+ 
+                
+       _____________________________ 
+      ANNE C. TAYLOR  
+      ANNE TAYLOR LAW, PLLC  
+ MOTION TO STRIKE DEATH PENALTY RE:  AUTISM SPECTRUM DISORDER  Page 28 
+  
+   
+CERTIFICATE OF DELIVERY 
+ 
+I hereby certify that a true and correct copy of the foregoing was personally served as 
+indicated below on the ___24____ day of February, 2025 addressed to: 
+ Latah County Prosecuting Attorney –via Email: paservice@latahcountyid.gov
+ 
+Elisa Massoth – via Email: legalassistant@kmrs.net  
+Jay Logsdon – via Email: Jay.Logsdon@spd.idaho.gov  
+Bicka Barlow, Attorney at Law – via Email: bickabarlow@sbcglobal.net  
+Jeffery Nye, Deputy Attorney General – via Email: Jeff.nye@ag.idaho.gov   
+        
+        
+ 
+ 
+ 

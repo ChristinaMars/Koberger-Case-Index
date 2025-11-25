@@ -1,0 +1,264 @@
+ 
+ 
+STATE’S RESPONSE TO DEFENDANT’S MOTION IN LIMINE #6 RE: REFERENCE TO “TOUCH” AND 
+“CONTACT” DNA    1 
+ LATAH COUNTY PROSECUTOR’S OFFICE   
+WILLIAM  W. THOMPSON, JR., ISB No . 2613 
+PROSECUTING ATTORNEY 
+JEFF NYE , ISB 9238  
+SPECIAL ASSISTANT ATTORNEY GENERAL  
+Latah County Courthouse 
+522 S. Adams Street, Ste. 211 
+Moscow, ID 83843 
+Phone: (208) 883-2246 
+ISB No. 2613 
+paservice@latah countyid.gov  
+ 
+ 
+ 
+ 
+IN THE DISTRICT COURT  OF THE FOURTH JUDICIAL DISTRICT OF THE  
+ 
+STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA  
+ 
+ 
+ 
+STATE OF IDAHO,  Case No. CR 01-24-31665  
+                        Plaintiff,   
+ 
+V. STATE’S RESPONSE TO 
+DEFENDANT’S MOTION IN 
+LIMINE # 6  
+ 
+RE: REFERENCE TO “TOUCH” 
+AND “CONTACT” DNA  
+BRYAN C. KOHBERGER ,  
+                         Defendant.  
+ 
+ 
+ COMES NOW  the State of Idaho, by and through the Latah County Prosecuting Attorney, 
+and responds to Defendant’s Motion in Limine regarding the use of the terms “touch” or “contact” 
+DNA or opining on the means or mechanism by which DNA came to be present on the knife 
+sheath . This Court should deny Defendant’s motion because Ms. Nowlin ’s disclosure s demonstrate 
+she will not use the phrase “touch DNA” in a manner that will mislead the jury , her opinions as to 
+the DNA found on the knife sheath are admissible under the Idaho Rules of Evidence, and her Electronically Filed
+3/17/2025 5:25 PM
+Fourth Judicial District, Ada County
+Trent Tripple, Clerk of the Court
+By: Jennifer Keyes, Deputy Clerk 
+ 
+STATE’S RESPONSE TO DEFENDANT’S MOTION IN LIMINE #6 RE: REFERENCE TO “TOUCH” AND 
+“CONTACT” DNA    2 
+ opinions are proper rebuttal testimony.  
+A. Ms. Nowlin’ s disclosure demonstrates  that she will not use  the phrase  “touch DNA”  
+in a manner that will mislead or confuse the jury.  
+ Ms. Nowlin’s use of the phrase “touch DNA” will not mislead or confuse the jury. “The 
+court may exclude relevant evidence if its probative value is substantially outweighed by a danger 
+of one or more of the following: unfair prejudice, confusing the issues, misleading the jury, undue delay, wasting time, or needlessly presenting cumulative evidence. ” I.R.E. 403.    
+ Ms. Nowlin’s tes timony, which will be consistent with her disclosures, will not mislead 
+the jury or confuse the issues . As her disclosure indicates, Ms. N owlin uses the phrase “touch 
+DNA” only to distinguish that type of DNA with other kinds of DNA: “DNA may be present on  
+an item in the form of biological materials such as blood, semen, and saliva or may be left on an item when it is worn (wearer DNA) or handled (touch or transfer DNA).” ( State’s Rebuttal to 
+Defendant’s Supplemental Response to Request for Discovery Regarding Expert Witnesses, Ex. 
+S-11, p.1., filed 2/17/2025 (“Ex. S -11”).) She goes on to explain how DNA can be transferred  to 
+an item, including that it can be transferred fro m one person to another person before being 
+deposited on the item : 
+DNA can be deposited on or transferred to an item through transfer 
+of body fluids to an item, wearing an item, and/or handling an item. 
+Primary or direct  transfer refers to DNA transferring  directly 
+between individuals or between an individual and an object. Indirect 
+or secondary transfer refers to the transfer of DNA from one person or object to another person or object through an intermediary.  
+(Ex. S -11, pp.1- 2.) She then describes at length various factors that can affect primary and 
+secondary transfer , including the shedder status of the individual(s). (Ex. S -11, pp.1- 3.) Give n Ms. 
+Nowlin’s explanation of primary and secondary transfer , no reasonable juror would be misled by 
+her use of the phrase “touch DNA” to mean Defendant necessarily made physical contact with the  
+ 
+STATE’S RESPONSE TO DEFENDANT’S MOTION IN LIMINE #6 RE: REFERENCE TO “TOUCH” AND “CONTACT” DNA    3 
+ knife sheath. 
+ Moreover, Ms. Nowlin’s use of the phrase “touch DNA” is not unique  but common within 
+the field.  (See Affidavit of Rylene Nowlin, ¶ 7, filed 3/17/25.) Most tellingly, Defendant’s own 
+DNA expert plans to use the phrase  “touch DNA” in reference to the DNA on the knife sheath: 
+“No blood, hair, or DNA from him was found on any of the crime scene evidence ( except the touch 
+DNA on the knife sheath).”  (Defendan t’s Supplemental Response to Request for Discovery 
+Regarding Expert Witnesses , Ex. D1 -B, p.19., filed 1/23/25 (“Ex. D1- B”).) Experts in other cases 
+also use the phrase “touch DNA” in the same way . See, e.g., McGiboney v. State , 160 Idaho 232, 
+236, 370 P.3d 747, 751 (Ct. App. 2016) (discussing history of “touch DNA” in other states) . And 
+the scientific literature is replete with references to “touch DNA .” See, e.g., Tozzo, P.; Mazzobel, 
+E.; Marcante, B.; Delicati, A.; Caenazzo,  L., Touch DNA Sampling Methods: Efficacy Evaluation 
+and Systematic Review , Int. J. Mol. Sci. 2022, 23, 15541. https://doi.org/10.3390/ijms232415541 .  
+ Defendant seems to suggest that Ms. Nowlin should use  the phrase “trace DNA” instead 
+of “touch DNA.” (Mot. at 4.) However, as Ms. Nowlin explains in her affidavit,  she does not use 
+the phrase “trace DNA” because it implies there was only a trace amount of DNA found. ( Nowlin  
+Aff., ¶ 8.)  Using that term in this case would itself be misleading to the jury “ because a trace 
+amount of DNA is not what was detected on Item 1.1” Id.         
+B. Ms. Nowlin’s  opinion as to the likelihood of how  Defendant’s DNA came to be on the 
+knife sheath is proper expert testimony.  
+ Ms. Nowlin’s opinion is admissible as expert testimony. “ A witness who is qualified as an 
+expert by knowledge, skill, experience, training, or education may testify in the form of  an opinion 
+or otherwise if the expert ’s scientific, technical, or other specialized knowledge will help the trier 
+of fact to understand the evidence or to determine a fact in issue.” I.R.E. 702. “The function of the  
+ 
+STATE’S RESPONSE TO DEFENDANT’S MOTION IN LIMINE #6 RE: REFERENCE TO “TOUCH” AND 
+“CONTACT” DNA    4 
+ expert is to provide testimony on subjects that are beyond the common sense, experience, and 
+education of the average juror.” State v. Tankovich , 155 Idaho 221, 227, 307 P.3d 1247, 1253 (Ct. 
+App. 2013)  (holding district court properly allowed expert to tes tify as the meaning of “SS” 
+lightning bolts because “average jurors might not have that knowledge”) . “Courts should not 
+overly restrict expert testimony that assists the jury.” State v. Almaraz , 154 Idaho 584, 600, 301 
+P.3d 242, 258 (2013) (holding distric t court erred when it limited expert’s testimony on 
+suggestiveness of interview because such testimony “would have been helpful to the average juror’s understanding of whether the interview was conducted in an overly suggestive way”).  
+ As Ms. Nowlin’s disclosure indicates, she will assist the jury by helping them understand 
+concepts related to DNA that fall outside the common sense or experience of the average juror. Specifically, Ms. Nowlin  will explain  primary and secondary transfer  of DNA  and factors that may 
+affect primary and secondary transfer  of DNA.  (Ex. S -11, pp.1- 3.) No average juror would 
+understand those concepts without the type of training and experience Ms. Nowlin has.   Ms. Nowlin will also opine that  the amount of DNA found on the sheath and the fact that 
+it came from  a single source make it more likely  the DNA arrived on the knife sheath because of  
+primary transfer  rather than secondary transfer . (Ex. S -11, p.3.)  That too will assist the jury because 
+a non- expert possessing those same facts would have difficulty interpreting their significance. See, 
+e.g., State v. Hester , 114 Idaho 688, 693- 94, 760 P.2d 27, 32- 33 (1988) ( “Because of her expertise, 
+Dr. Powell was a ble to draw inferences which were ‘beyond common experience.’”). Ms. Nowlin’s 
+explanations  and inference both go to t he significance of Defendant’s DNA on the knife sheath, 
+which  will be  a critical issue in the trial, especially considering Defendant’s expert’s proposed 
+testimony that at least implies the jury should attribute little or no significance to Defendant’s DNA on the knife sheath.     
+ 
+STATE’S RESPONSE TO DEFENDANT’S MOTION IN LIMINE #6 RE: REFERENCE TO “TOUCH” AND 
+“CONTACT” DNA    5 
+  Defendant argues that Ms. Nowlin’s opinion is inadmissible because she  “cannot  
+conclusively offer an answer to the question of when and how.”  (Mot. at 8- 9.) But that’s often the 
+case with proper expert testimony. See State v. Hall , 163 Idaho 744, 778- 82, 419 P.3d 1042, 1076-
+80 (2017).  
+ In Hall, a woman was found dead floating in a river. Id.  at 765, 419 P.3d at 1063. An 
+autopsy determined her cause of death was strangulation. Id.  At trial, the State called as an expert 
+the forensic pathologist who conducted the autopsy. Id.  at 778, 419 P.3d at 1076. Although he 
+could not be sure, the forensic pathologist was allowed to give his “opinion on ‘how [the victim] 
+was tied just after death” using photos showing “a reenactment of the body as it is postulated  to 
+have been hogtied either before or soon af ter [the victim’s] death.” Id. (emphasis added). The Idaho 
+Supreme Court held the district court properly admitted the expert testimony “that hogtied positioning” was the “most likely.” Id.  at 779 -80, 419 P.3d at 1077- 78. The court explained that 
+the exper t’s “opinion regarding how [the victim] was tied was not based upon mere ‘speculation’ 
+or ‘possibilities,’ but was based upon the lividity patterns observed on the body.’” Id.  The court 
+also observed that the pathologist “admitted the[] limitations” of his  opinion. Id.; see also, e.g., 
+Lanham v. Idaho Power Co., 130 Idaho 486, 492 -94, 943 P.2d 912, 918 -20 (1997) (holding it was 
+not error to permit an expert to “testify about possible causes of the fire” and opine as to “the most likely cause of the fire” ev en though “he ‘was not able to make any definitive cause or origin 
+investigation’”) ; State v. Merwin , 131 Idaho 642, 646, 962 P.2d 1026, 1030 (1988)  (“If, based on 
+an expert's training, one possible cause is observed with greater frequency than others, thi s 
+information would be useful to the trier fact.”).  
+ Ms. Nowlin’s opinion that the DNA on the knife sheath “is more likely the result of a direct 
+transfer” than “from secondary transfer ,” (Ex. S -11, p.3.), is admissible for the same reasons the  
+ 
+STATE’S RESPONSE TO DEFENDANT’S MOTION IN LIMINE #6 RE: REFERENCE TO “TOUCH” AND “CONTACT” DNA    6 
+ court approved the admission of the pathologist’s “most likely” testimony in Hall , 163 Idaho at 
+779-80, 419 P.3d at 1077 -78. Like the pathologist in Hall  who explained his opinion was based on 
+lividity patterns, Ms. Nowlin has provided a sufficient factual basis by explaining her opinion is 
+based on “the quantity of DNA detected on M2022- 4843 Item 1.1 (0.168ng/μl) ” and the fact that  
+“the DNA profile obtain ed is single source.” (Ex. S -11, p3.) Ms. Nowlin’s full acknowledgement 
+that she cannot conclusively state how the DNA arrived on the knife sheath does not mean her opinions are excludable as Defendant claims; it simply means she has “admitted their limita tions,” 
+which weighs in favor of admission. Hall , 163 Idaho at 779-80, 419 P.3d at 1077-78. 
+ Defendant erroneously asserts Ms. Nowlin’s opinion is not admissible because there is  
+agreement  in the forensic DNA community that experts should not give such opinions. ( Mot. at 
+8.) Defendant’s assertion is flawed both as a legal and factual matter.  
+ Defendant’s assertion is legally incorrect because consensus of the scientific community is 
+not the appropriate standard to determine admissibility of an expert opi nion. “The question under 
+the evidence rule is simply whether the expert’s knowledge will assist the trier of fact; not whether the information upon which the expert’s opinion is based is commonly agreed upon.” State v. Merwin , 131 Idaho 642, 646, 962 P.2d 1026, 1030 (1998). As explained above, Ms. Nowlin’s 
+testimony will assist the trier of fact.  
+ Defendant’s claim of universal agreement in the forensic DNA community is  also factually 
+incorrect. Defendant relies most heavily on a report titled Forensic DNA Interpretations and 
+Human Factors: Improving Practice Through a Systems Approach.
+1 (Mot. at 6-8.) Specifically, 
+Defendant relies on sections 7.1 and 7.2. But as to those sections, not even the authors of the report 
+ 
+1 Available at https://nvlpubs.nist.gov/nistpubs/ir/2024/NIST.IR.8503.pdf .   
+ 
+STATE’S RESPONSE TO DEFENDANT’S MOTION IN LIMINE #6 RE: REFERENCE TO “TOUCH” AND 
+“CONTACT” DNA    7 
+ were in agreement. See NIST  Rep., p.177 n.455, p.177 n.456. Two of the committee members 
+dissented from the recommendation that DNA analysts should not opine about the possibility or 
+probability of direct or indirect transfer having occurred in a case. See NIST Rep., p.177, n.455.  
+Put differently, there is not even universal agreement amongst the authors of the work on which Defendant relies. Further, a s Ms. Nowlin explains in her affidavit, there is even more of a divide 
+in the community than the two dissenters in the working group. ( See Nowlin, ¶¶ 5- 6.) 
+ Here again, for the second time in a single motion, Defendant’s own expert contradicts his 
+position. According to the recommendation from the working group espoused by Defendant, a 
+DNA expert is not allowed to  answer any question of how or when DNA arrived on an object. See 
+NIST Rep., p.176, Table 7.1. But Defendant’s expert goes to great lengths to make the DNA on the knife sheath seem meaningless for the jury based on the very subjects Defendant now claims 
+the expert should refuse to discuss . For example, Defendant’s expert discusses the possibilities of 
+how the DNA arrived on the knife sheath that most benefit Defendant : “Mr. Kohberger could have 
+shed cells/D NA onto the sheath days, weeks, or even months earlier.”  (Ex. D1 -B, p.19.)  And s he 
+opines that the DNA was found on “a protected area where a prior handler’s DNA might be expected to persist  even if the sheath was more recently held/used by someone else.”  (Ex. D1- B, 
+p.19.)   Defendant’s expert’s opinion is itself evidence that there is no agreement in the community  
+that DNA experts should not testify on these topics.  In all event s, it is not the non- unanimous recommendations of a divided working group 
+that determine the admissibility of evidence in Idaho’s courts ; it is the Idaho Rules of Evidence. 
+And, as explained above,  Ms. Nowlin’s opinions are admissible under those rules.  
+C. Ms. Nowlin’s opinion s are proper rebuttal expert testimony.  
+ The expert testimony disclosed by Ms. Nowlin constitutes proper rebuttal testimony.  
+ 
+STATE’S RESPONSE TO DEFENDANT’S MOTION IN LIMINE #6 RE: REFERENCE TO “TOUCH” AND 
+“CONTACT” DNA    8 
+ “Rebuttal evidence is evidence ‘ which explains, repels, counteracts, or disproves evidence which 
+has been introduced by or on behalf of the adverse party.’ ” State v. Moses , 156 Idaho 855, 867, 
+332 P.3d 767, 779 (2014). The State disclosed in its initial expert disclosures experts from the 
+Idaho State Police lab who swabbed  the knife sheath for DNA, swabbed Defendant for DNA, and 
+compared the DNA from the knife sheath to Defendant’s DNA. Based on those disclosures, the 
+DNA lab analyst who compared the DNA will testify that Defendant’s DNA matched the DNA obtained from the knife sheath.  
+ Then Defendant  disclosed his DNA expert . Defendant’s DNA expert could not refute  that 
+the DNA on the knife sheath matched Defendant’s DNA , acknowledging that “ [t]here is good 
+support that Mr. Kohberger’s DNA was found on Item 1.1, a swab from the knife sheath.”  (Ex. 
+D1-B, p.19.)  Instead, the disclosure for Defendant’s DNA expert indicates she will inform the jury 
+that DNA on an item could be the result of “indirect transfer” from “skin cell DNA .” (Ex. D1- B, 
+p.18.)  The disclosure implies th e jury should give little weight to Defendant’s DNA at the crime 
+scene because it could just mean Defendant’s DNA was nothing more than “innocuously shed skin 
+cells/DNA”  prior to the crime and the knife sheath could “be picked up and transported to a crime  
+scene by someone else who sheds no DNA onto it .” (Ex. D1- B, p.18.)  She also opines that the 
+DNA was found in a location that suggests it would persist for a long time because it was protected. (Ex. D1- B, p.19.)  
+ Ms. Nowlin’s rebuttal disclosure “explains” and “counteracts” the disclosure of 
+Defendant’s DNA expert.  Moses , 156 Idaho at 867, 332 P.3d at 779. While Ms. Nowlin  
+acknowledges the limitations of current technology in determining how DNA arrived on an objec t, 
+she also explains factors that  can affect persistence and that may suggest whether DNA arrived on 
+an object via primary or secondary transfer. (Ex. S -11, pp.1- 3.) Ultimately, she concludes that it is  
+ 
+STATE’S RESPONSE TO DEFENDANT’S MOTION IN LIMINE #6 RE: REFERENCE TO “TOUCH” AND 
+“CONTACT” DNA    9 
+ 
+more likely Defendant’s  DNA on the knife sheath arrived via primary transfer , which means —
+contrary to Defendant’s expert’s opinion—the DNA on the knife sheath has more significance than 
+the source being  Defendant . (Ex. S -11, p.3.)  That is textbook rebuttal testimony. 
+ Defendant claims , without citation to any authority, that Ms. Nowlin’s testimony should 
+be excluded as improper rebuttal evidence because it “appears to be the State’s theory of the case.” 
+(Mot. at 9.)  But “[t]he mere fact that testimony might well have been presented dur ing [a party’s] 
+case in chief does not, by itself, make it inadmissible for rebuttal.’” Moses , 156 Idaho at 867, 332 
+P.3d at 779 (quoting State v. Rosencrantz , 110 Idaho 124, 129, 714 P.2d 93, 98 (Ct. App. 1986)).  
+True, the State could use Ms. Nowlin’s tes timony to help the jury understand primary and 
+secondary transfer from the outset. But the value of Ms. Nowlin’s testimony to the State  is to rebut 
+Defendant’s theory  that his DNA  on the knife sheath is “innocuously shed skin cells/DNA.”  
+ The State properly disclosed Ms. Nowlin both in its initial disclosures and in its rebuttal 
+disclosures. The State may choose to have Ms. Nowlin testify in its case -in-chief. But it may also 
+wait until rebuttal. The State’s disclosures and the nature of Ms. Nowlin’s testimony permit the State to make either decision.         
+CONCLUSION 
+ For all these reasons, the Court should deny Defendant’s motion. 
+ RESPECTFULLY SUBMITTED this 17th day of  March  2025.      
+  
+___________________________________   _______________________________  
+William W. Thompson, Jr.     Jeff Nye  
+Prosecuting Attorney      Special Assistant Attorney  General   
+    
+ 
+STATE’S RESPONSE TO DEFENDANT’S MOTION IN LIMINE #6 RE: REFERENCE TO “TOUCH” AND 
+“CONTACT” DNA    10 
+ 
+CERTIFICATE OF DELIVERY  
+ 
+I hereby certify that true and correct copies of the STATE’S RESPONSE TO 
+DEFENDANT’S MOTION IN LIMINE #6 RE: REFERENCE TO “TOUCH” AND 
+“CONTACT” DNA w ere served on the following in the manner indicated below:  
+Anne  Taylor  
+Attorney at Law  
+PO Box 2347 
+Coeur D Alene, ID 83816  
+ ☐  Mailed  
+☒  E -filed & Served / E -mailed  
+☐  Faxed  
+☐  Hand Delivered  
+ 
+ Dated this  17th day of March  2025.  
+ 
+ 
+__________________________________________ 
+ 
+ 

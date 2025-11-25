@@ -1,0 +1,1814 @@
+ 
+OBJECTION TO DEFENDANT’S MOTION TO DISMISS INDICTMENT ON GROUNDS OF ERROR IN 
+GRAND JURY INST RUCTIONS  1 LATAH COUNTY PROSECUTOR’S OFFICE   
+WILLIAM W. THOMPSON, JR., ISB 2613 
+PROSECUTING ATTORNEY 
+JEFF NYE, ISB 9238 
+SPECIAL ASSISTANT ATTORNEY GENERAL 
+Latah County Courthouse 
+P.O. Box 8068 
+Moscow, ID 83843 
+Phone: (208) 883-2246 
+paservice@latah.id.us  
+ 
+ 
+IN THE DISTRICT COURT OF THE SE COND JUDICIAL DI STRICT OF THE 
+ 
+STATE OF IDAHO, IN AND FOR THE COUNTY OF LATAH 
+ 
+  
+STATE OF IDAHO, Case No. CR29-22-2805 
+                        Plaintiff,  
+  
+V. OBJECTION TO DEFENDANT’S 
+MOTION TO DISMISS 
+INDICTMENT ON GROUNDS OF 
+ERROR IN GRAND JURY 
+INSTRUCTIONS  
+BRYAN C. KOHBERGE R 
+                         Defendant. 
+ 
+  
+ The State submits this objection to address Defendant’s assertion that the standard 
+of proof in a grand jury proceeding is beyond a reasonable doubt. Far from novel, 
+Defendant’s argument has made numerous appearances throughout the st ate in recent years. 
+Even those pushing this jarring theory are forced to concede “the whole of modern 
+jurisprudence on this issue is against it.” (Mot . at 6.) And, to the State’s knowledge, every 
+court in the state that ha s addressed this argument has soundly rejected it. ( See, e.g. , Opinion, 
+State v. Williams , Case No. CR28-22-18387 (March 28, 2023) (Duggan, J.) attached as 
+Exhibit A; Memorandum Decision, State v. Peone , Case No. CR28-22-8343 (Dec. 22, 2022) Electronically Filed
+8/16/2023 3:48 PM
+Second Judicial District, Latah County
+Julie Fry, Clerk of the Court
+By: Tamzen Reeves, Deputy Clerk 
+OBJECTION TO DEFENDANT’S MOTION TO DISMISS INDICTMENT ON GROUNDS OF ERROR IN 
+GRAND JURY INST RUCTIONS  2 (Meyer, J.) attached as Exhi bit B; Memorandum Decision, State v. Rodriguez , Case No. 
+CR14-20-22902 (May 21, 2021) (Petty, J.) attached as Exhibit C.) For the reasons explained 
+below, the law requires this Court to  join that growing list of jurists.1     
+A. The Idaho Supreme Court has held probable  cause is the corr ect standard of 
+proof for a grand jury. 
+ Defendant’s argument that  the beyond a reasona ble doubt standard applies to grand 
+jury proceedings is in direct conflict with  Idaho Supreme Court precedent. Defendant seems 
+to acknowledge as much but asks this Court “to recognize” what he  claims is “the long string 
+of error that lead [sic] us he re.” (Mot. at 21.) Defendant’s re quest ignores one of the most 
+basic tenants of our legal syst em: the Idaho Supreme Court “has  been and remains the final 
+arbiter of Idaho rules of law.” State v. Guzman , 122 Idaho 981, 986-87, 842 P.2d 660, 665-
+66 (1991). The Idaho Supreme Court has declared  that “[t]he primary purpose of a grand 
+jury proceeding is to . . . determine probable cause.” State v. Edmonson , 113 Idaho 230, 234, 
+743 P.2d 459, 463 (1987). This Court is duty-bound to apply that controlling precedent and 
+reject Defendant’s argument to the contrary. 
+ Defendant claims that th e court’s numerous probable cause statements in Edmonson  
+were “dicta.” (Mot. at 12-13.)  Nonsense. A statement from th e Idaho Supreme Court is only 
+dicta “[i]f the statement is not necessary to deci de the issue presented.” State v. Hawkins , 
+155 Idaho 69, 74, 305 P.3d 513, 518 (2013); see Seminole Tribe v. Florida , 517 U.S. 44, 67 
+(1996) (“When an opinion issues for the Court, it is not only th e result but also  those portions 
+ 
+1 The State incorporates as part  of its objection the reasoning in the decisions attached as 
+Exhibits A, B, and C.  
+OBJECTION TO DEFENDANT’S MOTION TO DISMISS INDICTMENT ON GROUNDS OF ERROR IN 
+GRAND JURY INST RUCTIONS  3 of the opinion necessary to that result by which we are bound.”). The statements in 
+Edmonson that probable cause is the standard of  proof for grand jury proceedings were 
+necessary to at least tw o of the court’s holdings. 
+ First, the court held a prosecutor’s deci sion to use a grand jury rather than a 
+preliminary hearing does not violate equal prot ection. Central to the court’s rationale was 
+the determination that a grand jury proceedin g and a preliminary hearing serve the same 
+purpose and have the same  standard of proof: 
+The purpose of a grand jury proceedi ng and a preliminar y hearing is to 
+determine probable cause. Any advantag e that a preliminary hearing affords 
+a defendant is purely incide ntal to that purpose. The independent grand jury’s 
+function would be duplicated by requirin g a subsequent pre liminary hearing.  
+113 Idaho at 234, 743 P.2d at 463. 
+ Defendant suggests this holding is dicta because the court “note[d]” that “Edmonson 
+did not request a preliminary hearing.” Id. at 233, 743 P.2d at 462. Despite acknowledging 
+it could have disposed of the case on that basi s, the court “address[ed] the arguments raised 
+by Edmonson” because of “the important constitutional issues at stake.” Id. The court thus 
+saw the equal protection claim as  properly before it and resolved the issue by addressing the 
+merits of Edmonson’s claim. See id.  at 235, 743 P.2d at 464 (“We  accept the above reasoning 
+as persuasive and hold that a prosecutor may proceed by e ither alternative—indictment or 
+information.” (emphasis added)). Moreover, Idaho’s appellate courts have repeatedly 
+applied Edmonson ’s equal protection holding as binding precedent, which means this Court 
+must do the same. See State v. Odiaga , 125 Idaho 384, 389, 871 P.2d 801, 806 (1994) (“In 
+[Edmonson ], this Court specifically held that th e prosecutor can use either a grand jury  
+OBJECTION TO DEFENDANT’S MOTION TO DISMISS INDICTMENT ON GROUNDS OF ERROR IN 
+GRAND JURY INST RUCTIONS  4 proceeding or a preliminary hearing before an  impartial magistrate to initiate criminal 
+proceedings.”); State v. Nelson , 131 Idaho 210, 213, 953 P.2d 650, 654 (Ct. App. 1998) 
+(finding “the reasoning presented in Edmonson  to be dispositive” on the issue of whether 
+defendant had a right to a preliminary hearing); State v. Martinez , 128 Idaho 104, 111, 910 
+P.2d 776, 783 (Ct. App. 1995) (“Moreover, as held in Edmonson , a defendant indicted by a 
+grand jury is not entitled to a preliminary hearing.”); State v. Vaughn , 124 Idaho 576, 584, 
+861 P.2d 1241, 1249 (Ct. App. 1993)  (“[O]ur Supreme Court has held that, where a 
+defendant has been indicted by a grand jury, the defendant is not afforded a right to a 
+preliminary hearing.” (citing Edmonson , 113 Idaho at 232-33, 743 P.2d 461-62)).    
+ Second, the Edmonson  court decided, as a matter of first impression, that an 
+indictment will be sustained by a reviewing co urt when improper evidence is excluded and 
+probable cause remains: 
+The purpose of the grand jury pro ceeding is to determine whether sufficient 
+probable cause exists  to bind the defendant over fo r trial. The determination 
+of guilt or innocence is sa ved for a later day. As l ong as the grand jury has 
+received legally sufficient  evidence which in and of itself supports a finding 
+of probable cause it is not for an appella te court to set aside the indictment.  
+ Id. at 236-37, 743 P.2d at 465-66 (e mphasis added). This proce ss of review would make no 
+sense were the correct standard of proof for a grand jury anythi ng other than probable cause.  
+ In any event, post- Edmondson , the Idaho Supreme Court ha s consistently applied the 
+probable cause standard to eviden ce presented to the grand jury. See State v. Martinez , 125 
+Idaho 445, 448-49, 872 P.2d 708, 711-12 (1994) (c iting Idaho Code § 19-1107 and then 
+holding there was “sufficient independent evid ence to support a finding of probable cause 
+and therefore this Court will not  set aside the indictment”); State v. Jones , 125 Idaho 477,  
+OBJECTION TO DEFENDANT’S MOTION TO DISMISS INDICTMENT ON GROUNDS OF ERROR IN 
+GRAND JURY INST RUCTIONS  5 483-84, 873 P.2d 122, 128-29 (1994) (“Because th ere is independent legal evidence to 
+support a finding of probable cause  and because the totality of the circumstances at the grand 
+jury proceeding do not demonstr ate prejudice, there is no basis for dismissal of the 
+indictment.”). The Idaho Court of Appeals has done the same, see, e.g. , State v. Marsalis , 
+151 Idaho 872, 877-78, 264 P.3d 979, 984-85 (Ct. App. 2011), and “all tribunals inferior to the Court of Appeals are obligated to abide by decisions issued by th e Court of Appeals,” 
+see Guzman , 122 Idaho at 986, 842 P.2d at 665. In short, it is black letter law in Idaho that 
+the standard of proof for indictment by a grand jury is probable cause.   
+B. Section 19-1107 sets the standard of proof for grand juries at probable cause. 
+ Even if this Court were writing on a clean legal slate, the statute relied on by 
+Defendant sets the standard of proof for a grand jury at proba ble cause. Statutory 
+interpretation begins “with th e statute’s plain language.” State v. Wilson , 165 Idaho 64, 67, 
+438 P.3d 302, 305 (2019). “The statute is considered  as a whole, and words are given ‘their 
+plain, usual, and or dinary meanings.’” Id. (quoting State v. Owens , 158 Idaho 1, 3, 343 P.3d 
+30, 32 (2015)). The Idaho Supreme Court has also  “adopted the rule th at ‘[w]hen a statue 
+and rule can be reasonably interpreted so that there is no conflict between them, they should 
+be so interpreted rather than interprete d in a way that results in conflict.’” State v. Weigle , 
+165 Idaho 482, 486 n.4, 447 P.3d 930, 934 n.4 (2019) (quoting State v. Johnson , 145 Idaho 
+970, 974, 188 P.3d 912, 916 (2008)).  Idaho Code § 19-1107 and Idaho Criminal Rule 6.5(a) share the same title and 
+address the same issue: “Sufficiency of Eviden ce to Warrant Indictment.” The rule explicitly 
+sets the standard of proof at probable cause. See I.C.R. 6.5(a). The st atute can—and therefore  
+OBJECTION TO DEFENDANT’S MOTION TO DISMISS INDICTMENT ON GROUNDS OF ERROR IN 
+GRAND JURY INST RUCTIONS  6 must—be read to do the same. See State v. Garner , 161 Idaho 708, 711, 390 P.3d 434, 437 
+(2017) (“Statutes and rules that can be read together without c onflicts must be read in that 
+way.”).  The plain language of the statute states: “T he grand jury ought to find an indictment 
+when all the evidence before them, taken toge ther, if unexplained or uncontradicted, would, 
+in their judgment, warrant a conviction by a trial jury.” I.C. § 19-1107. The Idaho Supreme 
+Court has already rejected Defendant’s claim th at that language requires the grand jury to 
+find the suspect guilty beyond a reasonable doubt. See Gasper v. Seventh Jud. Dist. , 74 Idaho 
+388, 395, 264 P.2d 679, 683 (1953) (observing that an  instruction settin g the standard of 
+proof for the grand jury as beyond a reasonabl e doubt “calls for greate r degree of proof to 
+justify an indictment than [I.C. § 19-1107] requires”). To the ex tent § 19-1107 sets a 
+standard of proof, the phrases “in their judgment” and “warrant  a conviction by a trial jury” 
+indicate the standard of pr oof is much different than  Defendant opines.     
+ Section 19-1107 emphasizes that whether su fficient evidence has been presented for 
+an indictment is left to the judgment of the grand jury. The phrase “in their judgment” must 
+be given more effect than ju st dictating who makes the deci sion, which is already clear from 
+other language in the statute. See I.C. § 19-1107 (“The grand jury  ought to find an indictment 
+. . . .”); see also State v. Nordquist , 309 N.W.2d 109, 117 (N.D. 1981) (emphasizing the 
+language of a nearly identical No rth Dakota statute “reflects the Legislature’s intent to allow 
+the grand jury to determine whether or not the evidence put before it . . . could withstand the 
+test of a trial”). The practice of leaving the sufficiency of evidence question solely to the judgment of the grand jury is consistent with the historical practice of courts refusing to  
+OBJECTION TO DEFENDANT’S MOTION TO DISMISS INDICTMENT ON GROUNDS OF ERROR IN 
+GRAND JURY INST RUCTIONS  7 inquire into the sufficiency of the evidence pr esented to a grand jury absent an allegation 
+that no evidence  was presented. See, e.g. , Greenberg v. Sup. Ct. of S.F. , 121 P.2d 713, 715 
+(Cal. 1942) (discussing the “set tled” law “in most jurisdic tions” that “[i]f there is some 
+evidence  to support the indi ctment the courts will not inquire into its su fficiency, but the lack 
+of any evidence  conclusively establishes that the gr and jury has exceeded its authority in 
+returning an indictment” (emphases added)).   
+ Moreover, “[b]y including the phrase ‘war rant a conviction by a trial jury,’ the 
+Legislature did not intend to equate a grand jury proceeding with a trial.” Cummiskey v. Sup. 
+Ct., 839 P.2d 1059, 1066 (Cal. 1992). As defined at  the time the statute was adopted, the 
+word “warrant” meant “[t]o authorize; to give authority or power to do or forbear anything, 
+by which the person authorized is secured or sa ved harmless from any loss or damage by the 
+act.” Goodrich, Chauncey A., “An American Di ctionary of the English Language,” G. and 
+C. Merriam, Springfield Mass., (1862), p. 1249. It has a consistent definition today: “1. a) 
+authorization or sanction, as by a superior or the law, b) justification or reasonable grounds 
+for some act, course, statement, or belief . . . .” Webster’s New World Dictionary, 2d College 
+Ed., 1980.  These phrases, taken together, indicate that  the legislature never intended that the 
+grand jury would determine whether the susp ect is guilty of the alleged crime beyond a 
+reasonable doubt. Rather, the legislature le ft to the grand jury to determine “ in their 
+judgment ” whether reasonable grounds exist for a future  trial jury to convict the suspect. I.C. 
+§ 19-1107 (emphasis added). Consistent with the statutory language, Rule 6.5(a) directs 
+grand jurors how they should exercise their legislatively empowered judgment. The grand  
+OBJECTION TO DEFENDANT’S MOTION TO DISMISS INDICTMENT ON GROUNDS OF ERROR IN 
+GRAND JURY INST RUCTIONS  8 jury must determine whether “an offense ha s been committed” and whether “there is 
+probable cause to believe that the accused committed it.” I.C. R. 6.5(a). Because the statue 
+and the rule can be read together to set the st andard of proof for grand juries at probable 
+cause, they “must be read in that way.” Garner , 161 Idaho at 711, 390 P.3d at 437. 
+ Defendant argues the precurs or to I.C. § 19-1107 came from  a California statute and 
+must be interpreted consistent with the mean ing California’s statute had at the time, and—
+according to Defendant—the California Suprem e Court read its stat ute to impose a beyond 
+a reasonable doubt standard to grand ju ry proceedings. (Mot. at 4-7 (quoting People v. 
+Tinder , 19 Cal. 539, 542 (1862)). But that would be news to the California Supreme Court, 
+who has rejected the very interpretation of Tinder  Defendant relies on here. See Cummiskey 
+839 P.2d at 1066. As the California S upreme Court explained, “the Tinder  court’s reference 
+to probable cause was a comment on the quality of evidence  required to return an indictment, 
+not on the standard of proof for grand jury proceedings.” Id. (emphasis in original). Unlike 
+Tinder , Cummiskey  addressed the standard of proof for grand jury proceedings in California 
+and held California’s version of I.C. § 19-1107 requires a finding of probable cause. Id. 
+ Moreover, the assertion that Idaho inco rporated sub silentio a beyond a reasonable 
+doubt standard for grand juries when the Ida ho Constitution was adopted would be a surprise 
+to Idaho’s founding fathers. During the debate on Article I, Section 8, William H. Clagett, 
+the President of the Idaho Constitutional Conve ntion, advocated for keeping the grand jury 
+system and stated the standard of proof for gran d juries in Idaho is pr obable cause: “[T]hat 
+is all the grand jury is entitled to do, to say th at there is probable cause to believe the man is 
+guilty.” Proceedings and Debates of the Constitutional Convention of Idaho 1889, p.266  
+OBJECTION TO DEFENDANT’S MOTION TO DISMISS INDICTMENT ON GROUNDS OF ERROR IN 
+GRAND JURY INST RUCTIONS  9 (I.W. Hart ed. 1912). No one present at the debate offered a diffe rent opinion—a strange 
+reaction from a group allegedly in the midst of setting the standard of proof for grand juries 
+at beyond a reasonable doubt. See State v. Clarke , 165 Idaho 393, 397, 446 P.3d 451, 455 
+(2019) (explaining the “best resource” for dete rmining the intent of the framers “is the 
+compilation of the Proceedings and Debates of the Constitutional Convention of Idaho 1889” 
+and stating statutes in existence at the time  of the adoption of Idaho’s Constitution and the 
+common law need only be examined “[i]n the absen ce of the words of the framers”).         
+C. Even if Idaho Code § 19-1107 and Rule 6.5( a) conflict, the rule controls and the 
+result is the same. 
+ Even if I.C. § 19-1107 and Rule 6.5(a) confli ct, the rule controls and the standard for 
+grand juries is probable cause. The Idaho Supr eme Court “has the inherent power to make 
+rules governing the procedure in all Idaho’s courts.” Talbot v. Ames Constr. , 127 Idaho 648, 
+651, 904 P.2d 560, 563 (1995). When a rule and stat ute conflict, the question then becomes 
+whether the subject of the law is substantiv e or procedural. “Substantive law prescribes 
+norms for societal conduct and puni shments for violations thereof.  It thus creates, defines, 
+and regulates primary rights. In contrast, practice and pro cedure pertain to essentially 
+mechanical operations of the courts by which substantive law, rights, and remedies are 
+effectuated.” State v. Abdullah , 158 Idaho 386, 483, 348 P.3d 1, 98 (2015).  
+ As a general matter, “questions about st andards of proof have long been recognized 
+as procedural, not substantive, acro ss a broad range of legal fields.” United States v. 
+Montalvo , 331 F.3d 1052, 1061 (9th Cir. 2003)  (Kazinski, J., concurring); see, e.g. , Carroll 
+v. MBNA America Bank , 148 Idaho 261, 267, 220 P.3d 1 080, 1086 (2009) (explaining  
+OBJECTION TO DEFENDANT’S MOTION TO DISMISS INDICTMENT ON GROUNDS OF ERROR IN 
+GRAND JURY INST RUCTIONS  10 “procedural matters . . . include . . . suffici ency of evidence”). Specific to the criminal 
+context, a procedural rule is one that “merel y raises the possibility that someone convicted 
+with use of the invalidated procedure might have been acquitted otherwise.” Schriro v. 
+Summerlin , 542 U.S. 348, 353 (2004). A rule is substa ntive only “if it alters the range of 
+conduct or the class of pers ons that the law punishes.” Id.  The standard of proof for a grand 
+jury proceeding falls on the procedural side of  the line because it does not dictate the range 
+of conduct the law punishes but only affects the likelihood that such conduct will result in indictment.
+2 
+ Defendant suggests that I.C. § 19-1107 is  somehow insulated from the procedural 
+versus substantive test because it was in effe ct when Idaho adopted a constitution. (Mot. at 
+15.) Not so. The Idaho Supreme Court will igno re as a “nullity” a statute purporting to 
+govern procedure regardless of whether it was “codified long  before Idaho’s Constitution 
+was created” or during the most  recent legi slative session. Weigle , 165 Idaho at 486-87, 447 
+P.3d at 934-35.  
+ Thus, in the State’s view, I.C. § 19-1107 and Idaho Criminal Rule 6.5(a) can be read 
+without conflict and set probable cau se as the standard of proof for grand juries. But even if 
+a conflict exists, the rule controls and the standa rd of proof for grand ju ries in Idaho is still 
+probable cause. 
+ 
+2 Defendant’s reliance on Garrett v. Moore-McCormack Co. , 317 U.S. 239 (1942) and 
+similar cases is misplaced. (Mot. at 14-15.)  The cases Defendant cites addressed the burden  
+of proof, not the standard  of proof. Moreover, as Defendant acknowledges, the Idaho 
+Supreme Court has decide d the issue differently, see Carroll , 148 Idaho at 267, 220 P.3d at 
+1086, and the question of whether the standard of  proof for state grand juries in Idaho is 
+procedural or substantive is  a question of state law.  
+OBJECTION TO DEFENDANT’S MOTION TO DISMISS INDICTMENT ON GROUNDS OF ERROR IN 
+GRAND JURY INST RUCTIONS  11 D. Defendant asserts a theory the law does not allow and seeks a remedy this Court 
+cannot grant. 
+ Defendant’s motion should be denied as it rests entirely on an erroneous legal theory, 
+but it has other problems as well. As Defe ndant acknowledges, the st atutes governing grand 
+jury proceedings do not allow for a challenge to the instructions  given to the jury. (Mot. at 
+17.) The statute that sets out  the grounds on which a defendant  can seek to set aside an 
+indictment does not mention inst ructions to the grand jury, see I.C. § 19-1601, and the 
+inclusion of specific grounds to  challenge the indictment in  the statute “excludes the 
+consideration of any other.” State v. Arregui , 44 Idaho 43, 254 P. 788, 796 (1927). 
+ Defendant claims the Idaho Supreme Court has “adopted” th e theory that a defendant 
+can challenge the grand jury instructions (Mot. at  17), but he cites for th is rule a passage in 
+Gasper  that he previously labeled “dicta” because it did not suit his argument (Mot. at 11-
+12). It seems to the State that dicta for the goo se is dicta for the gander. But assuming the 
+Idaho Supreme Court did what Defendant claims in Gasper , the court merely allowed a 
+defendant the opportunity to make “a showing  of prejudice .” Gasper , 74 Idaho at 396, 264 
+P.2d at 683 (emphases added). This  Defendant cannot do. In fact, he  fails even to allege that 
+the grand jury would not have indicted h im on a beyond a reasonabl e doubt standard of 
+proof. Cf. Edmonson , 113 Idaho at 237, 743 P.3d at 466 (expl aining that, in the grand jury 
+context, “prejudicial effect” come s only in the “but  for” flavor). 
+ Instead, Defendant tries to short circuit his need to show pr ejudice by claiming 
+“[w]here a jury has been misled as to the standa rd to the defendant’s detriment, courts find 
+fundamental error, because the error goes to the foundation of the case and takes away an  
+OBJECTION TO DEFENDANT’S MOTION TO DISMISS INDICTMENT ON GROUNDS OF ERROR IN 
+GRAND JURY INST RUCTIONS  12 essential right.” (Mot. at 17.) Defendant fails to point out, however, that every case he cites 
+is referring to the trial jury  being improperly instructed on the beyond a r easonable doubt 
+standard of proof. See State v. Erickson , 148 Idaho 679, 685, 227 P.3d 933, 939 (Ct. App. 
+2010). And as the courts in those cases explain, improperly instruct ing the jury in that context 
+is fundamental error because “[t] he requirement that the State prove every element of a crime 
+beyond a reasonable doubt is grounded in th e constitutional guarantee of due process.” Id. 
+Not even Defendant’s unorthodox theory goes so far as to  suggest the constitutional 
+guarantee of due process compel s the use of the beyond a reason able doubt standard of proof 
+in the grand jury.3 
+ Moreover, Defendant’s suggestion that so me errors in the grand jury process 
+necessitate dismissal of the i ndictment without any inquiry in to the potential prejudicial 
+effect cannot be squared with Idaho Supreme Court pr ecedent. The high court has held that 
+any error in the grand jury proc eeding is harmless once the de fendant has been afforded a 
+fair trial. See State v. Huckabay , 168 Idaho 117, 122-23, 480 P.3d 771, 776-77 (2021) 
+(refusing even to consider defe ndant’s claim that the “prosecu tor erroneously instructed the 
+grand jury” because “[a]lleged errors in a gr and jury proceeding will not be examined on 
+appeal where the defendan t has been found guilty fo llowing a fair trial”). 
+ Finally, Defendant’s explanat ion of what would happen were  this Court to set aside 
+ 
+3 The closest Defendant comes is  to argue that the precursor  to I.C. § 19-1107 predated 
+Idaho’s Constitution and thus it “was incorporat ed into” Article I, Section 8. Unfortunately 
+for Defendant, that is not how it works. See State v. Clarke , 165 Idaho 393, 397, 446 P.3d 
+451, 455 (2019) (“[P]reexisting statutes and the common law may be used to help inform 
+our interpretation of the Idaho Constitu tion, but they are not the embodiment of, nor are they 
+incorporated within, the Constitution.” (emphasis added)).   the indictment is misleading. (Mot. 21.) He suggests this Court could simply treat the 
+Indictment as a Presentment, but he cites no authority for the proposition that this Court can 
+do so. (Mot. at 18-21.) He then suggests that if the Court decides to set aside the Indictment 
+it would "hav[e] to determine whether the matter may be resubmitted to the grand jury." 
+(Mot. at 21.) The statutes Defendant relies on do not say what Defendant claims. Those 
+statutes allow the court to "direct[] that the case be resubmitted to the same or another grand 
+jury." LC. § 19-1603; see LC. § 19-1604 ("If the court directs the case to be resubmitted 
+.... "). But neither statute even purports to empower this Court to prohibit the State from 
+presenting the case to a grand jury again. The law expressly states the opposite: "An order 
+to set aside an indictment, as provided in this chapter, is no bar to a future prosecution for 
+the same offense." LC. § 19-1605. And whether the State initiates that future prosecution via 
+a complaint or indictment is left exclusively to the prerogative of the prosecuting attorney. 
+See Edmonds, 113 Idaho at 232, 743 P.2d at 461. 
+CONCLUSION 
+This Court should deny Defendant's motion to dismiss the indictment because the 
+standard of proof that applies to grand juries in Idaho is probable cause. 
+OBJECTION TO DEFENDANT'S MOTION TO DISMISS INDICTMENT ON GROUNDS OF ERROR IN 
+GRAND JURY INSTRUCTIONS 13 O
+BJECTION  TO DEFENDANT’S MOTION TO DISMISS INDICTMENT ON GROUNDS OF ERROR IN 
+GRAND JURY INSTRUCTIONS  14 
+CERTIFICATE OF DELIVERY  
+I
+ hereby certify that true and correct copies of the OBJECTION TO DEFENDANT’S 
+MOTION TO DISMISS INDICTMENT ON GROUNDS OF ERROR IN GRAND JURY 
+INSTRUCTIONS  was served on the following in the manner indicated below: 
+Anne  Taylor  
+Attorney at Law  
+PO Box 9000  
+Coeur D Alene, ID 83816 -9000 ☐Mailed
+X E-filed & Served / E -mailed
+☐Faxed
+☐Hand Delivered
+D ated this 16th day of August, 2023. Filed:03/28/2023 14:57:44
+FirstJudicialDistrict,Kootenai County
+JenniferLocke,ClerkoftheCourt
+By:DeputyClerk-Schertz,Alyssa
+INTHEDISTRICT COURTOFTHEFIRSTJUDICIAL DISTRICT OFTHE
+STATEOFIDAHO, INANDFORTHECOUNTY OFKOOTENAI
+STATEOFIDAHO,
+Plaintiff, CASENO.CR28—22-18387
+V.
+OPINION &ORDERRE:
+WARRENCLAYWILLIAMS, MOTIONTODISMISS
+Defendant.
+MATTERBEFORETHECOURT
+Defendant WarrenWilliams movestodismiss,allegingirregularities inthe
+grandjuryproceedings inthiscase.Ahearingwasconducted onMarch21,2023,
+andthematterwastakenunderadvisement. Forthereasons statedbelow,
+defendant’s motionisdenied.
+BACKGROUND
+Atthegrandjuryproceedings inthismatter,thestateinstructed thegrand
+juryasfollows:
+Theburdenofproofisprobable cause.Probable causeexistswhen
+thegrandjuryhasbefore itsuchevidence aswould lead a
+OPINION &ORDERRE:MOTIONTODISMISS -1- EXHIBIT AOPINION & ORDER RE: MOTION TO DISMISS -2- reasonable person to  believe an offense has been committed, and 
+that the  accused party has probably committed the offense.  
+Transcr ipt at 14.  
+STANDARDS  
+State v. Marsalis , 151 Idaho 872, 264 P.3d 979 (Ct. App. 2011) sets out 
+standards applicable to motions to dismiss for irregularities in grand jury 
+proceedings as follows:  
+The decision to grant or deny a motion to dismiss an indictment based 
+on irregularities in grand jury proceedings is reviewed for an abuse of 
+discretion.  State v. Bujanda –Velazquez , 129 Idaho 726, 728, 932 P.2d 
+354, 356 (1997).  However, alleged defects i n the grand jury process 
+generally will not be reviewed on appeal at all after a defendant has been 
+convicted in a fair trial on the merits.  State v. Grazian , 144 Idaho 510, 
+517, 164 P.3d 790, 797 (2007); State v. Smith , 135 Idaho 712, 716 –17, 
+23 P.3d 786 , 790 –91 (Ct.App.2001); State v. Nelson , 131 Idaho 210, 
+215, 953 P.2d 650, 655 (Ct.App.1998); State v. Kilby , 130 Idaho 747, 
+751, 947 P.2d 420, 424 (Ct.App.1997). . . .   
+A collection of statutes and rules govern Idaho grand jury proceedings. 
+Idaho Code § 19–1107 states, “The grand jury ought to find an 
+indictment when all the evidence before them, taken together, if 
+unexplained or uncontradicted, would, in their judgment, warrant a 
+conviction by a trial jury.”   Idaho Criminal Rule 6.6(a) discusses the 
+quan tum of evidence required to warrant an indictment:  
+If it appears to the grand jury after evidence has been 
+presented to it that an offense has been committed and 
+that there is probable cause  to believe that the accused 
+committed it, the jury ought to find an indictment. 
+Probable cause  exists when the grand jury has before it 
+such evidence as would lead a reasonable person to 
+believe that an offense has been committed and that the 
+accused party has probably committed the offense.  
+When conducting a review of  the propriety of the grand jury proceeding, 
+our inquiry is two -fold.  State v. Martinez , 125 Idaho 445, 448, 872 P.2d 
+708, 711 (1994).  First, we must determine whether, independent of any 
+inadmissible evidence, the grand jury received legally sufficient 
+evidence to support a finding of probable cause .  Id.; State v. Jones , 125 
+Idaho 477, 483, 873 P.2d 122, 128 (1994); State v. Edmonson , 113 OPINION & ORDER RE: MOTION TO DISMISS -3- Idaho 230, 236, 743 P.2d 459, 465 (1987).  In making this determination, 
+every legitimate inference that may be draw n from the evidence must 
+be drawn in favor of the indictment.  State v. Brandstetter , 127 Idaho 
+885, 887, 908 P.2d 578, 580 (Ct.App.1995).  Second, even if such 
+legally sufficient evidence was presented, the indictment must be 
+dismissed if prosecutorial mi sconduct in submitting illegal evidence was 
+so egregious as to be prejudicial.  Martinez , 125 Idaho at 448, 872 P.2d 
+at 711; Jones , 125 Idaho at 483, 873 P.2d at 128;  Edmonson , 113 Idaho 
+at 237, 743 P.2d at 466.  “Prejudicial effect” means “the defendant w ould 
+not have been indicted but for the misconduct.”  Martinez , 125 Idaho at 
+448, 872 P.2d at 711; Edmonson , 113 Idaho at 237, 743 P.2d at 466.  
+Absent a showing of prejudice by the defendant, we will not second 
+guess the grand jury.  Martinez , 125 Idaho at 448 –49, 872 P.2d at 711 –
+12.  To determine whether misconduct is so grievous as to be prejudicial 
+and thus to require dismissal, an appellate court must balance the 
+gravity and seriousness of the misconduct against the extent of the 
+evidence supporting the indictment.  Id. at 449, 872 P.2d at 712; 
+Edmonson , 113 Idaho at 237, 743 P.2d at 466.  The Edmonson  Court 
+further elaborated on the applicable balancing test:  
+[In the sense of a grand jury proceeding, “prejudicial 
+effect” means the defendan t would not have been 
+indicted but for the misconduct.]  To determine whether 
+misconduct gives rise to a dismissal, a reviewing court will 
+have to balance the gravity and the seriousness of this 
+misconduct with the sufficiency of the evidence 
+supporting th e probable cause  finding.  At one extreme, 
+the misconduct can be so outrageous that regardless of 
+the extent of probable cause  evidence, dismissal will be 
+required.  At the other extreme, the misconduct may be 
+so slight, that it becomes unnecessary to ques tion the 
+independent judgment of the grand jury. In the middle of 
+these extremes, the court must examine the totality of the 
+circumstances to determine whether the indictment 
+should be dismissed. . . .  [T]he burden rests with the 
+criminal defendant to mak e an initial showing that the 
+misconduct rises to the level of prejudice.  Absent the 
+showing of prejudice, a reviewing court will not second 
+guess the grand jury.  However, once the defendant does 
+affirmatively prove prejudice, the court must dismiss.   
+Edmonson , 113 Idaho at 237, 743 P.2d at 466.  Generally, prosecutorial 
+misconduct will require dismissal only if it reaches the level of a 
+constitutional due process violation.  Id. . . .   
+[W]e assess the grand jury proceedings in light of the State's burd en to 
+present evidence showing probable cause  . . . . OPINION & ORDER RE: MOTION TO DISMISS -4- Id. 151 Idaho at 875 –77, 264 P.3d at 982 –84 (emphasis added) (footnote omitted).  
+After Marsalis , former I.C.R. 6.6(a) was renumbered 6.5(a) and modified slightly 
+as follows:  
+If the grand jury finds, af ter evidence has been presented to it, that 
+an offense has been committed and that there is probable cause to 
+believe that the accused committed it, the jury ought to find an 
+indictment.  Probable cause exists when the grand jury has before it 
+evidence tha t would lead a reasonable person to believe an offense 
+has been committed and that the accused party has probably 
+committed the offense.    
+“[W]here legally sufficient evidence will sustain an indictment, improperly admitted 
+hearsay  evidence will not overturn the indictment.”  State v. Edmonson , 113 Idaho 
+230, 237, 743 P.2d 459, 466 (1987) (emphasis added) cited in Marsalis.    
+ISSUE  
+The issue presented is whether the state erred in instructing the grand jury 
+on the probable cause bur den of proof.  This Court determines that the state did 
+not err .   
+ANALYSIS  
+Defendant argues that the state erred in instructing the grand jury that the 
+applicable burden  of proof was probable cause, when the applicable standard  
+instead  was proof beyond a reasonable doubt.  Defendant has presented no 
+authority on point.  Defendant cites I.C. § 19 –1107  which states:   
+The grand jury ought to find an indictment when all the evidence 
+before them, taken together, if unexplained or uncontradicted,  would, 
+in their judgment, warrant a conviction by a trial jury.    
+Proof beyond a reasonable doubt is not mentioned in this provision.   OPINION & ORDER RE: MOTION TO DISMISS -5- The Idaho Supreme Court has  expressly rejected the argument that 
+defendant asserts here.  In State v. Edmonson , 113 Ida ho 230, 743 P.2d 459 
+(1987)  the Idaho Supreme Court stated:   
+[T]he prosecutor directed the grand jury that it should not indict 
+unless all the elements of an alleged crime are proven beyond a 
+reasonable doubt.  This is a much higher standard than is required 
+by Idaho law .   
+Id. 113 Idaho at 238, 743 P.2d at 46.   
+Similarly, i n Gasper v. Dist. Ct. of Seventh Jud. Dist., in & for Canyon Cty. , 
+74 Idaho 388, 264 P.2d 679 (1953)  the Idaho Supreme Court stated:   
+[P]laintiff urges as error the following por tion of the charge:   
+. . . . 
+It is . . . your duty to see to it that the innocent are not 
+compelled to go under public trial in open court before 
+a trial jury unless you are satisfied beyond a 
+reasonable doubt from the evidence from the 
+government presents  that the defendant is guilty. . . .   
+[W]e observe that the charge complained of, though erroneous, is 
+more favorable to one accused before a grand jury than would be a 
+charge embodying the statute.  Section 19 –1107, I.C . . . .   
+. . . . 
+The charge as given calls for a greater degree of proof to justify an 
+indictment than the statute requires.    
+Id. 74 Idaho at 395, 264 P.2d at 683.   
+The state cites State v. Brandstetter , 127 Idaho 885 , 908 P.2d 578 ( Ct. App. 
+1995) wherein the Idaho Court of Appeals essentially indicated  that the standard 
+of proof applicable to grand jury proceedings under I.C. § 19 –1107  is probable 
+cause.  The court stated:   OPINION & ORDER RE: MOTION TO DISMISS -6- In considering a motion to dismiss an indictment under I.C.R. 6.61 
+and I.C. § 19 –1107 , the district court sit s as a reviewing court, and it 
+is the grand jury that is the factfinder.  In a grand jury proceeding, the 
+district court may set aside the indictment if, given the evidence 
+before the grand jury, the court concludes that the probable cause  is 
+insufficient to lead a reasonable person to believe that the accused 
+committed the crime.   I.C.R. 6.6(a);  State v. Jones , 125 Idaho 477, 
+482–83, 873 P.2d 122, 127 –28 (1994).  
+Id. 127 Idaho at 887, 908 P.2d at 580  (emphasis added) (footnote omitted).  See 
+also Marsalis , State v. Martinez , 125 Idaho 445, 448, 872 P.2d 708, 711 (1994) 
+and State v. Jones , 125 Idaho 477, 873 P.2d 122 (1994), overruled on other 
+grounds by State v. Montgomery , 163 Idaho 40, 408 P.3d 38 (2017) .  Since the 
+applicable burden  of proof applicable to grand jury proceedings under I.C. § 19 –
+1107  is probable cause, the state did not err in instructing the grand jury on the 
+probable cause standard.   
+ Additionally, Defendant’ s argument  and briefing  by Mr. Benjamin Onosko in 
+the case at bar was recently reviewed in substantial form by District Judge Cynthia 
+Meyer of the First Judicial District, wherein Mr. Onosko proffered the same 
+argument by way of briefing in State v. Cassadie Peone CR -28-22-8343 .  This 
+court adopts and incorporates without repetition herein, the analysis authored 
+therein by Judge Meyer in her December 22, 2022 Memorandum Decision and 
+Order on Defendant’s First and Second Motion to Dismiss, pages 5 -13, specifically 
+and finds it to be persuasive authority . 
+ 
+ 
+  m
+IT IS THEREFORE ORDERED: defendant’s motion is DENIED.
+DATED this day of March, 2023.
+3/28/2023 2:35:57 PM
+BARBKRA A. DUGGgN, District Judge
+OPINION & ORDER RE: MOTION TO DISMISS -7-m
+ITISTHEREFORE ORDERED: defendant’s motionisDENIED.
+DATEDthis dayofMarch,2023.
+3/28/2023 2:35:57PM
+BARBKRA A.DUGGgN, DistrictJudge
+OPINION &ORDERRE:MOTION TODISMISS -7-m
+IT IS THEREFORE ORDERED: defendant’s motion is DENIED.
+DATED this day of March, 2023.
+3/28/2023 2:35:57 PM
+BARBKRA A. DUGGgN, District Judge
+OPINION & ORDER RE: MOTION TO DISMISS -7-CERTIFICATE
+|
+herebycertifyatrueandcorrectcopyoftheforegoing wassentthis28day
+ofMarch,2023,asfollows:
+Benjamin M.Onosko
+DeputyKootenai CountyPublicDefender
+P.O.Box9000
+Coeurd’AIene,ID83816
+E-mailaddress: pdfax@kcgov.us
+Via:
+MollyR.Nivison
+DeputyKootenai CountyProsecuting Attorney
+451N.Government Way
+P.O.Box9000
+Coeurd'Alene,ID83816
+E-mailaddress: KCPAICOURTS@kcgov.us
+Via:
+JENNIFER LOCKE,ClerkofCourt
+3/28/2023 02:57PM
+By:
+%é%KWDeputyClr.
+OPINION &ORDERRE:MOTION TODISMISS -8-STATE0FIDAHOheCOUNTYOFKOOTENAI
+HLED: away
+AT00%“ CLERK,
+INTHEDISTRICT COURTOFTHEFIRSTJUDICIAL DISTRICT OFTHE
+STATEOFIDAHO,INANDFORTHECOUNTY OFKOOTENAI
+Defendant’s FirstandSecondMotiontoDismissIndictment cameonforhearingbefore
+theHonorable CynthiaK.C.MeyeronNovember 22,2022.Benjamin Onosko, DeputyPublic
+Defender, represented theDefendant. AdamJohnson, DeputyProsecuting Attorney. represented
+theState.Forthereasonsstatedwithinthismemorandum decision,(1)Defendant’s FirstMotion
+toDismiss Indictment isdenjﬂ,and(2)Defendant’s SecondMotiontoDismiss Indictment is
+I.FACTUAL ANDPROCEDURAL BACKGROUND
+Thefollowing factsareundisputed. OnAugust31,2022,theStateconvened aGrandJury
+toconsider athree-count Indictment againsttheDefendant, Cassadie Peone.Defendant was
+accusedofCOUNT I,POSSESSION OFACONTROLLED SUBSTANCE, inviolationofI.C§
+MEMORANDUM DECISION ANDORDERDENYING DEFENDANT’S MOTIONTODlSMlSS1STATEOFIDAHO,
+Plaintiﬁ
+v.
+CASSADIE MODESTA PEONE,
+Defendant.CASENO.CR28-22-0008343
+MEMORANDUM DECISION
+ANDORDER0N
+DEFENDANT’S FIRSTAND
+SECONDMOTION TO
+DISMISSINDICTMENT
+EXHIBIT B37-2732(c)(1); countII,OPERATING VEHICLE WITHOUT OWNER’S CONSENT, in
+violation ofI.C§49-227,andCOUNTIII,POSSESSION OFASTOLENVEHICLE, inviolation
+ofI.C.§49-228.Beforeandafterevidence waspresented, theStateinstructed thegrandjuryasto
+theapplicable probable causestandard anddeﬁnedthattermpursuant toIdahoCriminal Rule
+6.5(a).
+Atthestartofthehearing, thepresiding GrandJuroraskedtheprosecutor aquestion
+regarding thedistinction between stealingacar,andpossessing astolenvehicle,andtheprosecutor
+answered thatquestion. TheStatethencalledMr.McGlone asawitness.Mr.McGlone testiﬁed
+byZoom.
+Mr.McGlone testiﬁedconcerning thetheftofhistruck.Healsotestiﬁedaboutgoingto
+thePostFallsWalmartandseeinghistruck.Hewasthenaskedwhetherhedrovehisvehiclehome
+thateveningornot,andhetestiﬁedhedidnot.TheStatethenaskedhim"why,"andMr.McGlone
+testiﬁed"therewasFentanyl foundinsidethevehicle,andmyselfandthepoliceofﬁcersdidnot
+recommend, uh,megettinginsideofthevehiclebecause ofpossibleexposure." TheStatethen
+askedMr.McGlone ifhewasstillabletodrivehisvehicle.Mr.McGlone testiﬁedhewasnot,and
+whentheStateaskedwhyheresponded, "sotheinsurance considered thevehicleatotalloss,uh,
+becauseofthe,um,riskinvolvedwithreleasing thatvehiclebackoutinthemarketoncetherehad
+beenFentanyl reported insideofthevehicle,sothey,uh,hadtototalthevehicle."
+TheStatenextcalledOfﬁcerPierson.OfﬁcerPiersonisaK-9handler, although noK-9
+wasusedinthiscase.TheStateaskedtheofﬁcerifshehadanyFentanyl asa"drugaid"tousein
+trainingherdog.Theofﬁcertestiﬁedthatshedoesnot,andwhenaskedwhy,sheresponded,
+"Fentanyl is...veryeasytobeexposed[to]anditbeverylife-threatening."OfﬁcerPierson
+thentestiﬁedthatshereviewed securityfootagefromWalmart, andonthatfootageshesawMs.
+MEMORANDUM DECISION ANDORDERDENYING DEFENDANT’S MOTION TODISMISS 2PeoneexitingMr.McGlone's truckonthedateinquestion. OfﬁcerPiersonalsotestiﬁedtomeeting
+Mr.McGlone intheparkinglotthatday,andtalkingwithhimabouthisvehicle.TheStatethen
+askedOfﬁcerPiersonwhatheroutofcourtstatements toMr.McGlone were.OfﬁcerPierson
+testiﬁedthatshetoldMr.McGlone "Iwouldprobably throwthatcarseatawayoranything that
+wasinthevehicle,andthenIalsoencouraged himtonotdrivethetruckandtowitinsteadof
+drivingituntilitcouldbeprofessionally detailedorcleanedordecontaminated."
+OfﬁcerPiersonalsotestiﬁedaboutitemsfoundinsidethevehicle.Theofﬁcertestiﬁedthat
+shefoundapieceoftinfoilwithpillsonit"sittingonthedriver'sseat."Theofﬁcertestiﬁedthat
+whensheaskedMs.Peoneaboutthepillsfoundinthevehicle,Ms.Peonetoldher"theywere
+FentanylMexipills.”
+AfterOfﬁcerPiersontestiﬁed, theprosecutor thankedherforhertime,butthegrandjury
+didnotexcuseher.ThenextwitnesscalledbytheStatewasMs.Martin.AfterMs.Martinﬁnished
+testifying, ajuroraskedtheprosecutor "howhardwoulditbetoget,um,OfﬁcerPiersonback?"
+Theprosecutor toldthejurorit'spossible, butheisguessing shewentbacktowork,butsaidhe
+couldgiveheracall.Theprosecutor thentookabreaksothejurorscoulddiscusshavingOfficer
+Piersonreturntoanswerfurtherquestions fromthegrandjury.However, aﬁerthebreak,thematter
+wasneverbroughtupagain.
+Attheendofthehearing,theprosecutor gavethegrandjurycertainjuryinstructions.
+Notablyabsentwasanyinstruction tellingthegrandjurywhatthelegaldeﬁnition of"steal"or
+"stolenproperty" was.
+OnNovember 20,2022,Defendant submitted herFirstandSecondMotiontoDismiss
+Indictment inthiscriminalaction.Defendant asserts(1)thattheStateincorrectly instructed the
+grandjurythattheapplicable evidentiary standard toreturnanindictment is“probable cause”
+MEMORANDUM DECISION ANDORDERDENYING DEFENDANT’S MOTION TODISMISS 3insteadof“proofbeyondareasonable doubt”,(2)thattheIndictment isdefective, asitrelatesto
+CountII,becauseitlacksspeciﬁcity astohowthedefendant causeddamagetoavehicleexceeding
+$1,000,(3)thattheProsecuting Attorney failedtoproperly instructthegrandjuryastoCountIII,
+Possession ofaStolenVehicle,and(4)thatCountsIIandIIIwerenotsupported bysufﬁcient
+probable causebecauseawitnesstestiﬁedvialivevideoratherthaninperson.
+Thejurytrialiscurrently scheduled forJanuary2023.
+II.STANDARD OFREVIEW
+Duetothevarietyoflegalissuesraised,thecourtwilladdresstheapplicable standards of
+reviewundertherelevantsubsections withinthismemorandum decision.
+III.DISCUSSION
+A.TheStateproperly instructed thegrandjuryontheapplicable standard of
+evidence toreturnanindictment.
+InDefendant’s SecondMotiontoDismissIndictment (“Second Motion”), Defendant
+contends thattheStateerredbyinstructing thegrandjurythattheapplicable evidentiary standard
+toreturnanindictment is“probable cause”insteadof“proofbeyondareasonable doubt."
+Defendant contends thattheGrandJurywasnotinstructed toﬁnd,andtherefore couldnothave
+found,atrueindictment asthattermisdeﬁnedbystatute.Rather,theGrandJurywasinstructed
+onthestatutory standard fortheﬁndingofapresentment:
+Pertinent toMs.Peone'scaseandthisMotionisthedifference
+between thetwostandards required toﬁndeitheranindictment or
+presentment. Therequirement forﬁndingapresentment is
+"reasonable groun"tobelievethedefendant committed thecrime.
+I.C.§19-1102. Whilethetermusedisnot"probable cause,"it
+appearsthetwostandards areoneinthesame.Idaho'spriorstatute
+governing theissuance ofanarrestwarrant alsousedtheterm
+"reasonable ground" inplaceofthecurrentstandard of"probable
+cause." Compare Revised Statutes, §7518(1887)("thereis
+reasonable groundtobelievethatthedefendant hascommitted it,he
+mustissueawarrant ofarrest")with,I.C19—506 (2022)("A
+MEMORANDUM DECISION ANDORDERDENYING DEFENDANT’S MOTION TODlSMlSS 4magistrate mayissueawarrantforthearrestofthedefendant only
+aftermakingadetermination thatthereisprobable cause...")
+(emphasis added).Giventhatprobable causehasalwaysbeenthe
+standard required forissuance ofawarrant, and,thatthe1887
+legislature usedtheword"reasonable groun"asthebasisupon
+whichtoissueawarrant; Defendant assertsthestandard fora
+presentment isaﬁndingofprobable causebythegrandjury
+Incontrasttotheprobable causerequirement forapresentment, in
+ordertoﬁndanindictment agrandjurymustﬁndtheevidence
+beforeit"would,intheirjudgment, warrantaconviction byatrial
+jury."Thestandard thatwould"warrant aconviction byatrialjury"
+isnotsetoutinourConstitution, butwasestablished longagoby
+thelegislature. Thatstandard isofcourseproofbeyond "a
+reasonable doubt."I.C.§19-2104(2022);RevisedStatutes, §7858
+(1887).
+SecondMotionat5-6.
+Anappellate courtreviewsquestions oflawdenovo.Statev.Lankford, 162Idaho
+477,492,399P.3d804,819(2017).“When[anappellate court]addresses issuesofstatutory
+interpretation, itexercises freereviewbecauseitisaquestion oflaw.”Statev.Casper,169Idaho
+793,503P.3d1009(2022).
+ThecourtrejectsDefendant’s contention regarding thestandard forreturning anindictment
+because: (1)theIdahoSupreme Courthasrepeatedly statedthatthatthestandard islessthan
+“beyond areasonable doubt,”(2)IdahoCode§19-1107 andRule6.5(a)canbereasonably
+interpreted sothatthereisnoconﬂictbetween them,and(3)evenifaconﬂictdidexistbetween
+IdahoCode§19-1107andRule6.5(a),theCriminal Rulewouldcontroltotheexclusion of§19-
+1107.
+1.Idahocaselawexplicitly statesthatthestandard ofevidence forreturning an
+indictment islessthan“beyondareasonable doubt.”
+“Ourstatutory provisions relativetoindictments andinformations werecopiedin1864by
+theIdahoterritorial legislature, fromthelawsofCalifornia whichwereenactedinthatStatein
+MEMORANDUM DECISION ANDORDERDENYING DEFENDANT’S MOTION TODISMISS 51851."Statev.McMahan, 57Idaho240,242,65P.2d156,158(1937).“Provisions oftheIdaho
+Constitution mustbeconstrued inlightofthelawpriortotheiradoption," andthus"theIdaho
+Constitution incorporated theprinciples ...intheIdahostatutory andcommon lawin1890when
+theconstitution wasadopted." Statev.Green,158Idaho884,887-888, 354P.3d446,449-450.
+Thestatuteinquestion here,IdahoCode§19-1107, readsinfullasfollows:
+Thegrandjuryoughttoﬁndanindictment whenalltheevidence
+beforethem,takentogether, ifunexplained oruncontradicted,
+would,intheirjudgment, warrantaconviction byatrialjury.
+(emphasis added).PriortoIdaho'sadoption ofthisstatute,theSupreme CourtofCalifomia
+addressed theevidentiary standard toﬁndanindictment underanearlyidentical statuteinPeople
+v.Tinder&Smith,l9Cal.539(1862).ThestatuteatissuewasCalifornia CriminalPractice§212,
+whichstatedthatthegrandjury"oughttoﬁndanindictment whenalltheevidence beforethem,
+takentogether, issuchasintheirjudgment would,ifunexplained oruncontradicted, warranta
+conviction bythetrialjury."Id.Whenaddressing theevidentiary standard underthisstatute.the
+Supreme CourtofCalifornia stated:
+Theindictment isthensomething morethanamereaccusation based
+uponprobable cause;itisanaccusation baseduponlegaltestimony,
+ofadirectandpositivecharacter, andistheconcurring judgment of
+atleasttwelveofthegrandjurors,selectedtoinquireintoallpublic
+offenses committed ortriablewithintheircounty,thatuponthe
+evidence presented tothemthedefendant isguilty.
+Id.(emphasis added).However, overthelast160yearssincetheSupreme CourtofCalifornia
+issuedtheirdecision Tinder&Smith,Idahocaselawhasrepeatedly rejectedapplying theproof
+beyondareasonable doubtstandard tograndjuryindictments.
+TheStatepointsoutthefollowing:
+Theprobable causestandard isalsoendorsed bydecadesofSupreme
+Courtprecedent. See,e.g.,Statev.Edmonson, 113Idaho230,236—
+37,743P.2d459,465—66 (1987)(“Thepurpose ofagrandjury
+MEMORANDUM DECISION ANDORDERDENYING DEFENDANT’S MOTION TODISMISS 6proceeding istodetermine whethersufﬁcient probable causeexists
+tobindthedefendant overfortrial.”);Statev.Martinez, 125Idaho
+445,448,872P.2d708,711(1994)(applying theprobable cause
+standard andholdingthatoneoftherolesofacourtreviewing a
+grandjuryproceeding isto“determine whether ...thegrandjury
+receivedlegallysufﬁcient evidence tosupportaﬁndingofprobable
+cause”);Statev.Jones,125Idaho477,483,873P.2d122,128
+(1994),overruled onseparate groundsbyStatev.Montgomery, 163
+Idaho40,408P.3d38(2017)(same);Statev.Juhasz,124Idaho851,
+853,865P.2d178,180(Ct.App.1993)(“Anindictment willbe
+sustained aslongasthegrandjuryhasreceived legallysufﬁcient
+evidence whichinandofitselfsupports aﬁndingofprobable
+cause”);Statev.Martinez, 128Idaho104,110,910P.2d776,782
+(Ct.App.1995)(“Thepurposeofbothagrandjuryproceeding and
+apreliminary hearingistodetermine probable cause”);Statev.
+Brandstetter, 127Idaho885,887,908P.2d578,580(Ct.App.1995)
+(applying theprobable causestandard); Statev.Marsalis, 151Idaho
+872,876,264P.3d979,983(Ct.App.2011)(same).
+State’sBriefinOpposition toDefendant’s SecondMotiontoDismissat4-5.
+TheﬁrstIdahocasetomention thedistinction between thestandard forﬁndinga
+presentment underI.C.§19-1102andthestandard forﬁndinganindictment under§19-1107was
+Gasperv.DistrictCourt,74Idaho388,264P.2d679(1953).InGasper,theCourtreviewed
+variousmotionstosetasideanindictment. Relevant tothiscase,theCourtreviewed agrandjury
+instructions givenbythejudge,including aninstruction thatthegrandjuryshouldnotﬁndan
+indictment unless"youaresatisﬁed beyondareasonable doubtfromtheevidence [that]the
+government presents thatthedefendant isguilty."Id.74Idahoat395,264P.2dat683.TheCourt
+observed “thatthisinstruction, ‘thougherroneous, ismorefavorable tooneaccusedbeforeagrand
+jurythanwouldbeachargeembodying [§19-1107].’” Id.TheCourtthenquoted§19-1107, and
+againstated,"[t]hechargeasgivencallsforagreaterdegreeofprooftojustifyanindictment than
+thestatuterequires." Id.However, theCourtdidnotprovidefurtheranalysis“astowhythetwo
+standards wouldbedifferent; nordoestheCourtevenattempttoidentifywhattheproperstandard
+wouldbe.”SecondMotionat8.
+MEMORANDUM DECISION ANDORDERDENYING DEFENDANT’S MOTION TODlSMlSS 7LikewiseinEdmonson, 113Idaho230,743P.2d459(1987),theCourtstated:
+[W]enotethattheprosecutor directedthegrandjurythatitshould
+notindictunlessalltheelements ofanallegedcrimeareproven
+beyondareasonable doubt.Thisisamuchhigherstandard thanis
+required byIdaholaw.
+Id.,at268,743P.2d,at467.However, theCourtagaindidnotstatetheapplicable standard of
+evidence necessary toreturnanindictment, nordiditcitetoRule6.5,whichwasadoptedatthe
+timeofthisdecision.
+Ourstaredecisisruleisclear:“[w]henthereiscontrolling precedent onquestions ofIdaho
+law‘theruleofstaredecisisdictatesthatwefollowit,unlessitismanifestly wrong,unlessithas
+provenovertimetobeunjustorunwise,orunlessoverruling itisnecessary tovindicate plain,
+obviousprinciples oflawandremedycontinued injustice.’” PlannedParenthood GreatNw.v.
+State,No.49615,2022WL3335696, at*5(IdahoAug.l2,2022)(quotingHoughland Farms,
+Inc.v.Johnson, 119Idaho72,77,803P.2d978,983(1990)).Noneofthejustiﬁcations tobreak
+staredecisisapplyhere.Inshort,staredecisis“provides thattoday's[c]ourtshouldstandby
+yesterday's decisions.” Kimblev.MarvelEnt.,LLC,576U.S.446,135S.Ct.2401,192L.Ed.2d
+463(2015).TheSupreme Courthasmadeclearthatthestandard forreturning andindictment is
+muchlessthanproofbeyondareasonable doubt.
+2.I.C.§19-1107andRule6.5(a)canbereasonably interpreted sothatthereisno
+conﬂictbetween them.
+Wheninterpreting astatute,theCourtbeginswithanexamination
+oftheliteralwordsofthestatute.Thelanguage ofthestatuteisto
+begivenitsplain,obvious andrational meaning. Wherethe
+language ofastatuteisplainandunambiguous, thisCourtmustgive
+effecttothestatuteaswritten, without engaging instatutory
+construction. Whenastatuteandarulecanbereasonably
+interpreted sothatthereisnoconﬂictbetween them,theyshouldbe
+sointerpreted ratherthaninterpreted inawaythatresultsinconﬂict.
+MEMORANDUM DECISION ANDORDERDENYING DEFENDANT’S MOTION TODlSMlSS 8Statev.Garner,161Idaho708,710—11, 390P.3d434,436—37 (2017)(internal citations and
+quotations omitted). Atissueiswhethertheprobable causestandard underRule6.5(a)andthe
+"wouldwarrantaconviction byatrialjury”standard under§19-1107areinconﬂict;andwhether
+Rule6.5(a)and§19-1107canbereasonably interpreted sothatthereisnoconﬂictbetween them.
+BoththeIdahoCodeandIdahoCriminal Rulesaddressthesufﬁciency ofevidence to
+warrantanindictment. Thestatuteinquestion here,IdahoCode§19-1107, states:
+Thegrandjuryoughttoﬁndanindictment whenalltheevidence
+beforethem,takentogether, ifunexplained oruncontradicted,
+would,intheirjudgment, warrantaconviction byatrialjury.
+(emphasis added).IdahoCriminalRule6.5(a)states:
+Ifthegrandjuryﬁnds,afterevidence hasbeenpresented toit,that
+anoffensehasbeencommitted andthatthereisprobable causeto
+believethattheaccusedcommitted it,thejuryoughttofindan
+indictment. Probable causeexistswhenthegrandjuryhasbeforeit
+evidence thatwouldleadareasonable persontobelieveanoffense
+hasbeencommitted andthattheaccused partyhasprobably
+committed theoffense.
+(emphasis added).Probable cause“isthepossession ofinformation thatwouldleadapersonof
+ordinary careandprudence tobelieveorentertain anhonestandstrongpresumption thataperson
+theyhaveplacedunderarrestisguiltyofacrime.”Statev.Williams, 162Idaho56,66,394P.3d
+99,109(Ct.App.2016)(citingStatev.Julian,129Idaho133,136,922P.2d1059,1062(1996)).
+“Theprobable-cause standard isincapable ofprecisedeﬁnition orquantiﬁcation intopercentages
+because itdealswithprobabilities anddepends onthetotalityofthecircumstances.” Statev.
+Hunter,156Idaho568,571,328P.3d548,551(Ct.App.2014).Probable causeisnotmeasured
+bythesamelevelofproofrequired forconviction. Id.
+Thecourtdetermines thatreasonable mindsmaydifferonhowtointerpret §19-1107.The
+courtfurtherdetermines thatRule6.5(a)and§19-1107canbereasonably interpreted together
+MEMORANDUM DECISION ANDORDERDENYING DEFENDANT’S MOTION TODlSMlSS 9withoutconﬂict.UnlikeRule6.5(a),thelanguage of§19-1107 doesnotspecifytheprecise
+quantum ofevidence necessary foragrandjurortodetermine thattheevidence presented tothem
+warrants aconviction byatrialjury,“intheirjudgment.”
+“Warrant” means“[t]oauthorize; togiveauthority orpowertodoorforbearanything,
+bywhichthepersonauthorized issecured orsavedharmless fromanylossordamageby
+theact.”Goodrich, Chauncey A.,“AnAmerican Dictionary oftheEnglishLanguage", G.andC.
+Merriam, Springﬁeld Mass.,(1862),p.1249.Thisdeﬁnition from1862remainslargelyunchanged
+throughout thedecades. Webster’s NewWorldDictionary, 2dCollegeEd.,1980,deﬁnes
+“warrant” as:“l.a)authorization orsanction, asbyasuperior orthelaw,b)justiﬁcation or
+reasonable groundsforsomeact,course,statement, orbelief...”(emphasis added).
+AstheStatecontends:
+Takentogether thislanguage reﬂectstheLegislature’s intentto
+allowthegrandjurytodetermine whetherornottheevidence put
+beforeitissatisfactory forthepurposeofdirecting, ingoodfaith,an
+accusation towardthepersonwhoisthesubjectoftheindictment
+andwhich,inthejurors’minds,couldwithstand thetestofatrial.
+Accordingly, thestatuteoperates alongside therule.Consistent with
+thegrandjury’sdualroleoffactﬁnder andaccusatory body,therule
+provides thequantum ofevidence thatthegrandjurymustﬁnd
+beforeindicting (probable cause),andthestatuteestablishes the
+ultimatepurposeofindictment —conviction byatrialjury.
+State’sBriefinOpposition toDefendant’s SecondMotiontoDismissat3-4.
+Because Rule6.5(a)and§19-1107 canbereasonably interpreted sothatthereis
+noconﬂictbetween them,thecourtadoptsthisinterpretation ratherthaninterpreting inawaythat
+resultsinconﬂict.
+3.Evenifaconﬂictdidexistbetween I.C.§19-1107andRule6.5(a),theCriminal
+Rulewouldcontroltotheexclusion of§19-1107.
+MEMORANDUM DECISION ANDORDERDENYING DEFENDANT’S MOTION TODISMISS 10Whilethecourthasconcluded thattheI.C.§19-1107andRule6.5(a)donotconﬂict,the
+courtconcludes that,evenifaconﬂictdidexist,therulegovens.Defendant contends thatI.C.§
+19-1107andRule6.5(a)areinconﬂictandthattherulemustyieldtothestatue.Defendant argues
+that,because statutesremaininforceuntilrepealed, and,because “therighttoagrandjury
+presentment orindictment ismostcertainly aconstitutional right,”theIdahoStateConstitution
+leavesittothelegislature topasslawsdeﬁningwhatismeantbythisconstitutional righttothe
+exclusion ofthejudicialbranch.Defendant argues:
+Because agrandjury,beingseparate andapartfromthejudiciary,
+doesnotevenfallwithinthecontemplated authority ofArt.V,§2
+orI.C.§§1-212,213,ourSupreme Courthasnoauthority tocreate
+procedural rulesforgrandjuries,muchlessrulesgoverning
+substantive matterssuchastheburdenofproofagrandjuryis
+required toﬁnd.
+SecondMotionat15.Thecourtdisagrees.
+“Whenthereisaconﬂictbetween astatuteandacriminalrule,thisCourtmustdetermine
+whether theconﬂictisoneofprocedure oroneofsubstance; iftheconﬂictisprocedural,
+thecriminalrulewillprevail.Ontheotherhand,whentheconﬂictissubstantive, thestatutewill
+prevail.”Garner,161Idahoat710—11,390P.3dat436—37. Theissuebeforethiscourtiswhether
+thestandard ofevidence necessary toﬁndanindictment issubstantive orprocedural. “Inmaking
+suchadetermination, theIdahoSupreme Courthasreliedinpartuponastandard adoptedbythe
+Washington StateSupreme CourtinStatev.Smith.”Statev.TwoJinn,Inc.,148Idaho706.710.
+228P.3d387,391(Ct.App.2010).
+Although aclearlineofdemarcation cannotalwaysbedelineated
+between whatissubstantive andwhatisprocedural, thefollowing
+general guidelines provide ausefulframework foranalysis.
+Substantive lawprescribes normsforsocietal conduct and
+punishments forviolations thereof. Itthuscreates, deﬁnes, and
+regulates primaryrights.Incontrast, practiceandprocedure pertain
+totheessentially mechanical operations ofthecourtsbywhich
+MEMORANDUM DECISION ANDORDERDENYING DEFENDANT’S MOTION TODISMISS 11substantive law,rights, andremedies areeffectuated.
+Id.Here,thestandard ofevidence necessary toﬁndanindictment doesnotprescribe normsfor
+societalconduct andpunishments forviolations thereof. Instead, thisstandard pertains to
+theessentially mechanical operations ofthecourtsbywhichsubstantive law,rights,andremedies
+areeffectuated.”
+Next,thecourthastheauthority topromulgate rulesregarding theprocedural requirements
+relatingtograndjuries.Ourconstitution provides:
+Thejudicialpowerofthestateshallbevestedinacourtforthetrial
+ofimpeachments, aSupreme Court,districtcourts,andsuchother
+courtsinferiortotheSupreme Court...Thecourtsshallconstitute a
+uniﬁedandintegrated judicialsystemforadministration and
+supervision bytheSupreme Court.
+IdahoConst.,Art.V,§2.IdahoCode§1-213provides thattheCourtshallhavetheauthority to
+createrulesfor"theformsofprocess,writs,pleadings andmotions, themannerofservice,time
+forappearance, andthepracticeandprocedure inallactionsandproceedings." Therulescreated
+bytheCourt"shallneitherabridge,enlargenormodifythesubstantive rightsofanylitigant."Idaho
+Code§1-213.AstheCourtstated:
+Itiswellestablished thattheIdahoSupreme Courtisuniquely
+empowered withcertaininherentpowers.TheCourthastheinherent
+powertomakerulesgoverning theprocedure inallofIdaho's
+courts.”Talbotv.AmesConstr.,127Idaho648,651,904P.2d560,
+563(1995)(citingInreSRBACaseNo.39576,128Idaho246,255,
+912P.2d614,623(1995);Statev.Beam,121Idaho862,863,828
+P.2d891,892(1992)).“Theinherent poweroftheSupreme Court
+tomakerulesgoverning procedure inallthecourtsofIdahois
+herebyrecognized andconﬁrmed.” I.C.§1-212.Accordingly, this
+Courthasnotedthatifastatutory provision thatisprocedural in
+natureisinconﬂictwiththeIdahoCriminalRules,therulesgovern.
+Statev.Weigle,165Idaho482,486,447P.3d930,934(2019).Asdiscussed before,criminalrules
+concerning procedure governtotheexclusion ofstatute.Becausetheevidentiary standard required
+MEMORANDUM DECISION ANDORDERDENYING DEFENDANT’S MOTION TODISMISS 12toreturnanindictment pertainstotheessentially mechanical operations ofthecourts,thecriminal
+rulewouldcontroltotheexclusion ofthestatute.
+Rule6.5(a)oftheIdahoCriminal Rulesprovides inpertinent partthat“[ii]thegrandjury
+ﬁnds,afterevidence hasbeenpresented toit,thatanoffensehasbeencommitted andthatthereis
+probable causetobelievethattheaccusedcommitted it,thejuryoughttoﬁndanindictment.”
+While§19-1107issubjecttointerpretation astothestandard ofproofnecessary toreturnan
+indictment, Rule6.5(a)isnot.Thestandard isprobable cause
+B.TheGrandJuryProceedings
+Whenconducting areviewofthepropriety ofthegrandjuryproceeding, theCourtof
+Appeals’ inquiryistwo-fold: (1)theCourtmustdetermine whether, independent ofany
+inadmissible evidence, thegrandjuryreceived legallysufﬁcient evidence tosupportaﬁndingof
+probable cause,andindoingso,everylegitimate inference thatmaybedrawnfromtheevidence
+mustbedrawninfavoroftheindictment, and(2)evenifsuchlegallysufﬁcient evidence was
+presented, theindictment mustbedismissed ifprosecutorial misconduct insubmitting illegal
+evidence wassoegregious astobeprejudicial. Statev.Marsalis, 151Idaho872,264P.3d979(Ct.
+App.2011).
+“Prejudicial effect”means“thedefendant wouldnothavebeenindicted butforthe
+misconduct.” Id.Todetermine whethermisconduct issoegregious astobeprejudicial andthusto
+requiredismissal, anappellate courtmustbalancethegravityandseriousness ofthemisconduct
+againsttheextentoftheevidence supporting theindictment. Id.,151Idahoat876,264P.3dat
+983.
+Todetermine whether misconduct givesrisetoadismissal, a
+reviewing courtwillhavetobalancethegravityandtheseriousness
+ofthismisconduct withthesufﬁciency oftheevidence supporting
+theprobable causeﬁnding.Atoneextreme, themisconduct canbe
+MEMORANDUM DECISION ANDORDERDENYING DEFENDANT’S MOTION TODISMISS 13sooutrageous thatregardless oftheextentofprobable cause
+evidence, dismissal willberequired. Attheotherextreme, the
+misconduct maybesoslight,thatitbecomes unnecessary to
+question theindependent judgment ofthegrandjury.Inthemiddle
+oftheseextremes, thecourtmustexamine thetotalityofthe
+circumstances todetermine whether theindictment shouldbe
+dismissed. Asstatedabove,theburdenrestswiththecriminal
+defendant tomakeaninitialshowingthatthemisconduct risestothe
+levelofprejudice. Absenttheshowingofprejudice, areviewing
+courtwillnotsecondguessthegrandjury.However, oncethe
+defendant doesafﬁrmatively proveprejudice, thecourtmust
+dismiss.
+Id.151Idahoat876—77, 264P.3dat983—84. Generally, prosecutorial misconduct willrequire
+dismissal onlyifitreachesthelevelofaconstitutional dueprocessviolation. Id.
+1.Prosecutorial ErrorsintheGrandJuryProceedings donotwarrantdismissal ofCount
+IIandIII.
+Defendant contends thatCountIIandIIIshouldbedismissed forthesolereasonthatawitness
+testiﬁedoverzoomasopposed totestifying inperson.Defendant states:
+Inthiscase,theStatedidnotbringMr.McGlone intocourttobe
+"physically presentbeforethegrandjury"asrequired bytherules.
+Instead,andforreasonsunknown, itappearstheState,onitsown
+volition,determined tohaveMr.McGlone testifyviaZoom.Aside
+fromviolating therequirement thatapersonappearinpersonto
+testifybeforethegrandjury,thisconductalsoviolatesRule6(d)
+whichplacesthepoweranddutyofdetermining thesequence of
+witnesses withthepresiding grandjuror,nottheprosecutor. Asan
+aside,defendant wouldpointoutthattheprosecutor onceagain
+overstepped hisrolewhenheexcusedOfﬁcerPiersononcehewas
+donequestioning her,but,beforethepresiding grandjuroractually
+excusedher.Becauseofthisimproper conduct, thetestimony ofMr.
+McGlone wasimproperly admitted, andshouldnotbeconsidered
+whenmaking aprobable causedetermination. Without this
+testimony, therewasnotprobable causetoﬁndatruebillonCounts
+IIorIII.
+BriefinSupportofMotiontoDismissIndictment at10.
+Thisargument isdisingenuous. First,theIdahoSupreme Court’semergency orderin
+response totheCOVID-l9pandemic remainsineffect,whichstatesinrelevantpart:“[o]therthan
+MEMORANDUM DECISION ANDORDERDENYING DEFENDANT’S MOTION TODISMISS 14jurytrials,courtruleswhichprohibithearinganycaseorpartthereofremotely remainsuspended
+duringtheeffective termofthisorder.”Re:Emergency OrderRegarding CourtServicesdated
+February 17,2022.Defendant failstoidentifylegalauthority fortheproposition thatawitness
+mustbeinthepresence ofthegrandjuryfortestimony. Next,thisisnotaconfrontation issue.The
+witnesswaspresentbyZoomandpresumably thejurycouldhearandseethewitnesswhocould
+hearandseetheprosecutor andthejury.Finally,Defendant didnotdemonstrate prejudice.
+Defendant furthercontends that“CountIIIoftheIndictment shouldbedismissed because
+theprosecutor failedtoinstructtheGrandJuryastothelawregarding thisCount,andassuch,the
+GrandJurywasnevertoldwhatitwaslegallyrequired toﬁndinordertoﬁndatruebillastothis
+count.”FirstMotionat7.
+InCountIII,Ms.Peonewaschargedwithpossessing avehiclethat
+"shekneworhadreasontobelievehadbeenstolen."TheGrandJury
+wasinstructed thatthiswasoneoftheelements ofthecrime.
+However, theprosecutor failedtoinstructtheGrandJuryastowhat
+itwasrequired toﬁndinordertoﬁndthatthisvehiclewas"stolen.
+FirstMotionat8.
+IdahoCriminal Rule6.1(b)setsoutthepowersanddutiesoftheProsecuting Attorney.
+Thesedutiesincludeto“listtheelements ofanoffensebeinginvestigated bythegrandjury,before,
+duringorafterthetestimony ofwitnesses” andto“presentopeningstatements and/orinstructthe
+grandjuryonapplicable law.”I.C.R.6.1(b).“Theprosecutor isexpected toactasthegrandjury’s
+legaladvisor,andassuch,mayappropriately explainthelawandexpressanopiniononthelegal
+signiﬁcance oftheevidence butshouldgiveduedeference tothegrandjury’sstatusasan
+independent legalbody.”Statev.Edmonson, 113Idaho230,238,743P.2d459,467(1987).
+Considering thetotalityofthecircumstances, andbearinginmindthat“dismissal isa
+drasticremedyandshouldbeexercised onlyinextreme andoutrageous situations,” Statev.
+MEMORANDUM DECISION ANDORDERDENYING DEFENDANT’S MOTION TODISMISS 15Edmonson, 113Idaho230,237(Idaho1987),thecourtdetermines thatDefendant hasnotmetits
+burdentodemonstrate thattheState’somission ininstructing theGrandJuryonthedeﬁnition of
+“stolen”risestothelevelofprejudice. Speciﬁcally, Defendant hasnotshownthat,butforthis
+omission, thedefendant wouldnothavebeenindicted.
+2.TheGrandJuryreceived legallysufﬁcient evidence tosupportaﬁndingofprobable
+causeastoCountII.
+Defendant contends thatCountIIoftheIndictment, charging Ms.PeonewithFelony
+Operating aVehiclewithouttheOwner'sconsent, islegallydeﬁcient “because itfailstostateany
+factsormakeanyclaimsastohowMs.Peonecausedanydamageatalltothisvehicle.”BriefIn
+SupportofMotiont0DismissIndictment (“FirstMotion”) at4.Defendant furthercontends that
+CountIIshouldbedismissed becauseofthe“largeamountoftestimony thatconstituted hearsay,
+lackedfoundation, andwasexperttestimony.” FirstMotionatll.
+TheStateconcedes thatCountIIisdefective foralackspeciﬁcity astohowthedefendant
+causeddamagetoavehicleexceeding $1,000. State’sBriefinOpposition toDefendant’s Firsl
+MotiontoDismissat2.However, theStatecontends thattheproperremedyistoallowan
+amendment totheIndictment asopposed todismissing thecharge.
+TheIdahoRulesofEvidence applyatGrandJuryproceedings, andtheStateisprohibited
+fromintroducing inadmissible hearsay. I.C.§19—1105; I.R.E.101.IdahoCode§19—1105
+provides:
+Intheinvestigation ofachargeforthepurposeofeitherpresentment
+orindictment, thegrandjurycanreceiveanyevidence thatisgiven
+bywitnesses produced andswornbeforethemexceptashereinafter
+provided, fumished bylegaldocumentary evidence, thedeposition
+ofawitnessinthecasesprovided bythiscodeorlegallyadmissible
+hearsay.
+MEMORANDUM DECISION ANDORDERDENYING DEFENDANT’S MOTION TODISMlSS 16I.R.E.801(c)deﬁnes“hearsay” as“astatement that:(1)thedeclarant doesnotmakewhile
+testifying atthecurrenttrialorhearing;and(2)apartyoffersinevidence toprovethetruthofthe
+matterasserted inthestatement.” Hearsayisnotadmissible unlessanexception applies.I.R.E.
+802;Statev.Fox,170Idaho846,517P.3d107,126(2022).
+Here,Defendant wascharged withcountII,OPERATING VEHICLE WITHOUT
+OWNER’S CONSENT, inviolation ofI.C§49-227.CountIIoftheIndictment states:
+ThattheDefendant, CASSADIE MODESTA PEONE,onorabout
+the7thdayofJune,2022,inKootenai County,Idaho,didoperatea
+vehicle,towit:aToyotaTacoma,theproperty ofBradenMcGlone,
+withouttheconsentofBradenMcGlone, andwiththeintentto
+temporarily deprivehimofhispossession ofthevehicle,anddid
+causedamage tothevehicleexceeding onethousand dollars
+($1,000)invalue;
+Anessential elementof§49-227isthatthe“damages causedtothevehicleasaresultofaviolation
+ofthissectionexceedonethousand dollars($1,000)invalue.”
+Noevidence provided tothegrandjuryexplicitly detailedthedamagetoMr.McGlone’s
+truck.Regarding thesedamages, theStatepurports thattestimony fromMr.McGlone andOfﬁcer
+Piersonprovides sufﬁcient evidence forthegrandjurytoﬁndthatthedamages tothecarby
+Defendant exceeded $1,000.Mr.McGlone testiﬁedthatthe2021ToyotaTacoma, GrandJury
+Transcript (“TL”),p.9,11.10-14,wasvaluedat$46,000. Tr.,p.11,ll.4-6.Hewasthenasked
+whetherhedrovehisvehiclehomethateveningornot,andhetestiﬁedhedidnotbecause "there
+wasFentanyl foundinsidethevehicle,andmyselfandthepoliceofﬁcersdidnotrecommend. uh,
+megettinginsideofthevehiclebecauseofpossibleexposure." Tr.,p.16,ll.21-25;p.l6,ll.1-6.
+Whenaskedifhewasstillabletodrivehisvehicleafterthevehiclewasrecovered, Mr.McGlone
+testiﬁedthathehadnotbecause,"theinsurance considered thevehicleatotalloss,uh,becauseof
+the,um,riskinvolved withreleasing thatvehiclebackoutinthemarketoncetherehadbeen
+MEMORANDUM DECISION ANDORDERDENYING DEFENDANT’S MOTION TODlSMlSS 17Fentanyl reported insideofthevehicle,sothey,uh,hadtototalthevehicle.” Tr.,p.l8,ll.5-13.
+OfﬁcerPiersontestiﬁedthatFentanylis"veryeasytobeexposedto"andis"verylife-threatening."
+ShefurthertestiﬁedthatshetoldMr.McGlone tothrowawayacarseatthatwasinthebedofthe
+truckandnottodrivehisvehicle,becauseFentanyl hadbeeninsidethevehicle.
+Representations madetoMr.McGlone byhisinsurance agencythathiscarwastotaleddue
+totheFentanyl isastatement andthesestatement arebeingofferedtoprovethetruthofthematter
+asserted, i.e.thatthecarwas“totaled” duetotheFentanyl. However, Mr.McGlones isentitledto
+testifythathiscaristotaled.Therefore, thegrandjuryhadsufﬁcient evidence todrawreasonable
+inferences toconclude that,because Mr.McGlone wasnolongerabletopossesshis$46,000
+vehicleduetotheconductofthedefendant, thatDefendant causeddamages greaterthan$1000.
+Therefore, CountIIshallnotdismissed.
+3.Defendant failedtodemonstrate thatsubstantial rightsofthedefendant wouldbe
+prejudiced bytheamending theIndictment.
+Thepartiesdisagree astotheproperremedyforCountII’slackofspeciﬁcity astothe
+damages causedbyDefendant’s conduct. IdahoCriminal Rule7(e)provides thatthe“courtmay
+permitacomplaint, aninformation orindictment tobeamended atanytimebeforetheprosecution
+restsifnoadditional ordifferent offenseischargedandifsubstantial rightsofthedefendant are
+notprejudiced.” Thereisnoquestion thattheinformation initsunamended formlackedspeciﬁcity.
+“Suchalackofspeciﬁcity clearlyprejudiced therightsofthedefendant.” Statev,Gumm,99Idaho
+549,552,585P.2d959,962(1978).However, thecourtdoesnotsee“howanamendment which
+wouldhavecuredthisdefect,wouldnecessarily haveprejudiced thesubstantial rightofthe
+defendant toprepareanadequate defense.” Id.
+HereDefendant cannotlegitimately contendthatshewouldbesurprised, tohersubstantial
+prejudice, bytheabsenceintheIndictment ofaspeciﬁcdescription ofthedamagesheinﬂicted
+MEMORANDUM DECISION ANDORDERDENYING DEFENDANT’S MOTION TODISMlSS 18upona$46,000vehicle.Defendant undoubtedly isonnotice,baseduponthegrandjurytranscript,
+whattheindictment isreferring toinCountII.Byfailingtodemonstrate thathersubstantial rights
+areprejudiced bytheamendment, thecourtexercises itsdiscretion topermittheStatetoamend
+theIndictment. Therefore, Defendant’s MotiontoDismissIndictment onthesebasesaredenied.
+IV.ORDER
+ORDER:
+Basedontheforegoing andgoodcauseappearing therefore,
+ITISHEREBYORDERED, that:
+Defendant’s FirstMotiontoDismissis
+Defendant’s SecondMotiontoDismissisdenied.
+'
+22“DATEDthis___ dayofDecember, 2022.
+MEMORANDUM DECISION ANDORDERDENYING DEFENDANT’S MOTION TODISMISS 19BHECOURT:
+CiK.C.Meyer
+DisricJudgeCERTIFICATE OFSERVICE
+Iherebycertifythatonthea9dayofDecember, 2022,Icaused,tobeserved.atrue
+andcorrectcopyoftheforegoing document asaddressed to:
+AdamJohnson Email
+kcpaicourts@kcgov.us
+Benjamin Onosko _L/Email
+pdfax@kcgov.us
+(99WDeputyClerIZ/
+MEMORANDUM DECISION ANDORDERDENYING DEFENDANT’S MOTION TODISMISS 20Filed:05l21/2021 16:15:23
+ThirdJudicialDistrict,CanyonCounty
+ChrisYamamoto, ClerkoftheCourt
+By:DeputyClerk-Hatfield, BettyJo
+1NTHEDISTRICT COURTOFTHETHIRDJUDICIAL DISTRICT
+OFTHESTATEOFIDAHO,INANDFORTHECOUNTY OFCANYON
+CaseNo.CR14-20-22902
+MEMORANDUM DECISION AND
+ORDERDENYING DEFENDANT’S
+MOTIONTODISMISSGRANDJURY
+INDICTMENT
+Defendant ﬁledaMotiontoDismissGrandJuryIndictment onApril1,2021.Defendant
+requests thattheCourtdismisshiscasebecauseoferrorsinthegrandjuryproceeding. TheState
+ﬁledanObjection toMotiontoDismissGrandJuryIndictment onApril16,2021.TheCourt
+heardargument fromthepartiesonApril21,2021,andtookthematterunderadvisement.
+I.BACKGROUND
+Atapproximately 10:00p.m.onDecember 26,2020,Defendant JuanitoJ.Rodriguez went
+overtohissisterAlexisRodriguez’s housetolistentomusicandplaydrinking games.GrandJury
+Transcript (“Tn”),Tr.p.45-47.Defendant’s girlfriend, DarleneRodriguez, andtwoofher
+cousins,Natalie“Devine” Anguiano andJoeyAnguiano, wentwithDefendant toAlexis’s home.
+Tr.p.46,ll.2-23.Alexis’s husband,Jossue“Josh”Garcia,andhercousinAlyssawerealreadyat
+thehouse.Tr.p.46,ll.2-6;p.52,ll.20-24.
+MEMORANDUM DECISION ANDORDERDENYING DEFENDANT’S MOTION TO
+DISMISSGRANDJURYINDICTMENT -1THESTATEOFIDAHO,
+Plaintiff,
+vs.
+JUANITOJ.RODRIGUEZ,
+Defendant.
+EXHIBIT CMEMORANDUM DECISION AND ORDER DENYING DEFENDANT’S MOTION TO 
+DISMISS GRAND JURY INDICTMENT - 2 
+  At around midnight, a fight broke out between Alexis, Josh, Defendant, and Devine.  Tr. 
+p. 49, l. 12 – p. 50, l. 1;  p. 50, l. 2- 15; p. 71, l. 24 – p. 72, l. 9.  After the fight, Darlene grabbed 
+Defendant and her cousins and got in their car a nd left .  Tr. p. 73, ll. 10 -25.  On their way home, 
+Josh called Defendant to inform him that he  and Alexis were coming over to his house to get 
+Alexis’s phone because Defendant took her  phone instead of his own.  Tr. p. 51, l. 12 – p. 52, l. 9; 
+p. 74, l. 12 – p. 75, l. 11.   
+ Defendant, Darlene, Devine, and Joey  drove to Devine’s house  at 1504 Ruby Court .  Tr. 
+p. 75, l. 13; p. 189, ll. 2 -9.  Devine and her brother Omar  Canchola live next door to Darlene, 
+Defendan t, and Darlene’s parents  at 1500 Ruby Court .  Tr. p. 62, ll. 16- 23; p. 64, ll. 2- 6; p. 99, ll. 
+14-15.  After Darlene checked everyone for injuries, Darlene’s parents, Daniel Rodriguez and 
+Monica Anguiano, went next door to see what was going on.  Tr. p. 75, l. 13 – p. 77, l. 17 ; p. 214, 
+ll. 8-20.  When Daniel went next door, he took his handgun but no other weapon.  Tr. p. 215, l. 13 
+– p. 216, l. 6.  Defendant, Darlene, and Devine went outside with Daniel and Monica when they 
+saw Josh, Alexis, and A lyssa  drive up.  Tr. p. 77, l. 22 – p. 78, l. 25; p. 53, ll. 5- 25.  Soon thereafter, 
+Joey and Omar went outside.  Tr. p. 153, ll. 7- 22; p. 156, ll. 16- 19; p. 190, l. 18 – p. 191, l. 1. 
+ Josh, Alexis, and A lyssa  parked the car .  Alexis claims that she was attacked by a bunch 
+of girls as she got out of the car.  Tr. p. 55, ll. 3- 17.  However, Devine, Darlene,  and Darlene’s 
+mother , Monica, recall that Alexis headed straight for Devine and attacked her .  Tr. p. 82, l. 20 – 
+p. 83, l. 3; p. 105, l. 14 – p. 106, l . 10; p. 265, ll. 8- 12.  Darlene’s aunt, Maria  Anguiano, and 
+Monica attempted to break up the fight and pull Alexis and Devine off each other.  Tr. p. 83, ll. 4-
+9; p. 107, ll. 11- 18; p. 127, ll. 12- 23.  
+Meanwhile, Josh got out of the car  and headed in the direction of Darlene, Defendant, and 
+Daniel.  Tr. p. 79, ll. 9- 25.  Daniel claims that Josh charged at him with brass knuckles.  Tr. p. 218, MEMORANDUM DECISION AND ORDER DENYING DEFENDANT’S MOTION TO 
+DISMISS GRAND JURY INDICTMENT - 3 
+ ll. 9-17.  Darlene remembers seeing  Josh with brass knuckles on one hand and a knife in the other  
+hand.  Tr. p. 81, ll. 8- 22.  However, no one else  ever saw Josh with a knife.  Tr. p. 117, l. 24 – p. 
+118, l. 5 (Monica) ; p. 126, l. 25 – p. 127, l. 7 (Maria); p. 158, ll. 15- 25 (Joey);  p. 194, l. 24 – p. 
+195, l. 10 (Omar);  p. 219, ll. 6- 14; p. 236, ll. 11- 18 (Daniel) ; p. 271, l. 25 – p. 272, l. 15 (Devine) .  
+Joey recalls seeing Defendant and Josh fighting when he went outside.  Tr. p. 154, l. 1 – p. 
+155, l. 11.  Joey believes that, after a short while, Daniel approached Defendant and Josh’s  fight 
+to separ ate them.  Tr. p. 155, ll. 12 –  18.  Darlene believes she saw Daniel get injured by Josh and 
+then Defendant, Daniel, Joey , and Omar attacked Josh.  Tr. p. 86, l. 24 – p. 87, l. 22.  Darlene saw 
+Defendant punching Josh and saw Omar kick at him .  Tr. p. 84, l. 22 – p. 85, l. 2; p. 89, l. 22 – p. 
+90, l. 24.  Joey and Omar claim that t hey never touched Josh, but tried to help break up the fight.   
+Tr. p. 157, l . 3 – p. 159, l. 5; p. 195, l. 13 – p. 196, l. 10.  
+Daniel recalls that only he and Josh were fighting, and that he  was trying to block Josh 
+from hitting him with the brass knuckles .  Tr. p. 221, l. 9 – p. 223, l. 2; p. 231, ll. 17- 21.  As Daniel 
+and Josh were fighting, they slipped on the icy grass and fell to the ground.  Tr. p. 223, ll. 12- 21.  
+Daniel recalls that he continued to hold Josh’s  hand with the brass knuckles, to keep from getting 
+hit by them, until Joey, Omar, and Defendant helped separate he and Josh.  Tr. p. 223, l. 20 – p. 
+224, l. 10.   
+After Joey tried to help break up the f ight, he saw Daniel f all to the ground and he moved 
+to help Daniel up.  Tr. p. 156, l. 23 – p. 157, l. 12.  Joey remembers seeing Josh trip over Daniel 
+and fall to the ground.  Tr. p. 163, l. 14 – p. 164, l. 5.  While Josh was on the ground, Joey recalls 
+Defendant standing over Josh.  Tr. p. 164, ll. 6- 21. Darlene claims she then  hear d Josh say “Stop” 
+and “I’m done.”  Tr. p. 84, ll. 1- 5.   MEMORANDUM DECISION AND ORDER DENYING DEFENDANT’S MOTION TO 
+DISMISS GRAND JURY INDICTMENT - 4 
+ Once Daniel was able to break free from Josh, he noticed blood and cuts on his hands and 
+forearm.  Tr. p. 230, ll. 1- 23.  Daniel went to his front yard to wash the blood off with a  hose.  Tr. 
+p. 232, l. 9 –  p. 233, l. 6; p. 234, ll. 14- 18.  While rinsing off, Defendant approached Daniel, put 
+his knife in Daniel’s jacket pocket, and told Daniel “Just tell them it was self -defense.”  Tr. p. 234, 
+l. 14 – p. 235, l. 19.  Darlene never saw Defendant with a knife in his hand but knew he had one 
+with him that day  because he received the knife as a gift for Christmas a few days prior .  Tr. p. 85, 
+ll. 3-8; p. 91, l. 20 – p. 92, l. 19; p. 91, l. 20 – p. 92, l. 15.    
+Monica watched Josh walk towards a trailer parked on their street and then leaned against 
+it.  Tr. p. 114, l. 9 –  p. 115, l. 15.  She then watched Josh walk towards his car to try to leave.  Tr. 
+p. 117, ll. 17- 22.  Daniel also saw Josh walk towards his car and f all to the ground.  Tr. p. 245, ll. 
+19-24. 
+Daniel went inside his home to continue to wash the blood off and check on his injuries.  
+Tr. p. 233, ll. 7- 13.  When Monica came inside, Daniel told her to get the knife and gun out of his 
+jacket pocket.  Tr. p. 120, ll. 19- 24.  Monica took the weapons from Daniel’s jacket and put them 
+under her mattress.  Tr. p. 120, l. 25 – p. 121, l. 23.  
+After the fights broke up, Maria called the police and went inside the house  at 1504 Ruby 
+Ct. with Darlene, Defendant, Devine, Joey, and Omar.  Tr. p. 131, ll. 12 -25.  Maria saw Defendant 
+in the kitchen and remembered him saying “I’m sorry,” m ultiple times .  Tr. p. 132, l. 19 – p. 133, 
+l. 13.   
+ Officers from the Nampa Police Depa rtment arrived at 1500 and 1504 Ruby Ct.  Tr. p. 278, 
+ll. 1-12; p. 287, ll. 11- 20.  Officers saw Josh lying in the street , deceased,  with multiple wounds to 
+his body.  Tr. p. 290, ll. 16- 25; p. 17, ll. 3- 20; p. 24, ll. 3- 7.   MEMORANDUM DECISION AND ORDER DENYING DEFENDANT’S MOTION TO 
+DISMISS GRAND JURY INDICTMENT - 5 
+  Officers went into the reside nces at 1500 and 1504 Ruby C ourt. Tr. p. 308, l. 25 – p. 309, 
+l. 5; p. 311, ll. 3- 9.  Inside the residence at 1504 Ruby Court, officers located two knives in Omar’s 
+bedroom.  Tr. p. 318, l. 16 – p. 319, l. 2.  Inside Daniel and Monica’s master bedroom at 1500 
+Ruby Court, officers found two small knives and a  pistol under the mattress.  Tr. p. 330, l. 17 – p. 
+331, l. 10.  The officers noted that one of the knives had the initials “CRKT” etched on the knife, 
+and the se initials were the same as those found on a box in the recycling bin located outside t he 
+1500 Ruby Court residence.  Tr. p. 330, l. 17 – p. 331, l. 19.  The officers unfolded the knife and 
+noticed a red substance on the blade.  Tr. p. 331, ll. 20- 25.   
+ Criminalist Christine Cannon and Detective K ari Seibel attended Josh Garcia’s  autopsy on 
+December 28, 2020.  Tr. p. 347, l. 19 – p. 348, l. 25; p. 367, l. 20 – p. 368, l. 7.  Detective Seibel 
+observed thirty -four (34) knife wounds to his body.  Tr. p. 350, l. 5 – p. 355, l. 1; p. 368, ll. 13- 23.  
+They  noted knife wounds to Josh Garcia’s  lung, his heart , and the top of his skull.  Tr. p. 355, l. 
+11 – p. 356, l. 13; p. 368, l. 17 – p. 369, l. 18.  
+Ms. Cannon tested the red substance on the “CRKT” blade and it was presumptive positive 
+for human blood.  Tr. p. 357, ll. 1- 19; p. 365, l. 18 – p. 366, l. 12.  She also tested other knives 
+found at the scene, and both the knife found under the trailer and the knife found in Josh’s pocket 
+tested presumptive positive for human blood.  Tr. p. 357, ll. 16- 24; p. 25, ll. 22- 24. 
+Defendant was charged by Superceding Indictment on January 14, 2021, with one count of 
+Murder I, a felony, in violation of I.C. §§ 18- 4001, 18- 4003(a -f), one count of Intimidating, 
+Impeding or Influencing the Attendance of a Witness, a felo ny, in violation of I.C. § 18- 2604(3), 
+and one count of Destruction, Alteration, Concealment of Evidence, a felony, in violation of I.C. 
+§ 18- 2603.  Defendant filed a Motion to Dismiss Grand Jury Indictment on April 1, 2021, asserting MEMORANDUM DECISION AND ORDER DENYING DEFENDANT’S MOTION TO 
+DISMISS GRAND JURY INDICTMENT - 6 
+ that the State improp erly instructed the grand jury and presented numerous instances of 
+inadmissible testimony , in violation of Defendant’s due process rights.   
+II. APPLICABLE STANDARD  
+ When considering a motion to dismiss an indictment, the district court sits as a reviewing  
+court and the grand jury is the factfinder.  State v. Brandstetter , 127 Idaho 885, 887, 908 P.2d 578, 
+580 (Ct. App. 1995).  A motion to dismiss an indictment may be granted by the court if “the 
+indictment was not properly found, endorsed and presented as required by these rules or by the 
+statutes of the state of Idaho.”  I.C.R. 6.6.  Idaho Criminal Rule 6.5(a) discusses the sufficiency of 
+evidence required to warrant an indictment:  
+If the grand jury finds, after evidence has been presented to it, that an offense has 
+been committed and that there is probable cause to believe that the accused 
+committed it, the jury ought to find an indictment.  Probable cause exists when the 
+grand jury has before it evidence that would lead a reasonable person to believe an 
+offense has been committed and that the accused party has probabl y committed the 
+offense.  
+When reviewing the propriety of a grand jury proceeding, the court must conduct a two-
+part inquiry.  State v. Marsalis , 151 Idaho 872, 876, 264 P.3d 979, 984 (Ct. App. 2011).  
+First, we must determine whether, independent of any inadmissible evidence, the 
+grand jury received legally sufficient evidence to support a finding of probable 
+cause.  In making this determination, every legitimate inference that may be drawn 
+from  the evidence must be drawn in favor of the indictment.  Second, even if such 
+legal sufficient evidence was presented, the indictment must be dismissed if 
+prosecutorial misconduct in submitting illegal evidence was so egregious as to be 
+prejudicial.  “Prej udicial effect” means “the defendant would not have been 
+indicted but for the misconduct.”  Absent a showing of prejudice by the defendant, 
+we will not second guess the grand jury.  To determine whether misconduct is so 
+grievous as to be prejudicia l and th us require dismissal, an appellate court must 
+balance the gravity and seriousness of the misconduct against the extent of evidence 
+supporting the indictment. 
+Id. (internal citations omitted).  The decision to grant or deny a motion to dismiss an indictment is 
+discretionary for the trial court .  State v. Curtiss , 138 Idaho 466, 468, 65 P.3d 207, 209 (Ct. App. 
+2002). MEMORANDUM DECISION AND ORDER DENYING DEFENDANT’S MOTION TO 
+DISMISS GRAND JURY INDICTMENT - 7 
+ III. ANALYSIS  
+ Defendant asserts that the State violated his due process rights during the grand jury 
+proceedings because (1) t he self -defense j ury instruction was erroneous and  reversed the required 
+standard; (2) t he burden of proof instruction  was erroneous because it failed to instruct the grand 
+jury that they must find Defendant committed these crimes beyond a reasonable doubt ; (3) t he 
+State f ailed to present admissible eviden ce of the victim’s cause of death; and (4) a substantial 
+amount of inadmissible testimony was presented to the grand jury . 
+A. The Error in the Self -Defense Jury Instruction  
+Defendant argues  that the self -defense instruction given to the grand jury contains a 
+misstatement of the law, and it created a substantial likelihood that the jury instructions as a whole 
+misled that jury.  Defendant also asserts that the erroneous jury instruction was e xtremely 
+prejudicial to Defendant because it was the most important instruction.  Defendant further a rgues  
+that Idaho caselaw does not address the standard of review for analyzing erroneous jury 
+instructions given during a grand jury proceeding, and argues  that this Court should apply the same 
+standard outlined by the Idaho appellate courts for erroneous jury trial instructions.  The State does 
+not dispute that there is an error in the self -defense instruction but argues that the error is harmless 
+because t here is no evidence that Defendant acted in self -defense.1   
+The State gave the grand jury the following instructions:  
+ICJI 701 MURDER DEFINED  
+Murder is the killing of a human being without legal justification or excuse 
+and with malice aforethought  
+                                                 
+1 The Prosecutor argues, without citation to any legal authority, that it is not required to provide a 
+self-defense instruction to the grand jury. In this case, the Prosecutor did provide a self -defense 
+instruction. The question to be answered is whether that instruction was proper and whether the 
+Indictment should be dismissed due t o the error in that instruction.  MEMORANDUM DECISION AND ORDER DENYING DEFENDANT’S MOTION TO 
+DISMISS GRAND JURY INDICTMENT - 8 
+ or 
+by the intentional application of torture. 
+ The killing of a human being is legally justified or excused when “done in 
+self-defense”.  You will be instructed later on the elements of legal justification and 
+excuse.  
+ICJI 704A FIRST DEGREE MURDER – MALICE AFORE THOUGHT  
+In order for the defendant to be guilty of First Degree Murder with malice 
+aforethought, the state must prove each of the following:  
+1. On or about December 27, 2020 
+2. in the state of Idaho  
+3. the defendant Juanito “JJ” Rodriguez engaged in conduct with ca used the death 
+of Jossue Garcia,  
+4. the defendant acted without justification or excuse,  
+5. with malice aforethought, and  
+6. the murder was perpetrated by lying in wait;  
+or 
+ the murder was a willful, deliberate, and premeditated killing.  
+Premeditation means to c onsider beforehand whether to kill or not to kill, and then 
+to decide to kill.  There does not have to be any appreciable period of time during 
+which the decision to kill was considered, as long as it was reflected upon before 
+the decision was made.  A mer e unconsidered and rash impulse, even though it 
+includes an intent to kill, is not premeditation; 
+ If you find that the state has failed to prove probable cause any of the 
+elements one (1) – five (5) above or failed to prove any of the circumstances 
+listed  in element six (6), you must not vote for a true bill of First Degree Murder.  
+If you find that elements one (1) – five (5) above have been proven by probable 
+cause, and you 12 jurors agree that the state has proven any of the above 
+circumstance[s] under element six (6) by probable cause, you must vote for a true 
+bill of first degree murder.  You are not required to agree as to which 
+circumstance under element six (6) you find to exist. 
+The State then presented the following self -defense instruction to the  grand jury:  
+ICJI 1517 SELF -DEFENSE  
+ A homicide is justifiable if the defendant was acting in self -defense or 
+defense of another.  
+ In order to find that the defendant acted in self -defense or defense of 
+another, all of the following conditions must be found to have been in existence at 
+the time of the killing: MEMORANDUM DECISION AND ORDER DENYING DEFENDANT’S MOTION TO 
+DISMISS GRAND JURY INDICTMENT - 9 
+ 1. The defendant must have believed that the defendant or another person was in 
+imminent danger of death or great bodily harm.  
+2. In addition to that belief, the defendant must have believed that the ac tion the 
+defendant took was necessary to save the defendant or another person from the 
+danger presented.  
+3. The circumstances must have been such that a reasonable person, under similar 
+circumstances, would have believed that the defendant or another person w as 
+in imminent danger of death or great bodily injury and believed that the action 
+taken was necessary.  
+4. The defendant must have acted only in response to that danger and not for some 
+other motivation. 
+5. When there is no longer and reasonable appearance of da nger, the right of self -
+defense or defense of another ends.  
+In deciding upon the reasonableness of the defendant’s beliefs, you should 
+determine what an ordinary and reasonable person might have concluded from all 
+the facts and circumstances which the evid ence show existed at that time, and not 
+with the benefit of hindsight.  
+The danger must have been present and imminent, or must have so appeared 
+to a reasonable person under the circumstances.  A bare fear of death or great bodily 
+injury is not sufficient t o justify a homicide.  The defendant must have acted under 
+the influence of fears that only a reasonable person would have had in a similar 
+position.  
+The burden is on the prosecution to prove probable cause that the homicide 
+was not justifiable.  If there is not probable cause that the homicide was justifiable, 
+you must not vote for a true bill. 
+(Emphasis added).  Defendant correctly notes that it is an inaccurate statement of the law to advise 
+the grand jury that it “must not vote for a true bill” if they find that “there is not probable cause 
+that the homicide was justifiable.”  
+In addition to the above instruction, the State provided the grand jury with the following 
+instructions related to self -defense:  
+ ICJI 1518 SELF -DEFENSE – REASONABLE FORCE  
+ The kind and degree of force which a person may lawfully use in self -
+defense or defense of another are limited by what a reasonable person in the same 
+situation as such person, seeing what that person sees and knowing what the person 
+knows, then would believe to be necessary.  Any use of force beyond that is 
+regarded by the law as excessive.  Although a person may believe that the person 
+is acting, and may act, in self -defense or defense of another, the person is not MEMORANDUM DECISION AND ORDER DENYING DEFENDANT’S MOTION TO 
+DISMISS GRAND JURY INDICTMENT - 10 
+ justified in using a degree of force clearly in excess of that apparently and 
+reasonably necessary under the existing facts and circumstances.  
+ ICJI 1519 SELF -DEFENSE – DUTY TO RETREAT  
+ In the exercise of the right of self -defense or defense of another, one need 
+not retreat.  One may stand one’s ground and defend oneself or the other person by 
+the use of all force and means which would appear to be necessary to a reasonable 
+person in a similar situation and with similar knowledge; and a person may pause 
+the attacker until the person [or] the other person has been secured from danger if 
+that course likewise appears reasonably necessary.  This law applies even though 
+the person being attacked [or] defended might more easily have gained safety by 
+flight or by withdrawing from the scene.  
+ ICJI 1520 SELF -DEFEN SE – VICTIM’S REPUTATION  
+ Evidence has been admitted concerning the reputation of the victim for 
+being quarrelsome, violent and dangerous.  You may consider this evidence only 
+for the limited purpose of making your determination as to the reasonableness of  
+the defendant’s beliefs under the circumstances then apparent to the defendant, but 
+only if the defendant was aware of such reputation or whether the victim was the 
+aggressor.  
+ ICJI 1521 SELF -DEFENSE – PARTICIPANTS IN MUTUAL COMBAT  
+The right of self -defen se is not available to a person who, by pre -arrangement 
+or agreement engages in mutual combat, unless and until the person has really and 
+in good faith endeavored to decline further combat, and has fairly and clearly 
+informed the adversary of a desire for peace and that the person has abandoned the 
+contest.  If, after the adversary has been so informed and given an opportunity to 
+quit the fight, such adversary continues the combat, such continuance of the fight 
+is a new assault by the adversary, and the per son seeking to withdraw from the fight 
+may exercise the right of self -defense.  
+1. The Error in the Self -Defense Instruction Does Not Invalidate the Indictment.  
+On a motion to set aside an indictment, the Idaho Supreme Court addressed an erroneous 
+instruction given to the grand jury in Gasper v. District Court of Seventh Judicial District, in & 
+for Canyon County , 74 Idaho 388, 264 P.2d 679 (1953).  Despite finding that the instruction was 
+erroneous, the Idaho Supreme Court held that it did not invalidate the indictment .  The Court stated:  
+The charge to the grand jury is general in nature; it does not bind or control the 
+grand jurors as does the charge to a trial jury.  The grand jury is the judge of the 
+law and the fact, it is advised by the prosecuting attorney  during the course of its 
+proceedings, and that part of the proceedings when deliberating and voting upon an MEMORANDUM DECISION AND ORDER DENYING DEFENDANT’S MOTION TO 
+DISMISS GRAND JURY INDICTMENT - 11 
+ indictment is secret.  §§ 19 -1112, 19- 1113, I.C.  For these reasons, among others, 
+it is generally held that in the absence of a showing of prejudi ce, errors in the charge 
+to the grand jury do not invalidate an indictment.  
+Id. at 396, 264 P.2d at 683 (citing State v. Lawler , 221 Wis. 423, ___, 267 N.W. 65, 67- 68 (1936) ) 
+(finding that the court’s failure to instruct the grand jury does not invalidate t he indictments 
+returned) ; see also State v. Inthavong, 402 N.W. 2d 799, 802 (Minn. 1987) (citing Gasper , 74 
+Idaho at 396, 264 P.2d at 683)  (concluding that “prejudice ordinarily will be found only on those 
+rare occasions where the grand jury instruction ar e so egregiously misleading or deficient that the 
+fundamental integrity of the indictment process itself is compromised”) ; State v. Smith, 876 
+N.W.2d 310, 325 (Minn. 2016) . 
+ Idaho Criminal Rule 6.1(b) outlines the powers and duties of the prosecuting attorney 
+during a grand jury proceeding.  These powers and duties include the following:  
+1) present to the grand jury evidence of any public offense, however, when a 
+prosecutor conducting a grand jury inquiry is personally aware of substantial 
+evidence which directly negates the guilt of the subject of the investigation the 
+prosecutor must present or otherwise disclose that evidence to the grand jury;  
+2) at the commencement of a presentation of an investigation to the grand jury, 
+inquire as to whether there are any grounds for disqualification of any grand 
+juror and advise the presiding juror of the possible disqualification of a juror;  
+3) list the elements of an offense being investigated by the grand jury, before, 
+during or after the testimony of witnesses; 
+4) advise  the grand jury as to the standard for probable cause, and tell them that if 
+a person refuses to testify this fact cannot be used against him or her;  
+5) issue and have served grand jury subpoenas for witnesses;  
+6) present opening statements and/or instruct the grand jury on applicable law; and 
+7) prepare an indictment for consideration by or at the request of the grand jury.  
+The Prosecutors , in accordance with their  duties, advised the grand jury of the elements of the 
+offenses being investigated, the standard for p robable cause, and instructed the jury on applicable 
+laws, including self -defense .  Defendant fails to show how the error in the self -defense instruction 
+is prejudicial.  The State properly  instructed the grand jury as to the elements required to be proven 
+by probable cause to return  a true bill of First Degree Murder.  Included in this instruction, element MEMORANDUM DECISION AND ORDER DENYING DEFENDANT’S MOTION TO 
+DISMISS GRAND JURY INDICTMENT - 12 
+ four (4) requires that Defendant acted without justification or excuse.  In the self -defense 
+instruction, the grand jury was properly instructed that se lf-defense makes a homicide justifiable.  
+The grand jury was also properly instructed on what self -defense is under Idaho law.  The  First 
+Degree Murder  instruction further states that “If you find that the state has failed to prove probable 
+cause any of the elements  one (1) – five (5) … you must not vote for a true bill of First Degree 
+Murder.”  (Emphasis added).  Applying this instruction, the grand jury found that the State proved 
+probable cause on all of the elements for First Degree Murder, including th at Defendant acted 
+without justification or excuse .  The error in the self -defense grand jury instruction does not 
+invalidate the indictment returned against Defendant.  Therefore, the error  does not invalidate the 
+indict ment.  
+2. The Jury Instructions as a Wh ole Did Not Mislead the Grand Jury  or 
+Prejudice Defendant . 
+Defendant urges this Court to adopt the same standard outlined by the Idaho appellate 
+courts for erroneous jury trial instructions  to this grand jury proceeding.  Defendant asserts that 
+the erroneou s self -defense instruction created a substantial likelihood that the jury instructions as 
+a whole misled the grand jury based on the instruction’s reversal of the applicable standard.  Even 
+if this were the applicable standard, Defendant’s argument fails.  
+When reviewing whether jury trial instructions “fairly and accurately present the issues 
+and state the applicable law,” the Idaho Supreme Court “looks to jury instructions as a whole, 
+rather than individually.”  State v. Campbell , 481 P.3d 118, 123 (2021).  “An erroneous instruction 
+will not constitute reversible error unless the instructions as a whole misled the jury or prejudiced 
+a party.”  Id.  (quoting State v. Mann, 162 Idaho 36, 43, 394 P.3d 79, 86 (2017)).  The Idaho 
+Supreme Court has held that a rev iewing court “must presume that the jury followed the jury MEMORANDUM DECISION AND ORDER DENYING DEFENDANT’S MOTION TO 
+DISMISS GRAND JURY INDICTMENT - 13 
+ instructions” in arriving at their decision.  State v. Hall , 161 Idaho 413, 429, 387 P.3d 81, 97 
+(2016).  
+  The grand jury instructions, taken as a whole, did not misle ad the grand jury.  There is n o 
+dispute that the language used in the self -defense grand jury instruction is erroneous.  However,  
+looking at the totality of the instructions, the grand jury was not misled by this instruction and 
+Defendant was not prejudiced by the error.  The State instructed the grand jury on the elements 
+that must be proven to indict Defendant on First Degree Murder.  This instruction requires that the 
+grand jury find probable cause that Defendant acted without justification or excuse.  T he self-
+defense instruction  directs the grand jury that , to find that a homicide was justified , Defendant 
+acted in self -defense or in defense of another.  Despite the erroneous language, this Court must 
+presume that the grand jury followed the remainder of the self -defense instructi on and did not find 
+that the conditions existed when they indicted Defendant.  This Court must also presume that in 
+indicting Defendant for First Degree Murder that the grand jury followed the elements instruction 
+and found that Defendant acted without  justification or excuse.   Analyzing these instructions  as a 
+whole, the Court does not find that  the erroneo us instruction misle d the jury, or that  it prejudice d 
+Defendant .  Defendant’s Motion to Dismiss Grand Jury Indictment is  dismissed on this ground.  
+B. The State Correctly Instructed the Grand Jury on the Burden of Proof Required to 
+Indict Defendant.  
+Defendant asserts that the State erroneously instructed the grand jury on the burden of proof 
+required to indict him.  He argues that the probable cause burden of proof set out in Idaho Criminal 
+Rule 6.5 contradicts the beyond a reasonable doubt burden of proof required  in I.C. § 19- 1107.  He 
+further argues that this inconsistency is a matter of substantive law and the State  should have 
+instructed the grand jury on the beyond a reasonable doubt burden of proof.  The State argues that 
+I.C. § 19- 1107 does not clearly state that the grand jury should indict when the evidence presented MEMORANDUM DECISION AND ORDER DENYING DEFENDANT’S MOTION TO 
+DISMISS GRAND JURY INDICTMENT - 14 
+ is beyond a reasonable doubt, and Idaho case law states that the grand jury standard is probable 
+cause.  
+ When interpreting a statute, Idaho courts begin with an examination of the literal words of 
+the statute.  State v. Garner , 161 Idaho 708, 710, 390 P.3d 434, 436 (2017).  The language of the 
+statute “is to be given its plain, obvious and rational meaning.”  State v. Keeton , 165 Idaho 663, 
+665, 450 P.3d 311, 313 (2019) (quoting State v. Brand, 162 Idaho 189, 191, 395 P.3d 809, 811 
+(2017)).  “If that language is clear and unambiguous, the Court need m erely apply the statute 
+without engaging in any statutory construction.”  Id. (internal quotations omitted).  Furthermore, 
+the Idaho Supreme Court addressed whether a grand jury should be instructed on the beyond a 
+reasonable doubt burden of proof in Gaspe r v. District Court of Seventh Judicial District, in & for 
+Canyon County , 74 Idaho 388, 264 P.2d 679 (1953).  In Gasper , the grand jury was given the 
+following instruction:  
+It is further your duty to see to it that the innocent are not compelled to go under 
+public trial in open court before a trial jury unless you are satisfied beyond a 
+reasonable doubt from the evidence from the government presents that the 
+defendant is guilty.  When you determine that, then you may return an indictment. 
+Id. at 395, 264 P.2d at 683.  The Court held that the grand jury instruction was erroneous and 
+required a “greater degree of proof to justify an indictment than [I.C. § 19- 1107] requires.”  Id.  
+  Defendant misinterprets the burden of proof required in I.C. § 19- 1107, and the State 
+correctly instructed the grand jury on the probable cause burden of proof.  Defendant attempts to 
+read the beyond a reasonable doubt standard into I.C. § 19 -1107 where the literal words  of the 
+statute states that a “grand jury ought to find an indictment when all the evidence before them, 
+taken together, if unexplained or uncontradicted, would, in their judgment, warrant a conviction 
+by a trial jury .”  (Emphasis added).  The statute does not specifically state that proof beyond a 
+reasonable doubt is required.  Hi s argument that the grand jury should have been instructed on the MEMORANDUM DECISION AND ORDER DENYING DEFENDANT’S MOTION TO 
+DISMISS GRAND JURY INDICTMENT - 15 
+ reasonable doubt burden of proof is in correct.  As the Idaho Supreme C ourt previously stated, the 
+beyond a reasonable doubt standard is a  greater degree of proof than is required by I.C. § 19 -1107.  
+Therefore, Defendant’s Motion to Dismiss Grand Jury Indictment is  denied on this ground.  
+C. The State Sufficiently Proved the Victim’s Cause of Death . 
+  Defendant asserts that the State failed to present direct evidence of the victi m’s cause of 
+death and, thus, failed to prove an essential element of the First Degree Murder charge.  Defendant 
+further asserts that Detective S eibel and Ms. Cannon lacked the training and experience to testify 
+to cause of death.  The State argues that su fficient evidence was presented to the grand jury to 
+show cause of death.  
+  Murder in the first degree includes the unlawful killing of a human being “perpetrated by 
+any kind of willful, deliberate and premeditated killing.”  I.C. §§ 18- 4001 – 18-4003(a).  In 
+homicide cases, the state is required to prove the corpus delicti of the crime.  State v. Severson, 
+147 Idaho 694, 712, 215 P.3d 414, 432 (2009).  “[T]he corpus delicti consists of two elements: (1) 
+the death of the individual ‘named in the charges as … being dead;’ and (2) the death was caused 
+by a criminal act of the defendant.”  Id.  at 712- 13, 215 P.3d at 432- 33 (quoting State v. Cutler , 94 
+Idaho 295, 296, 486 P.2d 1008, 1009 (1971)).  Both of these elements may be satisfied based solely 
+on circumsta ntial evidence.  Id.    
+  The State presented sufficient evidence for the grand jury to find probable cause that 
+Defendant caused the death of Jossue “Josh” Garcia.  At the grand jury proceedings, the State 
+presented multiple witnesses who saw Mr. Garcia  alive and get out of his vehicle at Ruby Court.  
+Darlene Rodriguez testified that Defendant was punching Mr. Garcia during the fight.  After the 
+fight, witnesses also testified that Mr. Garcia  fell down in the street and was found dead by 
+responding offic ers.  Daniel  Rodriguez  testified that Defendant put a knife into Daniel’s jacket MEMORANDUM DECISION AND ORDER DENYING DEFENDANT’S MOTION TO 
+DISMISS GRAND JURY INDICTMENT - 16 
+ pocket after the fight with Mr. Garcia and asked Daniel to say it was self -defense.  Daniel’s wife, 
+Monica, testified that she took the knife from Daniel’s jacket pocket and hid it under their mattress.  
+That same knife was found by law enforcement and the blade tested presumptive positive for 
+human blood.  Detective S eibel and Ms. Cannon testified that they observed 34 stab wounds to 
+Mr. Garcia’s body during the autopsy , inclu ding wounds to his head, heart, and lung .  Based on 
+the evidence presented, the grand jury had probable cause to believe that Mr. Garcia was dead and 
+his death was caused by  a criminal act o f the  Defendant.  Therefore, Defendant’s Motion to 
+Dismiss Grand Jury Indictment is denied on this ground.  Defendant’s objections to the testimony 
+of Detective Seibel and Christine Cannon will be addressed below.  
+D. Defendant’s Objections to  Evidence Present ed to the Grand Jury.  
+  Defendant asserts that the State presented inadmissible testimony to the grand jury .  The 
+State argues that, even without the alleged inadmissible evidence, sufficient admissible evidence 
+was presented to the grand jury to find probable cause that crimes were committed and Defendant 
+committed those crimes.  
+1. Defendant’s Objections to Detective Seibel and Christine Cannon’s Testimony 
+Presented on Cause of Death is Admissible.  
+  Defendant asserts that Detective Seibel and Christine Cannon’s testimony contains hearsay 
+or lacks foundation, and should not be considered to prove the victim’s cause of death.  See  
+Defendant’s Motion to Dismiss Grand Jury Indictment (“Motion to Dismiss”), pp. 11 -13; Tr.2 p. 
+356, ll. 17- 25; p. 368, ll. 17- 23; p. 368, l. 24 – p. 370, l. 6.  The State argues that both Detective 
+Seibel and Ms. Cannon were present at the autopsy and testified based on their personal 
+observations.  The State further argues that both witnesses w ere competent to testify from  their 
+                                                 
+2 Transcript citations identified in Defendant’s Motion to Dismiss Grand Jury Indictment, pp. 11-
+20. MEMORANDUM DECISION AND ORDER DENYING DEFENDANT’S MOTION TO 
+DISMISS GRAND JURY INDICTMENT - 17 
+ experience and common sense.  
+Hearsay is an out of court statement offered into evidence to prove the truth of the matter 
+asserted in the statement.  I.R.E. 801(c).  “A witness may testify to a matter only if evidence is 
+introduced sufficient to support a finding that the witness has personal knowledge of the matter.”  
+I.R.E. 602.  Proof of personal knowledge may consist of the witness’s own testimony.  I.R.E. 602. 
+Additionally, “[a] witness who is qualified as an expert b y knowledge, skill, experience, training, 
+or education may testify in the form of an opinion or otherwise if the expert’s scientific, technical, 
+or other specialized knowledge will help the trier of fact to understand the evidence or to determine 
+a fact in  issue.”  I.R.E. 702. 
+ Defendant argues that the following testimony from Ms. Cannon’s is hearsay: “ I think the 
+doctor believes that that’s the knife wound that pictured [sic] the lung” because it is hearsay.  
+Motion to Dismiss, p. 12; Tr . p. 356, ll. 17 -25.  In this testimony, Ms. Cannon is testifying about 
+her understanding of what the doctor believed.  This testimony does not contain an out of court 
+statement that is offered for the truth of the matter asserted.  While it may be inadmissible on other 
+grounds, this testimony is not hearsay.  Therefore, this hearsay objection is overruled.  
+  Defendant also objects to Detective Seibel’s testimony that knife wounds touched the 
+victim’s heart and punctured his lung, and that a knife wound to a person’s heart, lung, or head 
+could be fatal.  Motion to Dismiss, p. 13; Tr . p. 368, ll. 17- 23; p. 368, l. 24 – p. 370, l. 6.  Defendant 
+asserts that Detective Seibel lacks the medical expertise needed to testify about  these wounds and 
+whether any of these wounds were actually the cause of the victim’s death.   Defendant also argues 
+that whether these wounds touched the heart and lung are hearsay.  Detective Seibel testified  that 
+she attended the autopsy performed on the victim and observed 34 knife wounds to Mr. Garcia’s 
+body, including  one that touched his heart and another that punctured his lung.  Detective Seibel MEMORANDUM DECISION AND ORDER DENYING DEFENDANT’S MOTION TO 
+DISMISS GRAND JURY INDICTMENT - 18 
+ is testifying about her own observations of the wounds that she observed during the autopsy.  H er 
+testimony that a knife wound to a person’s heart, lung, and/ or head could be fatal is based upon 
+her training and experience and, based upon the record, appear to be  appropriate expert testimony .  
+The grand jury transcript does not  show that Detective Seibel lacks the training and experience 
+necessary to testify about these matters.  This testimony is not hearsay as there is no out of court 
+statement admitted.   For these reasons, Detective Seibel’s testimony is admissible.  
+2. Objections that Statements Were Made Without Proper Foundation or Lack 
+of Personal Knowledge .  
+  “A witness may testify to a matter only if evidence is introduced sufficient to support a 
+finding that the witness has personal knowledge of the matter.”  I.R.E. 602.  Proof of personal 
+knowledge may consist of the witness’s own testimony.  I.R.E. 602.  The Idaho Supreme Court 
+has long held than an objection “that no proper foundation has been laid” is not sufficiently specific 
+because it does not state how the foundation for the testimony is insufficient.  State v. Davis , 155 
+Idaho 216, 219, 307 P.3d 1242, 1245 (Ct. App. 2013) (citing Hobbs v. Union Pac. R.R. Co., 62 
+Idaho 58, 74, 108 P.2d 841, 849 (1940)); see also Hansen v. Roberts , 154 Idaho 469, 473, 299 
+P.3d 781, 785 (2013). 
+  Defendant asserts that numerous statements made by witnesses are inadmis sible because 
+they were made “without proper foundation.”   See  Motion to Dismiss, pp. 16, 17, 19; Tr . p. 5, ll. 
+10-11; p. 7, ll. 17- 19; p. 9, ll. 9- 11; p. 10, l. 14; p. 14, ll. 19- 20; p. 15, ll. 2- 9; p. 25, ll. 22- 24; p. 34, 
+ll. 23- 24; p. 36, ll. 22- 25; p. 43, l. 23; p. 282, ll. 13- 14; p. 297, ll. 6- 7.  Defendant fails to state in 
+what respect these statements  are insufficient  (i.e., that a witness lacked personal knowledge) .  A 
+broad objection that the testimony of a witness lacks foundation is not suffici ently specific.  
+Therefore, the Court denies these objections . 
+ Defendant also argues that Detective Seibel and Joey Anguiano made statements without MEMORANDUM DECISION AND ORDER DENYING DEFENDANT’S MOTION TO 
+DISMISS GRAND JURY INDICTMENT - 19 
+ personal knowledge.  See  Motion to Dismiss, pp. 16- 18; Tr. p. 11, ll. 14- 22; p. 12, ll. 3- 11; p. 12, 
+l. 16 – p. 14, l. 15; p. 171, l. 13.  Detective Seibel testified that she is the lead investigator assigned 
+to this case, and a part of her duties is to touch base with the responding officer s and gather as 
+much information as possible from them.  She  also testified that she observed several interviews 
+of the witnesses.   Thus, sufficient evidence was introduced that Detective Seibel would have 
+personal knowledge that consent was given to search Joey’s cell phone, and to the contents of the 
+Snapchat video found on Joey’s phone.  Joey also testified that he recorded a Snapchat video  on 
+his cell phone  and testified to the contents of said video.  Theref ore, there was sufficient evidence 
+that Joey had knowledge of what occurred in the video found on his phone.  The  objections  to 
+these statements are overruled. 
+ Defendant further asserts that Sergeant Wilber testified that another officer secured 
+Defendant “since much of the information that we had that he was a suspect at that point” without 
+any foundation.  Motio n to Dismiss, p. 19; Tr . p. 299, ll. 22- 23.  Sergeant Wilber ’s preceding 
+testimony explains his actions and the information he gathered prior to Defendant’s arrest.  
+Therefore, Sergeant Wilber’s testimony, read in context, has sufficient foundation and is 
+admi ssible.  
+3. The State  Did Not  Comment o n Defendant’s Right to Remain Silent.  
+  The Fifth and Fourteenth Amendments of the United States Constitution, as well as the 
+Idaho Constitution, guarantee a criminal defendant the right not to be compelled to testify against 
+himself.  U.S. Const. amends. V, XIV; Idaho Const. art. I, § 13.  In G riffin v. California , 380 U.S. 
+609, 85 S.Ct. 1229 (1965), the United States Supreme Court hel d that this right also bars the 
+prosecution from commenting on a defendant’s invocation of his right to remain silent.  380 U.S. 
+at 613- 14, 85 S.Ct. at 1232.   MEMORANDUM DECISION AND ORDER DENYING DEFENDANT’S MOTION TO 
+DISMISS GRAND JURY INDICTMENT - 20 
+ A prosecutor may not use evidence of post -arrest, post -Miranda silence for either 
+impeachment purposes or as substantive evidence of guilt because of the promise 
+present in a Miranda warning.  If a prosecutor is allowed to introduce evidence of 
+silence, for any purpose, then the right to remain silent guaranteed in Miranda v. 
+Arizona, 384 U.S. 436, 86 S.Ct. 1602, 16 L.Ed.2d 694 (1966), becomes so diluted 
+as to be rendered worthless.  The prosecutor also may not use any post -custody 
+silence to infer guilt in its case- in-chief.  In cases of pre- Miranda, pre -arrest silence, 
+the prosecutor may not use that evidence solely for the purpose of implying guilt.  
+The prosecutor may use pre -Miranda silence, either pre-  or post -arrest, for 
+impeachment of the defendant.  
+State v. Parker , 157 Idaho 132, 147, 334 P.3d 806, 821 (2014) (internal quotations and citations 
+omitted).   “Miranda warnings must be given to a suspect who is subjected to custodial 
+interrogation.”  State v. Silva, 134 Idaho 848, 854, 11 P.3d 44, 50 (Ct. App. 2000); Miranda v. 
+Arizona, 384 U.S. 436, 86 S.Ct. 1602 (1966).  “Interrogation” under Miranda means “police words 
+or conduct that police should know are reasonably likely to elicit an incriminating response fr om 
+the suspect.”  Id. ; see also Rhode Island v. Innis , 446 U.S. 291, 301, 100 S.Ct. 1682, 1689 (1980).   
+However, “routine booking questions” such as a person’s name, address, height, weight, eye color, 
+and date of birth fall outside the protections of Mira nda.  Pennsylvania v. Muniz , 496 U.S. 582, 
+601-02, 110 S.Ct. 2638, 2650 (1990); see also United States v. Ochoa -Gonzalez , 598 F.3d 1033, 
+1039 ( 8th Cir. 2010) (concluding that “request[s] for routine information necessary for basic 
+identification purposes” are not interrogation questions because they are not directly relevant to 
+the substantive offense); United States v. Paxton, 848 F.3d 803, 813 ( 7th Cir. 2017)  (finding that 
+biographical questions “are not the sort of questions that one would expect to yiel d incriminating 
+information” for purposes of Miranda); United States v. Garcia- Zavala, 919 F.3d 108, 113 (1st 
+Cir. 2019) (holding that defendant’s statements identifying himself, his date of birth, and his 
+country of origin are not subject to Miranda).  
+ Defendant argues that statements made by Detective Seibel and Officer Wyatt were 
+improper comme nts on his constitutional right s to remain silent, and that the State continued its MEMORANDUM DECISION AND ORDER DENYING DEFENDANT’S MOTION TO 
+DISMISS GRAND JURY INDICTMENT - 21 
+ line of questioning with full knowledge that Defendant had invoked his right to remain silent.  See  
+Motion to Dismiss, pp. 16, 19; Tr . p. 8, ll. 4- 10; p. 279, l. 21.  During Detective Seibel’s testimony, 
+she stated that Defendant was read his Miranda rights prior to his interview, and that Defendant 
+gave details about his relationshi p with his sister, where he lived, and discussed the get -together 
+at his sister’s house.  When the Prosecutor inquired whether Defendant provided any information 
+about the fight that occurred at his sister’s house or the fight that occurred on Ruby Court, 
+Detective Seibel stated that “[Defendant] did not provide many sp ecifics,” and “Not at that time, ” 
+respectively.   Detective Seibel’s vague responses do not comment on Defendant’s right to remain 
+silent or imply that Defendant invoked his right to remain si lent.  It is not clear from the record 
+that Defendant had invoked his right to remain silent at that point in his interview.  During  Officer 
+Wyatt’s testimony, he state d that “[Defendant] wouldn’t tell me his name” in response to the 
+State’s inquiry as to the identity of the person who was placed into custody at the scene.  Although 
+it is unclear from Officer Wyatt’s testimony whether Defendant was read his Miranda rights  prior 
+to being asked for his name, asking Defendant for his name or other identifying information is not 
+considered an interrogating question that require s Miranda warnings prior to questioning.  Thus, 
+Officer Wyatt’s response was not a comment on Defendant’s right to remain silent.  Detective 
+Seibel ’s and Officer Wyatt’s statements are admissible.  
+4. Defendant’s Objections to Hearsay Statements.  
+Defendant asserts that the grand jury transcript contains numerous examples of 
+inadmissible hearsay.  See Motion t o Dismiss, p p. 11- 13; 16- 20; Tr . p. 15, ll. 2- 9; p. 36, ll. 22- 25; 
+p. 97, ll. 8- 16; p. 135, ll. 10- 13; p. 136, ll. 10- 13; p. 279, ll. 10- 11; p. 283, ll. 2- 16; p. 365, ll. 8- 13; 
+p. 372, ll. 2- 4. MEMORANDUM DECISION AND ORDER DENYING DEFENDANT’S MOTION TO 
+DISMISS GRAND JURY INDICTMENT - 22 
+ Pursuant to I.C. § 19- 1105, “the grand jury can receive any ev idence that is given by 
+witnesses produced and sworn before them except as hereinafter provided, furnished by legal 
+documentary evidence, the deposition of a witness in the cases provided by this code or legally 
+admissible hearsay.”  Hearsay is an out of c ourt statement offered into evidence to prove the truth 
+of the matter asserted in the statement.  I.R.E. 801(c).  Hearsay is not admissible unless it falls 
+under one of the enumerated exceptions in Rules 803 and 804.  I.R.E. 802.  
+Detective Seibel testified  that Nampa Dispatch received a call at 12:46 in the morning.  Tr . 
+p. 15, ll. 2-9.  This testimony is not hearsay as it does not contain an out  of court statement because 
+Detective Seibel’s testimony was not about the content of the call received by Nampa Dispatch, 
+only the time the call was received.   Therefore, this testimony is admissible . 
+Officer Mills’s testimony that a  knife was found inside a bedroom at 1500 Ruby Court and 
+the knife was tested for the presence of blood is not hearsay.  Tr . p. 36, ll. 22- 25.  Defendant’s 
+objection that Officer Mills testified that the knife tested positive  for blood misstates the testimony.  
+There is no out  of court statement in this testimony, and this testimony is admissible.  
+Darlene Rodriguez  testified th at her father, Daniel Rodriguez, told her that Defendant told 
+him that it was self -defense.   Tr. p. 97, ll. 8- 16.  Defendant asserts that this testimony is hearsay 
+within hearsay.  “Hearsay within hearsay is not excluded by the rule against hearsay if each part 
+of the combined statements conforms with an exception to the hearsay rule.”  I.R.E. 805.  
+Defendant’s statement to Daniel is a party -opponent statement and is not hearsay.  However, 
+Daniel’s statement to Darlene Rodriguez  is an out  of court statement  offered for the truth of the 
+matter asserted that Defendant acted in self -defense.  Although this testimony is inadmissible 
+hearsay, this self -defense testimony likely  favors Defendant.  MEMORANDUM DECISION AND ORDER DENYING DEFENDANT’S MOTION TO 
+DISMISS GRAND JURY INDICTMENT - 23 
+ Maria Anguiano stated that she assumed Defendant hurt Mr. Garcia base d on what some 
+of her family members told her before the fights occurred.  Tr.  p. 135, ll. 10- 13.  The statements 
+made by family members to Maria are hearsay and are not admissible.  
+After viewing a video, Maria stated that she had been told one person in t he video was her 
+nephew, Omar.  Tr . p. 136, ll. 10- 13.  This statement is hearsay and is inadmissible.  
+Officer Wyatt’s testimony that he learned that the person who did the stabbings was inside 
+this house is not hearsay.  See Tr. p. 279, ll. 10- 11.  This statement is not being offered for its truth.  
+Instead, it is offered for the effect on the listener and explains why Officer Wyatt arrested 
+Defendant.   Therefore, his testimony is admissible.  
+Officer Wyatt, in response to a grand juror’s question, explaine d what he was told that  lead 
+to Defendant’s arrest .  Tr. p. 282, l. 22 – p. 283, l. 20.  The witnesses’ stateme nts to Officer Wyatt 
+are out of court statements  used to explain their effect on the listener.  Based in part on these 
+statements, Officer Wyatt enter ed the house and plac ed Defendant in custody and, therefore, his 
+testimony is admissible.  
+Defendant asserts that Christine Cannon testified that the coroner said that all the wounds 
+were similar in depth and size , but believed one wound may have been caused by a different 
+weapon than the rest of Mr. Garcia’s wounds without personal knowledge and that the testimony 
+is hearsay.  Tr . p. 365, ll. 8- 13.  Ms. Cannon’s testimony, in response to a grand juror’s question, 
+relays what the coroner said to her during Mr. Garcia’s autopsy.  Therefore, her testimony as to 
+what the doctor said is hearsay and is in admissible.  
+Detective Seibel testified that witnesses stated that Alexis scratched Defendant’s face.  
+Transcript, p. 372, ll. 2- 4.  This testimony is hears ay and is not admissible. 
+ MEMORANDUM DECISION AND ORDER DENYING DEFENDANT’S MOTION TO 
+DISMISS GRAND JURY INDICTMENT - 24 
+ 5. Defendant’s Objections to the State’s Leading Questions.  
+Defendant claims that the State engaged in improper leading questioning of Joey Anguiano 
+and Daniel Rodriguez.  See Motion to Dismiss, pp. 18- 19; Tr. p. 166, ll. 16 -25; p. 236, ll. 6- 8; p. 
+247, ll. 6- 11.  The State argues that its questions to Joey and Daniel were not leading because the 
+questions did not suggest a specific answer desired by the examiner.  Pursuant to I.R.E. 611(c), 
+“[l]eading questions should not be used on direct examination except as necessary to develop the 
+witness’s testimony.”  A question is leading “when it suggests to the witness the answer sought.”  
+Collins v. Parkinson, 98 Idaho 871, 873, 574 P.2d 913, 915 (1978).  The State’s  leading questions 
+to Joey Anguiano about the fight, even if improper, are only a summary of the testimony previously 
+given by Joey.  See Tr.  pp. 163- 67.  The Court does not find that this is prosecutorial misconduct.   
+Furthe rmore, the State’s question to Daniel Rodriguez whether he felt Defendant was trying to tell 
+Daniel to take the blame is not a leading question.  Daniel’s response was based on Defendant’s 
+comments to him when Defendant placed his knife in Daniel’s jacket pocket and his opinion based 
+on what he observed.  These questions were proper and Joey and Daniel’s responses are 
+admissible.  
+The State’s question to Daniel whether it was possible that it could have been Defendant 
+that accidentally cut him was an imprope r leading question.  Tr. p. 247, ll. 6- 11.  This question 
+suggested to Daniel the answer sought by the State, and is therefore  an improper leading question.  
+6. Portions of Darlene Rodriguez and Maria Anguiano’s Testimony Were 
+Speculative.  
+Defendant asserts that Darlene Rodriguez and Maria Anguiano’s testimony that they  
+assumed Defendant hurt the victim is speculative.  See Motion to Dismiss, pp. 17- 18; Tr. p. 97, l. 
+20 – p. 98, l. 4; p. 134, l. 11 – p. 135 l. 13.  The State argues that their  testimony was based on 
+their own observations, conversations with, or knowledge of, Defendant.  “Testimony is MEMORANDUM DECISION AND ORDER DENYING DEFENDANT’S MOTION TO 
+DISMISS GRAND JURY INDICTMENT - 25 
+ speculative when it theorizes about a matter as to which evidence is not sufficient for certain 
+knowledge.”  Adams v. State , 158 Idaho 530, 538, 348 P.3d 145, 153 (2015).   
+Darlene testifie d that she told Defendant that “it was his self -defense.”  Tr . p. 97, ll. 11- 13.  
+The State asked why she knew that Defendant hurt Mr. Garcia.  Tr.  p. 97, l. 14 – p. 98, l. 4.  Darlene 
+explained that she saw Mr. Garcia bleeding after the fight was over, and she knew that Defendant 
+had a knife.  However, Darlene’s response is speculative because she did not see Defendant pull 
+out his knife , did not see Defendant stab Mr. Garc ia, and merely believes that it i s possible that he 
+stabbed him .  Therefore, Darlene’ s testimony is in admissible.   
+Similarly, the State asked Maria why she told Defendant to say  he acted in  self-defense.  
+Maria made the following response: “Because when I was there, they were telling – when I got to 
+my sister’s house, they were telling me  that Josh and Alexis were coming over to hurt [Defendant].  
+So I assumed that since I heard that [Defendant] was hurt, that it was [Defendant] who hurt him 
+back.”  Tr . p. 135, ll. 9- 13.  Maria admitted that she never saw any weapons and did not see what 
+happened with Defendant, Mr. Garcia, and Daniel Rodriguez.  Maria’s testimony that she assumed 
+Defendant hurt Mr. Garcia is speculative and is in admissible.  
+7. The State’s Question  About  the Credibility of Another Witness  Was  
+Improper . 
+Defendant asserts that the State improperly comments on the credibility of another witness  
+by asking Omar Canchola whether another witness lied.  Tr . p. 197, ll. 16- 18.  The State argues 
+that, in an attempt to impeach Omar because of the conflicting testimony of another witness,  asking 
+Omar whether another witness was lying was not improper.  
+The Idaho Supreme Court has held that “a question calling for the opinion of one witness 
+as to the truthfulness of another … is clearly an invasion of the province of the jury, who are the 
+judges of the credibility of witnesses.”  State v. Perry, 150 Idaho 209, 229, 245 P.3d 961, 981 MEMORANDUM DECISION AND ORDER DENYING DEFENDANT’S MOTION TO 
+DISMISS GRAND JURY INDICTMENT - 26 
+ (2010).  Similarly, “the mere fact that the testimony of witnesses is conflicting only raises 
+questions as to the credibility of the witnesses and the weight to be given their testimony, and that 
+these questions are exclusively for the jury’s determination.”  State v. Bolton, 119 Idaho 846, 850, 
+810 P.2d 1132, 1136 (Ct. App. 1991).  Lay witnesses are prohibited from testifying on matters of 
+credibility.  Perry , 150 Idaho at 229, 245 P.3d at 981. 
+The State’s question to Omar whether he or another witness was lying about specific details 
+of the fight was improper.  It was improper for the State to invade the province of the grand jury 
+by asking Omar to testify about another witness’s credibility.  T his testimony is inadmissible.  
+8. Detective Seibel Did Not Make Improper Comments on the Weight of 
+Evidence. 
+Defendant claims that Detective Seibel improperly commented on the weight of the 
+evidence as to whether an expert could determine if a specific knife caused a specific wound.   
+Motio n to Dismiss, p. 20; Tr. p. 373, ll. 12- 25.  Based on her nine years of experience and training 
+handling crimes involving persons, specifically homicide cases, Detective Seibel testified th at, to 
+her knowledge, an expert is not able to determine whether a specific knife caused a specific wound.  
+Detective Seibel’s testimony did not comment on the weight of the evidence but was in direct 
+response to a grand juror’s question.  Therefore, this evidence is admissible.  
+9. Testimony Without Objections.  
+Defendant expresses concern about some testimony without stating an objection to th at 
+testimony.  Motion to Dismiss, pp. 18, 19; Tr . p. 133, ll. 4- 13; p. 139, ll. 1 -3; p. 370, ll. 13- 14; p. 
+371, ll. 21- 22.  The Court finds that t his testimony is admissible b ecause Defendant fail ed to raise 
+a specific objection to this testimony.  
+ 
+ MEMORANDUM DECISION AND ORDER DENYING DEFENDANT’S MOTION TO 
+DISMISS GRAND JURY INDICTMENT - 27 
+ E. The Indictment Will Not be Dismissed . 
+Defendant asserts that the State’s misconduct is prejud icial because he is in jail for a murder 
+charge, with a bond he is unable to pay, based on an indictment that is not supported by sufficient 
+legally admissible evidence.  The State argues that none of Defendant’s objections address the 
+competency of the ev idence presented by all the first -person testimony about what occurred, and 
+that, even if all of the objected -to testimony was inadmissible, there is an overwhelming amount 
+of testimony to justify the grand jury’s finding of probable cause.  
+Under the two- part inquiry articulated in Marsalis , supra, the grand jury received legally 
+sufficient evidence, independent of the inadmissible evidence, to support a finding of probable 
+cause that Defendant committed First Degree Murder.  The grand jury heard testimony that Mr. 
+Garcia was alive when he arrived at Ruby Court, that he was involved in a fight with Defendant, 
+and that he collapsed in the street  after that fight.  The grand jury also heard testimony that Mr. 
+Garcia  was dead when law enforcement arrived .  In addition, t hey heard evidence  that Defendant 
+had a knife and Mr. Garcia had 34 knife wounds on his body.  The grand jury also heard evidence 
+that Defendant said he was sorry shortly after the stabbing.  This evidence is sufficient to lead a 
+reasonable perso n to believe that there was probable cause that first degree murder was committed 
+and that Defendant committed the murder.  
+The State’s misconduct during the grand jury proceeding w as not so egregious as to be 
+prejudicial.  See Marsalis , 151 Idaho at 876, 264 P.3d at 984 (“‘Prejudicial effect’ means ‘the 
+defendant would not have been indicted but for the misconduct.’”).  As discussed in detail above, 
+the misconduct  include d presenting some inadmiss ible testimony and  invading the province of the 
+grand jury .  See Tr. p. 97, ll. 8- 16; p. 97, l. 11 – p. 98, l. 4; p. 135, ll. 9- 13; p. 136, ll. 10- 13; p. 197, 
+ll. 16- 18; p. 247, ll. 6- 11; p. 365, ll. 8- 13; p. 372, ll. 2- 4.  The State’s misconduct was not prejudicial to Defendant. As noted in the previous paragraph, the most persuasive evidence against Defendant
+was admissible and properly presented to the grand jury. Balancing the seriousness of the State’s
+misconduct against the extent of evidence supporting the indictment, the Court ﬁnds that
+Defendant was not prejudiced. Defendant likely would have been indicted even if the inadmissible
+evidence had not been presented.
+IV. ORDER
+Based on the foregoing, Defendant’s Motion to Dismiss Grand Jury Indictment is
+DENIED.
+DATED: 5/21/2021 04:12 PM
+MW Gene A‘. Petty
+District Judge
+MEMORANDUM DECISION AND ORDER DENYING DEFENDANT’S MOTION TO
+DISMISS GRAND JURY INDICTMENT - 28CERTIFICATE OFSERVICE
+Theundersigned certiﬁesthats/heservedatrueandcorrectcopyoftheoriginalofthe
+foregoing onthefollowing individuals Viathecourt’selectronic ﬁlingsystem:
+ouponcounselforthestate:
+CanyonCountyProsecuting Attorney
+ll15AlbanySt.
+Caldwell, ID83605
+criminaleﬁle@canyonco.org
+ouponcounselfortheDefendant:
+CanyonCountyPublicDefender
+111N.11thAve,Suite120
+Caldwell, ID83605
+pdmail@canyonco.org
+CHRISYAMAMOTO,
+ClerkoftheCourt
+5/21/2021 04:15PM
+EiﬁTaggd
+ByDeputyClerkothCourt
+MEMORANDUM DECISION ANDORDERDENYING DEFENDANT’S MOTION TO
+DISMISSGRANDJURYINDICTMENT -29

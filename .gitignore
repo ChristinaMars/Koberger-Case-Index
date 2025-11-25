@@ -205,3 +205,23 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# ================================
+# KOHRBERGER CASE INDEX DATA
+# ================================
+# Ignore raw PDFs so repo stays small
+data/pdfs/
+data/pdfs/*
+
+# Ignore partial download temp files
+*.part
+failed_downloads.log
+
+# ================================
+# Extracted Text Rules
+# ================================
+# Keep extracted text for indexing
+# (DO NOT ignore the whole folder)
+# Only ignore temp extraction junk
+data/text/*.tmp
+

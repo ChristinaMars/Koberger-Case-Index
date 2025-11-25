@@ -1,0 +1,329 @@
+STATE’S RESPONSE TO DEFENDANT’S MOTION TO STRIKE DEATH PENALTY  
+RE: AUTISM SPECTRUM DISORDER    1 
+ LATAH COUNTY PROSECUTOR’S OFFICE   
+WILLIAM  W. THOMPSON , JR., ISB No, 2613  
+PROSECUTING ATTORNEY  
+JEFF NYE , ISB 9238   
+SPECIAL ASSISTANT ATTORNEY GENERAL  
+Latah County Courthouse  
+522 S. Adams Street, Ste. 211  
+Moscow, ID 83843  
+Phone: (208) 883 -2246  
+ISB No. 2613  
+paservice@latah countyid.gov   
+ 
+ 
+ 
+ 
+ 
+IN THE DISTRICT COURT  OF THE FOURTH  JUDICIAL DISTRICT OF THE  
+ 
+STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA  
+ 
+ 
+ 
+STATE OF IDAHO,  Case No. CR 01-24-31665  
+                        Plaintiff,   
+ 
+V. STATE’S RESPONSE TO 
+DEFENDANT’S MOTION TO 
+STRIKE DEATH PENALTY   
+ 
+RE: AUTISM SPECTRUM 
+DISORDER  
+BRYAN C. KOHBERGER ,  
+                         Defendant.  
+ 
+ 
+ COMES NOW  the State of Idaho, by and through the Latah County Prosecuting Attorney , 
+and responds to Defendant’s Motion to strike the death penalty on account of his alleged diagnosis 
+of autism spectrum disorder  (“ASD”) . Defendant argues that it would violate the Eighth 
+Amendment’s prohibition on cruel and unusual punishment to impose a sentence of death because 
+he has ASD. His argument fails for multiple independent reasons .  
+ Electronically Filed
+3/17/2025 5:45 PM
+Fourth Judicial District, Ada County
+Trent Tripple, Clerk of the Court
+By: Jennifer Keyes, Deputy ClerkSTATE’S RESPONSE TO DEFENDANT’S MOTION TO STRIKE DEATH PENALTY  
+RE: AUTISM SPECTRUM DISORDER    2 
+  For starters, Defendant’s  argument contradicts both U.S. Supreme Court and Idaho 
+Supreme Court precedent. The only mental disability that precludes imposition of the death penalty 
+is intellectual disability  as defined in Atkins v. Virginia , 536 U.S. 304 (2002) and Idaho  Code § 19-
+2515A . No other mental illness qualifies unless and until the U.S. Supreme Court or the Idaho 
+Supreme Court holds differently. See State v. Dunlap , 155 Idaho 345, 380, 313 P.3d 1, 36 (2013).   
+ Even s etting that fatal flaw aside, Defendant  has failed to prove the requisite national 
+consensus to support his claim.  A critical part of that consensus is the actions of state legislatures 
+in addressing the punishment  Defendant now claims is prohibited under the Eighth Amendment. 
+Defendan t cites the actions of only two states : Ohio and Kentucky. His citations are both 
+insufficient  and inaccurate. See Atkins , 536 U.S. at 314 (observing “two state enactments . . . do 
+not provide sufficient evidence at present of a national consensus”) ; Ohio Rev. Code Ann. 
+§ 2929.025(A)(1)(a)  (prohibiting the execution of people with some mental illnesses but not 
+including  ASD); Ky. Rev. Stat. Ann.  § 532.130(3) (same).  
+ Finally, if two reasons to deny Defendant’s motion were not enough,  Defendant has not 
+shown that the rationale underpinning Atkins  applies to people with ASD. All the concerns in 
+Atkins  trace back to intellectual disability, and a person with ASD does not necessarily have 
+intellectual disabilities. Take, for example, Defe ndant, who was diagnosed with the least severe 
+form of ASD “ without  accompanying intellectual . . . impairment.”  (Mot., Ex. 2, p.16.) 
+ This Court should deny Defendant’s motion.        
+A. Idaho  law only prohibits  the death penalty for a  mentally disabled person  only when  
+the elements of Idaho Code § 19 -2515A  are proven , and Defendant has failed to do so.  
+ Consistent with the Eighth Amendment, Idaho law only prohibits the death penalty  for a 
+mental disability when the person  qualifies as  “mentally retarded.”  I.C. §  19-2515A; see Atkins , 
+536 U.S. at 306 -21. In Atkins , the U.S. Supreme Court put in place a constitutional prohibition on STATE’S RESPONSE TO DEFENDANT’S MOTION TO STRIKE DEATH PENALTY  
+RE: AUTISM SPECTRUM DISORDER    3 
+ the death penalty for “mentally retarded offender[s].” 536 U.S. at 321. But the Court left to the  
+states “ the task of developing appropriate ways to enforce the constitutional restriction .” Id. at 317. 
+Idaho chose to enforce this constitutional restriction by enacting Idaho Code §  19-2515A , which 
+defines “mentally retarded” in Idaho for purposes of the constit utional restriction on the death 
+penalty for those with mental disabilities. The Idaho Supreme Court has read the statutory 
+definition of “mentally retarded” to require proof of three elements: “ (1) an intelligence quotient 
+(IQ) of 70 or below; (2) significant limitations in adaptive functioning in at least two of the ten 
+areas listed; and (3) the onset of the offender ’s IQ of 70 or below and the onset of his or her 
+significant limitations in adaptive functioning both must have occurred before the of fender turned 
+age eighteen. ” Pizzuto v. State , 146 Idaho 720, 72 8-29, 202 P.3d 642, 650 -51 (2008).   
+ The Idaho Supreme Court has flatly rejected  Defendant’s argument.  See State v. Dunlap , 
+155 Idaho 345, 380, 313 P.3d 1, 36 (2013). In Dunlap , the defendant argued, like Defendant here, 
+that “the rationale underlying Atkins  . . . compels the same conclusion for mentally ill defendants.” 
+Id. The Idaho Supreme Court disagreed . See id.  The court did not evaluate how those with mental 
+illnesses com pare to the intellectually disabled discussed in Atkins  because it saw no need to do 
+so. See id.  The court  simply not ed that neither the U.S. Supreme Court nor any other court had 
+expanded Atkins  since it was decided.  See id.  (“We join these courts in holding that a defendant’s 
+mental illness does not prevent imposition of a capital sentence.”).  Dunlap  is fatal to Defendant’s 
+argument.  
+ Courts in other jurisdictions have similarly rejected efforts to expand Atkins  to other mental 
+disabilities, including ASD. See, e.g. , United States v. Roof , 10 F.4th 314 , 380 (4th 2021) . In Roof , 
+the defendant  “suffer[ed] from ‘autism spectrum disorder,’ ‘other specified schizophrenia 
+spectrum disorder and other psychotic disorder ,’ and ‘other specified anxiety disorder.’” Id. at 336. STATE’S RESPONSE TO DEFENDANT’S MOTION TO STRIKE DEATH PENALTY  
+RE: AUTISM SPECTRUM DISORDER    4 
+ He argued that he too should benefit from the rationale underlying  Atkins , but the Fourth Circuit 
+made short work of his argument. Id. at 380. The court found t he defendant “has no plausible 
+argument  that he is protected by Atkins ” because “[h]e has an IQ of 125.” Id. The court explained 
+that Atkins , and thus the Eighth Amendment, were limited to protecting  the intellectually disabled, 
+and Atkins  “specifically defined such disability as involving ‘subaverage intellectual 
+functioning.’” Id. (quoting Atkins , 536 U.S. at 321 ). “Although ‘significant limitations in adaptive 
+skills such as communication’ are part of the Atkins  test, they are not sufficient by themselves to 
+render a defendant mentally inca pacitated”  for purposes of the Eighth Amendment.  Id. (quoting 
+Hall v. Florida , 572 U.S. 701, 708  (2014) ); see also Petersen v. State , 326 So.3d 535, 628 (Ala. 
+Ct. App. 2019) (refusing to apply Atkins  to defendant with “bipolar disorder with psychotic 
+features, autism -spectrum disorder, a personality disorder, and schizophrenia”);  State v. Johnson , 
+207 S.W. 3d 24, 51 (Mo. 2006) (“Both federal and state courts have refused to extend Atkins  to 
+mental illn ess situations .”); State v. Hancock , 840 N.E.2d 1032, 1059 (2006) (refusing to extend 
+Atkins  because “ [m]ental illnesses come in many forms; different illnesses may affect a 
+defendant ’s moral responsibility or deterrability in different ways and to different degrees ”). 
+ Defendant  “has no plausible argument” that the Eighth Amendment prohibits the 
+imposition of the death penalty based on his ASD . His IQ of 119 is far above the required IQ of 
+70 or lower . His IQ testing prior to age 18 , while lower, is still above 70 and, as admitted by his 
+own expert, “[c]learly . . . an underestimate of his ability from what we now know .” (See Ex. D13 -
+B, p.7 & n.10 .) He has failed to prove two of the required three statutory elements  to enjoy the 
+Eigh th Amendment’s protection against the death penalty  on account of his alleged mental  
+disability . Idaho Code § 19-2515A  and the holdings in Atkins , Pizzuto , and Dunlap  therefore 
+require this Court to deny his motion . STATE’S RESPONSE TO DEFENDANT’S MOTION TO STRIKE DEATH PENALTY  
+RE: AUTISM SPECTRUM DISORDER    5 
+ B. Defendant ’s Eighth Amendment claim fails because he  cannot show evolving 
+standards of decency prohibit the death penalty for individuals with ASD .            
+ Even if this Court could go beyond  Dunlap , the conclusion remains the same: Defendant 
+has no plausible argument  under the Eighth Amendment . Defendant cannot show that evolving 
+standards of decency prohibit use  of the death penalty as to individuals with ASD, a requirement 
+of his Eighth Amendment Claim. As the Atkins  Court explained, “[p]roportionality  review under 
+those evolving standards should be informed by objective factors to the maximum possible extent .” 
+536 U.S. at 312  (internal quotations omitted). The Court has “pinpointed that the clearest and most 
+reliable objective evidence of contemporary values is the legislation enacted by the country’s 
+legislatures.” Id. (internal quotations omitted). It is only in “cases involving a consensus ” of state 
+legislatures that the Court has “brought to bear” its own judgment  on whether a penalty violates 
+the Eighth Amendment’s prohibition on cruel and unusual punishment. Id. 
+ Atkins  concluded  “a national consensus has developed against” using the death penalty  on 
+the intellectual ly disab led only after finding  that eighteen states had adopted legislation to that 
+effect , the Texas legislature had unanimously passed such a bill , and similar bills had passed in at 
+least one house in two other states. Id. at 315 -16. The Court found this number of states sufficient 
+given  “the consistency of the direction of change.” Id. at 315.  
+ Here, Defendant cites “[t]wo states”  to support his claim . (Mot. at 12  (citing Ohio and 
+Kentucky) .) That is two too many.  Ohio’s statute  applies only to schizophrenia, schizoaffective 
+disorder, bipolar disorder, and delusional disorder. See Ohio Rev. Code Ann. §  2929.025 (A)(1)(a). 
+Kentucky’s statute  is the same. See Ky. Rev. Code Ann. §  532.130(3).  All Defendant has 
+succeeded in proving is that Ohio and Kentucky revised their death penalty prohibitions within the 
+last five years and did not think it necessary to add  ASD a s a disqualifying condition.  That is not 
+the kind of “consistency” Defendant needs, and it  is the wrong “direction of change”  to support STATE’S RESPONSE TO DEFENDANT’S MOTION TO STRIKE DEATH PENALTY  
+RE: AUTISM SPECTRUM DISORDER    6 
+ his claim.  Atkins , 536 U.S. at 315.  
+ Defendant’s evolving standards argument goes downhill from there. He cites as proof  that 
+society has evolved to prohibit the use of the death penalty on individuals with ASD  three appellate 
+court decisions —two unpublished, all decided more than 15 years ago, and none involving the 
+death penalty. (Mot. at 12-13.) Defendant also cites media reports regarding  another death penalty 
+case where the defendant has  ASD. (Mot. at 13.)  None of those reports, however, call for or suggest 
+anyone else has called for a categorical prohibition on the death penalty for individuals with ASD.  
+Cf. Atkins , 536 U.S. at 31 3-14 & n.8  (noting “public protests” over the execution of an 
+intellectually disabled person because he was intellectually disabled and explaining the execution, 
+at least in part, caused “state legislatures across the country . . . to address the issue”).  Even the 
+defendant in that case , who is currently awaiting his execution , asserts his execution would violate 
+the Eighth Amendment because he is innocent —not because he has ASD.  See Petition1 at 62 
+(arguing the defendant “is actually innocent of the offense for which he was convicted and 
+sentenced to death” and “[h]is execution would therefore be cruel and unusual and violate his due 
+process rights under the Eighth and Fourteenth Amendments”).                  
+ Defendant has failed entirely to demonstrate any kind of consensus to support his claim 
+that individuals with ASD should be categorically precluded from receiving a sentence of death. 
+Thus, h e cannot  establish such a sentence violates the Eighth Amendment.  
+C. Autism spectrum disorder is not susceptible to Defendant’s categorical approach.  
+ This Court should reject Defendant’s attempt to group together all individuals with any 
+form of ASD for purposes of determining whether the Eighth Amendment prohibits imposition of 
+ 
+1 Petition for Commutation of Death Sentence to a Lesser Penalty, or, in the Alternative, a 180 -
+day Reprieve, and Request for an Interview and Hearing on the Matter, available at 
+https://drive.google.com/file/d/10tRZmfosl__j47r1Xn9QJuUvDeZ_LrYs/view   STATE’S RESPONSE TO DEFENDANT’S MOTION TO STRIKE DEATH PENALTY  
+RE: AUTISM SPECTRUM DISORDER    7 
+ the death penalty.  The U.S. Supreme Court’s categorical approach to the Eig hth Amendment in 
+the death penalty context has  focused on groups who by-and-large share the same characteristics. 
+See Atkins , 536 U.S. at 306 (concluding that all intellectually disabled people “do not act with the 
+level of moral culpability that character izes the most serious adult criminal conduct” because “of 
+their disabilities in areas of reasoning, judgment, and control of their impulses”); Roper v. 
+Simmons , 543 U.S. 551,  569 (2005) (expounding on “[t]he general differences between juveniles  
+under 18 and adults”  and stating its “reasoning applies to all juvenile offenders under 18”) .  
+ Unlike the intellectually disabled and minors, e veryone with autism spectrum disorder  does 
+not by -and-large share the same relevant characteristics  for purposes of the Eighth Amendment . 
+“The term ‘spectrum’ indicates that wide range of autistic symptoms and severity.” ( Supplemental 
+Response to Request for Discovery Regarding Expert Witnesses,  Ex. D13 -B, p.31. , filed 1/23/25 
+(“Ex.  D13-B”).) Defendant “would have met the DSM -IV criteria for Asperger’s disorder.” Id. 
+“Asperger’s disorder is a form of autistic spectrum disorder” and  even within that one subset of 
+ASD  “all individuals with Asperger’s are different.” Id.  One fluctuating co-occurring condition , 
+for example, is accompanying intellectual disability.  “It used to be estimated that 70 percent of 
+those with autistic spectrum  disorder have a degree of intellectual disability ,” but “that estimation 
+has changed to about 50 percent.” Id.   
+ Even if a categorical approach  to ASD  were appropriate, the Eighth Amendment analysis 
+would necessarily have to focus on those who have the least severe symptoms . This makes the 
+specific facts of Defendant’s case ideal because of his diagnosis. He was diagnosed with “Autism 
+Spectrum Disorder, level 1, without accompanying intellectual or language impairment.” (Ex. 2, STATE’S RESPONSE TO DEFENDANT’S MOTION TO STRIKE DEATH PENALTY  
+RE: AUTISM SPECTRUM DISORDER    8 
+ p.16.) Level 1 is the least severe of the 3 levels  of ASD .2 
+D. Defendant’s social impairment  from ASD does  not fall within the rationale 
+articulated in  Atkins  for prohibiting the death penalty of the intellectually disabled.  
+ Even if there were a consensus of state legislatures, Defendant has failed to show that his 
+social impairment from ASD falls within the rationale underpinning the Court’s “independent 
+evaluation”  in Atkins . 536 U.S. at 321.  The Atkins  Court gave three reasons  why it agreed with 
+“the legislatures that have rec ently addressed the matter” : (1) the lesser culpability of the 
+intellectually disabled does not merit the death penalty, (2) the death penalty does not act as a 
+deterrent for the intellectually disabled because they cannot process  the possibility of execut ion as 
+a penalty, and (3) the impairments of the intellectually disabled can jeopardize the fairness of their 
+proceedings.  See id.  at 306 -07, 317 -21. None of th ese reasons support striking the death penalty in 
+this case.    
+ First , Defendant has failed to show that his ASD would in any way make him less culpable 
+for murder . The Atkins  Court found the intellectually disabled less culpable because of the 
+“power ful evidence” of the “large number of States prohibiting the execution of m entally retarded 
+persons.” 536 U.S. at 315 -16. Defendant has no such evidence . See supra Part B. The evidence 
+Defendant has offered on that front proves the opposite: Kentucky and Ohio  found people with 
+specific  mental illnesses  less morally culpable, but they did not include people with ASD . See Ohio 
+Rev. Code Ann. §  2929.025(A)(1)(a); Ky. Rev. Stat. Ann. §  532.130(3).   
+ Nor do the specific factors discussed in Atkins  support Defendant’s argument . Atkins 
+explained  the intellectually disabled were less morally culpable because of “cognitive and 
+behavioral impairments” including “the diminished ability to understand and process information, 
+ 
+2 See Autism Spectrum Disorder (ASD), Center for Disease Control, available at 
+https://www.cdc.gov/autism/hcp/diagnosis/index.html .  STATE’S RESPONSE TO DEFENDANT’S MOTION TO STRIKE DEATH PENALTY  
+RE: AUTISM SPECTRUM DISORDER    9 
+ to learn from experience, to engage in logical reasoning, or to control impul ses.” Id. at 320.  
+Defendant’s ASD does not result in cognitive  impairments . He was diagnosed with  “Autism 
+Spectrum Disorder , level 1, without accompanying intellectual or language impairment.” (Ex. 2, 
+p.16.) His type of ASD  is “characterized by severe and sustained impairments in social interaction, 
+but not by cognitive ability .” (Ex. D13 -B, p.16 n.21.)  His examination revealed “no evidence of a 
+formal though t disorder or thought disorganization”  (Ex. D13 -B, p.18) , and “no evidence of 
+difficulty understanding” the examiner. ( Ex. 2, p.9.)  While Defendant’s ASD may cause  
+behavioral impairments such as  “[i]mpulsive tendencies ,” nothing in his reports suggest  such 
+impulsive tendencies manifest through physical aggression or that his lack of impulse control had 
+any connection to the crimes with which he is charged.  (Ex. 2, p.9.)   
+ Second , Defendant has failed to show that the imposition of the death penalty in his case 
+would not act as a deterrent to similarly situated individuals with ASD.  The Court expressed 
+concern in Atkins  that the intellectually disabled did not have the intellectual  capacity to “process 
+the information of the possibility of execution as a penalty and, as a result, control their conduct 
+based upon that information.”  536 U.S. at 320. Here, again, this does not apply to Defendant 
+because his ASD diagnos is excludes any a ccompanying intellectual impairment. (Ex. 2, p.16.) In 
+fact, one of Defendant’s own experts found that  he is “highly intelligent and has a factual 
+understanding of the proceeding s against him ” including “the penalty he is possibly facing.” (Ex. 
+D13-B, p.33 .) That is a n unsurprising conclusion given that his ASD did not prevent him from 
+graduating with “a master’s degree” in “Criminal Justice in January 2023 with a GPA of 4.0.” (Ex. 
+D13-B, p.9.)  
+ Third , Defendant has failed to show his ASD will jeopardize the fairness of the proceedings 
+against him.  Atkins  emphasized that people with intellectual disabilities are more prone to false STATE’S RESPONSE TO DEFENDANT’S MOTION TO STRIKE DEATH PENALTY  
+RE: AUTISM SPECTRUM DISORDER    10 
+ confessions , are typically poor witnesses, may be less able to give meaningful assistance to their 
+counsel , and may have demeanor that creates an unwarranted impression of lack of remorse for 
+their crimes.  See 536 U.S. at 320 -21 & n.25.  The Court also noted that “mental retardation as a 
+mitigating factor can be a two -edged  sword that may enhance the likelihood that the aggravating 
+factor of future dangerousness will be found by the jury.” Id. at 321.  
+ None of the Court’s concerns weigh in favor of striking the death penalty in this case. 
+Neither the concern about false con fession s nor the concern about a lack of remorse apply in this 
+case because Defendant has not confessed and “maintains that he is innocent of the offenses with 
+which he is charged.” (Ex. D13 -B, p.3.)  Even as a categorical matter, Defendant has provided no 
+evidence to suggest that people with ASD are more likely to falsely confess to a crime, which 
+sufficiently distinguishes them from the intellectual ly disabled people in Atkins . To the extent that 
+social impairments from ASD cause an unwarranted impression of a lack of remorse , that negative 
+reaction  is limited to those who  “do not understand autistic spectrum disorder” (Ex. D13 -B, p.32) , 
+and the defense can address ASD with the jury during the penalty phase —presumably the only 
+time Defendant would be interested in showing remorse.   
+ Moreover, neither of Defendant’s experts expressed concern about his current ability to 
+assist his counsel.  Instead, one expert  at least implied she does not current ly have that  concern 
+because she  recommended only that  “the attorneys monitor his competency throughout the 
+proceedings regarding his ability to assist in the preparation and presentation of his defense.” (Ex. 
+D13-B, p.33.)  
+ Similarly, Defendant’s reports do not support the concern that he would be a poor witness  
+in the same way an intellectually disabled person would be a poor witness . Atkins , 536 U.S. at 320 -
+21. The Atkins  Court did not explain what it meant when it said those with an intellectual disability STATE’S RESPONSE TO DEFENDANT’S MOTION TO STRIKE DEATH PENALTY  
+RE: AUTISM SPECTRUM DISORDER    11 
+ are “typically poor witness es,” but its overwhelming focus on lack  of intelligence suggests  it was 
+“the diminished ability to understand and process information.” Id. No evidence suggests 
+Defendant would have that prob lem. H e is “highly intelligent  and has a factual understanding of 
+the proceedings against him ” (Ex. D13 -B, p.33); his speech during his formal evaluation  was 
+“[f]luent, clearly articulated, and appropriate in rate and volume ” (Ex. 2, p.9); his language was  
+“[g]enerally appropriate in content and form, with no grammatical errors ” (Ex. 2, p.9); with respect 
+to his comprehension throughout the evaluation he “[a]ppeared intact”  and there was “no evidence 
+of difficulty understanding” the questioner (Ex. 2, p.9);  and “[h]e was never overtly inappropriate ” 
+(Ex. 2, p.8).  To the extent his report s suggest potential downsides as a witness, those downsides 
+are not significantly  differe nt than many witnesses  testifying in court for the first time . (See, e.g. , 
+Ex. 2, pp.8 -9 (lack of descriptive or emphatic gestures; atypical speech, tone, and cadence; 
+awkward interaction and lack of fluidity ; awkward comments ; and occasional intense gaze ).) 
+ Furthermore, Defendant has not shown that his ASD will “enhance the likelihood that the 
+aggravating factor of future dangerousness will be found by the jury.” Atkins , 536 U.S. at 321. 
+Nothing in Defendant’s reports suggests  that his ASD causes him to act violently or even more 
+aggressively. Indeed, “[h]e does not have a history of violence” other than one incident , years ago, 
+that neither expert attributes  to his ASD. (Ex. D13 -B, p.32.)                         
+E. The media attention in this case does not warrant  striking the death penalty under 
+the Eighth Amendment.    
+ Defendant’s argument related to the media finds no support in Atkins  or any other Eighth 
+Amendment case law.  If the Eighth Amendment does not pr eclude a sentence of death for people 
+with ASD —and it does not —that punishment does not suddenly become cruel and unusual in 
+violation of the Eighth Amendment merely because potential symptoms of Defendant’s ASD were 
+reported in the media.  The Sixth Amendment  protects Defendant’s right to a fair and impartial jury, STATE’S RESPONSE TO DEFENDANT’S MOTION TO STRIKE DEATH PENALTY  
+RE: AUTISM SPECTRUM DISORDER    12 
+ 
+and the extensive jury selection process this Court has planned will sufficiently vindicate that right.  
+Defendant  cites no case in any jurisdiction that has held or even suggested that  significant media 
+coverage can give rise to an  Eighth Amendment  claim of cruel and unusual punishment .    
+CONCLUSION  
+ For all the reasons stated above, this Court should deny Defendant ’s motion.  
+ 
+RESPECTFULLY SUBMITTED this 17th day of  March  2025.     
+ 
+ 
+___________________________________   ______ _________________________  
+William W. Thompson, Jr.     Jeff Nye  
+Prosecuting Attorney      Special Assistant Attorney  General   
+  STATE’S RESPONSE TO DEFENDANT’S MOTION TO STRIKE DEATH PENALTY  
+RE: AUTISM SPECTRUM DISORDER    13 
+ 
+CERTIFICATE OF DELIVERY  
+ 
+I hereby certify that true and correct copies of the STATE’S RESPONSE TO 
+DEFENDANT’S MOTION TO STRIKE DEATH PENALTY RE: AUTISM SPECTRUM 
+DISORDER  were served on the following in the manner indicated below:  
+Anne  Taylor  
+Attorney at Law  
+PO Box 2347  
+Coeur D Alene, ID 83816  
+ ☐  Mailed  
+☒  E-filed & Served / E -mailed  
+☐  Faxed  
+☐  Hand Delivered  
+ 
+ Dated this 17th day of March  2025. 
+ 
+ 
+__________________________________________  
+ 
+ 

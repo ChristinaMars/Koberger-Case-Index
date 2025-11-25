@@ -1,0 +1,1046 @@
+ 
+NOTICE OF FILING SUPPLEMENTAL AFFIDA VIT  IN SUPPORT OF STATE’S  
+RESPONSE TO DEFENDANT’S MOTION IN LIMINE #5  RE: INCONCLUSIVE DATA   1 
+ 
+LATAH COUNTY PROSECUTOR’S OFFICE   
+WILLIAM  W. THOMPSON, JR., ISB No. 2613 
+PROSECUTING ATTORNEY 
+JEFF NYE , ISB 9238  
+SPECIAL ASSISTANT ATTORNEY GENERAL  
+Latah County Courthouse 
+522 S. Adams Street, Ste. 211 
+Moscow, ID 83843 
+Phone: (208) 883-2246 
+paservice@latah countyid.gov  
+ 
+ 
+IN THE DISTRICT COURT  OF THE FOURTH JUDICIAL DISTRICT OF THE  
+ 
+STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA  
+ 
+STATE OF IDAHO,  Case No. CR 01-24-31665  
+                        Plaintiff,   
+ 
+V. NOTICE OF FILING 
+SUPPLEMENTAL AFFIDAVIT  
+IN SUPPORT OF STATE’S  
+RESPONSE TO DEFENDANT’S 
+MOTION IN LIMINE #5  
+BRYAN C. KOHBERGER , RE: INCONCLUSIVE DATA  
+                         Defendant.  
+ 
+ 
+ COMES NOW  the State of Idaho, by and through the Latah County Prosecuting Attorney, 
+and submits  the supplemental Affidavit of Christian Westring  attached as Exhibit S -1 in support 
+of the State’s Response to Defendant’s Motion in Limine  #5 RE: Inconclusive Data filed on March 
+17, 2025.  
+ RESPECTFULLY SUBMITTED this  7th day of April 2025.     
+ 
+ 
+___________________________________          
+William W. Thompson, Jr.     Jeff Nye  
+Prosecuting Attorney       Special Assistant Attorney General  
+ 
+ 
+  Electronically Filed
+4/7/2025 12:17 PM
+Fourth Judicial District, Ada County
+Trent Tripple, Clerk of the Court
+By: Jennifer Keyes, Deputy Clerk 
+NOTICE OF FILING SUPPLEMENTAL AFFIDA VIT  IN SUPPORT OF STATE’S  
+RESPONSE TO DEFENDANT’S MOTION IN LIMINE #5  RE: INCONCLUSIVE DATA   2 
+ 
+CERTIFICATE OF DELIVERY  
+ 
+I hereby certify that true and correct copies of the NOTICE OF FILING SUPPLEMENTAL 
+AFFIDAVIT  IN SUPPORT OF STATE’S RESPONSE TO DEFENDANT’S MOTION IN 
+LIMINE #5  RE: INCONCLUSIVE DATA were served on the following in the manner indicated 
+below:  
+Anne  Taylor  
+Attorney at Law  
+PO Box 2347 
+Coeur D Alene, ID 83816  
+ ☐  Mailed  
+☒  E -filed & Served / E -mailed  
+☐  Faxed  
+☐  Hand Delivered  
+ 
+ Dated this  7th day of April  2025. 
+ 
+ 
+__________________________________________ 
+ 
+  
+ 
+Page 1 of 25 
+       AFFIDAVIT                
+                              
+April 5th, 2025                  
+ 
+ 
+William W. Thompson, Jr.  
+Latah County Prosecuting Attorney  
+522 S. Adams St., Ste. 211  
+Moscow, Idaho 83843  
+ 
+ 
+RE: Case Name:  Idaho  v. Bryan C. Kohberger   
+Gustav & Sons Case Number : GS20 25-001 
+ 
+Background and Professional Qualifications  
+1) I hold a doctoral degree in Biology  from the University of Denver.  I have more than 20 years of  
+professional experience as a forensic biologist .  I have  worked on  hundreds, if not thousands, of  
+cases involving complex issues pertaining to serological testing and forensic DNA  analysis.  
+2) I have  and have been qualified as an expert witness molecular biology and forensic biology in 
+state (Pennsylvania, New Jersey, New York, North Carolina , Connecticut ), and local (Superior 
+Court of the District of Columbia) courts.  
+3) I am the owner and principal investigator at Gustav & Sons, LLC, a forensic science company 
+providing consultative services to crime laboratories, law enforcement agencies, and legal 
+officials /practitioners.  
+4) I am the Laboratory Director for Niagara County Sheriff’s Office Forensic Laboratory – an 
+accredited forensic science laborator y in the state of New York  providing testing services in 
+forensic biology, drug chemistry, toxicology , firearms and tool marks.  
+5) I served as the D irector for the Center for Crime and Forensics at Purdue University Northwest , 
+with the rank of Professor of Practice  in the College of Engineering and Sciences . I taught 
+university courses  at the undergraduate  and post-graduate level in forensic science, including 
+serology and the analysis of autosomal Short Tandem Repeat (STR) DNA and lineage specific 
+(Y-STR and mitochondrial) DNA analyses.  
+ 
+ 
+Page 2 of 25 
+ 6) I served as Laboratory Director at NMS Labs, a n accredited forensic science laborator y system  
+providing testing services in forensic biology, drug chemistry, blood alcohol content, fingerprints, 
+firearms and tool marks, and crime scene analysis.  
+7) I have also s erved as the Quality Manager , where I  was responsible for maintaining the Quality 
+Assurance program, including implementing the FBI Quality Assurance Standards for DNA 
+Testing Laboratories (“QAS”), the recommendations of the Scientific Working Group on DNA 
+Analysis Methods (“SWGDAM”), and the  recommendations of the International Society for 
+Forensic Genetics (“ISFG”), and facilitating the ANAB accreditation program.  
+8) I have been qualified as a certified DNA assessor where I was responsible for all aspects of quality 
+assurance and accreditation compliance, including adherence to recognized standards from ISO 
+17025, ASCLD/LAB Supplemental Requirements, and the FBI Quality Assurance Standards for 
+DNA Testing Laboratories (QAS).  
+9) I am a member of the Biological Data Interpretation and Reporting Subcommittee for the 
+Organization of Scientific Area Committees (OSAC). OSAC is a joint initiative of NIST and the 
+Department of Justice to support the development and promulgation of forens ic science standards 
+and guidelines for the United States. My specific focus is the development of standards and 
+guidelines related to forensic laboratory DNA interpretation . In this capacity, I currently serve as 
+the Chair for the Thresholds Task Group , and I’m also  a member of the leadership team for the 
+Terminology Task Group.  
+10) I have served as the Serology and Trace DNA Technical Leader in the Section for Forensic 
+Genetics at the University of Copenhagen (Denmark). Through the Department of Forensic 
+Genetics, I have conducted training programs in DNA analysis and forensic biolog y for law 
+enforcement and the legal community.  
+11) In connection with my professional positions in forensic science, I have conducted training 
+programs in forensic biology, evidence handling for crime laboratories, law enforcement 
+agencies, and legal professionals.  
+12) I am a member in good standing of the International Society for Forensic Genetics, the American 
+Academy of Forensic Sciences and the American Society of Crime Laboratory Directors, and I 
+contribute to the field of forensic biology through publication in pr ofessional peer -reviewed 
+literature; my publications are set forth in my curriculum vitae, attached hereto as Addendum A.  
+13) I am the Principal Investigator in the forensic science research program at the Niagara County 
+Sheriff’s Office Forensic Laboratory . I also have productive research collaborations with  a broad 
+range of labs and/or organizations, including UC Davis , the BATFE,  NFSTC , University of 
+Denver , Center for Forensic Science, Research, and Education, among others.  My research 
+program s in forensic  science are focused on  some of the  complex issues faced by working crime 
+laboratories, including  various  aspects of forensic DNA analysis .  This includes DNA  recovery  
+techniques , DNA inhibition from firearms and explosives, and the a pplication of mathematically 
+derived thresholds for DNA STR interpretation .  Previous research activities have been funded  
+ 
+Page 3 of 25 
+ by the National Institute of Justice Forensic DNA Research and Development program, the 
+Department of Defense, the National Institutes of Health and the National Science Foundation.  
+14) Additional experience and qualifications are provided in the attached CV.  
+15) As part of my professional position, I have served as an independent DNA expert  in forensic 
+biology  on matters pertaining to serology/DNA testing, review of DNA discovery materials, and 
+providing expert opinion and testimony at trial, pretrial hearings, and depositions. I am very 
+familiar with the types of discovery materials that are produced by case -working laboratories in 
+the course of laboratory testing.  
+16) As a DNA expert, I am familiar with how to bridge best -practice recommendations from 
+professional organizations, such as the Scientific Working Group on DNA Analysis Methods 
+(SWGDAM), and the recommendations from the International Society for Forensic Gene tics 
+(ISFG), with forensic laboratory testing procedures.  
+17)  I was retained by the Latah County Prosecutors Office (William W. Thompson, Jr., Prosecuting 
+Attorney) in the matter of Idaho  v. Bryan C. Kohberger  to review the DNA testing conducted by 
+the Idaho  State Police Forensic Services  (hereafter, ISP Lab)  and the computational analysis  of 
+the ISP data  conducted by  Cybergenetics  (Pittsburgh, Pennsylvania) . 
+18) I have reviewed the ISP laboratory report  authored by analyst Jade Miller ( dated February 6, 
+2023) in regard s to the results of DNA testing  of Item 13.1 ( sample from bo dy of person A, 
+Madison Mogen) . I have also been provided with, and have carefully reviewed, the discovery 
+materials provided by Cybergenetics including the associated case file  (pdf file)  for TrueAllele  
+containing the files generated during the computational analysis . Lastly , I have also reviewed  the 
+standard operating procedures and associated validation reports produced by the ISP Lab . 
+19) As part of  my review, I have taken into consideration the applicable recommendations from 
+SWGDAM ; OSAC; the Office of the US Attorney General; the National Commission on Forensic 
+Science and the President’s Council of Advisors on Science and Technology. These documents 
+provide recommendations for forensic casework analyses that are intended to promote rigoro us, 
+scientifically sound, and reliable forensic DNA testing and data interpretation . 
+ 
+Fundamentals of Human DNA Testing for Forensic Applications  
+  
+20) By way of technical background, there are various validated approaches to the analysis of human 
+biological material (serology and/or DNA) for forensic applications. This includes commercial 
+chemistries that are used to analyze samples for the presence of biological fluids/cells ( e.g. blood, 
+semen, saliva, etc.), as applicable.  In addition, other commercial chemistries are used to analyze 
+human (male and female) autosomal/nuclear chromosomes ( i.e., chromosomes other than the X 
+or Y chromosomes), and male -specific chemistries that are used to selectively an alyze the human 
+male Y chromosome. Lastly, some samples may also be tested for mitochondrial DNA (mtDNA) 
+sequencing, when appropriate.   
+ 
+Page 4 of 25 
+ 21) Following DNA extraction, using the current generation of commercial DNA quantitation kits 
+(e.g., ABI Quantifiler ™ Trio DNA Quantification Kit, Promega’s PowerQuant ™ System, 
+Plexor® HY System, or similar) it is possible to  quantify  the total yield  of human and Y - 
+chromosome ( male specific ) DNA prior to downstream  DNA analysis.  DNA quantitation is 
+routinely employed by forensic testing laboratories to determine the quantity of human (and male) 
+DNA and  is required by CODIS participating laboratories . It is possible to reliably and 
+reproducibility detect human/male DNA from only a  one human cell  1 2 3. 
+22) In general, autosomal and Y -chromosome analyses employ comparisons of the genotypes present 
+at Short Tandem Repeat (STR) loci to that of known DNA profile (with the exception of DNA 
+base searches).   
+23) Following amplification (all DNA  STR analyses), specialized genetic analysis software ( e.g., 
+GeneMapper® IDX, GeneMarker®, OSIRIS, Sequencher®, etc.) is used to analyze the detected 
+signal that meets laboratory -predefined quality criteria for interpretability and /or reporting.   
+24) Using the Promega PowerPlex® Fusion System in combination with the Applied Biosystems 
+3130 or 3500xL Genetic Analyzer detection instrument, it is possible to reliably and 
+reproducibility detect complete DNA profiles from approximately 100 picograms  (.1ng)  of DNA 
+(approximately 17 human cells) and partial DNA profiles from 50 picograms of DNA (9 or fewer 
+human cells) , or less . This level of sensitivity makes it possible to detect and characterize human 
+DNA from a wide variety of evide nce, including  touched o bjects4.      
+25) No DNA profile is considered  or known  to be absolutely unique to any individual human. The 
+use of the term “match” in the context of DNA testing, therefore, means that two profiles ( e.g., a 
+reference profile and an evidentiary profile) cannot be distinguished from each other at the points 
+of comparison for which genetic data are available. Different DNA typing technologies have 
+different capabilities with respect to the power  of discrimination between  different humans. 
+Autosomal  STR testing has the highest power of discrimination such that the chance that an 
+unrelated person selected at random from the general population will “match” the full DNA 
+profile from an item of evidence by coincidence is less than one in 1 in 7 trillion. Male Y -STR 
+DNA profiles and mtDNA profiles (both called haplotypes) are shared by all paternally related  
+males and all maternally related persons (males and females), respectively. As a result, the power 
+of discrimination associated with YSTR and mtDNA profiles is significantly less such that the 
+chance that an unrelated person selected at random from the ge neral population will “match” the 
+ 
+1 Applied Biosystems (2017) Quantifiler ™ HP and Trio DNA Quantitation Kits USER GUIDE, Publication Number 
+4485354 (https:// tools.thermofisher.com/content/sfs/manuals/4485354.pdf ) 
+2 Promega PowerQuant® System TECHNICAL MANUAL, Revised 1/20, TMD047 ( https://www.promega.com/ -
+/media/files/resources/protocols/technical -manuals/101/powerquant -system -technical -manual.pdf ) 
+3 Promega Plexor® HY System for the Applied Biosystems 7500 and 7500 FAST Real -Time PCR Systems, Revised 
+09/17 TM293 ( https://www.promega.com/ -/media/files/resources/protocols/technical -manuals/0/plexor -hy-system -for-
+the-applied -biosystems -7500 -and-7500 -fast-real-time-pcr-systems -protocol.pdf?la=en ) 
+4 PowerPlex® Fusion System for Use on the Applied Biosystems® Genetic Analyzers Technical Manual (revised 7/20)  
+(https://www.promega.com/ -/media/files/resources/protocols/technical -manuals/tmd/powerplex -fusion -system -
+protocol.pdf?rev=55bf6471c78e44549d5e49c15ef5bb6e&sc_lang=en )  
+ 
+Page 5 of 25 
+ full Y -STR or mtDNA haplotype from an item of evidence by coincidence is typically measured 
+as being one in only several hundred to several thousand. As the quality of a DNA profile  
+decreases, so too does the power of discrimination and the change of an adventitious “match”.   
+Hence, partial and/or degraded profiles should be viewed with caution.  
+26) Partial/Incomplete DNA profiles/haplotypes occur when genetic data are obtained for only a 
+portion of the points of comparison that were targeted. There are several reasons why only a 
+partial profile/haplotype might be obtained from an item of evidence. Th e amount of DNA 
+recovered for testing may be “limiting” ( i.e., trace DNA) relative to the sensitivity of the DNA 
+profiling kit employed; the DNA may be partially degraded ( i.e., chemically/environmentally 
+broken down) and/or the user -defined interpretation  criteria ( e.g., basis used to identify DNA 
+alleles) may result in an artificial loss or failure to evaluate data at some points of comparison.  
+The interpretation of partial profiles, therefore, must be approached with heightened caution.  
+27) The interpretation of DNA profile/haplotype data typically involves comparisons between 
+known/reference profiles and questioned/evidentiary profiles. The purpose of comparing known 
+and questioned profiles is to determine whether a profile of interest may b e excluded as a potential 
+contributor. In some cases, it may be the opinion of the analyst that the comparison is inconclusive  
+as of complex mixtures, limited data sets, degradation, and other common factors.  
+28) Comparisons that result in an opinion of “can be excluded” or “inconclusive” may be  reported 
+without the need to calculate a statistical weight for the opinion , however, Likelihood Ratio 
+calculations may be reported in these instances (and may be reported as the reciprocal = 1/LR) . 
+In contrast to this, a comparison that results in an opinion of “cannot be excluded” (or other 
+linguistic equivalent) generally requires that the significance/weight associated with a “match” 
+be calculated using appropriate stati stical tools. Without an estimate/indication of the weight of a 
+“match”, the comparison is not helpful or meaningful.   
+29) With respect to DNA profiles/haplotypes, the statistical measure of the weight of an opinion of 
+“cannot be excluded” is typically based on the statistically estimated rarity of a coincidental match 
+to the DNA profile of interest. This depends on a number o f factors including, but not limited to, 
+the completeness of the profile/haplotype.  
+30) No DNA testing technology is considered to be absolute in its ability to detect human DNA.  In 
+other words, it is well understood in the field of molecular biology and forensic genetics that all 
+DNA testing chemistries, including DNA quantitation and STR a mplification, have defined limits 
+of sensitivity/detection as is usually described in the user manual.  A negative result (where the 
+controls work appropriately and as expected) can either be interpreted as “no DNA detected”, or, 
+“less than a detectable qu antity of DNA is present for the given technology”.  Based on these 
+results, it is not possible to distinguish between these two alternatives.  
+ 
+ 
+ 
+  
+ 
+Page 6 of 25 
+ Fundamentals of Human DNA Profiles and their Interpretation  
+ 
+31) There are various technologies used for human identification, including the Promega PowerPlex® 
+Fusion System  utilized by the ISP Lab in this case.  DNA testing results are derived through the 
+application of a commercial DNA amplification kit  followed by the interpretation of the profile 
+employing  genetic analysis software for each sample.  The PowerPlex® Fusion System amplifies 
+human DNA at up to 2 2 locations on autosomal chromosomes and 3 locations  (Amelogenin X, 
+Y, and DYS391) on the sex chromosomes .   
+ 
+32) These locations on the DNA are known as “locus” if singular and “loci” if plural. Loci serve as a 
+“points of comparison” to determine whether or not two DNA profiles match. At each locus, 
+specialized genetic analysis software ( e.g., GeneMapper® IDX, GeneMarker®, OSIRIS , etc. ) 
+analyzes the detected signal (called “peaks”) that meet laboratory predefined criteria for height, 
+size and shape.   
+ 
+33) These peaks represent different variants of the DNA sequence that is present at each locus. These 
+variants are called alleles  and are designated by a numerical value (e.g. 7, 9) . Using the Promega 
+PowerPlex® Fusion System , each person present in a sample typically contributes one peak (if 
+homozygous  7, 7) and two peaks (if heterozygous  7, 9) per locus.   Allele numbers will generally 
+vary between humans, hence, their utility in human identification.  
+   
+34) These alleles ( peaks ) are identified, measured and labeled with such descriptors as peak height 
+(in Relative Fluorescence Units, or “RFUs”).  Using system -defined reference points (known as 
+allelic ladders), the genetic analysis software also labels the peaks at each locus .  
+ 
+35) Human alleles are designated by numerical values called “allele numbers,” and the relative peak 
+height is measured in RFU. Using the Globalfiler® kit as an example, at locus D3S1358, an 
+individual could have two peaks (e.g., a heterozygote) at allele posit ions 15 and 16, with a peak 
+height of 1,624 and 917 RFU, respectively. The same individual at locus CSF1PO could have one 
+peak at position 11 with a height of 360 RFU.  As is the case with some  low level DNA samples, 
+this individual did not produce results  at the TPOX locus , also known as complete “dropout”. 
+Figure 1  below  illustrates these points  along with several of the salient features associated with 
+autosomal DNA profiles that are discussed herein  (the use of the Globalfiler kit here is for 
+demonstrative purposes only) . 
+ 
+ 
+ 
+ 
+THIS SPACE INTENTIONALLY LEFT BLANK  
+  
+ 
+Page 7 of 25 
+ 36) Figure 1. AmpFLSTR® Globalfiler® PCR Amplification Kit, blue channel.  
+ 
+ 
+ 
+Figure 1: Example of a portion of a female DNA profile generated with the AmpFLSTR® Globalfiler® PCR 
+Amplification Kit.  Shown are five loci from the blue channel.   Key elements of DNA profile, such as locus names, 
+allele designations, peak height(s), and scales have marked accordingly.  
+ 
+37) When using the Promega PowerPlex® Fusion System , a “match” between a known autosomal 
+DNA profile (e.g., a reference profile f rom a person of interest ) and the autosomal DNA profile 
+developed from an item of evidence ( i.e., a questioned sample ) requires that the profiles be 
+identical at each locus. In other words, at each of the up to 22 loci analyzed  (excluding X, Y 
+chromosome markers) , the allele numbers for the reference profile must be exactly the same as 
+the allele number for the questioned profile.  If at any one or more of the 22 loci analyzed the 
+allele numbers of the reference autosomal DNA profile differs from the allele nu mber of the 
+questioned autosomal DNA profile, that means that the reference profile cannot be the 
+source of the DNA obtained from the item of evidence.  In such cases, the reference profile is 
+said to be excluded as the source of the questioned DNA profile.  
+  
+38) Partial/Incomplete DNA profiles occur when alleles are obtained for only a portion of the loci 
+analyzed (see Figure 1, “Allele Dropout” ). There are several reasons why only a partial profile 
+might be obtained from an item of evidence. The amount of DNA recovered for testing may be 
+“limiting” ( i.e., low quantity of  DNA  recovered ); the DNA may be partially degraded ( i.e., 
+chemically broken down) and/or the user -defined interpretation criteria (e.g., analytical threshold) 
+may result in an artificial loss of al lelic data at some points of comparison.  The interpretation of 
+DNA matches based on partial profiles, therefore,  must be viewed with caution . On the one 
+hand, it is possible that missing allel ic data could further confirm a potential match between a 
+reference and questioned profile. Conversely, missing data could exclude an individual who 
+appears to match based on a partial/incomplete profile.  
+ 
+39) The interpretation of a DNA profile is followed by statistical analysis that provides mathematical 
+weight for the conclusion.  The Likelihood Ratio is the preferred model.  LR  programs 
+(calculations) are generally based on two models:  1) a fully continuous model that considers 
+ 
+ 
+Page 8 of 25 
+ more data within the electropherogram ( e.g. allele call, allelic peak height value, peak height 
+balance, stutter values,  drop-in, drop -out, number of contributors to the sample  etc.), and 2) a 
+semi -continuous model , which are limited to few er parameters ( e.g. allele call and population 
+frequencies for each allele, number of contributors  to sample , drop -in, and drop out) but does not 
+consider peak height values  or stutter .  The higher the LR the stronger the evidence . 
+Fundamental s for Establishing an Analytical Threshold  for the Detection of Allelic Data  
+ 
+40) The purpose of an analytical threshold is to facilitate the identification of DNA peaks that 
+represent actual alleles as opposed to instrumental noise5.  In the published 201 7 SWGDAM  
+Interpretation  Guidelines for Autosomal STR Typing by Forensic DNA Testing Laboratories, 
+sections 1.1 address es the need for  laboratories to develop  a scientifically sound analytical 
+threshold for the detection of interpretable peaks in a DNA profile.  These sections specifically 
+state:  
+ 
+41) “1.1 Analytical threshold: The analytical threshold should be based on signal -to-noise analyses 
+of internally derived empirical data. An analytical threshold defines the minimum height 
+requirement at and above which detected peaks can be reliably distingui shed from background 
+noise. Because the analytical threshold is based upon a distribution of noise values, it is expected 
+that occasional, non -reproducible noise peaks may be detected above the analytical threshold. 
+Usage of an exceedingly high analytical threshold increases the risk of allelic data loss.” 6  
+ 
+42) “1.6 Non -allelic peaks: Because forensic DNA typing characterizes STR loci using PCR and 
+electrophoretic technologies, some data that result from this analytical scheme may not represent 
+actual alleles that originate in the sample. It is therefore necessar y, before the STR typing results 
+can be used for comparison purposes, to identify any potential non -allelic peaks. Non -allelic 
+peaks may be PCR products (e.g., stutter, non -template dependent nucleotide addition, and non -
+specific amplification product) or instrumental artifacts (e.g., spikes, raised baseline, and 
+incomplete spectral separation resulting in pull -up or bleed -through).”  
+  
+43) “1.6.1 The laboratory must establish criteria based on empirical data (obtained internally or 
+externally), and specific to the amplification and detection systems used, to address the 
+interpretation of non -allelic peaks. These guidelines should address identification of nonallelic 
+peaks and the uniform applica tion, across all loci of a DNA profile, of the criteria to identify non -
+allelic peaks.”  
+44) “1.6.1.1 In general, the empirical criteria are based on qualitative and/or quantitative 
+characteristics of peaks. As an example, dye artifacts and spikes may be distinguished from allelic 
+ 
+5 Instrument noise is the  ever present  background electronic signal originating from the detec tion instrument hardware 
+itself and should not be confused with artifacts  and other forms of non -allelic data.   
+6SWGDAM Interpretation Guidelines for Autosomal STR Typing by Forensic DNA Testing Laboratories – APPROVED 
+01/12/2017 Rev 07/13/2021 .  
+ 
+Page 9 of 25 
+ peaks based on morphology and/or reproducibility. Stutter and non -template dependent 
+nucleotide addition peaks may be characterized based on size and amplitude relative to an allelic 
+peak.”  
+45) It is my professional opinion that the color (dye channel) specific thresholds are scientifically 
+sound and should  be based on generally accepted methods in the relevant scientific  DNA 
+community.    
+46) It is important to note that as of this writing, there is no published standard that dictates  how 
+to determine or apply an analytical threshold .7  Rather, published guidelines and  peer-
+reviewed publications provide several examples of how to determine an analytical threshold 
+derived empirical data  from each laboratory .  Therefore, laboratories routinely apply different 
+analytical thresholds for the same DNA typing chemistry and/or  instrumentation based on 1) data 
+acquired through requisite internal validation studies conducted by the laboratory, and /or 2) 
+adjustments made based internal laboratory policy.  
+47) Furthermore, the application of  various  Probabilistic Genotyping  systems, TrueAllele® , 
+STRmix ™, DNA View Mixture Solution, etc.  may also employ different methods for applying 
+an analytical threshold.  They may range from as low as 1 RFU  for all color channels;  use color 
+specific thresholds ; or, they may employ one global RFU value  for all thresholds  in all colors  
+based on laboratory derived empirical data .  Here, each peak that is detected above the analytical 
+threshold is given a mathematical “weight” and is incorporated into the final Likelihood Ratio 
+(LR) calculation.  These methods are also generally accepted in  the relevant  scientific community.  
+48) Various data sets  obtained through internal validation used to assess empirically derived 
+analy tical threshold (s) may differ slightly from  run to run on the same instrument, AND,  may 
+also vary slightly from instrument to instrument.  In some cases, laboratories may decide to apply 
+one global analytical threshold  to all instruments within the lab/system  (e.g. as documented in the 
+ISP Lab Biology/DNA Casework Analytica Methods, issued 12/09/2022 – page 73/105 – 4.2.2 – 
+Peak Amplitude Threshold was empirically established as 75 rfu in all colors.  Peaks below 75 
+rfu are deemed inconclusive. ).  This practice  may employ either the lowest or highest analytical 
+threshold or  may even employ the average across all of the instruments in the laboratory.   
+Ultimately, the laboratory must decide which procedures are best suited  for its operations  based 
+on in ternal validati on. 
+49) Naturally, the application of different analytical thresholds to the same data set may result in  the 
+detection of more or less DNA peaks  (data).  The higher the analytical threshold, the fewer  low-
+level peaks will be detected.  Naturally, d ifferences in allele  detection  between two data sets  may 
+result in differ ing opinion s on whether a DNA profile is partial of full at all queried loci, number 
+of contributors, and/or the potential source of the DNA .  This is especially true w hen low level 
+DNA peaks are present in the profile in question , particularly in mixed DNA profile s.  Such 
+ 
+7 A standard is high authority document, such as the FBI Quality Assurance Standards for Forensic DNA Testing 
+Laboratories, that specifies a requirement for compliance.  Guidelines are generally lower in authority and represent 
+“best practice” recommendation s from the scientific community.   
+ 
+Page 10 of 25 
+ differences may be subtle, or they can be substantive depending on the complexity of the DNA 
+profile.   Generally speaking, the more complete  the data  set, the higher the confidence in the 
+interpretation of the profile.  
+50) The analytical threshold is set within the analysis software (GeneMarker, GeneMapper IDX, 
+OSIRIS, or other similar software) as a user -defined value such that the software will not 
+recognize (as a potential allele) any DNA peaks that fall below the analytical threshold .  For 
+example, when employing a 50 RFU analytical threshold in the blue channel for the data set in 
+Figure 3, no DNA peaks having a height of  less than 50 RFU were detected by the analytical 
+software.  However, with the use of a validated  analytical threshold of 29 RFU , the software 
+recognizes alleles at multiple loci (see Figure 2 on the next page ). 
+ 
+51) Figure 2. Visual representation of the impact of using two different thresholds for the same data  
+ 
+Figure 2: The application of different analytical thresholds are demonstrated with the same data set .   (Top) Failure 
+to detect DNA alleles occurs when employing a 50 RFU analytical threshold.   (Bottom) Reanalysis of the same data 
+using a lower detection threshold , but that falls within the validated range of values for the blue color channel  derived 
+through internal validation , allows for the detection of four DNA peaks. Note that in both the top and bottom panels, 
+the instrument noise level remains well below the analytical threshold. (Peak labels show allele number followed by 
+peak height in RFUs).  This example does not rely upon  data from this case and is only intended to demonstrate 
+the impact of using a higher  analytical threshold s when low -level data are present.   The application of an 
+analytical threshold should be based on  data from  internally derived validation studies by the testing laboratory.  
+ 
+ 
+Page 11 of 25 
+ 52) Among the various methods for determining an analytical threshold, the average  noise signal  +3 
+Standard Deviations (known as Limit of Detection, LOD) and  average noise signal +10 Standard 
+Deviations ( also known as the Limit of Quantitation, LOQ)  are routinely discussed in the relevant 
+scientific literature .  LOQ is routinely employed by testing laboratories  and reflects a confidence 
+level greater than 99 .99%.   
+53) Application of an analytical threshold above the  mathematically derived  values  obtained through 
+internal laboratory validation  may reflect internal policies for how to apply an analytical 
+threshold . 
+54) A concern associated with lower analytical thresholds is the presence of artifacts which might be 
+mistaken for alleles. Artifacts are signal “peaks” that are clearly discernable from instrument 
+noise , but which are not true DNA alleles. Some artifacts can be readily distinguished from true 
+alleles based on their shape and/or location within the analytical window. True allelic DNA peaks 
+have a distinctive narrow symmetrical shape and position  within the electropherogram  (i.e., 
+within bins). Many artifacts are readily identified because they lack these requisite characteristics 
+which trained forensic scientists rely upon when interpreting DNA profiles regardless of the 
+analytical threshold being used. For  example, electronic “spikes” are artifacts that are much 
+narrower than true allelic peaks . Furthermore, they often occur in the exact same position in more 
+than one color channel. Dye blobs are another type of artifact, but generally only appear in a 
+single color channel. Dye blobs are readily distinguished artifacts because they are wider than 
+true DNA peaks , and they are reproducible even in samples without any DNA.  
+55) A second class of artifacts are those that do mimic the shape and position of true allelic DNA. 
+These artifacts, however, are also distinguishable from true DNA alleles. For example, “stutter” 
+is an artifact that has the same peak shape and position as tru e allelic DNA. However, s tutter is 
+readily identifi able because it is a byproduct of the DNA analysis process and only occurs 
+adjacent to a much higher authentic allelic peak (Figure 3). The  stutter rates for each DNA 
+technology are published prior to sue,  and the instrument software  includes specific filters to 
+ensure that stutter artifacts are not labelled as authentic alleles.  Yet another artifact is “spectral 
+pull-up” which is an optical byproduct  of multi -color STR analysis . It is ready distinguished by 
+the presence of a much higher corresponding peak in a different color channel. Here too, the DNA 
+analysis software readily flags such peaks as non -allelic artifacts  for editing . 
+ 
+ 
+ 
+ 
+THIS SPACE INTENTIONALLY LEFT BLANK  
+ 
+  
+ 
+Page 12 of 25 
+ 56) Figure 3 – Common artifacts such as n -4 and n+ 4 stutter  
+ 
+ 
+57) Figure 3: Example of a stutter peak at locus D22S1045. The stutter peak has the shape and position consistent with 
+an allelic peak, but is recognized as a non -allelic artifact because of its location adjacent to a much larger authentic 
+18-allele peak (tall peak in the middle). Here, the GeneMapper software recognizes this small peak as an expected 
+artifact and does not designate it as an allele.  
+ 
+Opinion in Regard to  DNA  Analys is Conducted by ISP Lab and Cybergenetics  
+ 
+58) The following describes my review of the DNA testing in the matter of Idaho v . Bryan C. 
+Kohberger.   As part of my analysis , I have been provided materials  from the Latah District 
+Attorneys Office (William W. Thompson, Jr.)  relevant to this  matter  for my review.      
+ 
+As part of the forensic investigation,  I have been asked to address the following three questions:  
+ 
+1. What is the definition of  inclusion , exclusion , and inconclusive  as it applies  to forensic 
+DNA analysis - and why do laboratories set different ranges/criteria for their 
+protocols/purposes?  
+2. What are the substantive difference s between the  analysis conducted by the  ISP Lab 
+employing the STRmix ™ software and the subsequent analysis of the ISP test results 
+conducted by Cybergenetics  employing the TrueAllele® software  for Item 13.1?  
+3. What is my independent opinion regarding the ISP Lab DNA results for Item 13.1 as it 
+pertains to  the complexity of the DNA mixture obtained  and conclusion reached ? 
+ 
+ 
+Page 13 of 25 
+ 59) Question #1 : The interpretation of a DNA profile typically involves comparisons between an 
+item of evidence ( questioned/evidentiary ) and a person of interest (reference/known) . The 
+purpose of comparing questioned and known profiles is to determine whether a DNA profile of 
+interest may either be “included ” as a potential contributor  (also known as fail to exclude), or 
+“excluded” as potential contributor . In some cases, it may be the opinion of the analyst that the 
+comparison is inconclusive.   To better understand these terms, we reference the S WGDAM 
+Interpretation Guidelines for Autosomal STR Typing by Forensic DNA Testing Laboratories 
+(2017  – revised in 2021 ). 
+• Inclusion : a conclusion for which an individual cannot be excluded as a potential 
+contributor of DNA obtained from an evidentiary item based on the comparison of known 
+and questioned DNA profiles (or multiple questioned DNA profiles to each other).  
+• Exclusion:  a conclusion that eliminates an individual as a potential contributor of DNA 
+obtained from an evidentiary item based on the comparison of known and questioned DNA 
+profiles (or multiple questioned DNA profiles to each other).  
+• Inconclusive : a determination that no conclusion (i.e., inclusion/exclusion) can be drawn 
+from the comparison of a reference sample to suitable data. This could also result from 
+statistical analyses that fail to provide sufficient support for an inclusion or exclusion . 
+ 
+60) Furthermore, the National Institute of Justice (NIJ) provides further guidance on the mean of 
+“exclusion” or “non -match” in their Principles of Forensic DNA for Officer of the Court  (June 
+20, 2023) .  This guidelines states:  
+• Exclusion or Non -match:  When comparing a known sample to an evidence sample, the 
+donor of the known is excluded as a source of the evidence if the profiles are different. 
+This can either be referred to as an exclusion or a non -match .  
+ 
+When an individual is excluded as the source of DNA, it does not necessarily mean the 
+individual was not involved. For example, a true perpetrator who left no detectable 
+biological material will be excluded as a source of DNA.  
+ 
+61) Here, the NIJ publication provides  an important  consideration  to the term “excluded”. First, the 
+term exclusion means the DNA profile for a questioned sample  (evidence)  is not consistent with 
+the known DNA profile from a person of interest (reference sample).  Second , this mean s that 
+either the known DNA profile is not present in the sample, OR, that there is insufficient data on 
+which to support inculpatory conclusion.    Based on the testing  conducted , it may be not be 
+possible to distinguish between these two alternatives. This is especially true in the case of mixed 
+DNA profiles.  
+ 
+62) When addressing the potential for “inconclusive” results, the SWGDAM Interpretation 
+Guidelines for Autosomal STR Typing by Forensic DNA Testing Laboratories (2017) section 
+XVII. (3.1.3) states:  
+  
+ 
+Page 14 of 25 
+ • The laboratory shall establish guidelines for inclusionary, exclusionary, and inconclusive 
+determinations based on comparisons of DNA typing results from known samples to both 
+single -source and mixed evidentiary samples.  
+ 
+63) Referencing the ISP Biology/DNA Casework Analytical Methods ((12/09/2022)  section 4.8 – 
+Conclusions , the laboratory clearly defines  the range in which the term “inconclusive” is 
+appropriate .  These values were derived  based on empirical data developed by the testing  
+laboratory through internal validation of the STRmix ™ prior to its use in forensic  casework.  It 
+reads  as follows : 
+• STRmix validation data shows that occasionally a known non -contributor can result in an 
+LR > 1 and a true contributor an LR < 1. The range of LRs for which this may occur was 
+observed to be between 0.001 and 1,000 for PP16 or PP16HS data and between 0.01 a nd 
+100 for Fusion data during internal validation. For this reason STRmix comparisons in 
+which the LR is between 0.001 and 1,000 for PP16 or PP16HS data and between 0.01 
+and 100 for Fusion data will be reported as inconclusive . LRs > 1,000 for PP16 or 
+PP16 HS data and > 100 for Fusion data will be reported as an inclusion. LRs < 0.001 
+for PP16 or PP16HS data and < 0.01 for Fusion data will be reported as an exclusion.  
+ 
+64) Therefore, the numerical range  of the term “inconclusive” was clearly defined in the ISP protocols  
+based on internally derived validation data , and was correctly used by the ISP Lab  in this case .  
+The decision to use an inconclusive range for reporting LRs varies between laboratories.  Some 
+scientists may reasonably disagree  with the application of an inconclusive range  when reporting 
+LRs, while others readily accept it .  Each laboratory sets their procedures, which they must follow.   
+While somewhat conflic ting, SWGDAM also published the Recommendations of the SWGDAM 
+Ad Hoc Working Group on Genotyping Results Reported as Likelihood Ratios in 2018 . 
+Recommendation 3.1 states the following:  
+ 
+• A likelihood ratio appropriately conveys the weight of the evidence and should not be 
+reported as inconclusive based on its magnitude.  
+• … As with RMPs or CPIs, likelihood ratios should not be deemed inconclusive to mitigate 
+a potential risk of adventitious support.  
+• Similarly, any analysis that provides Limited Support for Hd, no matter how close to 1, 
+should be reported as support for Hd rather than as inconclusive . 
+   
+65) In toto , it is ultimately up to  the ISP Lab oratory management to decide on the appropriate policies 
+and procedures (as defined in their quality management system) to determine how each 
+technology will be employed by the laboratory .  The decision to employ a buffer “zone” above 
+and below of LR of 1 is not uncommon.   
+ 
+66) Question #2:  Before we can address the differences between the ISP Lab STRmix ™ analysis and 
+that of Cybergen etics employing the TrueAllele® software, it is important to note that the relevant 
+scientific community  (professional societies, leadership organizations, technical working groups, 
+etc.) provide  clear  written  guidance on the need for validati ng any commercial Probabilistic  
+Genotyping software  utilizing laboratory derived data  prior to its use in forensic casework.   
+  
+ 
+Page 15 of 25 
+ 67) Specifically, this applies to the use of fully continuous Probabilistic Genotyping models, where 
+laboratory derived values ( signal to noise considerations, common stutter  phenomena , allele peak 
+height balance,  artifact formation,  etc.) should be evaluated  prior to its use in casework.  While 
+ISP Lab fulfilled this requirement when they validated the STRmix ™ program using their own 
+data, similar studies were not conducted by Cybergenetics when employing TrueAllele® software 
+with ISP  derived validation  data.   Such studies are not consistent with best practice 
+recommendations, but they also provide greater confidence in the application of these programs.    
+ 
+68) I have provided a brief summary of some  of the relevant sta ndards and guidelines  that are 
+regularly discussed in the forensic science community.  
+ 
+Recommendations of Scientific Working Group on DNA Analysis Methods  (SWGDAM)  
+ 
+69) The SWGDAM Guidelines for the Validation of Probabilistic Genotyping systems (consistent 
+with reference [12] in Cybergenetics report) states the following:  
+ 
+70) 4. Internal Validation  
+Internal validation of probabilistic genotyping software system is the accumulation of test data 
+within the laboratory  to demonstrate that the established parameters, software settings, 
+formulae, algorithms and functions perform as expected.  In accordance with QAS, internal 
+validation data may be shared by all locations in a multi -laboratory system.  
+ 
+71) Depending on the features and capabilities of the probabilistic genotyping system, some DNA 
+typing results may or m ay not be determined to be suitable for such analysis.  To identify data 
+features (e.g., minimum quality requirements, number of contributors) that render a profile 
+appropriate or inappropriate for probabilistic genotyping, the laboratory should test data across 
+a range of characteristics that are representative of those typically encountered by the testing 
+laboratory.   Data should be selected to test the system’s capabilities and to identify limitations.  
+In particular, complex mixtures and low -level contributors should be evaluated thoroughly 
+during internal validation , as the data form such samples generally help to define the software’s 
+limitations, as well as sample and/or data types which may potentially not be suitable for 
+computer analysis.  In addition, some exclusions may be evident without the aid of probabilis tic 
+software.”   
+ 
+72) The SWGDAM PGM Validation guidelines further go on to state that:  
+ 
+73) “4.1 The laboratory should test the system using representative data generated in -house with 
+the amplification kit, detection instrumentation and analysis software used for casework.   
+Additionally, some studies may be conducted by using artificially created or altered input files to 
+further assess the capabilities and limitations of the software.”  
+  
+ 
+Page 16 of 25 
+ 74) “4.1.3 Variable DNA typing conditions (e.g., any variations in the amplification and/or 
+electrophoresis parameters used by the laboratory  to increase or decrease the detection of alleles 
+and/or artifacts)”  
+ 
+75) It is generally accepted in the relevant scientific community that certain parameters can only be 
+achieved by looking at specific data sets that originate from the testing  laboratory employing their 
+procedures, equipment,  instrumentation,  staff, and other environmental working conditions.  A 
+subset of these types of requirements are listed below.  
+ 
+• “4.1.7.1 – Allele and locus drop -out” 
+• “4.1.7.2 DNA degradation”  
+• “4.1.7.3 Inhibition”  
+• “4.1.8 Allele drop -in” 
+ 
+76) In summary, the SWGDAM PGM Validation Guidelines provides rigorous guidance for forensics 
+science laboratories  who wish to employ probabilistic genotyping systems in forensic casework .  
+The guidelines are written by forensic scientists who conduct these studies and understand the 
+importance of internal validation  prior to its use in the field .  It is well understood, and industry 
+norm, that each lab must conduct internal validation studies employing data from their own 
+laboratory that captures subtle nuance s from their processes  prior to their use in forensic 
+casework.  Based on the materials provid ed through discovery , I was not able to find any 
+indication that Idaho State Police Forensic Laboratory  internal validation studies had been  
+requested or  employed by Cybergenetics to verify/validate the functionality of TrueAllele® with 
+ISP Lab data.  Such a study, even if in brief, would allow the user  (and anyone else 
+reviewing/auditing the work performed)  to assess  the influence of any  lab specific parameters  
+prior to its use in forensic casework .  In contrast, these studies were successfully completed by 
+the ISP Lab prior to the implementation of the STRmix ™ software, consistent with industry 
+norms.  
+ 
+Recommendations of the International Society of Forensic Genetics  (ISFG)  
+ 
+77) The International Society of Forensic Genetics has also published recommendations on this topic . 
+Specifically, The DNA commission of the International Society of Forensic Genetics:  
+Recommendations on the evaluation of STR typing results that may include drop -out and/or drop -
+in using probabilistic methods8 states:  
+ 
+78) “Estimates of drop -out and drop in probabilities should be based on the validations studies that 
+are representative of the method used.”  
+ 
+8 Recommendations on the evaluation of STR typing results that may include drop -out and/or drop -in using probabilistic 
+methods.  P Gill, L Gusmão, H Haned, WR Mayr, N Morling… - Forensic Sci Int Genet, 2012   
+ 
+Page 17 of 25 
+ 79) The DNA commission goes on to clarify that:  
+ 
+80) “The introduction of software solution to interpret DNA profiles must be accompanied by a 
+validation process ensuring conformity with existing laboratory procedures.  Validation studies 
+should be carried out to characterize drop -out and drop -in probabilities bearing in mind that 
+these will differ between processes …” 
+ 
+81) “Internal laboratory policies are necessary in order to address the quality of the data that will 
+be required to attempt a comparative interpretation.”  
+ 
+82) In summary, each forensic laboratory has its own infrastructure to support their forensic 
+service testing capabilities.  These include people, laboratory space, instruments, protocols, 
+reagents, and other -in-house preparations that may differ from one lab to another.  It is 
+common, and generally accepted, that data from one lab will show differences in sensitivity 
+and reproducibility  compared to another .  The differences between one process and another 
+are captured via validation, thereby ensuring that the  laboratory is working with protocols that 
+are representative of the samples tested in forensic casework.  
+ 
+Standards of the Organization for Scientific Area Committees  (OSAC)  
+ 
+83) The OSAC biology subcommittee published the Standard for Validation of Probabilistic 
+Genotyping Systems in 20209.  The OSAC lexicon defines the term internal validation under  
+section  3.4 as the:  
+ 
+84) The acquisition of test data within the laboratory to verify the functionality of the system, the 
+accuracy of the statistical parameters, the appropriateness of analytical and statistical 
+parameters, and the determination of limitations of the system.  
+ 
+85) Furthermore, Section 4 – Requirements, spells of the specific standards that are needed for 
+compliance.  Several critical excerpts regarding developmental and internal validations 
+demonstrate the need for lab specific validations studies prior to use in fo rensic casework : 
+ 
+86) “4.1 The laboratory shall validate a probabilistic genotyping system prior to its use for casework 
+samples in the laboratory. ”  
+ 
+87) “4.1.1 Validations shall include both developmental and internal studies. Developmental 
+validation may be conducted by the manufacturer/developer of the application or another 
+laboratory/agency. Developmental validation shall not replace internal validation .”  
+ 
+ 
+9 Standard for Validation of Probabilistic Genotyping Systems, ASB Approved December 2019, ANSI Approved July 
+2020   
+ 
+Page 18 of 25 
+ 88) “4.1.2 Developmental validation studies shall address the following: accuracy, sensitivity, 
+specificity, and precision. These studies shall include case -type profiles of known composition 
+that represent (in terms of number of contributors, mixture ratios, and total DNA template 
+quantities) the range of scenarios that would likely be encountered in casework. Studies shall not 
+be limited to pristine DNA samples but shall also include compromised DNA samples (e.g., low 
+template, d egraded, and inhibited samples). ”  
+ 
+89) “4.1.3 Internal validation studies shall address the following: accuracy, sensitivity, specificity, 
+and precision . These studies shall include internally generated case -type profiles of known 
+composition that represent (in terms of number of contributors, mixture ratios, and total DNA 
+template quantities) the range of actual casework samples intended for analysis wit h the system 
+at the laboratory. Studies shall not be limited to pristine DNA samples but shall also include 
+compromised DNA samples (e.g., low template, degraded, and inhibited samples).  The internal 
+validation shall not exceed the scope of the conditions tested in the developmental validation. 
+Case type profiles that fall outside the range of conditions explored in developmental validation 
+shall require additional developmental validatio n studies. See Annex A. ”  
+ 
+90) “4.1.4 Internal validation studies shall include evaluating user input parameters that vary run 
+to run. The effects of artifacts (e.g., stutter) and parameters that relate to the statistical 
+algorithm (e.g., run time parameters for the software system that can va ry from system to 
+system) shall also be evaluated.  The parameters may vary depending upon the approach or 
+intended use of the software. Therefore, the specific parameters to be tested shall be determined 
+by the laboratory. ” 
+ 
+91) In summary, the data  generated  from each laboratory will vary slightly  depending on a variety of 
+factors which are reflective of the unique  processes that  laboratory  may employ .  In fact, a review 
+of multiple validations studies from different laboratories conducted by the same  manufacturer  
+revealed  slight differences  in signal to noise  data.  Such differences can ultimately culminate in 
+slightly different Analytical Thresholds depending on the models employed. Forensic 
+practitioners readily recognize these  differences, and therefore  thoroughly validate each 
+technology prior to use in casework.  Likewise, t he use of multiple amplification systems  in a lab  
+(aka, DNA technologies, chemistries, or STR kits) would raise questions pertaining sample to 
+sample comparisons when different technologies were used.  For example, a trained analyst can 
+readily see the differences in kit sensitivity  and the frequency of artifact formation  between the 
+PP16 HS and  the P owerPlex  Fusion technologies.   Therefore, one would not anticipate seeing the 
+same peak heigh values or stutter rates between these two kits.  The differences between one 
+process and another is captured via validation  and generally does not allow for a “once size fits 
+all approach” when considering  the measurable differences between one technology and another.  
+  
+ 
+Page 19 of 25 
+ 92) Referencing the I daho State Police Forensic Laboratory  Biology/DNA Casework Analytical 
+Methods manual issued on 12/09/2022, the STR Interpretation Guidelines and Statistical 
+Analyses  (BI-212), section 1.1 state s the following : 
+ 
+• … Software programs are available to the forensic scientist as tools to aide in their 
+interpretation. STRmix ™ is a software program that applies a fully continuous approach 
+to DNA profile interpretation. It standardizes the analysis of profiles in the laboratory 
+by using estimates of variance of results derived from validation data . DNA analysis is 
+a comparative test and STRmix ™ provides statistical weight to comparisons by 
+calculating Likelihood Ratios.  
+ 
+93) Therefore, the application of different  probabilistic genotyping system s which consider different 
+user defined criteria including the applications of  different analytical thresholds to the same data 
+set(s), I would reasonably anticipate differen t results may be obtained between t hese two systems , 
+especially when analyzing complex DNA profiles (e.g. partial profiles, degraded DNA, 
+inhibition, and/or complex mixtures of varying proportions) as observed in the DNA profile from 
+Item 13.1 . 
+ 
+94) As previously stated, the application of a lower  analytical threshold to the same data set may 
+result in  the detection of additional  low level peaks (alleles) , particularly when minor contributors 
+and degradation are anticipated.  The detection of more (or less  in the case of higher thresholds ) 
+data can influence different opinion(s) regarding the interpretation of a DNA profile .  The more 
+peaks that are detected, the more substantive those differences may be.  
+ 
+95) For ex ample, for Item 13.1, the application of a single global analytical threshold of 75 rfu for all 
+color -channels  by the ISP Lab resulted in the detection of 61 alleles across 22 comparable loci 
+(excluding X, Y chromosome markers). At one locus, D18S51, six unique alleles were detected 
+(based on maximum allele count alone, this would be consistent with a mixture of at least 3 
+contributors). I agree with this conclusion when employing a global 75 rfu AT . 
+ 
+96)  A similar analysis by Cybergenetics employing TrueAllele® and a global analytical threshold of 
+1 rfu (with a peak height cutoff of 15  rfu) resulted in the detection of approximately 140  potential 
+alleles across 22 comparable loci (excluding X, Y chromosome markers. Three loci (D1S1656, 
+D18S51, and D21S11) were consistent with a mixture of at least 3 individuals, and one locus 
+(D18S51 ) was consistent with a mixture of at least 4 individuals. With consideration to victim (s) 
+reference genotypes at D18S51, this is consistent with a mixture of at least 4 contributors) .  With 
+the application of a lower AT, I agree  with this conclusion based on the inferred genotypes 
+reported .  The mixture is consistent with a mixture of 4 contributors.    
+ 
+97)  Comparing the results obtained from the interpretation of the DNA profile developed by the ISP 
+Lab for Item 13.1 to the analysis conducted by Cybergenetics, the difference(s) in interpretation 
+may be attributed to the following factors:  
+ 
+• The analy tical threshold (ISP Peak Amplitude Threshold v s. Cybergenetics Peak Height 
+Cutoff) of 75 rfu v. 15 rfu  for the interpretation of allelic data.   
+ 
+Page 20 of 25 
+ • Potential differences in the application of forward and reverse stutter parameters (e.g. 
+those obtained by ISP Lab through internal validation, vs. those published for the  Promega 
+PowerPlex® Fusion System10, vs. a probability based model).    
+• The method employed for estimating number of contributors (maximum allele count at 
+D18S51) vs. potential mixture deconvolution  employing expected contributors  (e.g. 
+victim (s) relative contribut ions to the major and mid -level alleles at  D18S51).   
+• Potential differences in the estimated proportion of victim(s) DNA as a major and/or 
+secondary contributor(s), particularly at locus D18S51 , the remaining alleles in the 
+mixture.  
+ 
+98)  These factors (and potentially others), either individually or collectively, may  account for 
+different opinions  regarding 1) the potential number of contributors  to the mixture observed from 
+Item 13.1, and 2), reporting  the mathematical weight of the evidence ( expressed as a likelihood 
+ratio) calculated by both the ISP Lab and Cybergenetics, respectively .   Reporting the LR = 
+0.0469 by ISP as “inconclusive” falls within the ir validated inconclusive range (0.01 and 100 
+for Fusion data) and is in accordance with ISP Lab protocols . Ultimately, both results (when 
+considering the guidance from SWGDAM for reporting likelihood ratios) provide support for the 
+proposition that Bryan Kohberger is not a contributor to the mixed DNA profile obtained from 
+Item 13.1 (albeit, with different mat hematical weights).  
+ 
+99)  Question # 3: In order to conduct an independent analysis of the results obtained by the I SP Lab 
+for Item 13.1, color specific analytical thresholds were determined ( and validated) based on the 
+data provided by the ISP Lab and reported in Figure 4 below .  These thresholds are suitable for 
+the interpretation of the raw electronic data provided in this case.  
+ 
+ Figure 4. Analytical Threshold Validation Conducted  from Idaho State Lab PP Fusion Data  
+Dye Channel  Blue (6 -
+FAMTM) Green (VICTM) Yellow (NEDTM) Red (TAZTM) 
+Sample ID      
+LVRB3_112022JEM  19 21 34 25 
+LVRB1_112022JEM  20 23 35 25 
+LVRB3_112022JEM_REINJ  20 24 37 27 
+LVRB3_112022JEM_RESET_REINJ  16 19 31 21 
+NEG_CTRL  22 23 35 26 
+Average + 10SD (LOQ)  19 22 34 25 
+ 
+Figure 4: Summary of results for minimum threshold data from the ISP Lab data from Negative Control and Reagent 
+Blank Control  samples provided for review .  Minimum AT Threshold (RFU) values are reported as  average + 10 
+ 
+10 Developmental validation of the PowerPlex ® Fusion System for  analysis of casework and reference samples: A 24 -
+locus multiplex for  new database standards .  Forensic Science International: Genetics 12(2014) 69 -76   
+ 
+Page 21 of 25 
+ Standard Deviations (also known as Limit of Quantitation , LOQ ).   The Average LOQ  reported in the table were 
+used for the analysis of the data in this case. Note, data sets from individual runs  demonstrate slight variations in 
+LOQ observed  (plus or minus 5 RFU), as expected .    
+100)  My findings here are based upon my  analysis and  interpretation  of the ISP Lab oratory  DNA  test 
+results employing the Promega PowerPlex® Fusion System  employing the  OSIRIS  analysis  
+software  for: Item 13.1  (sample from body of Madison Mogen); Item 11 (reference sample from 
+Madison Mogen); Item 14 (reference sample from Kaylee Goncalves); and Item 108 (reference 
+sample from Bryan Kohberger) are described below.  Additional items were tested  by the ISP Lab 
+but not reviewed or  discussed herein.  
+ 
+101)  The ISP Labs’ DNA quantitation results  for the DNA extract  generated  from  Item 13.1  were 
+reviewed  and analyzed to assess the total yield of human and male DNA .  DNA quantitation data 
+provide a useful guide when assessing DNA mixtures that may contain disproportionate  quantities 
+of female and male DNA. T he following results  were observed : 
+ 
+• Autosomal quantity (ng/µl) = 0.506  
+• Y-Chromosome quantity (ng/µl) = 0.007  
+• Sample  13.1 contains approximately 1.3% male DNA  
+• NOTE: One diploid cell contains approximately 0.006pg of nuclear DNA  
+ 
+102)  Based on the DNA quantitation results observed, the ISP Lab subsequently performed a dilution 
+of the DNA extract generated from Item 13.1 (5µl of DNA extract (0.506ng/µl) plus 20.3µl TE 
+Buffer – final concentration 0.1ng/µl.  Amp volume 15µl, total quantit y of DNA amplified 1.5ng 
+human DNA of which 20pg male DNA) . 
+ 
+103)  Interpretation  of the I SP Lab DNA results for Item 13.1 employing the validated color specific 
+thresholds resulted in the detection of a  full DNA profile, consistent with a mixture of at least 4 
+contributors, at least one of whom is male.   The following comparisons were made:  
+   
+• Madison Mogen cannot be excluded as a potential  contributor11 
+• Kayle e Goncalves cannot be excluded as a potential  contributor12 
+• Bryan Kohberger was excluded a s a potential contributor to the mixed DNA profile  
+ 
+104)  Based on the initial qualitative assessment  of the DNA profiles obtained from Item 13.1 , the 
+known reference DNA profiles from Madison Mogen and Kaylee Goncalves  were used to 
+estimate  the relative mixture proportions  observed .  This analysis was conducted based  on the 
+relative peak values (rfu) across multiple loci in the mixed DNA profile.  The  following mixture 
+proportions were calculated : 
+ 
+11 Given the nature of the evidence, a match statistic was not calculated.  A statistic can be calculated, if requested.  
+12 Given the nature of the evidence, a match statistic was not calculated.  A statistic can be calculated, if requested.   
+ 
+Page 22 of 25 
+ • Madison Mogen ~ 83%  
+• Kaylee Goncalves ~ 12%  
+• Unknown  contributors  ~ 5%  
+a. Unknown m ale(s) DNA component at Amelogenin (X, Y):  ~ 1%  
+b. This result was consistent with the information gained from the DNA 
+quantitation assay for Y -chromosome DNA as summarized in paragraph 10 1 
+above.   Approximately 1% of the DNA in this sample is of male origin.  
+ 
+• NOTE: Based on the quantity of DNA amplified for Item 13.1 (1.5ng total human DNA, 
+of which approximately 20pg is male DNA), this quantity of DNA is  consistent with 3 -
+4 diploid male cells.   The number of minor male contributors cannot be determined 
+based on lack of results at DYS391.   I would therefore anticipate that the minor  male 
+DNA component to the mixture  is barely  above  the detection threshold  (with high levels 
+of allele drop -out, e.g. missing data ) for the PowerPlex ® Fusion system , resulting in a 
+partial DNA profile from any minor contributor(s).  Other factors, such as the presence  of 
+potentially degraded DNA, would further limit the detection of any minor alleles. (See 
+Figure 5, Amelogenin results, and male  specific locus DYS391, below).  Due to low 
+quantity and/or quality of male DNA component to Item 13.1, no results were observed 
+at locus DYS391.  
+ 
+Figure 4.  DNA Results at Sex Determination Locus Amelogenin, and Male Specific DYS391  
+ 
+Locus: Amelogenin X, Y result.  Note relative differences in X and Y chromosome detection.  
+ 
+ 
+Page 23 of 25 
+  
+Figure 5: Screen capture of the DNA results obtained from Item 13.1.  Top image, results obtained at the sex 
+determination locus Amelogenin (note relative proportions of female (X) to male (Y) DNA in the sample , consistent 
+with ~1% male ).  Bottom image, results at male specific locus DYS391.  No peaks were detected.  
+ 
+105)  Due to the complexity of the mixed DNA profile (relative number of contributors and uneven 
+mixture proportions , degraded DNA , etc), the results obtained for Item 13.1 at locus D18S51 were 
+particularly useful  for assessing the number of contributors in the mix , see Figure 5 below . 
+Figure 4. DNA Results at Locus D18S51   
+ 
+ 
+ 
+Page 24 of 25 
+ Figure 5: Screen capture of the DNA results obtained from Item 13.1.  DNA results (peaks) at positions “13” and 
+“17” fell below the published stutter threshold for n -4 (back stutter ) and  were therefore not called as alleles .  See 
+Promega PowerPlex® Fusion Developmental validation study  for stutter values .  Under the assumption of allele 
+sharing (based on relative peak heights) at positions “11”, “14”, and “18” between Madison Mogen and Kaylee 
+Goncalves, alleles “12”, “15”, and “16” provide support for proposition  that this is a mixture of at least 4 contributors.   
+Consideration for allele “15” at not being N+4 stutters was based on the lack of forward stutter for the “18” allele.   
+Based on the peak heights observed, these peaks heights are consistent  minor contributors.    
+106)  Based on the interpretation of the mixed DNA profile observed from Item 13.1, including the 
+results observed at locus D18S51 ( and others), Bryan Kohberger was e xcluded  as a potential  
+contributor  to the mixed DNA profile.  These results are consistent with the findings reported by 
+Cybergenetics group g when employing the TrueAllele® software.  As part of my analysis, I 
+employed the LRmix Studio software13 for calculating Likelihood Ratios .  
+107)  A match between Item 13.1(the body sample from Madison Mogen) and Bryan Kohberger is:  
+• 5 thousand times less probable than a coincidental match to an unrelated African American person,  
+• 68 thousand  times less probable than a coincidental match to an unrelated Caucasian person, and  
+• 101 thousand  times less probable than a coincidental match to an unrelated Hispanic person  
+ 
+108)  In summary,  it is my professional opinion that:  
+ 
+109)  The discovery  materials provided  by the I daho State Police Forensic  Laboratory and the 
+Cybergenetics  group were appropriate for this type of review .   
+ 
+110)  The definitions provided for included, excluded, and inconclusive are based on generally 
+accepted sources in the field of forensic science.  
+ 
+111) The ISP Laboratory  internal validations studies  should have been incorporated into the analysis 
+performed by Cybergenetics .  Such studies may help bridge the gap in LRs between STRmix ™ 
+and TrueAlle® in this case.  In the absence of such studies, a direct comparison between these 
+two figures is not meaningful  and merely reflects  the difference between two systems employing 
+different analytical approaches.  
+ 
+112)  I agree with assessment from Cybergenetics regarding the number of contributors  to Item 13.1 .  
+The DNA mixture obtained from Item 13.1  is consistent with a mixture of at least 4 individuals, 
+at least one of whom is male.  Madison Mogen and Kaylee Goncalves cannot be excluded  as 
+potential contributors  to the mixture . 
+ 
+113)  Based on the quantitative testing conducted by the ISP Laboratory, approximately 1% of the total 
+DNA yield in Item 13.1 is male DNA.  These results are further supported by the STR results at 
+several loci.  The male DNA component analyzed on consistent wi th approximately 3 to 4 cells.  
+ 
+13 The LRmix Studio software  is a semi -continuous  system for calculating Likelihood Ratios. The only user limited set of 
+user defined parameters (probability of drop -in).  The revised NIST Allele Frequency Database was employed for 
+calculating LR (Cau, AA, His). The most conservative number was reported.   
+ 
+Page 25 of 25 
+ 
+114)  The ISP Laboratory  concluded that the analysis was inconclusive  with regards to Bryan 
+Kohberger , in accordance with their published SOPs .  A policy to apply an LR “threshold ” on 
+0.01 to 100 is balanced , and neither favors one side over the other (Hp vs Hd). 
+ 
+115)  Considering the SWGDAM scale of verbal qualifiers  for reporting Likelihood Ratios , the 
+reciprocal of the LR of 0.046  (1/0.046 = 25) calculated by ISP provide s limited  support for the 
+defense propositio n.  This reflects the probability of the DNA evidence being 25 times likely if 
+the DNA originated from an unknown, unrelated individual (Hd) than if it originated from Bryan 
+Kohberger (Hp) .   
+ 
+116)  Based on my independent analysis  of the data generated by the ISP Laboratory , Bryan Kohberger 
+was excluded as potential contributor to the mixed DNA sample obtained from the body swab 
+collected from Madison Mogen  (Item 13.1) .  Ann LR was calculated  for the DNA mixture relative 
+to Bryan Kohberger but  was not necessary  based on the qualitative assessment of the alleles 
+detected relative to Bryn Kohberger.   The LR calculated provides further support for Hd.   
+  
+117)  If any additional information becomes available, I reserve my right to amend this report.  
+ 
+I declare under penalty of perjury pursuant to the law of the State of Idaho that the foregoing is 
+true and correct.  
+ 
+ 
+ 
+ 
+ 
+ 
+________________________ _        _04/05/2025            ____ 
+Christian G. Westring, Ph .D.                  Date    
+    Forensic Biologist  
+ 
+ 
+ 
+END OF REPORT  
+ 
+ 
+ 
+ 
+ 
+ 
