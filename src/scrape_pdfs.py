@@ -1,72 +1,108 @@
+#!/usr/bin/env python3
+"""
+Scrape official Kohberger case PDFs from the Idaho Cases of Interest site.
+Updated Aug 2026 for the current single-page + documentData JS structure.
+"""
 
 import os
+import re
 import time
 import random
-from urllib.parse import urljoin, urlparse
+import argparse
+from datetime import datetime
+from urllib.parse import urlparse
 
 import requests
-from bs4 import BeautifulSoup
 from tqdm import tqdm
 
-# Latah County Idaho4 (CR29-22-2805) + Ada County restitution (CR01-24-31665)
-LISTING_PAGES = [
-    "https://coi.isc.idaho.gov/docs/Cases/CR29-22-2805-22.html",
-    "https://coi.isc.idaho.gov/docs/Cases/CR29-22-2805-23.html",
-    "https://coi.isc.idaho.gov/docs/Cases/CR29-22-2805-24.html",
-    "https://coi.isc.idaho.gov/docs/Cases/CR01-24-31665-25.html",
-]
+# Current live case page (Ada + Latah combined)
+CASE_PAGE = "https://coi.isc.idaho.gov/docs/Cases/CR01-24-31665.html"
 
 OUT_DIR = os.path.join("data", "pdfs")
 FAILED_LOG = "failed_downloads.log"
 
-# Slow, polite session
 session = requests.Session()
 session.headers.update({
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
                   "AppleWebKit/537.36 (KHTML, like Gecko) "
-                  "Chrome/120.0 Safari/537.36",
+                  "Chrome/120.0.0.0 Safari/537.36",
     "Accept": "text/html,application/pdf;q=0.9,*/*;q=0.8",
     "Connection": "keep-alive",
 })
 
 
-def get_pdf_links_from_page(page_url: str):
-    """Extract all PDF links from a single COI case page."""
-    resp = session.get(page_url, timeout=30)
+def get_all_pdf_links(since_date: str = None, new_only: bool = False):
+    """
+    Pull every PDF link out of the documentData JS object on the live COI page.
+    Optional filters:
+      - since_date: 'YYYY-MM-DD'  → only docs on/after that date
+      - new_only: keep only items flagged isNew=true
+    """
+    print(f"Fetching {CASE_PAGE} ...")
+    resp = session.get(CASE_PAGE, timeout=45)
     resp.raise_for_status()
-    soup = BeautifulSoup(resp.text, "html.parser")
+    html = resp.text
 
-    links = []
-    for a in soup.find_all("a", href=True):
-        href = a["href"]
-        if ".pdf" in href.lower():
-            full_url = urljoin(page_url, href)
-            label = a.get_text(strip=True) or os.path.basename(
-                urlparse(full_url).path
-            )
-            links.append((label, full_url))
-    return links
+    match = re.search(r"const documentData\s*=\s*(\{.*?\});", html, re.DOTALL)
+    if not match:
+        raise RuntimeError("Could not find documentData object on page – site structure may have changed again.")
 
+    js_blob = match.group(1)
 
-def get_all_pdf_links():
-    """Extract and dedupe PDF links from all listing pages."""
-    all_links = []
+    # Extract every document object with a simple regex (robust enough for this data)
+    # Looks for blocks containing "date", "title", "link", "isNew"
+    pattern = re.compile(
+        r'\{\s*"date":\s*"([^"]+)"\s*,\s*"title":\s*"([^"]*)"\s*,\s*"link":\s*"([^"]+\.pdf)"\s*,\s*"isNew":\s*(true|false)',
+        re.IGNORECASE
+    )
 
-    for page in LISTING_PAGES:
-        print(f"Scanning {page} ...")
-        try:
-            all_links.extend(get_pdf_links_from_page(page))
-        except Exception as e:
-            print(f"[ERROR] Could not read {page}: {e}")
+    docs = []
+    for m in pattern.finditer(js_blob):
+        date_str, title, link, is_new = m.groups()
+        docs.append({
+            "date": date_str,
+            "title": title.strip(),
+            "link": link,
+            "isNew": is_new.lower() == "true",
+        })
 
+    print(f"Raw documents found in documentData: {len(docs)}")
+
+    # Dedupe by URL
     seen = set()
     unique = []
-    for label, url in all_links:
-        if url not in seen:
-            seen.add(url)
-            unique.append((label, url))
+    for d in docs:
+        if d["link"] not in seen:
+            seen.add(d["link"])
+            unique.append(d)
 
-    return unique
+    print(f"Unique PDF links: {len(unique)}")
+
+    # Apply filters
+    if new_only:
+        unique = [d for d in unique if d["isNew"]]
+        print(f"After --new-only filter: {len(unique)}")
+
+    if since_date:
+        try:
+            cutoff = datetime.strptime(since_date, "%Y-%m-%d").date()
+        except ValueError:
+            raise ValueError("--since must be YYYY-MM-DD")
+        filtered = []
+        for d in unique:
+            try:
+                # dates come as MM/DD/YYYY
+                doc_date = datetime.strptime(d["date"], "%m/%d/%Y").date()
+                if doc_date >= cutoff:
+                    filtered.append(d)
+            except ValueError:
+                # keep if we can't parse
+                filtered.append(d)
+        unique = filtered
+        print(f"After --since {since_date} filter: {len(unique)}")
+
+    # Return as (label, url) tuples for the downloader
+    return [(d["title"] or os.path.basename(urlparse(d["link"]).path), d["link"]) for d in unique]
 
 
 def log_failure(url: str, error: str):
@@ -75,18 +111,14 @@ def log_failure(url: str, error: str):
 
 
 def download_with_retry(url: str, out_path: str, max_retries: int = 3):
-    """Download a single PDF with retries + backoff, write to temp then rename."""
+    """Download a single PDF with retries + backoff."""
     tmp_path = out_path + ".part"
 
     for attempt in range(1, max_retries + 1):
         try:
-            resp = session.get(url, stream=True, timeout=60)
-            # If server-side error, trigger retry
+            resp = session.get(url, stream=True, timeout=90)
             if resp.status_code >= 500:
-                raise requests.HTTPError(
-                    f"{resp.status_code} Server Error for url: {url}"
-                )
-
+                raise requests.HTTPError(f"{resp.status_code} Server Error for url: {url}")
             resp.raise_for_status()
 
             with open(tmp_path, "wb") as f:
@@ -94,21 +126,18 @@ def download_with_retry(url: str, out_path: str, max_retries: int = 3):
                     if chunk:
                         f.write(chunk)
 
-            # Basic sanity: very tiny files are probably error pages
-            if os.path.getsize(tmp_path) < 2048:  # 2 KB
+            if os.path.getsize(tmp_path) < 2048:
                 raise ValueError("Downloaded file too small, likely error page")
 
             os.replace(tmp_path, out_path)
             return True
 
         except Exception as e:
-            # Clean temp file if it exists
             if os.path.exists(tmp_path):
                 os.remove(tmp_path)
-
             if attempt < max_retries:
                 wait = 3 * attempt + random.uniform(0.0, 2.0)
-                print(f"  [WARN] {url} failed (attempt {attempt}/{max_retries}): {e}")
+                print(f"  [WARN] attempt {attempt}/{max_retries}: {e}")
                 print(f"         Retrying after {wait:.1f}s ...")
                 time.sleep(wait)
             else:
@@ -117,30 +146,49 @@ def download_with_retry(url: str, out_path: str, max_retries: int = 3):
                 return False
 
 
-def download_pdfs():
+def download_pdfs(since_date: str = None, new_only: bool = False):
     os.makedirs(OUT_DIR, exist_ok=True)
 
-    links = get_all_pdf_links()
-    print(f"Found {len(links)} PDF links")
+    links = get_all_pdf_links(since_date=since_date, new_only=new_only)
+    print(f"\nReady to process {len(links)} PDFs")
+
+    downloaded = 0
+    skipped = 0
+    failed = 0
 
     for label, url in tqdm(links, desc="Downloading PDFs"):
         filename = os.path.basename(urlparse(url).path)
+        # Clean up any query junk or weird encoding
         if not filename.lower().endswith(".pdf"):
             filename += ".pdf"
+        # Make filename filesystem-safe
+        filename = re.sub(r'[<>:"/\\|?*]', "_", filename)
 
         out_path = os.path.join(OUT_DIR, filename)
 
         if os.path.exists(out_path):
-            continue  # already downloaded
+            skipped += 1
+            continue
 
         success = download_with_retry(url, out_path)
-
-        # Be extra polite to the COI server
-        # 1.5–3.5 seconds between *successful* downloads
         if success:
-            time.sleep(1.5 + random.random() * 2.0)
+            downloaded += 1
+            # Be polite
+            time.sleep(1.2 + random.random() * 1.8)
+        else:
+            failed += 1
+
+    print(f"\nDone. Downloaded: {downloaded}  |  Skipped (already had): {skipped}  |  Failed: {failed}")
+    if failed:
+        print(f"See {FAILED_LOG} for details.")
 
 
 if __name__ == "__main__":
-    download_pdfs()
+    parser = argparse.ArgumentParser(description="Scrape Kohberger case PDFs from Idaho COI")
+    parser.add_argument("--new-only", action="store_true",
+                        help="Only grab documents currently flagged isNew=true")
+    parser.add_argument("--since", metavar="YYYY-MM-DD",
+                        help="Only grab documents dated on or after this date")
+    args = parser.parse_args()
 
+    download_pdfs(since_date=args.since, new_only=args.new_only)
