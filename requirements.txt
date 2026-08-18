@@ -1,4 +1,5 @@
-requests
-beautifulsoup4
-tqdm
-PyPDF2
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+tqdm>=4.66.0
+pypdf>=4.0.0
+# PyPDF2 is kept as a soft fallback inside extract_text.py

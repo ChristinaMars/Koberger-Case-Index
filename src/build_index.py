@@ -1,42 +1,54 @@
-import os
+#!/usr/bin/env python3
+"""
+build_index.py
+==============
+Build a simple searchable JSON index of every extracted text file.
+"""
+
+from __future__ import annotations
+
 import json
+from pathlib import Path
 
-TEXT_DIR = os.path.join("data", "text")
-OUT_PATH = os.path.join("index", "index.json")
+TEXT_DIR = Path("data") / "text"
+OUT_PATH = Path("index") / "index.json"
 
-def load_text(path):
+
+def load_text(path: Path) -> str:
     try:
-        with open(path, "r", encoding="utf-8", errors="ignore") as f:
-            return f.read()
-    except:
+        return path.read_text(encoding="utf-8", errors="ignore")
+    except Exception:
         return ""
 
-def build_index():
+
+def build_index() -> None:
+    OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
+
+    if not TEXT_DIR.exists():
+        print(f"No text directory at {TEXT_DIR}. Run extract_text.py first.")
+        return
+
     entries = []
+    for txt_path in sorted(TEXT_DIR.glob("*.txt")):
+        text = load_text(txt_path)
+        preview = text[:450].replace("\n", " ").strip()
 
-    for filename in sorted(os.listdir(TEXT_DIR)):
-        if not filename.lower().endswith(".txt"):
-            continue
+        entries.append(
+            {
+                "filename": txt_path.name,
+                "title": txt_path.stem.replace("_", " ").replace("+", " "),
+                "preview": preview,
+                "chars": len(text),
+                "path": str(txt_path),
+            }
+        )
 
-        full_path = os.path.join(TEXT_DIR, filename)
-        text = load_text(full_path)
+    with OUT_PATH.open("w", encoding="utf-8") as f:
+        json.dump(entries, f, indent=2, ensure_ascii=False)
 
-        preview = text[:400].replace("\n", " ").strip()
+    print(f"Index built → {OUT_PATH}")
+    print(f"Documents indexed: {len(entries)}")
 
-        entry = {
-            "filename": filename,
-            "title": os.path.splitext(filename)[0].replace("_", " "),
-            "preview": preview,
-            "path": full_path
-        }
-        entries.append(entry)
-
-    with open(OUT_PATH, "w", encoding="utf-8") as f:
-        json.dump(entries, f, indent=2)
-
-    print(f"Index built! {len(entries)} documents indexed.")
-    print(f"Saved to {OUT_PATH}")
 
 if __name__ == "__main__":
     build_index()
-

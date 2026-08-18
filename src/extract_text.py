@@ -1,50 +1,96 @@
+#!/usr/bin/env python3
+"""
+extract_text.py
+===============
+Extract plain text from every PDF in data/pdfs/ into data/text/.
+
+Improvements over the original:
+- Skips files that already have a non-empty .txt counterpart
+- Better progress + error reporting
+- Continues on individual page failures instead of dying
+- Uses pypdf (or PyPDF2 fallback) more carefully
+"""
+
+from __future__ import annotations
+
 import os
-from PyPDF2 import PdfReader
+import sys
+from pathlib import Path
 
-PDF_DIR = os.path.join("data", "pdfs")
-TEXT_DIR = os.path.join("data", "text")
-
-
-def extract_text_from_pdf(pdf_path, txt_path):
+try:
+    from pypdf import PdfReader
+except ImportError:
     try:
-        reader = PdfReader(pdf_path)
-        text = ""
+        from PyPDF2 import PdfReader
+    except ImportError:
+        print("Need pypdf or PyPDF2.  pip install pypdf")
+        sys.exit(1)
 
-        for page in reader.pages:
+PDF_DIR = Path("data") / "pdfs"
+TEXT_DIR = Path("data") / "text"
+
+
+def extract_one(pdf_path: Path, txt_path: Path) -> bool:
+    try:
+        reader = PdfReader(str(pdf_path))
+        parts = []
+
+        for i, page in enumerate(reader.pages):
             try:
-                text += page.extract_text() or ""
+                text = page.extract_text() or ""
+                parts.append(text)
             except Exception as e:
-                text += f"\n[Error extracting page: {e}]\n"
+                parts.append(f"\n[Error extracting page {i}: {e}]\n")
 
-        # Write out clean text
-        with open(txt_path, "w", encoding="utf-8", errors="ignore") as f:
-            f.write(text)
+        full = "\n".join(parts).strip()
+
+        with txt_path.open("w", encoding="utf-8", errors="replace") as f:
+            f.write(full)
+
+        return True
 
     except Exception as e:
-        print(f"[ERROR] Cannot process {pdf_path}: {e}")
+        print(f"  [ERROR] {pdf_path.name}: {e}")
+        return False
 
 
-def main():
-    os.makedirs(TEXT_DIR, exist_ok=True)
+def main() -> None:
+    TEXT_DIR.mkdir(parents=True, exist_ok=True)
 
-    pdf_files = [
-        f for f in os.listdir(PDF_DIR)
-        if f.lower().endswith(".pdf")
-    ]
+    if not PDF_DIR.exists():
+        print(f"No PDF directory at {PDF_DIR}. Run scrape_pdfs.py first.")
+        return
 
-    print(f"Found {len(pdf_files)} PDFs to extract")
+    pdf_files = sorted(
+        f for f in PDF_DIR.iterdir() if f.suffix.lower() == ".pdf" and f.stat().st_size > 0
+    )
 
+    print(f"Found {len(pdf_files)} PDFs")
+
+    todo = []
+    skipped = 0
     for pdf in pdf_files:
-        pdf_path = os.path.join(PDF_DIR, pdf)
-        txt_path = os.path.join(TEXT_DIR, pdf.replace(".pdf", ".txt"))
+        txt = TEXT_DIR / (pdf.stem + ".txt")
+        if txt.exists() and txt.stat().st_size > 50:
+            skipped += 1
+        else:
+            todo.append((pdf, txt))
 
-        print(f"Extracting {pdf} ...")
-        extract_text_from_pdf(pdf_path, txt_path)
+    print(f"Already extracted : {skipped}")
+    print(f"Need to extract   : {len(todo)}")
 
-    print("\n✔️ Extraction complete!")
-    print("   Text saved to data/text/")
+    if not todo:
+        print("Nothing new to extract.")
+        return
+
+    ok = 0
+    for i, (pdf, txt) in enumerate(todo, 1):
+        print(f"[{i}/{len(todo)}] {pdf.name}")
+        if extract_one(pdf, txt):
+            ok += 1
+
+    print(f"\n✔️  Extracted {ok}/{len(todo)} new files → {TEXT_DIR}/")
 
 
 if __name__ == "__main__":
     main()
-
